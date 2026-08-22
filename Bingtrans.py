@@ -91,7 +91,7 @@ class BingTran:
 def update_readme(links):
     with open("README.md", "r+", encoding="UTF-8") as f:
         list1 = f.readlines()
-    list1 = list1[:13] + links
+    list1 = list1[:20] + links
     with open("README.md", "w+", encoding="UTF-8") as f:
         f.writelines(list1)
 
@@ -279,7 +279,7 @@ with open("test.ini", "w") as configfile:
 YML = "README.md"
 f = open(YML, "r+", encoding="UTF-8")
 list1 = f.readlines()
-list1 = list1[:13] + links
+list1 = list1[:20] + links
 f = open(YML, "w+", encoding="UTF-8")
 f.writelines(list1)
 f.close()
