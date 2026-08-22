@@ -3,9 +3,9 @@ name = "rss-translation"
 version = "0.1.0"
 description = "rss-translation is a Python package that provides functionality for translating RSS feeds into different languages. It allows users to easily access and read content from various sources in their preferred language."
 readme = "README.md"
-authors = [
-    { name = "Jiashun Wang", email = "wjs@linux.do" }
-]
+# authors = [
+#     { name = "Jiashun Wang", email = "wjs@linux.do" }
+# ]
 requires-python = ">=3.14"
 dependencies = []
 
