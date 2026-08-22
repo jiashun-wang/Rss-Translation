@@ -1,0 +1,71 @@
+name: circle_translate
+
+# Controls when the workflow will run
+on:
+
+  schedule:
+   - cron: '0 */3 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-22.04
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.WORK_TOKEN }}
+    
+      - name: Set up Python 
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          sudo apt-get install libxml2-dev libxslt-dev
+          python -m pip install --upgrade pip
+          pip install mtranslate
+          pip install lxml
+          pip install html5lib
+          pip install jinja2
+          pip install googletrans
+          pip install googletrans==4.0.0-rc1  bs4
+          pip install beautifulsoup4 pygtrans feedparser rfeed
+          pip install --upgrade feedparser
+          pip install requests
+      - name: ls_show
+        run: |
+          python Bingtrans.py
+          ls -al rss/
+             
+      - name: Push changes to remote repository
+        env:
+          U_NAME: ${{ secrets.U_NAME }}
+          U_EMAIL: ${{ secrets.U_EMAIL }}
+          GITHUB_TOKEN: ${{ secrets.WORK_TOKEN }}
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+          pwd
+          git config --local user.name "${U_NAME}"  # 修改name
+          git config --local user.email "${U_EMAIL}"  # 修改email
+
+          git status -s
+          git add rss/*
+          git add test.ini
+          git add .github/workflows/circle_translate.yml
+          git add README.md
+
+          export TZ='Asia/Shanghai' # 更改时区
+          git commit -m "Github RSS Translate Auto Builder at `date +'%Y-%m-%d %H:%M'`"  # 提交记录包含时间 跟上面更改时区配合
+
+          echo "======git push===="
+          git push --force origin main
+          else
+          echo "No changes, skip push."
+          fi

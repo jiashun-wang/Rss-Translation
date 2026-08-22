@@ -1,0 +1,15 @@
+bs4
+feedparser
+jinja2
+mtranslate
+requests
+lxml
+html5lib
+jinja2
+googletrans==4.0.0-rc1  
+beautifulsoup4==4.11.1
+pygtrans
+bs4
+requests
+configparser
+markdown

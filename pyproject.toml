@@ -1,0 +1,26 @@
+[project]
+name = "rss-translation"
+version = "0.1.0"
+description = "rss-translation is a Python package that provides functionality for translating RSS feeds into different languages. It allows users to easily access and read content from various sources in their preferred language."
+readme = "README.md"
+authors = [
+    { name = "Jiashun Wang", email = "wjs@linux.do" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+rss-translation = "rss_translation:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
+
+# [tool.uv]
+# # 指定包索引源
+# index-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+
+# # 或者用附加索引（多个源）
+# [[tool.uv.index]]
+# url = "https://mirrors.aliyun.com/pypi/simple/"
+# name = "aliyun"
