@@ -4,7 +4,8 @@ name: circle_translate
 on:
 
   schedule:
-   - cron: '0 */3 * * *'
+   - cron: '0 7 * * *'     # 每天 7:00
+   - cron: '0 14 * * *'    # 每天 14:00
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -18,12 +19,12 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.WORK_TOKEN }}
     
       - name: Set up Python 
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: 3.14
       - name: Install dependencies
