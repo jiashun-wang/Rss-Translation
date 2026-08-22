@@ -79,7 +79,7 @@ class BingTran:
         except AttributeError:
             rss_description = ""
         newfeed = {
-            "title": self.tr(feed.title),
+            "title": feed.title,   # ← 不翻译，保留频道的标题
             "link": feed.link,
             "description": rss_description,
             "lastBuildDate": getTime(feed),
