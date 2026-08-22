@@ -1,6 +1,9 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy
 
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "false"
+
 on:
 
   # Allows you to run this workflow manually from the Actions tab
