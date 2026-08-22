@@ -12,3 +12,4 @@
 
 ## 已转换翻译源
  - ourworldindata [https://ourworldindata.org/atom.xml](https://ourworldindata.org/atom.xml) -> [Our_World_in_Data](rss/Our_World_in_Data.xml)
+ - OceanScience-Copernicus [https://os.copernicus.org/xml/rss2_0.xml](https://os.copernicus.org/xml/rss2_0.xml) -> [OceanScience_Copernicus](rss/OceanScience_Copernicus.xml)
