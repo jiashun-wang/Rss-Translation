@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Our World in Data</title>
+    <link>https://ourworldindata.org</link>
+    <description>研究和数据在解决世界上最大的问题上取得进展</description>
+    <lastBuildDate>Sat, 22 Aug 2026 19:09:57 GMT</lastBuildDate>
+    <item>
+      <title>哪些国家已经过了人口峰值，其余国家什么时候会过？</title>
+      <link>https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so</link>
+      <description><![CDATA[生育率下降创造了人类历史上独特的情景：许多国家正在经历结构性人口下降。]]></description>
+      <guid>https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>1.38 亿儿童处于童工状态。这实际上意味着什么？</title>
+      <link>https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean</link>
+      <description><![CDATA[根据联合国去年发布的一份报告，有1.38亿儿童处于童工状态。在本文中，我们将了解这一估计准确反映的内容。]]></description>
+      <guid>https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的图表中一次能源的测量方式发生了变化</title>
+      <link>https://ourworldindata.org/primary-energy-measurement-change</link>
+      <description><![CDATA[能源研究所不再使用替代法来估算一次能源。这就是为什么这对我们的能源图表很重要。]]></description>
+      <guid>https://ourworldindata.org/primary-energy-measurement-change</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>是什么导致了 21 世纪的森林砍伐？</title>
+      <link>https://ourworldindata.org/what-has-driven-deforestation-in-the-21st-century</link>
+      <description><![CDATA[农业一直是森林砍伐的主要驱动力，但这仅集中在少数商品上：主要是牛肉、棕榈油、大豆和林业产品。]]></description>
+      <guid>https://ourworldindata.org/what-has-driven-deforestation-in-the-21st-century</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们发布了关于经济不平等的新主题页面</title>
+      <link>https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality</link>
+      <description><![CDATA[了解如何衡量不平等、谁创建了关键数据库以及数据告诉我们什么。]]></description>
+      <guid>https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据中心和人工智能使用多少能源？</title>
+      <link>https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use</link>
+      <description><![CDATA[数据中心消耗的电力约占全球电力的 1.5%，但需求在地理位置上非常集中。]]></description>
+      <guid>https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们有一个新的城市化主题页面</title>
+      <link>https://ourworldindata.org/we-have-a-new-urbanization-topic-page</link>
+      <description><![CDATA[探索不同居住类型的人口分布情况、哪些城市增长最快、城市地区的生活条件如何等等。]]></description>
+      <guid>https://ourworldindata.org/we-have-a-new-urbanization-topic-page</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界各地的食品如何进行交易？</title>
+      <link>https://ourworldindata.org/how-does-food-get-traded-around-the-world</link>
+      <description><![CDATA[我们的交互式工具可帮助您了解食品的出口地和去向。]]></description>
+      <guid>https://ourworldindata.org/how-does-food-get-traded-around-the-world</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界各地的人们为自己的碳排放付出了多少代价？</title>
+      <link>https://ourworldindata.org/how-much-are-people-across-the-world-paying-for-their-carbon-emissions</link>
+      <description><![CDATA[世界上大约 30% 的排放量都有一定的碳价格，但人们要额外支付多少费用？]]></description>
+      <guid>https://ourworldindata.org/how-much-are-people-across-the-world-paying-for-their-carbon-emissions</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>移民住在哪里、出生在哪里？</title>
+      <link>https://ourworldindata.org/where-do-migrants-live-and-where-were-they-born</link>
+      <description><![CDATA[一个交互式工具，可以帮助我们了解移民的出生地点以及他们现在居住的地点。]]></description>
+      <guid>https://ourworldindata.org/where-do-migrants-live-and-where-were-they-born</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

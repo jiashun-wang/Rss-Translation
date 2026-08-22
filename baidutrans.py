@@ -12,8 +12,8 @@ from jinja2 import Template
 import requests
 import json
 
-baidu_api_key = 'YOUR_BAIDU_API_KEY'
-baidu_app_id = 'YOUR_BAIDU_APP_ID'
+baidu_api_key = os.environ.get("BAIDU_API_KEY", "")
+baidu_app_id = os.environ.get("BAIDU_APP_ID", "")
 
 def get_md5_value(src):
     _m = hashlib.md5()
@@ -79,10 +79,10 @@ class BaiduTran:
         item_list = sorted_list[:max_item]
         feed = self.d.feed
         try:
-            rss_description = self.tr(feed.subtitle)
+            rss_description = feed.subtitle # 不翻译频道描述
         except AttributeError:
             rss_description = ''
-        newfeed = {"title": self.tr(feed.title), "link": feed.link, "description": rss_description, "lastBuildDate": getTime(feed), "items": item_list}
+        newfeed = {"title": feed.title, "link": feed.link, "description": rss_description, "lastBuildDate": getTime(feed), "items": item_list}
         return newfeed
 
 with open('test.ini', mode='r') as f:

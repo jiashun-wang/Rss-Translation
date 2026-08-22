@@ -78,11 +78,11 @@ class GoogleTran:
         item_list = sorted_list[:max_item]
         feed = self.d.feed
         try:
-            rss_description = self.tr(feed.subtitle)
+            rss_description = feed.subtitle   # 不翻译
         except AttributeError:
             rss_description = ""
         newfeed = {
-            "title": self.tr(feed.title),
+            "title": feed.title,   # ← 不翻译，保留频道的标题
             "link": feed.link,
             "description": rss_description,
             "lastBuildDate": getTime(feed),

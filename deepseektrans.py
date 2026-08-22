@@ -6,18 +6,30 @@ import datetime
 import time
 import feedparser
 from urllib import parse
+from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 from jinja2 import Template
 import requests
-import openai
+from openai import OpenAI
 
-# 设置OpenAI API密钥
-openai.api_key = "YOUR_API_KEY"
+# ================= 模型/API 配置区（统一在这里管理）=================
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")   # API 密钥（从环境变量读取）
+API_BASE_URL = "https://api.deepseek.com"                   # 接口地址
+MODEL_NAME = "deepseek-v4-flash"                                # 模型名称，改模型只改这一处
+# ================================================================
+
+# 初始化客户端（OpenAI 兼容接口）
+client = OpenAI(
+    api_key=DEEPSEEK_API_KEY,
+    base_url=API_BASE_URL
+)
+
 
 def get_md5_value(src):
     m = hashlib.md5()
     m.update(src.encode(encoding='utf-8'))
     return m.hexdigest()
+
 
 def get_time(e):
     try:
@@ -25,6 +37,7 @@ def get_time(e):
     except:
         struct_time = time.localtime()
     return datetime.datetime(*struct_time[:6])
+
 
 class OpenAITran:
     def __init__(self, url, source='auto', target='zh-CN'):
@@ -38,16 +51,20 @@ class OpenAITran:
         if content in self.translation_cache:
             return self.translation_cache[content]
 
-        response = openai.Completion.create(
-            model="gpt-3.5-turbo",
-            prompt=content,
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[
+                {
+                    "role": "system",
+                    "content": "You are a professional translator. Translate the given text into Chinese. Only output the translation, nothing else.",
+                },
+                {"role": "user", "content": content},
+            ],
             max_tokens=2000,
             temperature=0.7,
-            n=1,
-            stop=None
         )
 
-        translation = response.choices[0].text.strip()
+        translation = (response.choices[0].message.content or "").strip()
         self.translation_cache[content] = translation
         return translation
 
@@ -73,7 +90,13 @@ class OpenAITran:
                     pass
             guid = link
             pub_date = get_time(entry)
-            one = {"title": title, "link": link, "description": description, "guid": guid, "pubDate": pub_date}
+            one = {
+                "title": title,
+                "link": link,
+                "description": description,
+                "guid": guid,
+                "pubDate": pub_date,
+            }
             if guid not in item_set:  # 判断是否重复
                 item_set.add(guid)
                 item_list.append(one)
@@ -82,12 +105,18 @@ class OpenAITran:
         sorted_list = sorted(item_list, key=lambda x: x['pubDate'], reverse=True)
         feed = self.d.feed
         try:
-            rss_description = feed.subtitle   # 不翻译
+            rss_description = feed.subtitle  # 不翻译频道描述
         except AttributeError:
             rss_description = ''
-        new_feed = {"title": feed.title, "link": feed.link, "description": rss_description,
-                    "lastBuildDate": get_time(feed), "items": sorted_list}
+        new_feed = {
+            "title": feed.title,  # 不翻译频道标题
+            "link": feed.link,
+            "description": rss_description,
+            "lastBuildDate": get_time(feed),
+            "items": sorted_list,
+        }
         return new_feed
+
 
 def update_readme(links):
     with open('README.md', "r+", encoding="UTF-8") as f:
@@ -95,6 +124,7 @@ def update_readme(links):
         list1 = list1[:20] + links
     with open('README.md', "w+", encoding="UTF-8") as f:
         f.writelines(list1)
+
 
 def tran(sec, max_item):
     # 获取各种配置信息
@@ -188,11 +218,14 @@ def tran(sec, max_item):
     with open('test.ini', "w") as configfile:
         config.write(configfile)
 
+
 def get_cfg(sec, name):
     return config.get(sec, name).strip('"')
 
+
 def set_cfg(sec, name, value):
     config.set(sec, name, '"%s"' % value)
+
 
 def get_cfg_tra(sec, config):
     cc = config.get(sec, "action").strip('"')
@@ -205,6 +238,7 @@ def get_cfg_tra(sec, config):
         source = cc.split('->')[0]
         target = cc.split('->')[1]
     return source, target
+
 
 # 读取配置文件
 config = configparser.ConfigParser()

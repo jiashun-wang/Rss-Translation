@@ -75,7 +75,7 @@ class BingTran:
         sorted_list = sorted(item_list, key=lambda x: x["pubDate"], reverse=True)
         feed = self.d.feed
         try:
-            rss_description = self.tr(feed.subtitle)
+            rss_description = feed.subtitle   # 不翻译
         except AttributeError:
             rss_description = ""
         newfeed = {
