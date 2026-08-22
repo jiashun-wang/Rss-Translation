@@ -11,5 +11,6 @@
  📢查看 比本项目更好用的RSS翻译项目 [RSS-Translator](https://github.com/rss-translator/RSS-Translator) ❗️❗️❗️
 
 ## 已转换翻译源
- - ourworldindata [https://ourworldindata.org/atom.xml](https://ourworldindata.org/atom.xml) -> [Our_World_in_Data](rss/Our_World_in_Data.xml)
- - OceanScience-Copernicus [https://os.copernicus.org/xml/rss2_0.xml](https://os.copernicus.org/xml/rss2_0.xml) -> [OceanScience_Copernicus](rss/OceanScience_Copernicus.xml)
+ - Knowledge-001 [https://ourworldindata.org/atom.xml](https://ourworldindata.org/atom.xml) -> [Our_World_in_Data](rss/Our_World_in_Data.xml)
+ - Journal-001 [https://os.copernicus.org/xml/rss2_0.xml](https://os.copernicus.org/xml/rss2_0.xml) -> [OceanScience_Copernicus](rss/OceanScience_Copernicus.xml)
+ - Journal-002 [https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=21699291&type=etoc&feed=rss](https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=21699291&type=etoc&feed=rss) -> [JGR_Oceans](rss/JGR_Oceans.xml)
