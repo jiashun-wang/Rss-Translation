@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>焕昭君的博客</title>
+    <link>https://blog.huan666.de/</link>
+    <description>Recent content on 焕昭君的博客</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:16:03 GMT</lastBuildDate>
+    <item>
+      <title>随便逛逛</title>
+      <link>https://blog.huan666.de/random/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.huan666.de/random/</guid>
+      <pubDate>Wed, 29 Apr 2026 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>【转载解读】以LLM推理的速度交付软件</title>
+      <link>https://blog.huan666.de/posts/shipping-at-inference-speed-deep-dive/</link>
+      <description><![CDATA[深度解读Peter Steinberger的AI编程极限实践，探索AI代理工作流的上限与边界]]></description>
+      <guid>https://blog.huan666.de/posts/shipping-at-inference-speed-deep-dive/</guid>
+      <pubDate>Tue, 17 Feb 2026 08:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>【转载提炼】某位大佬在2025年对AI编程的理解——万字长文</title>
+      <link>https://blog.huan666.de/posts/ai-coding-understanding-2025-summary/</link>
+      <description><![CDATA[提炼自Loongphy的万字博文，总结2025年AI编程的15个核心洞察]]></description>
+      <guid>https://blog.huan666.de/posts/ai-coding-understanding-2025-summary/</guid>
+      <pubDate>Sat, 14 Feb 2026 11:40:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>给我的罗技G304鼠标换了微动，满血复活了~</title>
+      <link>https://blog.huan666.de/posts/logitech-g304-mouse-microswitch-replacement-full-recovery/</link>
+      <description><![CDATA[分享罗技G304鼠标微动更换经验，从1.5击问题到满血复活。详细对比欧姆龙日产白点、华诺蓝透粉点、凯华黑金曼巴三种微动的手感差异，最终选择0.65N欧姆龙日产白点作为主力微动。]]></description>
+      <guid>https://blog.huan666.de/posts/logitech-g304-mouse-microswitch-replacement-full-recovery/</guid>
+      <pubDate>Fri, 28 Nov 2025 08:54:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>【存档】OHNO.ICU-Japan-IPv6-NAT-Small</title>
+      <link>https://blog.huan666.de/posts/vps-test/ohno-icu-japan-ipv6-nat-small/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.huan666.de/posts/vps-test/ohno-icu-japan-ipv6-nat-small/</guid>
+      <pubDate>Tue, 30 Sep 2025 10:57:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>IP质量-快速排查清单</title>
+      <link>https://blog.huan666.de/posts/ip-quality-quick-check-list/</link>
+      <description><![CDATA[IP质量检测的工具清单！多维度评估IP质量：地理位置、滥用情况、风控状态和实际可用性等]]></description>
+      <guid>https://blog.huan666.de/posts/ip-quality-quick-check-list/</guid>
+      <pubDate>Mon, 29 Sep 2025 03:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>【存档】Zouter-HK-Global-Standard</title>
+      <link>https://blog.huan666.de/posts/vps-test/zouter-hk-global-standard/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.huan666.de/posts/vps-test/zouter-hk-global-standard/</guid>
+      <pubDate>Fri, 19 Sep 2025 15:04:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>【存档】Evoxt-马来西亚-CN-VM0.5</title>
+      <link>https://blog.huan666.de/posts/vps-test/evoxt-malaysia-cn-vm05/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.huan666.de/posts/vps-test/evoxt-malaysia-cn-vm05/</guid>
+      <pubDate>Thu, 18 Sep 2025 12:05:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>【存档】云悠yunyoo-美国堪萨斯-TCVM-Mini</title>
+      <link>https://blog.huan666.de/posts/vps-test/yunyou-us-kansas-tcvm-mini/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.huan666.de/posts/vps-test/yunyou-us-kansas-tcvm-mini/</guid>
+      <pubDate>Wed, 10 Sep 2025 15:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>【存档】阿里云香港ecs-t5-lc1m1-small</title>
+      <link>https://blog.huan666.de/posts/vps-test/aliyun-hk-ecs-t5-lc1m1-small/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.huan666.de/posts/vps-test/aliyun-hk-ecs-t5-lc1m1-small/</guid>
+      <pubDate>Tue, 09 Sep 2025 06:57:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>【存档】Speedonline-CVS-香港-简易版</title>
+      <link>https://blog.huan666.de/posts/vps-test/speedonline-cvs-hk-simple/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.huan666.de/posts/vps-test/speedonline-cvs-hk-simple/</guid>
+      <pubDate>Sun, 07 Sep 2025 03:05:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>【存档】zorocloud-盲盒BOX-Plus-阿修罗降临</title>
+      <link>https://blog.huan666.de/posts/vps-test/zorocloud-manghe-box-plus-axiuluo-jianglin/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.huan666.de/posts/vps-test/zorocloud-manghe-box-plus-axiuluo-jianglin/</guid>
+      <pubDate>Tue, 19 Aug 2025 07:59:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>【存档】VirgoCube-AMD-Ryzen9-9950X-1C2G</title>
+      <link>https://blog.huan666.de/posts/vps-test/virgocube-amd-ryzen9-9950x-1c2g/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.huan666.de/posts/vps-test/virgocube-amd-ryzen9-9950x-1c2g/</guid>
+      <pubDate>Sun, 17 Aug 2025 12:04:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>【存档】Vkvm-日本-2C4G-China-Pro</title>
+      <link>https://blog.huan666.de/posts/vps-test/vkvm-japan-2c4g-china-pro/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.huan666.de/posts/vps-test/vkvm-japan-2c4g-china-pro/</guid>
+      <pubDate>Sat, 16 Aug 2025 12:47:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>【存档】蛋云Eggvps-HK-X-Mini</title>
+      <link>https://blog.huan666.de/posts/vps-test/danyun-eggvps-hk-x-mini/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.huan666.de/posts/vps-test/danyun-eggvps-hk-x-mini/</guid>
+      <pubDate>Sun, 03 Aug 2025 06:18:29 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

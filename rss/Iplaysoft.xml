@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>异次元软件世界</title>
+    <link>https://www.iplaysoft.com</link>
+    <description>软件改变生活</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:30:55 GMT</lastBuildDate>
+    <item>
+      <title>Mole - 在 Github 上好评如潮的 Mac 清理软件！垃圾缓存清理/卸载/优化效果出色</title>
+      <link>https://www.iplaysoft.com/mole.html</link>
+      <description><![CDATA[今年一款 Mac 工具在开发者圈子里悄然走红，目前在 GitHub 上已收获 6 万多星标收藏，连 Paul Graham (保罗·格雷厄姆，世界知名程序员、投资人) 都曾专门发文讨论它。它就是 Mole！ 
+Mole 是一款可靠且效果出色的开源命令行 Mac 垃圾清理工具，获得了无数好评。但命令行始终难以上手，于是作者用 Swift 原生开发了 Mole for Mac 版，并增加缓存清理、应用卸载、磁盘分析、硬件监控、系统优化五大功能，让更多用户都能用上这款好评如潮的清理优化工具……
+「 前往查看原文.... 」异次元还有这些值得一看：FluentCleaner 开源垃圾清理工具 - 在 CCleaner 变味后，终于有更好的替代品了腾讯 Mac 柠檬清理 - 免费开源了！良心简洁的苹果 macOS 垃圾清理/系统优化工具TreeSize - 用“上帝视角”找出霸占硬盘空间的大文件！好用免费扫描清理垃圾工具MacBooster 7 中文版 - 更好用的高性价比苹果 macOS 系统优化垃圾清理工具异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/mole.html</guid>
+      <pubDate>Sat, 22 Aug 2026 03:54:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Motrix 2 Turbo - 清爽开源免费下载工具 (跨平台 Aria2 客户端 / 支持 BT / 磁力 / NAS)</title>
+      <link>https://www.iplaysoft.com/motrix2.html</link>
+      <description><![CDATA[用浏览器下载大文件很慢，很多人会用 IDM 能支持多线程断点续传，但遇到磁力链接、BT 种子还得找其他工具。 Motrix 就是那种干净、不打扰、且“真要下载东西时特别顺手”的工具。 
+这款老牌基于 Aria2 引擎的开源下载器沉寂了很久，大家都以为停更了，甚至出现第三方Motrix 复活版。没想到这次官方带着全新架构回归，推出 Motrix Turbo 2.0！不只是换界面，还把桌面下载、NAS 下载、远程管理、浏览器接管、命令行控制，甚至 AI Agent 自动化都打通了……
+「 前往查看原文.... 」异次元还有这些值得一看：“狗屁下载器”？ Gopeed - 开源全平台下载器 (免费轻量 / 比 Aria2 好用 / 远程下载)Photon - 开箱即用的免配置 Aria2 免费开源下载软件利器 (替代迅雷)满血复活！ Motrix Next 免费开源下载工具 - 更小更快的跨平台 Aria2 客户端替代迅雷！小白都会用的免配置 Aria2 图形界面版免费开源下载软件 PDM异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/motrix2.html</guid>
+      <pubDate>Tue, 18 Aug 2026 19:19:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek Harness 是什么？比 Codex 龙虾 Claude Code 更好玩的 AI Agent 来了</title>
+      <link>https://www.iplaysoft.com/p/deepseek-harness</link>
+      <description><![CDATA[如果你用过 AI 写方案，多半有过这种体验：它回答得头头是道，最后动手的还得是你自己。文件要自己改，代码要自己跑，出问题要自己查。而 DeepSeek Harness (简称 DSH) 要解决的，正是这件事：让 AI 从只会“动嘴”直接变成会“动手”。
+
+就在昨天，「DeepSeek V4 Pro 正式版」发布的同时，顺手开源了 DeepS…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/p/deepseek-harness</guid>
+      <pubDate>Fri, 14 Aug 2026 18:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4 Pro 正式版！国产开源 AI 战力天花板 (直逼 Fable5 / 价格便宜 30 倍)</title>
+      <link>https://www.iplaysoft.com/deepseek-v4.html</link>
+      <description><![CDATA[今天一大消息就是开源 AI 大模型圈的“卷王” DeepSeek，憋了好长的时间之后，终于把全新系列模型 DeepSeek-V4 Pro 正式版发布出来了，而且照惯例，同步开源！ 
+现在 DeepSeek 官网和 API 都直接能用 v4 Pro / Flash 正式版了！相信 众多第三方算力平台、WorkBuddy 也将陆续跟进上线。之前 Claude、ChatGPT、Gemini、Qwen 等行业里各家一直在疯狂迭代。而有着“国产 Ai 图腾”、价格屠夫之称的 DeepSeek 终于又出来炸一回场了……
+「 前往查看原文.... 」异次元还有这些值得一看：被吹爆的 DeepSeek！拥有“东方神秘力量”强大推理能力的 ChatGPT 国产替代品疯狂万亿参数！阿里 Qwen3-Max 顶尖模型发布 - 强到撼动 GPT5 / Claude 4 地位ChatWise - 小巧速度快！全功能 AI 助手客户端 (支持 DeepSeek / OpenAI 等模型 API)Cherry Studio - 好用开源全能 AI 模型客户端！整合 DeepSeek / GPT 成桌面版 APP异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/deepseek-v4.html</guid>
+      <pubDate>Thu, 13 Aug 2026 10:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linkly AI Clipper 一键将网页转换成 Markdown 格式保存！为 AI 而生的剪藏收集插件</title>
+      <link>https://www.iplaysoft.com/linkly-ai-clipper.html</link>
+      <description><![CDATA[我的浏览器长期收藏着很多宝藏网站，如一些行业洞察、还有 YouTube 上的深度采访视频、以及大佬们在 X 上的热贴等等。收藏时觉得捡到宝了，但这些内容却永远只停留在收藏夹里。 
+但收藏夹既无法变成可被搜索的资料，也无法成为 Workbuddy、Codex 之类 AI 助手“养料”作为上下文使用。所以推荐一款剪藏插件 Linkly AI Clipper，它做的事情很简单：把当前网页转换成 Markdown 格式，在浏览器侧边栏可以预览、复制或直接下载 .md 到本地永久保存……
+「 前往查看原文.... 」异次元还有这些值得一看：Cubox 网络内容收集+整合阅读！通用的网站/微信/视频/图文收藏夹 (全文搜索)PicSeed - 支持 30 多种社媒平台的跨 APP 通用收藏夹 (一键收集整理 / 稍后阅读)Obsidian - 完美契合 AI 时代的免费笔记软件 (知识管理/ Markdown 编辑器/本地存储)思源笔记 - 开源免费支持自建服务器的 Markdown 笔记应用 (替代 Notion 印象笔记 / 可离线)异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/linkly-ai-clipper.html</guid>
+      <pubDate>Tue, 11 Aug 2026 19:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>陪读蛙 Read Frog - 开源免费双语翻译插件！可接入 AI 模型 API (沉浸式/划词/视频字幕)</title>
+      <link>https://www.iplaysoft.com/readfrog.html</link>
+      <description><![CDATA[我们平日上网遇到一些外语网站或英文的文章，想认真阅读，但往往光是查单词就耗掉半小时，最后还是似懂非懂。而好用的翻译插件，很多又需要订阅会员，对学生党并不是太友好。 
+直到最近遇到 Read Frog (陪读蛙)！这是一款开源的浏览器“类沉浸式”的翻译插件，核心功能完全免费！还能自由配置使用第三方大模型 API，比如 DeepSeek、OpenAI，花多少自己控。不只解决网页翻译需求，更像一个陪你读外文的双语助手，让你更好地边上网边学习外语……
+「 前往查看原文.... 」异次元还有这些值得一看：简约翻译 KISS Translator - 开源免费沉浸式翻译替代品 (划词/双语对照/视频字幕)沉浸式翻译 - 好评如潮的“网页双语翻译”工具 (浏览器插件)！高效对照阅读必备会译 - 免费好用的“AI 双语对照”网页翻译插件工具 (支持PDF/视频字幕/划词翻译等)OpenAI Translator - 超强开源 AI 划词翻译工具 (基于 ChatGPT API / 跨平台 / 质量高)异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/readfrog.html</guid>
+      <pubDate>Fri, 07 Aug 2026 17:19:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>AndroMeld - 在 Mac 电脑控制安卓手机 (应用投屏/镜像/剪贴板通知同步/文件管理)</title>
+      <link>https://www.iplaysoft.com/andromeld.html</link>
+      <description><![CDATA[在日常工作中，我们经常要使用电脑和手机来协同完成工作。如果用的是 Mac + iPhone，那天然就有苹果生态的支持，使用上还算是方便。 
+但如果用的是 Mac + 安卓手机，那光是文件传输，就让人头大了。 AndroMeld 就是一款能让你的 Android 设备和 macOS 电脑无缝连接的工具！不只是传文件，你甚至还能将手机 APP 直接投屏镜像到 Mac 上控制使用！ APP 窗口还能拖放调整大小，在大屏上“远控”手机非常方便……
+「 前往查看原文.... 」异次元还有这些值得一看：Scrcpy 4 - 开源免费在电脑显示手机画面并控制安卓手机工具 (投屏/录屏/镜像/免Root)Escrcpy - 免费开源！电脑控制安卓手机的投屏工具 (屏幕镜像 / 无线 / AI 自动化 / 录屏)Scrcpy-GUI 电脑控制安卓手机的工具神器！终于有了更直观好用的界面啦AnLink 中文版 - 免费简单的在电脑上操作 Android 安卓手机软件 (投屏控制 / 不限品牌)异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/andromeld.html</guid>
+      <pubDate>Mon, 03 Aug 2026 16:47:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>史低来袭！很少打折的 Eagle 降到底价了~ 超好用图片素材收集整理软件</title>
+      <link>https://www.iplaysoft.com/eagle-sale-202603.html</link>
+      <description><![CDATA[相信大家都平时都会收藏一些壁纸，设计素材，摄影照片等等资源。加上现在人工智能 AI 生图的发展，图片可谓是爆发式增长，如果更好地管理图片素材也成了很多人面临的问题。 
+Eagle 是一款 Win / Mac 平台上知名的图片素材收集与管理工具，帮你轻松收集及整理「案例、灵感、图片、音视频、情绪板」等各种素材，激发更多创意灵感，让工作变得更有效率。而在过去一年仅一次打折的 Eagle，这次跟随「夏季大促」也带来 7 折优惠！绝对值得入手……
+「 前往查看原文.... 」异次元还有这些值得一看：超经典 Win XP 壁纸 2026 全新重制版！蓝天白云与 Win11 完美融合 (暗色/亮色)快到离谱！ voidImageViewer 比图片还小的免费“极速看图”神器 (出自 Everything 团队)PicView - 图片秒开！快速免费开源看图工具 (跨平台 Win+Mac / 支持漫画 / 免解压)Eagle - 专为设计师和图片达人用心打造的图片素材收藏/整理/管理工具神器异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/eagle-sale-202603.html</guid>
+      <pubDate>Sat, 01 Aug 2026 13:30:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>正版软件“夏促” 6 折起：Eagle / 酷呆桌面 / DOpus / ByePhotos…</title>
+      <link>https://www.iplaysoft.com/news/6580</link>
+      <description><![CDATA[最近，正版软件的“夏促”终于来了，比如荔枝的给荔一夏活动正式开启，多款热门软件限时优惠，会场软件 6 折起，如果你有入手正版 APP 的需求，必须要来看看喇！
+
+正版软件夏促会场
+活动时间：2026 年 7 月 28 日 - 8 月 13 日，结算时使用优惠码：异次元帮我省还能获得折上折！特惠软件重点推介：
+…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/news/6580</guid>
+      <pubDate>Thu, 30 Jul 2026 10:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>CloudCone 低价美国 VPS 服务器：“九周年促销” $18年付/续费同价…</title>
+      <link>https://www.iplaysoft.com/p/cloudcone</link>
+      <description><![CDATA[CloudCone 是一家成立于 2017 年的美国云主机商（母公司为 QuadCone/Edge Centres），主打高性价比的美国洛杉矶 Multacom (MC) 机房与圣路易斯机房的 VPS 主机和独立服务器。
+
+和 RackNerd 定位相似，CC 的产品定价较低，遇到打折促销活动还会出现一些性价比超高的打折机型，十多美金的年付主机，无论是用来建站…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/p/cloudcone</guid>
+      <pubDate>Tue, 28 Jul 2026 18:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.iplaysoft.com/p/scramble-cloud</link>
+      <description><![CDATA[随着手机拍照、视频素材越来越多，以及众多工作文档、图片、聊天记录、以及各种资源，很多人可能都累积了数 TB 级别数据了。如果用 115、夸克、百度网盘，你每月都得交不少的钱。
+
+除了之前主打永久的「Koofr」之外，最近又看到了一款德国的 Scramble Cloud 网盘，提供多个更大容量档位的终身版订…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/p/scramble-cloud</guid>
+      <pubDate>Sun, 26 Jul 2026 16:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Obsidian - 完美契合 AI 时代的免费笔记软件 (知识管理/ Markdown 编辑器/本地存储)</title>
+      <link>https://www.iplaysoft.com/obsidian.html</link>
+      <description><![CDATA[以前我也觉得，笔记软件不就那回事吗？能记、能搜索、能同步，差不多就行。 Notion、思源笔记、印象笔记、有道云、OneNote，基本都轮了一圈，结果总是这样或那样的失望……
+存了一大堆笔记，用的时候不是找不到，就是资料太多太乱人工难以整理；而想换工具，导出功能各种限制；好不容易养成习惯，平台一改规则又得重来。加上 AI 时代彻底变革，在经历反复横跳后，我最终决定把免费的 Obsidian 当成主力工具，用它来做学习/写作/知识管理……
+「 前往查看原文.... 」异次元还有这些值得一看：思源笔记 - 开源免费支持自建服务器的 Markdown 笔记应用 (替代 Notion 印象笔记 / 可离线)Notion 中文版 - “杀手级”全能型笔记软件 (替代印象笔记/强大灵活/支持Markdown)代替 Notion 中国版？ ！印象笔记推出新一代「超级笔记」模块化编辑器印象笔记 (Evernote中国版) - 优秀笔记软件知识管理工具应用 / 资料收集整理异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/obsidian.html</guid>
+      <pubDate>Sat, 25 Jul 2026 14:14:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Listary 7 Pro 效率神器“进化”免费升级！文件搜索定位更快更流畅，界面更优雅……</title>
+      <link>https://www.iplaysoft.com/listary7.html</link>
+      <description><![CDATA[最近「文件搜索+定位神器」 Listary v7 发布了最新的 Beta 版本，于是我把它作为主力工具深度体验了一番。说实话，这次的大版本更新有不少让人眼前一亮的细节。 
+如果你每天都要在电脑办公，需要「快速查找和定位文件」，或者想要「快速启动应用」，一定要试试这款老牌的 Windows 本地文件搜索神器。新版使用 Rust 重构，性能获得成倍的提升，界面也更舒适。跟「Fences」一样，绝对能让你的操作效率和用户体验上到另一个台阶……
+「 前往查看原文.... 」异次元还有这些值得一看：Listary 6.3 Pro - 能极大提高 Windows 文件浏览与搜索速度效率的“超级神器”Fences 6 - 高效实用的桌面图标分类整理美化工具神器 (桌面图标再多也不会乱)Quicker - 让效率起飞的 Windows “超级外挂” (快速启动 / 快捷指令 / 鼠标手势)Directory Opus 13 - 比微软自带强大百倍！全面碾压的增强文件管理器异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/listary7.html</guid>
+      <pubDate>Mon, 20 Jul 2026 16:27:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>UniClipboard - 告别给自己发微信！无需账号的跨设备复制粘贴开源工具 (Win/Mac/Linux/iOS/安卓)</title>
+      <link>https://www.iplaysoft.com/uniclipboard.html</link>
+      <description><![CDATA[我们经常在台式机电脑上复制拷贝内容，想在笔记本或手机上继续用，只能打开微信、QQ 或邮箱，把内容发给自己，然后切到另一台设备，打开微信，找到那条消息，点开，复制，再粘贴。 
+这件事我们做了好多年，虽然很烦人、效率也很慢，但因为已经习惯了，就不觉得是问题了。但其实挺离谱的。为了粘贴一段文字，结果内容绕了一大圈，还在别人服务器上留下了不可抹去的聊天记录。这不仅是效率问题，因为剪贴板里啥都会有：密码、API Key……
+「 前往查看原文.... 」异次元还有这些值得一看：ALT-C - 电脑手机之间跨设备跨平台同步剪贴板的实用免费工具Flix 快传 - 免费手机电脑高速 WiFi 文件传输工具！ (内网聊天 / 剪贴板同步 / 不压缩图片)Pasteasy 易贴跨平台剪贴板同步软件 - 电脑手机之间互相复制粘贴/传图的效率神器PinStack - 轻量好用的 Windows 剪贴板历史记录增强管理工具异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/uniclipboard.html</guid>
+      <pubDate>Thu, 16 Jul 2026 19:17:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>FluentCleaner 开源垃圾清理工具 - 在 CCleaner 变味后，终于有更好的替代品了</title>
+      <link>https://www.iplaysoft.com/fluentcleaner.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.iplaysoft.com/fluentcleaner.html</guid>
+      <pubDate>Thu, 09 Jul 2026 15:47:17 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

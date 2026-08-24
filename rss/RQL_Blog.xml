@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RQL's Blog</title>
+    <link>https://RenqlSYSU.github.io/</link>
+    <description>tech blog https://renqlsysu.github.io</description>
+    <lastBuildDate>Mon, 03 Mar 2025 13:02:00 GMT</lastBuildDate>
+    <item>
+      <title>linux任务投递系统</title>
+      <link>https://RenqlSYSU.github.io/2024/07/10/linux_task_submit/</link>
+      <description><![CDATA[
+sge任务调度系统
+sbatch任务投递系统
+
+sge任务调度系统
+任务状态：  
+qw  表示等待状态
+Eqw 投递任务出错
+r   表示任务正在运行
+dr  节点挂了之后，删除任务就会出现这个状态，只有节点重启之后，任务才会消失
+
+qdel -u username ： 删除某用户名下的所有任务
+qstat -u \* ： 查看所有用户的任务
+for ((i=316893; i&lt;=316907; i++)); do rm LW_OC.chr*.o${i}; done 删除文件
+
+#!/bin/bash
+#$ -N meth_matrix  #任务名称
+#$ -pe smp  4  # 作业请求使用一个具有共享内存并行（smp）环境的计算节点，并指定作业可以使用该节点上的 4 个处理器（或核心）进行并行计算。 
+#$ -l mem_free=20G # 作业请求了至少 20GB 的可用内存
+#$ -l vf=20G # 作业请求了 10GB 的虚拟内存
+#$ -cwd # 作业将在提交时的当前工作目录中执行
+#$ -j y
+#$ -o ~/stdout/
+
+
+
+虚拟内存是指系统为了扩展物理内存而使用的一种技术，通常是物理内存加上硬盘空间。这意味着即使系统中没有足够的物理内存，作业也可以通过虚拟内存来执行，但性能可能会受到影响。
+
+sbatch任务投递系统
+sbatch job.sh
+
+sinfo # 查看资源状态
+# idel为空闲，mix为节点部分核心可以使用，alloc为已被占用; 
+# down表示该节点当前不可用，通常是由于硬件故障、网络问题或其他维护需要。节点处于这种状态时，无法分配给新的作业。 
+
+squeue # 查看作业队列
+
+scancel 123 # 取消作业ID为123的作业
+scancel -t PENDING -u `whoami` # 取消自己账号下所有状态为pending的作用
+
+
+job.sh的脚本可以这样编写
+#!/bin/bash
+#SBATCH -J job.$sample # 作业名
+#SBATCH -o job.$sample.%j.out 
+#SBATCH --exclude=node8
+#SBATCH --nodes=5
+#SBATCH --ntasks-per-node=20
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=6G
+
+mpirun -np 100 python test.py
+
+]]></description>
+      <guid>https://RenqlSYSU.github.io/2024/07/10/linux_task_submit/</guid>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据行政区划mask数据</title>
+      <link>https://RenqlSYSU.github.io/2022/08/29/shapefile_mask/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://RenqlSYSU.github.io/2022/08/29/shapefile_mask/</guid>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>python中的nan和inf</title>
+      <link>https://RenqlSYSU.github.io/2022/07/26/nan/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://RenqlSYSU.github.io/2022/07/26/nan/</guid>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>reference count问题</title>
+      <link>https://RenqlSYSU.github.io/2022/07/25/reference_count/</link>
+      <description><![CDATA[最近发现python一个非常操蛋的内存存储问题，好像叫引用计数，一不留心就容易计算对比。
+
+导入 numpy as np
+def diff(a)：
+    b=a 
+    b[1:4]=a[1:4]-a[2:]
+    返回 b
+a=np。数组([0，2,1,3,4])
+c=差异(a)
+打印(a) # array([ 0, 1, -2, -1, 4])
+打印(c) # array([ 0, 1, -2, -1, 4])
+
+
+可以看到变量a也发生了变化。问题是b=a这个命令在python中属于不赋值，只是为a增加了一个索引，a和b都指向同一个内存地址。因此改变b的同时，a也发生变化。
+b=a[0:2]numpy 批量的切片图层也存在类似的问题。但列表的切片图层不存在这个问题。
+
+避免这个问题的解决方法是b=a.copy()。或者a进行简单损坏后再给b，此时a与b指向不同的内存地址，如下例所示。
+
+b=a/1.0 # 
+b[0]=2
+打印(b) # array([ 2., 1., -2., -1., 4.])
+打印(a) # array([ 0, 1, -2, -1, 4])
+
+
+xarray中也存在类似的问题，解决方法b=foo[1:4].data.copy()。
+导入 xarray as xr
+a=np。数组([0，2,1,3,4])
+foo = xr。DataArray(a， 调暗=[&quot;时间&quot;])
+
+b=foo[1:4]。数据
+b[0]=10
+
+print(foo) # foo也发生了变化
+# 
+# 数组([ 0, 10, 1, 3, 4])
+# 没有坐标的维度：时间
+
+打印(b)
+# [10 1 3]
+]]></description>
+      <guid>https://RenqlSYSU.github.io/2022/07/25/reference_count/</guid>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数组矩阵</title>
+      <link>https://RenqlSYSU.github.io/2022/06/25/numpy/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://RenqlSYSU.github.io/2022/06/25/numpy/</guid>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Matplotlib 颜色图</title>
+      <link>https://RenqlSYSU.github.io/2022/06/23/colormap/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://RenqlSYSU.github.io/2022/06/23/colormap/</guid>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球大气再分析资料</title>
+      <link>https://RenqlSYSU.github.io/2022/06/21/cra40/</link>
+      <description><![CDATA[
+CFSR
+JRA55
+MERRA2
+ERA5
+CRA40
+参考文献
+
+
+目前国际上使用的大气再分析资料已经历了多次迭代，除了以往被人们所熟知的NCEP1、NCEP2、ERA-interim，现在又出现了以下几个高分辨率的新品种（按发布顺序）。
+
+
+
+CFSR
+NCEP（National Center for Environmental Prediction）于2010年发布的第3代全球再分析资料，全称Climate Forecast System Reanalysis，使用Coupled Forecast System (CFS) model，a coupled atmosphere–ocean–sea ice–land model, assimilates conventional observations and satellite radiance, and includes the time evolution of CO2 concentrations. 空间分辨率T382，约38km，垂直64层，使用GSI 3DVAR同化方法。
+
+逐6h数据下载：https://rda.ucar.edu/datasets/ds093.0/#!description
+
+JRA55
+日本气象厅（Japanese Meteorological Agency）2013年发布的第二代再分析数据，基于全球谱模式JMA2002，水平分辨率T319（差不多0.5°分辨率），垂直60层，4D-Var semi-Lagrangian assimilation schemes with Variational Bias Correction (VarBC) for satellite radiances，采用新的辐射方案，引入随时间变化的温室气体浓度。有逐3h，逐6h。
+
+数据下载地址：https://rda.ucar.edu/datasets/ds628.0/
+日本气象厅的官网介绍：https://jra.kishou.go.jp/JRA-55/index_en.html
+
+MERRA2
+Modern-Era Retrospective analysis for Research and Applications, version 2 (MERRA-2)由 National Aeronautics and Space Administration (NASA) Global Modeling and Assimilation Office (GMAO)于2015年发布，基于Goddard Earth Observing System Model, Version 5 (GEOS-5) data assimilation system，时间跨度为1980至现在，分辨率 0.5lat x 0.625lon，垂直72层，有逐小时，逐3h，逐6h。
+
+存在的缺陷：极低海域降水太大，热带区域山地降水偏多
+
+数据官网介绍： https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/data_access/
+
+ERA5
+欧洲中期天气预报中心（European Centre for Medium-range Weather Forecasts，ECMWF）于2020年发布的、逐小时、31km水平分辨率的第五代再分析资料
+
+CRA40
+我国国家气象信息中心于2021年5月发布的、逐6小时、 34km水平分辨率的我国第一代全球大气和陆面再分析产品（CRA），下载网址 https://data.cma.cn/data/cdcdetail/dataCode/NAFP_CRA40_FTM_6HOR.html，但感觉下载不是很方便，需要注册一个国家气象科学数据中心的教育科研实名注册用户（需要上传省部级以上的科研项目书）。但气象局内部的人下载可能会方便一些。
+
+我国的该项目启动于2014年，历时6年研制。基于Global System Model (GSM) of the Global Forecast System (GFS) of NCEP and its Gridpoint Statistical Interpolation (GSI) 3DVAR data assimilation system，同化了多种传统观测和卫星观测数据，尤其是东亚。
+
+根据使用过的人反馈，质量比NCEP1好。但和ERA5及JRA55没有做过详细对比。
+
+参考文献
+
+
+    Li, C., T. Zhao, C. Shi, and Z. Liu, 2021: Assessment of precipitation from the CRA40 dataset and new generation reanalysis datasets in the global domain. Int. J. Climatol., 41, 5243–5263.
+  
+
+    Yu, X., L. Zhang, T. Zhou, and J. Liu, 2021: The Asian subtropical westerly jet stream in CRA-40, ERA5, and CFSR reanalysis data: Comparative assessment. J. Meteorol. Res., 35, 46–63.
+  
+]]></description>
+      <guid>https://RenqlSYSU.github.io/2022/06/21/cra40/</guid>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>python的主要结构</title>
+      <link>https://RenqlSYSU.github.io/2022/03/12/python_structure/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://RenqlSYSU.github.io/2022/03/12/python_structure/</guid>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>cdo常用命令</title>
+      <link>https://RenqlSYSU.github.io/2022/03/08/cdo/</link>
+      <description><![CDATA[
+数据转换
+数据合并
+数据提取
+数学运算
+数据信息查看
+
+
+CDO, climate data operator的缩写。提供了600多个常见的操作，能快速处理nc、grid等常见数据.
+
+常见的功能包括：
+
+数据的提取合并(提取特定时间、空间、经纬度等等)
+数据的简单运算(加减乘除、方差、均方差、和、最值、滑动均值、滑动方差、滑动最值、区域平均、区域方差、区域最值等等)
+数据的统计运算(相关、线性回归、EOF、滤波、水平插值、垂直插值等等)
+数据的转换(binary转nc、HDF转nc等等)
+各种气候指数的运算(极端有关的指数等等)
+
+
+参考：https://blog.sciencenet.cn/blog-1081898-1275862.html
+
+数据转换
+转换数据类型或者转换文件类型
+cdo -b F64 copy input.nc output.nc
+# 将input.nc文件中的变量转换为 double，并另存为output.nc。如果不加F，则是将所有变量转换为double。加F则只是将floating data转为double
+
+cdo -f nc copy input.grib output.nc
+# 将grib文件转换为nc文件
+
+数据合并
+cdo -r -copy ff_stat_[1-9].nc ff_stat_1[0-2].nc outfilename
+# 每月数据放在一个文件中，将1-12月共12个文件合并，-r表示合并后添加时间维，拼接后原始文件依然存在
+
+cdo -cat uwind.1985-07.daily.nc uwind.1985-08.daily.nc outfilename
+# 将两个文件中的变量按原有的时间维拼接，拼接后，原始文件依然存在
+# 当输入文件过大且变量为short变量时，容易产生报错，解决方法是改用以下的代码，将short变量转换为float，-mergetime的作用等同于-cat
+cdo -b F32 -mergetime ERA5_precip_1980-[1-9].nc ERA5_precip_1980-1[0-2].nc ERA5_precip_1hr_dec-jan1980.nc
+
+数据提取
+cdo selmonth,1 ERA5_NH_z_1981.nc ERA5_NH_z_1981-01.nc
+# 提取一个月的数据，注意选项与参数间的逗号
+
+cdo sellevel,850 ERA5_NH_z_1981.nc ERA5_NH_850z_1981.nc
+# 提取某个高度的数据，注意选项与参数间的逗号
+
+数学运算
+cdo expr,’speed=sqrt(sqr(uwnd)+sqr(vwnd));var2=ts-273.15;’ infile outfile
+# infile中有变量uwnd，vwnd，ts。由这三个变量计算新变量并存储入 outfile
+
+数据信息查看
+除了处理数据外，cdo也能快速查看 grid、nc 等数据文件信息，常用参数有：
+cdo sinfon ERA5_wind10_2016.grib #输出数据文件的简短信息
+
+
+参考自：https://cloud.tencent.com/developer/article/1618318]]></description>
+      <guid>https://RenqlSYSU.github.io/2022/03/08/cdo/</guid>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xarray用法</title>
+      <link>https://RenqlSYSU.github.io/2022/03/02/xarray/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://RenqlSYSU.github.io/2022/03/02/xarray/</guid>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

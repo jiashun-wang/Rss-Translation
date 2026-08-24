@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GMD - recent papers</title>
+    <link>https://gmd.copernicus.org/articles/</link>
+    <description>Combined list of the recent articles of the journal Geoscientific Model Development and the recent discussion forum Geoscientific Model Development Discussions</description>
+    <lastBuildDate>Mon, 24 Aug 2026 06:15:28 GMT</lastBuildDate>
+    <item>
+      <title>斯托克斯冰流模型中的接地线动力学 (Elmer/Ice v9.0)：改进的数值稳定性允许更大的时间步长</title>
+      <link>https://doi.org/10.5194/gmd-19-7817-2026</link>
+      <description><![CDATA[斯托克斯冰流模型中的接地线动力学 (Elmer/Ice v9.0)：改进的数值稳定性允许更大的时间步长
+                    A. 克拉拉·J·亨利、托马斯·茨温格和约瑟芬·阿尔克罗纳
+                        地理学。模型开发，19，7817–7834，https://doi.org/10.5194/gmd-19-7817-2026，2026
+                        为了克服时间步长限制，我们在斯托克斯冰盖模拟中的冰海界面实施了自由表面稳定算法（FSSA）。在二维实验中，10 年的时间步长通常在数值上稳定且准确，而 50 年的时间步长虽然稳定，但无法完全捕获接地线动态。在冰海界面的实施增加了斯托克斯模型的适用性，并促进了未来与自适应时间步进方案的耦合。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7817-2026</guid>
+      <pubDate>Fri, 21 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>优化高斯过程仿真和广义加法模型拟合，以进行快速、可重复的地球系统模型分析</title>
+      <link>https://doi.org/10.5194/gmd-19-7767-2026</link>
+      <description><![CDATA[优化高斯过程仿真和广义加法模型拟合，以进行快速、可重复的地球系统模型分析
+                    库纳尔·戈什 (Kunal Ghosh) 和莱顿·雷盖尔 (Leighton A. Regayre)
+                        地理学。模型开发，19，7767–7785，https://doi.org/10.5194/gmd-19-7767-2026，2026
+                        了解气候模型的哪些部分导致不确定性需要许多大型计算机实验。我们开发了一种新的工作流程，大大提高了这些研究的速度和效率。它可以以高达 25 倍的速度分析数百万个模型变化，而不会损失准确性，使科学家能够更详细地探索不确定性并使气候预测更加可靠。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7767-2026</guid>
+      <pubDate>Fri, 21 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>ISBA (SURFEX v9) 地表模型中氮循环的表示及其与碳循环的耦合：使用两个自由空气 CO2 富集实验场进行评估</title>
+      <link>https://doi.org/10.5194/gmd-19-7787-2026</link>
+      <description><![CDATA[ISBA (SURFEX v9) 地表模型中氮循环及其与碳循环的耦合：使用两个自由空气 CO2 富集实验场进行评估
+                    珍妮·德卡约、贝特朗·德查姆、罗曼·达纳茹和克里斯汀·德莱尔
+                        地理学。模型开发，19，7787–7815，https://doi.org/10.5194/gmd-19-7787-2026，2026
+                        文章描述了氮循环在地表模型ISBA（相互作用-土壤-生物圈-大气）中的实现。该模型使用自由空气二氧化碳富集实验进行评估。与多模型分析的比较表明，氮模型版本比纯碳版本表现更好，特别是对二氧化碳升高和碳储量较小的敏感性降低。我们还对土壤中模拟的氮动态进行了详细分析。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7787-2026</guid>
+      <pubDate>Fri, 21 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>GCAM-Europe v7.2.0：通过空间和部门细节加强与政策相关的气候建模</title>
+      <link>https://doi.org/10.5194/gmd-19-7741-2026</link>
+      <description><![CDATA[GCAM-Europe v7.2.0：通过空间和部门细节加强与政策相关的气候建模
+                    乔恩·桑佩德罗、拉塞尔·霍洛维茨、克劳迪娅·罗德斯-巴赫、康斯坦丁诺斯·科西迪斯和德克-扬·范德文
+                        地理学。模型开发，19，7741–7766，https://doi.org/10.5194/gmd-19-7741-2026，2026
+                        GCAM-Europe 是一种开放获取的建模工具，旨在评估欧洲国家气候和环境政策的影响。它建立在全球框架的基础上，增加了欧洲详细的区域和部门代表性，包括能源、土地利用、水和排放。这样可以分析国家内部和国家之间的政策效果以及全球溢出效应，以支持透明、基于证据的决策。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7741-2026</guid>
+      <pubDate>Thu, 20 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>耦合模型比较项目各模型阶段的代码可访问性和代码质量</title>
+      <link>https://doi.org/10.5194/gmd-19-7687-2026</link>
+      <description><![CDATA[耦合模型比较项目各模型阶段的代码可访问性和代码质量
+                    迈克尔·加西亚-罗德里格斯、哈维尔·罗德罗-伊格莱西亚斯和胡安·A·阿内尔
+                        地理学。模型开发，19，7687–7704，https://doi.org/10.5194/gmd-19-7687-2026，2026
+                        我们研究了随着时间的推移，主要气候模型背后的计算机代码的可访问性和可靠性。通过审查耦合模型比较项目的不同阶段，我们发现透明度和编码实践方面有所改进，但也发现了限制可重复性的差距。我们的工作提出了切实可行的步骤，使未来的气候研究对科学家和社会来说更加开放、可追溯和值得信赖。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7687-2026</guid>
+      <pubDate>Thu, 20 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>AQUA v1.0.0：适应气候变化数字孪生质量评估应用——核心引擎</title>
+      <link>https://doi.org/10.5194/gmd-19-7725-2026</link>
+      <description><![CDATA[AQUA v1.0.0：适应气候变化数字孪生质量评估应用——核心引擎
+                    马泰奥·努里索、约斯特·冯·哈登伯格、马可·卡多、西尔维娅·卡普里奥利、保罗·吉纳西、苏普里约·戈什、尼古拉·科尔杜诺夫、纳塔利娅·纳扎罗娃、马克苏德·穆巴拉克·拉吉普特、埃马努埃莱·托瓦齐和保罗·达维尼
+                        地理学。模型开发，19，7725–7740，https://doi.org/10.5194/gmd-19-7725-2026，2026
+                        我们推出了一款名为 AQUA 的新型开源软件，旨在处理和评估高分辨率气候模拟产生的大量数据。随着气候模型变得更加详细，其输出对于传统分析方法来说可能变得太大和复杂。我们引入了一种新的数据访问、处理和比较框架，该框架快速、可靠且易于自动化。我们的结果表明，它可以有效地管理非常大的数据集并支持实时质量检查。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7725-2026</guid>
+      <pubDate>Thu, 20 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用大气模型 ICON 提升以飓风为中心的高效模拟能力</title>
+      <link>https://doi.org/10.5194/gmd-19-7705-2026</link>
+      <description><![CDATA[利用大气模型 ICON 提高以飓风为中心的高效模拟能力
+                    法比安·森夫和罗克珊娜·克里默
+                        地理学。模型开发，19，7705–7723，https://doi.org/10.5194/gmd-19-7705-2026，2026
+                        
+
+
+飓风预测的计算机模型越来越详细，但需要大量的计算资源。我们开发了一种跟踪飓风的灵活方法，仅在需要时应用高分辨率模拟。与传统的有限区域相比，该方法可将计算成本降低一个数量级，同时实现低至 300 米的分辨率。该方法可以提高飓风研究的效率并提高对热带动力学的了解。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7705-2026</guid>
+      <pubDate>Thu, 20 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>CMIP6 缩小规模的 CORDEX-东南亚 (SEA) 整体：SEA 大城市的评估和基准测试</title>
+      <link>https://doi.org/10.5194/gmd-19-7653-2026</link>
+      <description><![CDATA[CMIP6 缩小规模的 CORDEX-东南亚 (SEA) 整体：SEA 大城市的评估和基准测试
+                    Phuong Loan Nguyen、Lisa V. Alexander、Thanh Ngo-Duc、Faye Cruz、Jerasorn Santisirisomboon、Liew Juneeng、Donaldi S. Permana、Jing Xian Chung、Julie Mae Dado、John L. McGregor、Grace Redmond、Tse Wai Po、Fredolin Tangang、Tan Phan-Van、Son C. H. Truong、Marcus Thatcher、Long Trinh-Tuan、Ummu Ma&#39;rufah、Jennifer Tibay、Giovanni Di Virgilio 和 Stephen White
+                        地理学。模型开发，19，7653–7685，https://doi.org/10.5194/gmd-19-7653-2026，2026
+                        我们提出了东南亚（1960-2100）耦合模型比对项目第六阶段（CMIP6）缩小规模区域气候模型模拟的集合。我们（1）根据多个观测数据集评估模型性能，（2）应用标准化基准框架来识别高性能模型，以进一步对东南亚大城市进行公里级动态缩小。这项工作支持可靠的区域气候预测的开发和使用。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7653-2026</guid>
+      <pubDate>Wed, 19 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEMO4.0.4-MEDUSA2.0-PDAF2.0海洋生态系统模型同化浮游植物碳的影响</title>
+      <link>https://doi.org/10.5194/gmd-19-7589-2026</link>
+      <description><![CDATA[NEMO4.0.4-MEDUSA2.0-PDAF2.0海洋生态系统模型同化浮游植物碳的影响
+                    陈雨萌、Dale Partridge、Lars Nerger
+                        地理学。模型开发，19，7589–7613，https://doi.org/10.5194/gmd-19-7589-2026，2026
+                        业务海洋生态系统预测传统上依赖于将浮游植物叶绿素观测与模型预测相结合。然而，使用我们新开发的集合数据同化系统，我们证明同化浮游植物碳数据可以导致更平衡的浮游植物估计并调整全球海洋碳的估计。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7589-2026</guid>
+      <pubDate>Tue, 18 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>将甲烷动力学应用到 LPJmL6 模型中</title>
+      <link>https://doi.org/10.5194/gmd-19-7615-2026</link>
+      <description><![CDATA[将甲烷动力学应用到 LPJmL6 模型
+                    Sibyll Schaphoff、David Hötten、Christoph Müller、Dieter Gerten、Sebastian Ostberg 和 Werner von Bloh
+                        地理学。模型开发，19，7615–7651，https://doi.org/10.5194/gmd-19-7615-2026，2026
+                        甲烷是气候变化的强大驱动因素，但湿地和农业的排放仍然不确定。我们改进了全球植被模型，将水、植物和土壤与甲烷的产生和释放联系起来。该模型现在捕获了淹水地区、甲烷的产生和逸出以及耐洪植物。它更真实地再现了全球湿地模式和排放，有助于评估气候和土地利用变化如何影响未来的甲烷排放并改善气候预测。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7615-2026</guid>
+      <pubDate>Tue, 18 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 MyAMI 衍生的 Mg ∕ Ca 校正纳入 cGENIE.cookie 地球系统模型中的海洋碳酸盐系统 (v.0.91)</title>
+      <link>https://doi.org/10.5194/gmd-19-7569-2026</link>
+      <description><![CDATA[将 MyAMI 衍生的 Mg ∕ Ca 修正纳入 cGENIE.cookie 地球系统模型中的海洋碳酸盐系统 (v.0.91)
+                    马库斯·阿德洛夫、泰拉·M·加尼、马西斯·P·海恩、迈克尔·J·赫内汉、莎拉·E·格林和安迪·里奇韦尔
+                        地理学。模型开发，19，7569–7588，https://doi.org/10.5194/gmd-19-7569-2026，2026
+                        海水成分影响海洋中的碳循环，并且在地球历史上发生了变化，在重建过去的海洋碳酸盐系统时需要进行修正。我们提出了一种基于离子相互作用模型 MyAMI 的中等复杂性地球系统模型 cGENIE 的新校正方案。我们验证了新方案，发现对默认方案的显着改进，并讨论了碳循环重建中准确且一致的主离子校正的相关性。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7569-2026</guid>
+      <pubDate>Mon, 17 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于跨水文气候状况超分辨率降水降尺度的生成人工智能模型的全面相互比较</title>
+      <link>https://doi.org/10.5194/gmd-19-7545-2026</link>
+      <description><![CDATA[跨水文气候状况超分辨率降水降尺度生成人工智能模型的全面相互比较
+                    Shivam Singh、Simon Michael Papalexiou、Hebatallah M. Abdelmoaty、Tom Hartvigsen 和 Antonios Mamalakis
+                        地理学。模型开发，19，7545–7567，https://doi.org/10.5194/gmd-19-7545-2026，2026
+                        高分辨率降水对于水文和气候风险应用至关重要，但气候模型过于粗糙，无法解决风暴规模的极端情况。我们将确定性 U-NET 与两个生成模型（Wasserstein 生成对抗网络 (WGAN) 和扩散模型）进行比较，使用 ERA5-Land 进行 8 倍和 16 倍降水降尺度。 U-NET 很稳定，但可以平滑极端情况，而生成模型可以更好地捕获可变性和重尾，同时引入更大的不确定性。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7545-2026</guid>
+      <pubDate>Mon, 17 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPU加速三维非结构化网格大气动力框架有限元法</title>
+      <link>https://doi.org/10.5194/gmd-19-7525-2026</link>
+      <description><![CDATA[三维非结构化网格大气动力框架GPU加速有限元法
+                    李雷生、付西蒙、郑希宇、李惠媛、李金喜
+                        地理学。模型开发，19，7525–7544，https://doi.org/10.5194/gmd-19-7525-2026，2026
+                        科学家使用不规则网格模型进行精确的天气模拟，这有助于捕获细节，但也会使传统计算机上的计算速度变慢。我们通过重新组织数据和计算来重新设计图形处理单元 (GPU) 的模型。这使得最慢的部分快了数百倍，整个模拟快了十倍以上。这允许更高分辨率的模拟。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7525-2026</guid>
+      <pubDate>Fri, 14 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>CMIP7 评估快速通道的快速评估框架</title>
+      <link>https://doi.org/10.5194/gmd-19-7415-2026</link>
+      <description><![CDATA[CMIP7评估快速通道的快速评估框架
+                    Forrest M. Hoffman、Birgit Hassler、Ranjini Swaminathan、Jared Lewis、Bouwe Andela、Nathan Collier、Dóra Hegedűs、Jiwoo Lee、Charlotte Pascoe、Mika Pflüger、Martina Stockhause、Paul Ullrich、Min Xu、Lisa Bock、Felicity Chun、Bettina K. Gier、Douglas I. Kelley、Axel Lauer、Julien Lenhardt、 Manuel Schlund、Mohanan G. Sreeush、Katja Weigel、Ed Blockley、Rebecca Beadling、Romain Beucher、Demiso D. Dugassa、Valerio Lembo、Jianhua Lu、Swen Brands、Jerry Tjiputra、Elizaveta Malinina、Brian Medeiros、Enrico Scoccimarro、Jeremy Walton、Phil Kershaw、André Lanfer Marquez、Malcolm J.罗伯茨、埃莉诺·奥罗克、贝丝·丁利、布里奥妮·特纳、海伦·休伊特和约翰·P·邓恩
+                        地理学。模型开发，19，7415–7455，https://doi.org/10.5194/gmd-19-7415-2026，2026
+                        快速评估框架 (REF) 是一个社区驱动的平台，用于地球系统模型的基准测试和性能评估。 REF 以四个不同的社区评估工具为基础，旨在为耦合模型比对项目第七阶段的评估快速通道提供模型数据比较。 REF 将在地球系统网格联盟运行，使模型开发人员和科学家能够快速识别模型偏差和性能问题。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7415-2026</guid>
+      <pubDate>Thu, 13 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>增强海气 CO2 交换并调节海水碳酸盐 - pH 动态：波效应机制在 POP2-波耦合模型中的作用</title>
+      <link>https://doi.org/10.5194/gmd-19-7479-2026</link>
+      <description><![CDATA[增强海气CO2交换并调节海水碳酸盐-pH动态：波效应机制在POP2-波耦合模型中的作用
+                    兰永耀、徐晃雄、李伟良、周西蒙
+                        地理学。模型开发，19，7479–7502，https://doi.org/10.5194/gmd-19-7479-2026，2026
+                        这项研究将波浪和海洋模型实时联系起来，以更好地模拟海洋的呼吸方式。与单独处理波浪和海洋的旧模型不同，这种新方法捕获了它们的动态相互作用。研究表明，波浪产生的气泡推动了高达 40% 的气体交换，使全球海洋碳汇估计增加了 1.8%。这有助于科学家更好地预测气候变化并了解海洋缓冲全球变暖的自然能力。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7479-2026</guid>
+      <pubDate>Thu, 13 Aug 2026 20:32:17 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Harvard Business Review</title>
+    <link>https://hbr.org/</link>
+    <description>Harvard Business Review全文RSS。获取更多全文RSS：https://feedx.net</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:02:56 GMT</lastBuildDate>
+    <item>
+      <title>代理协作的兴起 - MIRO 的赞助内容</title>
+      <link>https://hbr.org/sponsored/2025/06/the-rise-of-agentic-collaboration</link>
+      <description><![CDATA[]]></description>
+      <guid>https://hbr.org/sponsored/2025/06/the-rise-of-agentic-collaboration</guid>
+      <pubDate>Tue, 01 Jul 2025 18:25:02 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hbr.org/sponsored/2025/06/how-physical-operations-organizations-are-using-ai-to-protect-workers-and-increase-efficiency</link>
+      <description><![CDATA[]]></description>
+      <guid>https://hbr.org/sponsored/2025/06/how-physical-operations-organizations-are-using-ai-to-protect-workers-and-increase-efficiency</guid>
+      <pubDate>Tue, 01 Jul 2025 16:55:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过优化您的数字化工作场所来增强您的员工队伍 - TEAMVIEWER 的赞助内容</title>
+      <link>https://hbr.org/sponsored/2025/06/empower-your-workforce-by-optimizing-your-digital-workplace</link>
+      <description><![CDATA[]]></description>
+      <guid>https://hbr.org/sponsored/2025/06/empower-your-workforce-by-optimizing-your-digital-workplace</guid>
+      <pubDate>Tue, 24 Jun 2025 17:25:03 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

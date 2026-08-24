@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>发现频道 - 小众软件官方论坛</title>
+    <link>https://meta.appinn.net/c/faxian/10</link>
+    <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:26:23 GMT</lastBuildDate>
+    <item>
+      <title>发现频道：10款大家发现的好评软件[2026年第34期]</title>
+      <link>https://meta.appinn.net/t/topic/90569</link>
+      <description><![CDATA[
+最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来：
+
+
+
+序号
+主题
+
+
+
+
+1️⃣
+【开发者自荐】史前动物博物馆，和孩子一起转着看 18 个史前动物
+
+
+2️⃣
+【自荐】全网热点APP
+
+
+3️⃣
+免费桌面护眼软件，蓝光过滤 + 可爱宠物久坐提醒，不锁屏不打扰
+
+
+4️⃣
+[产品自荐] 基于 Excalidraw 升级了个更全能的白板： 1NX
+
+
+5️⃣
+【开发者自荐】Cast Receiver：让 Android TV / 大屏设备变成 DLNA &amp; AirPlay 投屏接收器
+
+
+6️⃣
+图映：把图片压缩、转换、抠图和动图处理尽量放在浏览器本地
+
+
+7️⃣
+〖开发者自荐〗别闹：完全本地运行的 AI 垃圾短信过滤器 [iPhone]
+
+
+8️⃣
+GotifyInbox  Gotify 消息推送桌面客户端
+
+
+9️⃣
+【网站自荐】ImgPeel（剥图 OCR）— 免费的本地 OCR，图片不上传，浏览器直接识别
+
+
+🔟
+VideoCompress - 视频压缩全程在浏览器里跑，文件不上传
+
+
+
+上期回顾
+
+发现频道近10日热门排行榜[2026年第33期]
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90569</guid>
+      <pubDate>Mon, 24 Aug 2026 01:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】喵呜导图：一个免费好用的思维导图软件</title>
+      <link>https://meta.appinn.net/t/topic/90567</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90567</guid>
+      <pubDate>Mon, 24 Aug 2026 00:09:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>【自荐】蓄拼AI输入法</title>
+      <link>https://meta.appinn.net/t/topic/90564</link>
+      <description><![CDATA[蓄拼：先把话写好，再一次上屏的 Windows 输入法
+大家好，这是我做的 Windows 输入法「蓄拼」。 
+它和普通输入法最大的区别，是增加了一块暂存区：选好的文字不会马上发送，可以继续补充、修改、换行，确认无误后再一次上屏。写长消息、回复邮件或整理一段想法时，会轻松很多。 
+主要功能：
+
+支持全拼、双拼和形码输入
+暂存区可编辑长文本，也能查看输入历史
+可直接使用 AI 润色、改写、总结和续写
+支持实时翻译、语音输入和文字朗读
+可选 Vim 编辑，常用功能都有快捷键
+
+最简单的用法只有四步：
+
+按 F3 开启蓄拼
+输入拼音，用空格或数字键选择候选
+在暂存区继续修改文字
+按 Enter 一次上屏，按 Esc 返回或退出
+
+原项目主页与下载：https://github.com/sxzxs/Real-time-translation-typing
+新版可在release页面下载
+目前还在持续完善中，欢迎试用。如果遇到问题，或者觉得某个操作不顺手，欢迎留言反馈。 
+
+
+
+
+
+Releases · sxzxs/Real-time-translation-typing
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90564</guid>
+      <pubDate>Mon, 24 Aug 2026 00:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开源自荐】KimiCodeBar Windows：托盘上的 Kimi Code 用量监控，4MB，低额度变红提醒</title>
+      <link>https://meta.appinn.net/t/topic/90562</link>
+      <description><![CDATA[软件名称：KimiCodeBar（Windows 社区版）
+一句话简介：Windows 系统托盘上的 Kimi Code 用量监控——左键看额度，快烧完图标变红提醒。 
+开源地址：GitHub - JYH1878/KimiCodeBar-Windows: Windows 托盘上的 Kimi Code 用量监控：左键看额度，低额变红提醒。 Tauri 2 + Rust，安装包仅 4 MB。 · GitHub
+下载地址：Releases · JYH1878/KimiCodeBar-Windows · GitHub （安装包 / 便携版；也支持 winget 和 Scoop）
+官网：https://jyh1878.github.io/KimiCodeBar-Windows
+主要功能
+
+常驻托盘，左键弹出用量面板：7 天 / 5 小时双窗口的已用百分比、剩余量、重置倒计时
+剩余低于阈值（默认 20%，可调）托盘图标变红 + 系统通知
+多账号最多 10 个，翻页管理；支持 Kimi、DeepSeek 余额、GLM Coding Plan 三种账号类型
+本地 token 消耗统计（扫本地会话日志，按天统计 + 近 7 天柱状图），支持 Claude Code / Codex / OpenCode 日志归属
+会员档位、加油包余额、月度总量展示；用量可导出 CSV/JSON
+离线缓存、自动更新、全局热键、中英双语、明暗主题
+
+其他信息
+
+Tauri 2 + Rust 构建，安装包不到 5 MB，运行内存约 10–20 MB
+当前用户安装免管理员；也有免安装便携版
+MIT 开源，是 macOS 版 KimiCodeBar（xifandev/KimiCodeBar）经原作者认可的 Windows 社区移植版，非 Kimi 官方出品
+系统要求：Windows 10 1809+ / Windows 11
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90562</guid>
+      <pubDate>Mon, 24 Aug 2026 00:04:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开源自荐】RetroChat： 让 10 年前的老设备也能流畅用 AI，一款极简复古的 AI 对话客户端</title>
+      <link>https://meta.appinn.net/t/topic/90542</link>
+      <description><![CDATA[适用平台：Web / PWA（兼容现代浏览器，以及 10 年前的老旧 Safari / iOS 12+）
+项目地址：https://github.com/anyuxurl/retro-chat
+在线体验：https://retro.134687.xyz
+
+做这个小工具，其实就两个很单纯的目的：
+
+让老设备也能流畅聊天：现在的 AI 网页动辄几兆依赖，随便打开就卡死闪退。我想让抽屉里吃灰的 iPhone 5s、老 iPad 或者低配旧电脑，也能毫无压力地与现代大模型流畅对话，真正把“电子垃圾”利用起来。 
+给喜欢极简、复古风的人一个纯粹的选择：受够了现代软件花哨复杂的界面，如果你只想要一个安静、纯粹、打字机式流式输出的复古聊天窗口，它会很适合你。 
+
+
+核心特点
+
+极致轻量，老设备秒开：
+没有任何臃肿的现代前端框架包袱，连 10 年前的老设备（如 iOS 12 的 Safari）都能丝滑流式打字输出，不白屏、不卡顿。 
+经典复古双主题：
+内置 CRT 绿屏终端 与 老 Mac 经典灰白 两套极简主题，低像素、纯文字，回归早期计算机的纯粹感。 
+自由接入任意大模型：
+支持自定义接入任何兼容 OpenAI 格式的接口，包括 DeepSeek、Qwen、Kimi以及本地运行的 Ollama。 
+纯本地存储，尊重隐私：
+对话记录和你的 API Key 仅保存在当前浏览器的本地存储中，不设云端数据库，支持一键导出/导入 JSON 备份。 
+支持 PWA“安装”到主屏幕：
+可以像原生 App 一样添加到手机桌面，离线资源缓存，二次打开几乎秒进。 
+（即将）支持 Vercel 一键免费部署：
+自带轻量后端代理与防刷限流机制
+
+
+截图预览
+
+
+
+欢迎体验与交流
+无论是想给家里的老设备找点用处，还是想找个清爽不打扰的极简 AI 工具，都欢迎大家体验！ 
+项目已完全开源，欢迎大家来提建议或吐槽：
+GitHub: https://github.com/anyuxurl/retro-chat
+3 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90542</guid>
+      <pubDate>Sun, 23 Aug 2026 12:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[开发者自荐] Velastar-星空探索与登陆异星世界，这是我做程序员以来开发的最有成就感的 App</title>
+      <link>https://meta.appinn.net/t/topic/90531</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90531</guid>
+      <pubDate>Sun, 23 Aug 2026 08:27:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>【效率工具】yyzTools – 一个 Windows 桌面效率工具集：命令面板 / 翻译 / OCR / 剪贴板 / 动态壁纸</title>
+      <link>https://meta.appinn.net/t/topic/90519</link>
+      <description><![CDATA[软件名称
+yyzTools（Yes Your Zen Tools）
+应用平台
+
+Windows
+
+推荐类型
+【开发者自荐】
+是否收费
+免费
+一句简介
+yyzTools 是一套 Windows 桌面效率工具集，集命令面板、超级翻译、OCR、剪贴板历史、动态壁纸等 363+ 个功能模块于一体，帮你一站式提升电脑操作效率。 
+应用简介
+2026年8月22日 已完成功能：
+
+支持 命令面板，拼音/跨语言搜索，一键启动应用与命令
+支持 超级翻译、OCR 文字识别、计算器等效率小工具
+支持 文件管理器，批量文件预览（视频/图片/文本等全格式）
+支持 剪贴板历史记录，随时找回复制过的内容
+支持 应用使用统计，了解各软件使用时长
+支持 多线程高速下载，支持断点续传，可以稳定满速下载
+支持 批量上传/下载文件，多文件同时传输
+支持 截图与屏幕取词
+支持 动态壁纸、桌面特效
+支持 内置无边框浏览器
+支持 键盘/鼠标按键提示与高亮，快速定位鼠标光标
+支持 363+ 可扩展命令模块（AI/应用/游戏/系统/网页），新增功能只需添加模块文件
+支持 程序坞与自定义全局快捷键
+支持 简中/繁中/英/日/韩/法/德/西/俄/阿拉伯/葡/意 12 种界面语言
+支持 Windows 系统
+
+开发中功能：
+
+插件功能
+
+截图预览：
+
+官方网站
+ yyzTools
+
+yyzTools — A free Windows productivity toolkit
+yyzTools is a Windows desktop productivity toolkit: command palette, translation, OCR, file preview, clipboard history, batch processing, live wallpaper and 40+ more. Local-first, free forever.
+13 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90519</guid>
+      <pubDate>Sun, 23 Aug 2026 03:35:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】纸间笔记：把微信读书划线做成每日抽签，高颜值读书卡片分享</title>
+      <link>https://meta.appinn.net/t/topic/90513</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90513</guid>
+      <pubDate>Sun, 23 Aug 2026 02:55:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费桌面护眼软件，蓝光过滤 + 可爱宠物久坐提醒，不锁屏不打扰</title>
+      <link>https://meta.appinn.net/t/topic/90482</link>
+      <description><![CDATA[软件名称
+护眼宝
+应用平台
+
+Windows
+macOS
+
+推荐类型
+【开发者自荐】
+是否收费
+免费
+一句简介
+蓝光过滤 + 色温调节 + 超可爱的宠物久坐提醒，给长时间盯屏的人一个不打扰的护眼搭档
+应用简介
+我自己就是长期对着屏幕工作的人，试过不少护眼软件，要么太简陋只会调色温，要么太重要强制锁屏打断状态。做不到的就自己做——护眼宝就是这么来的。 
+它做三件事：
+
+ 色温 &amp; 蓝光过滤：可分别调节色温强度和蓝光过滤比例，白天傍晚夜间都能找到舒服的屏幕状态
+ 定时休息提醒：按你设定的工作/休息间隔自动提醒，不强制锁屏，不弹生硬弹窗
+ 宠物久坐提醒：到点会有超可爱的小动物出现在屏幕上——嘎嘎鸭、糯米猫、小虎、鹅鹅鹅，点一下就走，比闹钟友好多了
+
+常驻系统托盘，几乎感觉不到它的存在。适合写代码、做设计、长时间办公的人。 
+后续可以推出宠物自定义教程，然后就可以让自己的宠物来提醒自己该走一走扭一扭活动一下身体了啦
+无需注册，下载即用。 
+官方网站
+
+
+
+护眼宝
+
+
+
+护眼宝官网 - 专业轻量桌面护眼软件|宠物久坐提醒
+蓝光过滤、色温调节、定时休息提醒和宠物动画陪伴，让长时间使用电脑更舒服。 
+
+
+
+
+
+3 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90482</guid>
+      <pubDate>Sat, 22 Aug 2026 07:23:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>GotifyInbox  Gotify 消息推送桌面客户端</title>
+      <link>https://meta.appinn.net/t/topic/90457</link>
+      <description><![CDATA[应用平台
+
+Windows(x64)
+
+推荐类型
+【开发者自荐】
+是否收费
+免费(开源,GPL-3.0)
+一句简介
+一个单文件、零依赖的 Gotify 消息推送桌面客户端,常驻系统托盘实时接收服务器推送,断线自动重连
+应用简介
+GotifyInbox 是使用 Win32/C++ 开发的 Gotify 消息推送客户端,无需安装 .NET 运行时,绿色便携,复制即用。 
+已实现功能:
+
+实时接收 Gotify 消息推送(wss 长连接,Schannel TLS 证书自动验证)
+启动自动连接:配置完整时直接最小化到托盘;未配置时自动弹出设置引导
+托盘常驻:左键显示主界面,右键菜单 消息 / 设置 / 退出
+新消息到达且主界面隐藏时,托盘图标闪烁提醒(6 秒)
+消息列表右键一键复制(标题 + 正文 + 时间)
+历史消息持久化(message.json),重启不丢失
+断线自动重连(指数退避 2s → 60s);令牌无效、证书校验失败等永久性错误自动停止重连,修改设置后恢复
+关闭窗口隐藏到托盘,退出仅通过托盘菜单,不占任务栏
+支持 IPv4 / IPv6,兼容 HTTP / HTTPS
+
+开发中功能：
+
+暂无明确规划,欢迎在 GitHub Issues 提出建议
+
+截图预览：
+
+
+官方网站
+
+
+github.com
+
+
+
+
+GitHub - foolsic/GotifyInbox
+通过在 GitHub 上创建帐户来为 foolsic/GotifyInbox 开发做出贡献。 
+
+
+
+
+
+
+3 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90457</guid>
+      <pubDate>Fri, 21 Aug 2026 16:07:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>DownloadIt - FlashGot 复刻版</title>
+      <link>https://meta.appinn.net/t/topic/90452</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90452</guid>
+      <pubDate>Fri, 21 Aug 2026 14:58:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic手机喜加一 《Caravan SandWitch》截止8.27</title>
+      <link>https://meta.appinn.net/t/topic/90433</link>
+      <description><![CDATA[Android &amp; iOS
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90433</guid>
+      <pubDate>Fri, 21 Aug 2026 08:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>IDM 智能管理器：按需控制 IDM 浏览器扩展开关的浏览器扩展</title>
+      <link>https://meta.appinn.net/t/topic/90432</link>
+      <description><![CDATA[软件名称
+IDM 智能管理器
+应用平台
+
+Windows
+
+一句话简介
+一个通过 Chrome 的 management API 按预设规则管理 IDM 扩展的开关状态的小扩展
+这个小扩展解决了什么？ 
+用 IDM（Internet Download Manager）的同学一定遇到过这个问题：
+IDM 的浏览器扩展实在太霸道了。它会在网络层监听并强行劫持 Chrome 的下载事件。如果你平时和我一样会用到其他带下载功能的扩展，比如用 SingleFile 保存网页、用油猴脚本/扩展批量抓 Pixiv 插画、推特原图或者采集图片，IDM 的扩展就跑出来横插一脚。结果就是：其他扩展设置的指定存储目录失效、自定义的文件名变成哈希乱码，最后还会全被一股脑扔进浏览器的默认下载路径。 
+这个小扩展就是实现了2个功能
+规则匹配：打开特定网站时自动关闭 IDM 扩展
+
+在选项页里可以填入由其他扩展负责批量抓取或存档的域名。如 pixiv.net、x.com （这些网站都有更专业更好用的下载扩展/脚本，没必要用 IDM 下载）。只要浏览器中有任意标签页打开了这些网址，扩展就会在后台静默禁用 IDM，保证抓图/抓视频的扩展正常走浏览器原生下载机制并保留文件名与路径。当关掉所有相关标签页后，IDM 会被自动重新开启。这功能适合固定站点——像 Pixiv、推特这种你常年要抓且你有比 IDM 更好的抓取扩展的地方，配一次规则就再也不用管了。 
+快捷键与单击切换：应对随手存网页
+
+我习惯用 SingleFile 扩展把看到的有意思的文章原样抓下来存档，因为这种抓取情况会在随机网站上发生，不适合用规则匹配。所以设计了一个手动快捷启动机制，遇到这种场景，可以直接按快捷键 Alt + Shift + D（快捷键可以在 chrome://extensions/shortcuts 里修改），或者鼠标左键直接点一下固定在工具栏的扩展图标，就能一键关闭 IDM；存档完毕再点一下就能切回去。比手动去 chrome://extensions/ 页面折腾「进入扩展页、找到 IDM 扩展、关掉、切回存档页、存档、再切回来打开」要方便不少。 
+下载与源码
+
+
+去「蓝奏云」或者「GitHub Release」下载打包好的扩展
+
+
+把文件解压放在一个本地文件夹内（比如 D:\Extensions\idm-smart-controller，这个文件夹不能删，删了扩展就无了）。 
+
+
+打开 Chrome 地址栏访问 chrome://extensions/，打开右上角 “开发者模式”。 
+
+
+点击 “加载未打包的扩展程序”，选中文件夹即可。 
+
+
+右键点击扩展图标 → “选项”，配置你的抓图/白名单域名。 
+
+
+最后的一些碎碎谈
+Chrome扩展市场里倒是也有其他能按规则启停扩展的管理器，但都是综合性的扩展管理器，功能非常多，就为了管一个 IDM 去装个大家伙，属实没必要。于是抽空写了一个没啥技术含量的超轻量级的 Chrome 扩展（Manifest V3），专门用来按需控制 IDM 的启停。 
+因为最初设计就是为了应对 IDM，所以叫「IDM 智能管理器」，但其实你也可以在设置页里选择其他扩展，让「IDM 智能管理器」根据规则管理其他扩展的开关。至于为什么不上架商店——因为要过审核还得配隐私政策、商店截图，就这么个解决小痛点的小扩展，不值得折腾。你看我连扩展的图标都没做，工具栏图标是直接用代码生成的。 
+至于为啥没Firefox版：根据Firefox的安全策略，用户安装的扩展只能控制主题的开关，不能控制其他扩展的开关。如果扩展想要这个权限， 需要被企业策略安装。被企业扩展安装的扩展需要Mozilla 官方数字签名（也就是说必须传到扩展商店被审核一次）好容易安装进去了。 Firefox有个奇怪的机制，被关闭标签页的底层对象销毁是异步延迟完成的，直到新建标签页时，旧标签页才会被实际销毁。所以扩展无法做到标签页关闭后，及时恢复IDM扩展的开启状态（如果需要即及时恢复，需要主动循环检查标签页，要么性能不友好，要么反应延迟高，除非用UC脚本实现）一句话：Firefox想要实现按规则开关扩展太费劲了，谁爱做谁做
+7 个帖子 - 5 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90432</guid>
+      <pubDate>Fri, 21 Aug 2026 08:33:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic赛博领鸡蛋，截止2026-08-27</title>
+      <link>https://meta.appinn.net/t/topic/90421</link>
+      <description><![CDATA[https://store.epicgames.com/p/cardpocalypse
+https://store.epicgames.com/p/albion-online-7eb24d
+https://store.epicgames.com/p/caravan-sandwitch-android-594db5
+https://store.epicgames.com/p/caravan-sandwitch-ios-5c5529
+2个帖子 - 2位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90421</guid>
+      <pubDate>Fri, 21 Aug 2026 03:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>【自荐】全网热点APP</title>
+      <link>https://meta.appinn.net/t/topic/90413</link>
+      <description><![CDATA[软件名称
+全网热点
+应用平台
+Web 端/安卓
+推荐类型
+开发者自荐 / 产品推荐
+一句简介
+一个干净纯粹、极速更新的全网实时热点与资讯聚合平台，打造属于自己的信息流。 
+应用简介
+在这个信息碎片化的时代，想要了解不同圈子的实时动态，往往需要分别打开微博、知乎、B站、GitHub、V2EX、抖音等多个 App 或网页，不仅耗时而且充斥着各种算法推荐与信息流干扰。 
+做 allnet.hot 的初衷，就是想打造一个轻量、高效的一站式热点追踪工具。它将全网数百个主流平台、技术社区及资讯站点的实时热榜/趋势汇聚在同一个界面中，无需反复切换平台，即可掌握全网风向。 
+主要特点：
+
+
+多源聚合：一站式涵盖社交媒体（微博/知乎/B站/抖音）、技术社区（GitHub/掘金/V2EX/CSDN）、新闻资讯（澎湃/36氪/华尔街见闻）等全网主流榜单。 
+
+
+实时同步：高频更新各平台 Trending 与 Hot 列表，确保资讯时效性与准确度。 
+
+
+极简排版：采用卡片/多列网格布局，信息密度高，阅读视野开阔，拒绝冗余广告与算法干扰。 
+
+
+分类自由切换：支持综合、科技、开发、娱乐、财经等标签分类，轻松定位关注领域。 
+
+
+一键直达：点击任意热点条目即可直接跳转至原始平台深度阅读。 
+
+
+为什么做这个？ 
+打造属于自己的信息流工具，又有榜单又有资讯，实时监控全球发生的热点和自己感兴趣的论坛资讯以及新闻。让你吃瓜不再慢一步，打破算法的推荐陷阱。 
+适合什么场景？ 
+
+
+媒体 / 运营人员：需要第一时间捕捉全球热点、选题线索与舆情动态。 
+
+
+开发者 / 技术爱好者：追踪 GitHub Trending、V2EX、开源新趋势与技术圈热议话题。 
+
+
+金融 / 投研人士：快速获取宏观资讯、财经快讯与行业动态。 
+
+
+防信息茧房者：跳出单一平台的个性化算法推荐，全方位了解全网真实热搜。 
+
+
+摸鱼与碎片化阅读：工作学习间隙，花两三分钟快速浏览全网新鲜事。 
+
+
+官方网站：
+
+
+
+全网热点
+
+
+
+全网热点 - 汇聚全网实时热点榜单
+一站式全网热点聚合平台，汇聚微博热搜、知乎热榜、百度热点、今日头条、IT之家等各大平台实时风向标。 
+
+
+
+
+
+APP下载地址：全网热点 App 下载 - 桌面悬浮条 · 桌面小组件 · 实时更新
+6 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90413</guid>
+      <pubDate>Fri, 21 Aug 2026 00:09:38 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>云坤系统软件-中国科技云</title>
+    <link>https://yunkun.cstcloud.cn</link>
+    <description></description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:31:22 GMT</lastBuildDate>
+    <item>
+      <title>腾讯会议预定服务后端架构和业务设计说明</title>
+      <link>https://yunkun.cstcloud.cn/2025/07/09/%e8%85%be%e8%ae%af%e4%bc%9a%e8%ae%ae%e9%a2%84%e5%ae%9a%e6%9c%8d%e5%8a%a1%e5%90%8e%e7%ab%af%e6%9e%b6%e6%9e%84%e5%92%8c%e4%b8%9a%e5%8a%a1%e8%ae%be%e8%ae%a1%e8%af%b4%e6%98%8e/</link>
+      <description><![CDATA[介绍 腾讯会议预定服务主要用于会议室资源预定，用户在腾讯会议服务创建会议后，通过会议号为会议提前预定会议室资源 […]]]></description>
+      <guid>https://yunkun.cstcloud.cn/2025/07/09/%e8%85%be%e8%ae%af%e4%bc%9a%e8%ae%ae%e9%a2%84%e5%ae%9a%e6%9c%8d%e5%8a%a1%e5%90%8e%e7%ab%af%e6%9e%b6%e6%9e%84%e5%92%8c%e4%b8%9a%e5%8a%a1%e8%ae%be%e8%ae%a1%e8%af%b4%e6%98%8e/</guid>
+      <pubDate>Wed, 09 Jul 2025 01:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIHub版本发布</title>
+      <link>https://yunkun.cstcloud.cn/2025/06/24/aihub%e7%89%88%e6%9c%ac%e5%8f%91%e5%b8%83/</link>
+      <description><![CDATA[v0.9.0 发布时间： 2025-09-10 发布人： yushunwang 新增app_call_cent […]]]></description>
+      <guid>https://yunkun.cstcloud.cn/2025/06/24/aihub%e7%89%88%e6%9c%ac%e5%8f%91%e5%b8%83/</guid>
+      <pubDate>Tue, 24 Jun 2025 08:18:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIHub服务部署与升级</title>
+      <link>https://yunkun.cstcloud.cn/2025/06/23/aihub%e9%83%a8%e5%88%86%e9%83%a8%e7%bd%b2%e4%b8%8e%e5%8d%87%e7%ba%a7/</link>
+      <description><![CDATA[一、新环境搭建步骤 安装python和Git 请自行安装python和Git。 项目部署路径为 /home/u […]]]></description>
+      <guid>https://yunkun.cstcloud.cn/2025/06/23/aihub%e9%83%a8%e5%88%86%e9%83%a8%e7%bd%b2%e4%b8%8e%e5%8d%87%e7%ba%a7/</guid>
+      <pubDate>Mon, 23 Jun 2025 02:19:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>传输客户端-开源winscp</title>
+      <link>https://yunkun.cstcloud.cn/2025/06/10/winscp/</link>
+      <description><![CDATA[winscp 使用 下载链接：https://winscp.net/eng/download.php wind […]]]></description>
+      <guid>https://yunkun.cstcloud.cn/2025/06/10/winscp/</guid>
+      <pubDate>Tue, 10 Jun 2025 03:19:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>备份客户端-开源s3sync</title>
+      <link>https://yunkun.cstcloud.cn/2025/06/09/s3sync/</link>
+      <description><![CDATA[s3sync 客户端下载 下载链接：https://gitee.com/cstcloud-cnic/s3syn […]]]></description>
+      <guid>https://yunkun.cstcloud.cn/2025/06/09/s3sync/</guid>
+      <pubDate>Mon, 09 Jun 2025 07:23:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>兼容 AWS S3 API 使用帮助</title>
+      <link>https://yunkun.cstcloud.cn/2025/01/20/obs-aws-s3-api/</link>
+      <description><![CDATA[说明 1.对象存储服务兼容AWS S3部分接口，对桶和文件操作与原生HTTP API接口功能相同； 2.对象存 […]]]></description>
+      <guid>https://yunkun.cstcloud.cn/2025/01/20/obs-aws-s3-api/</guid>
+      <pubDate>Mon, 20 Jan 2025 06:37:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>原生 HTTP API 接口</title>
+      <link>https://yunkun.cstcloud.cn/2025/01/20/obs-http-api/</link>
+      <description><![CDATA[接口文档 ”中国科技云对象存储服务“服务单元 API在线说明与测试文档： https://obs.cstclo […]]]></description>
+      <guid>https://yunkun.cstcloud.cn/2025/01/20/obs-http-api/</guid>
+      <pubDate>Mon, 20 Jan 2025 06:33:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>对象存储FTP访问</title>
+      <link>https://yunkun.cstcloud.cn/2025/01/20/obs-ftp/</link>
+      <description><![CDATA[使用方法 1.下载并安装客户端 图形页面 FileZilla:点击下载 命令行 LFTP:点击下载 2.开启存 […]]]></description>
+      <guid>https://yunkun.cstcloud.cn/2025/01/20/obs-ftp/</guid>
+      <pubDate>Mon, 20 Jan 2025 06:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>对象存储介绍</title>
+      <link>https://yunkun.cstcloud.cn/2025/01/20/%e5%af%b9%e8%b1%a1%e5%ad%98%e5%82%a8%e4%bb%8b%e7%bb%8d/</link>
+      <description><![CDATA[简介 一体化云服务平台对象存储提供海量数据存储、异地容灾备份和计量计费功能。 目前，平台对接了“中国科技云对象 […]]]></description>
+      <guid>https://yunkun.cstcloud.cn/2025/01/20/%e5%af%b9%e8%b1%a1%e5%ad%98%e5%82%a8%e4%bb%8b%e7%bb%8d/</guid>
+      <pubDate>Mon, 20 Jan 2025 06:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>中坤-安全漏洞扫描服务部署</title>
+      <link>https://yunkun.cstcloud.cn/2025/01/16/%e4%b8%ad%e5%9d%a4-%e5%ae%89%e5%85%a8%e6%bc%8f%e6%b4%9e%e6%89%ab%e6%8f%8f%e6%9c%8d%e5%8a%a1%e9%83%a8%e7%bd%b2/</link>
+      <description><![CDATA[概述 中坤漏洞扫描服务目前由开源软件OpenVAS（GVM）与OWASP ZAP提供底层支撑，为了减少运维工作 […]]]></description>
+      <guid>https://yunkun.cstcloud.cn/2025/01/16/%e4%b8%ad%e5%9d%a4-%e5%ae%89%e5%85%a8%e6%bc%8f%e6%b4%9e%e6%89%ab%e6%8f%8f%e6%9c%8d%e5%8a%a1%e9%83%a8%e7%bd%b2/</guid>
+      <pubDate>Thu, 16 Jan 2025 06:26:58 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

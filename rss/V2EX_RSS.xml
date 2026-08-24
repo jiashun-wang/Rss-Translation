@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RSS</title>
+    <link>https://www.v2ex.com/</link>
+    <description>way to explore</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:42:36 GMT</lastBuildDate>
+    <item>
+      <title>还有哪些可以方便获取微信公众号文章的渠道？</title>
+      <link>https://www.v2ex.com/t/1235531#reply21</link>
+      <description><![CDATA[之前用的是 https://supsub.net 但今年人家做大做强了，费用从 100 一年涨到了 300 ！真是的打扰了。所以想问问还有没有别的方式或者渠道能够稳定获取。 
+]]></description>
+      <guid>https://www.v2ex.com/t/1235531#reply21</guid>
+      <pubDate>Wed, 19 Aug 2026 03:10:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>请问有没有带用 AI 全局总结 RSS feeds 的阅读器？</title>
+      <link>https://www.v2ex.com/t/1229081#reply17</link>
+      <description><![CDATA[RSS 好多年了，目前为止一直用的 inoreader 免费抓取 RSS+reeder 连接 inoreader 账号做阅读器
+最近精力变得非常局限，订阅的 RSS 有些新闻也会重复，一条条看实在太耗费时间。想请问下有没有什么 workflow 可以直接把所有订阅的 RSS feeds 用 Gemini 总结一下？ 
+不是总结单篇，而是总结/分类/翻译所有 feeds ，如果能带听书功能就更好了（不强求），求推荐！ ]]></description>
+      <guid>https://www.v2ex.com/t/1229081#reply17</guid>
+      <pubDate>Wed, 22 Jul 2026 07:29:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享 2000 个精华 RSS 活源和一个 Telegram Rss Bot</title>
+      <link>https://www.v2ex.com/t/1226141#reply4</link>
+      <description><![CDATA[💎 2000 个精华 RSS 活源
+一个 Telegram Rss Bot：RssStreamBot⚡
+✨ 功能： 
+
+RSS 订阅自动推送 
+支持频道 / 群组 同步
+多订阅源管理
+发送 Rss Feed 链接即可订阅，操作简单
+订阅可找回（防账号异常）
+OPML 导入导出
+
+⚡ 特点： 轻量 / 稳定 / 无复杂配置
+💡 适合： 新闻频道 / 技术博客 / GitHub 更新 / 内容自动化
+快速使用：rssStreamBot]]></description>
+      <guid>https://www.v2ex.com/t/1226141#reply4</guid>
+      <pubDate>Thu, 09 Jul 2026 09:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>V2EX 的 RSS 订阅怎么同时选择多个啊？</title>
+      <link>https://www.v2ex.com/t/1219125#reply1</link>
+      <description><![CDATA[使用 RSS 订阅，有没有什么办法集中多选几个订阅主题，现在只能手动一个个选择]]></description>
+      <guid>https://www.v2ex.com/t/1219125#reply1</guid>
+      <pubDate>Tue, 09 Jun 2026 08:56:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>又一款 RSS 阅读器 App</title>
+      <link>https://www.v2ex.com/t/1218688#reply12</link>
+      <description><![CDATA[书接上文
+之前说到做了个公众号的 RSS 订阅地址。但是考虑到有些没有接触过 RSS 朋友光拿到地址不知该如何订阅，索性我做了个 App ，直接在 App 中添加订阅地址就好啦！ 
+x6o4 Reader Google play 下载地址
+这次发帖主要还是推广下新上线的 RSS 阅读器 App ，说说做这个 App 的想法。 
+我希望能有一个这样的 App：
+
+像刷短视频一样刷 RSS
+没有未读数的压力，刷到什么看什么，不喜欢直接划走
+能够便捷地搜索阅读历史和收藏
+更加干净且好看的阅读界面
+
+目前 App 支持本地订阅和 FreshRSS 同步。不知道各位正在使用 RSS 佬哥都用哪些 RSS 服务，对呼声较高的后续我考虑接入进来。 
+后续计划：
+
+V2er 特供功能，如果订阅的是 V2EX 的 RSS ，通过授权 api 支持应用内查看评论，更方便佬哥们（以及我）划水。 
+
+
+小字提醒：
+为了赚回消耗的 token 和公众号 RSS 的服务器费用，App 加了点广告，我尽量让 广告不影响阅读体验。如果容不得一点广告的朋友也可以 $2.99 内购买断（非订阅）永久去广告，算是对我最大的支持。 
+不得不说现在的 AI 太好用了，以前让我做一个这样的 App 出来，在 996 的情况下业余时间两年都不一定做得出来。 ]]></description>
+      <guid>https://www.v2ex.com/t/1218688#reply12</guid>
+      <pubDate>Mon, 08 Jun 2026 02:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>clash + fluent reader 获取 rss 源跳转到 127.0.0.1:9000 的问题</title>
+      <link>https://www.v2ex.com/t/1214370#reply1</link>
+      <description><![CDATA[现状：fluent reader 加载 rss 正文转圈很久，最后加载失败页面跳转到 127.0.0.1:9000 + 一长串 url 。 
+服务器使用 rsshub + freshrss ，在网页上看是正常的，排除 freshrss 的问题；
+怀疑是 clash 没处理好，但是 rss 资源是 rsshub.app/xxxx （排除自建环回的问题）；
+rsshub ，freshrss 但都没有 9000 端口占用。 
+clash 和 singbox 配置部分相似。 
+目前解决办法是换 singbox ，clash 发热严重的时候耗电巨快，目前续航良好。 ]]></description>
+      <guid>https://www.v2ex.com/t/1214370#reply1</guid>
+      <pubDate>Thu, 21 May 2026 04:01:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源，一个终端中使用的 Minuflux 前端（Win/ Linux ）</title>
+      <link>https://www.v2ex.com/t/1211900#reply0</link>
+      <description><![CDATA[miniflux 原生用不习惯，看起来速度不够快，根据自己习惯让 AI 做了个 TUI 版本的。 
+
+
+https://github.com/troilus/tuiflux]]></description>
+      <guid>https://www.v2ex.com/t/1211900#reply0</guid>
+      <pubDate>Mon, 11 May 2026 07:17:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在用哪个 rss 工具. 哪个带翻译。 follow 后来翻译也挂了</title>
+      <link>https://www.v2ex.com/t/1209577#reply6</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.v2ex.com/t/1209577#reply6</guid>
+      <pubDate>Thu, 30 Apr 2026 02:23:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>又一个微信公众号 RSS 地址</title>
+      <link>https://www.v2ex.com/t/1206908#reply5</link>
+      <description><![CDATA[RSS 订阅地址： http://wxa-reader.x6o4.com/feed.xml
+首先要说明一下，这个 RSS 中的公众号文章都是我自己阅读之后再投喂给 AI 生成的。可能会包含你不喜欢的内容。当然，如果你看过之后觉得和我的阅读口味相近，可以保持关注。 
+我投喂给 AI 后 AI 会给文章打分，如果评分太低的不会生成 RSS 。 RSS 每天凌晨 3 点更新，更新量取决于我当天的阅读量。 
+另外，大家也可以推荐一些高质量的公众号，我关注后日常阅读完觉得有不错的文章也会投到这个 RSS 里面。 
+你订阅这个 RSS 和使用市面上其他公众号 RSS 生成器不一样的点在于：
+
+这不是爬虫，不会把所有你关注的公众号中的软文硬广也输出出来
+这个 RSS 聚合的是高质量的公众号文章，不需要你逐个公众号去筛选订阅，不会订阅后看了一堆广告推送中才看到一篇干货
+这个 RSS 会将文章内的广告也一并删除，不会在阅读的过程中被突然插入的广告干扰。 
+
+再说回比较现实的问题，这个 RSS 能稳定更新吗？目前都是我自己阅读自己投稿，当做是一种分享，在一些节假日可能会断更。后续我考虑做一个系统接收读者或作者的投稿，跟以前的糗事百科一样也让读者审稿。 
+当然，现在也可以直接到这个 github repo 的 issue 中投稿： https://github.com/veesong/wxa-reader ，AI 会自动处理投稿。这个 github repo 不是项目源码，只是用来做落地页和接收投稿。 ]]></description>
+      <guid>https://www.v2ex.com/t/1206908#reply5</guid>
+      <pubDate>Sat, 18 Apr 2026 16:11:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>你有什么私藏好信息源？科技、投资、历史等等都欢迎，丢出来大家各多一个。</title>
+      <link>https://www.v2ex.com/t/1203391#reply5</link>
+      <description><![CDATA[前段时间看到 Karpathy 在 X 上发帖说要把 RSS 捡回来，还附了一份 92 个高质量博客源的列表。 
+就是这个： https://gist.github.com/emschwartz/e6d2bf860ccc367fe37ff953ba6de66b
+我照着配置了一遍，质量确实挺高。 
+大家平时都有哪些好的信息源？科技、投资、任何领域都可以。 
+分享一下，多分享一个大家各多一个好的信息源。 ]]></description>
+      <guid>https://www.v2ex.com/t/1203391#reply5</guid>
+      <pubDate>Fri, 03 Apr 2026 09:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026 年，我为什么选择 Miniflux 作为 RSS 主力工具</title>
+      <link>https://www.v2ex.com/t/1199969#reply20</link>
+      <description><![CDATA[前情提要：
+2021 年，我为什么选择 Miniflux 作为 RSS 主力工具
+2023 年，我为什么选择 Miniflux 作为 RSS 主力工具
+其实在 25 年的 8 月份，就想发这个帖子了，无奈有一个核心的问题没有解决：就是 iOS/Andoird/Web 客户端。 
+在以往的帖子中，主要是 iOS 为主，但随着国产智能机的崛起，在 Andoird 选择一个趁手的客户端，成为了纠结很久的问题。最开始使用 FeedMe ，功能还算正常，但主要是 UI ，非常不习惯； CapyReader 这个客户端真是非常又潜力，功能、同步功能样样都有，就是 UI 对比度的问题，不太舒服；紧接着尝试了口碑很好的 ReadYou ，起先总是有未读数量同步不准的问题，发了几个 issue ，作者也陆陆续续修了几个版本，每次都还有问题；在这期间，也尝试了使用 SmartRSS ，是本站佬友的作品，起先功能比较少，而后也就慢慢忘了；但最近，突然想起这个客户端，又下载了回来，发现功能已经非常完整，而且 UI 非常流畅，随即马上卸载了 ReadYou ，目前主力使用。 
+再说回 iOS ，Reeder 中规中矩，还是能能打，但确实不怎么更新了。又买断了口碑很好的 lire ，用了之后最大的感觉，同步慢、划动掉帧； Unread ，UI 最舒服，但只支持 FeverAPI 方式接入，最大的痛点不支持划动已读，给作者发信请求支持 Miniflux ，作者回复在计划中；本站经典的 NetNewsWire ，发布了 7.0 大版本，但依然不支持划动已读，作者明确不会支持，遂放弃。打算最近尝试下 SmartRSS 。 
+最后是 Web ，无疑是 nextflux ，体验最佳，而且还支持 PWA ，我什至一度作为了移动客户端使用，作者还有个 ReactFlux ，不太习惯。说回 nextflux ，遇到最大的问题还是未读数量不准的问题，这里讲一下“同步不准”大概复现逻辑，是多个客户端来回切换时，在 A 客户端又未读变为已读内容，有问题的 B 客户端还是未读，而没问题的 C 客户端可以正常同步。这个问题跟作者反馈过，但作者没复现，也就一直这样凑合用了。 
+最后，还是回答正文 Miniflux ，还是延续了原有的各种优点，离不开了。又新增了很多功能，包括为每个 Feed 设置代理。废话不说，贴 docker-compose.yml 配置，一键启动。注释可以参考 23 年的帖子，基本没有变化，做了一些微调。 
+services:
+  miniflux:
+    image: ${MINIFLUX_IMAGE:-miniflux/miniflux:latest}
+    container_name: miniflux
+    depends_on:
+      - db
+    environment:
+      - DATABASE_URL=postgres://miniflux:secret@db/miniflux?sslmode=disable
+      - RUN_MIGRATIONS=1
+      - FETCH_YOUTUBE_WATCH_TIME=1
+      - CREATE_ADMIN=1
+      - ADMIN_USERNAME=admin
+      - ADMIN_PASSWORD=your-password
+      - BASE_URL=https://rss.example.com
+      - POLLING_FREQUENCY=10
+      - POLLING_PARSING_ERROR_LIMIT=0
+      - BATCH_SIZE=200
+      - POLLING_SCHEDULER=entry_frequency
+      - SCHEDULER_ENTRY_FREQUENCY_MAX_INTERVAL=20
+      - MEDIA_PROXY_MODE=all
+      - MEDIA_PROXY_PRIVATE_KEY=miniflux
+      - MEDIA_PROXY_HTTP_CLIENT_TIMEOUT=240
+      - DATABASE_MAX_CONNS=200
+      - DATABASE_MIN_CONNS=5
+      - WORKER_POOL_SIZE=10
+      - HTTP_CLIENT_TIMEOUT=120
+      - TZ=Asia/Shanghai
+      - CLEANUP_ARCHIVE_UNREAD_DAYS=-1
+    restart: unless-stopped
+    ports:
+      - &quot;8080:8080&quot;
+  db:
+    image: postgres:15
+    container_name: postgres
+    environment:
+      - POSTGRES_USER=miniflux
+      - POSTGRES_PASSWORD=secret
+    volumes:
+      - /root/miniflux/root_miniflux-db:/var/lib/postgresql/data
+    healthcheck:
+      test: [&quot;CMD&quot;, &quot;pg_isready&quot;, &quot;-U&quot;, &quot;miniflux&quot;]
+      interval: 10s
+      start_period: 30s
+    restart: unless-stopped
+]]></description>
+      <guid>https://www.v2ex.com/t/1199969#reply20</guid>
+      <pubDate>Sat, 21 Mar 2026 01:24:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在自建 RSS 体验最好的是哪个？</title>
+      <link>https://www.v2ex.com/t/1192227#reply37</link>
+      <description><![CDATA[FOLO 的安卓客户端体验一直很差，免费账户的 RSSHUB 的订阅数量也开始受限制至于 AI 功能我本来就很少用，更不会花 100 刀一年去使用所以就想着还是回到 NAS 自建算了，比起官方的服务还更不如容易触发反爬机制之前用的是 FreshRSS ，今天搜了下发现还有 TTRSS 、miniflux ，想问下有没有实际体验过这几款的老哥哪款体验更现代一点？]]></description>
+      <guid>https://www.v2ex.com/t/1192227#reply37</guid>
+      <pubDate>Wed, 11 Feb 2026 06:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 RSS 阅读器大佬,求合作 v:ZDc0MDI0OTQ3NA==</title>
+      <link>https://www.v2ex.com/t/1187572#reply0</link>
+      <description><![CDATA[RT,求合作,求骚扰,v:ZDc0MDI0OTQ3NA==]]></description>
+      <guid>https://www.v2ex.com/t/1187572#reply0</guid>
+      <pubDate>Thu, 22 Jan 2026 05:26:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>求一个能获得 rss 全文的阅读软件</title>
+      <link>https://www.v2ex.com/t/1182274#reply17</link>
+      <description><![CDATA[一直用 freshrss ，使用 css selector 获取全文，但现在发现发现知乎，微信和 cloudflare 代理的网站都不能获取了，大家有什么推荐]]></description>
+      <guid>https://www.v2ex.com/t/1182274#reply17</guid>
+      <pubDate>Tue, 30 Dec 2025 15:07:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[分享] 我整理了 200+ 个高质量 RSS 订阅源（涵盖科技/独立博客/新媒体）</title>
+      <link>https://www.v2ex.com/t/1181613#reply17</link>
+      <description><![CDATA[体验地址：hot.uihash.com
+整理的数据源大部份都是有检验更新日期，大部份博客还是值得收藏，丰富了平台数据；（上次有小伙伴反馈要看外网新闻的，现在也是可以的，至少都是科技，开发类的 rss ），本来测试了国外很多网站，包括 youtube 都可以添加，懂的都懂，但是为了规避风险，还是禁用了，不过大家可以自行部署
+RSS： https://github.com/sundt/uihash-hotnews/blob/main/rss_feeds.csv
+gitee： https://gitee.com/david-sunny/hotnews
+github： https://github.com/sundt/uihash-hotnews
+下一步目标：
+将微信公众号纳入进来，然后 RSS 不断更新，这样你就可以选择自己想看的了，不被算法裹挟；
+
+]]></description>
+      <guid>https://www.v2ex.com/t/1181613#reply17</guid>
+      <pubDate>Sat, 27 Dec 2025 12:41:49 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

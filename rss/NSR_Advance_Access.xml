@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>National Science Review Advance Access</title>
+    <link>http://academic.oup.com/nsr</link>
+    <description></description>
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>气候驱动的风和热带气旋造成的沿海波浪危害不断上升</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag528/8768594?rss=1</link>
+      <description><![CDATA[Abstract海岸波浪风暴是一种强烈、持久的危害，威胁着全世界人口稠密的海岸线。在全球变暖的情况下，大规模的风型正在改变和改变海洋表面波浪。然而，沿海波浪风暴的长期演变及其变化的驱动因素在全球范围内仍然缺乏量化。在这里，我们使用 1990-2023 年修正的热带气旋风的全球波浪模拟显示，全球沿海波浪风暴频率增加，其中大西洋沿岸的上升幅度最大（约 5%/十年）。这种流域范围内的增强主要是由近岸风增强驱动的，而热带气旋则起到了额外的放大器的作用。结合频率、持续时间和强度的变化，我们将黄海-东海和西北大西洋沿岸确定为快速加剧的波浪危害的新兴热点。我们的研究结果为将沿海波浪风暴趋势归因于风暴环境的变化提供了第一个全球范围的基线，从而为预警系统提供信息并指导持续气候变化下的适应策略。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag528/8768594?rss=1</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过电化学聚合物皮膜持续为智能微型机器人供电</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag529/8768589?rss=1</link>
+      <description><![CDATA[Abstract自主微型机器人需要电力、传感能力和智能。然而，在微观尺度上，传统技术难以同时提供足够的能量密度和功率，同时实现智能环境识别。本文报道了一种开放式聚合物工程系统，使微型机器人能够连续运行，不受能量密度限制，并通过电化学环境识别主动寻找能量。核心创新是基于附着在微型机器人脚上的交联聚丙烯酸钾膜的膜设计。这种工程皮肤膜从接触的金属或硅基材中提取化学能，并通过利用大气水分和氧气的电化学过程的受控反应动力学将其转化为电能。这种开放式系统的制造面积小至 ∼1 mm2，厚度为 0.05 mm，非常适合毫米至厘米级微型机器人。皮肤膜提供的功率密度为 133 mW cm−2，比微电池高一个数量级，可为微型机器人提供超过 10,000 步的动力。此外，该系统还展示了大众交通的智能控制；膜内的内部离子迁移能够识别基材材料和粗糙度，促进活性能量追踪。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag529/8768589?rss=1</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有高分辨率法布里-珀罗滤色器阵列的百万像素快照高光谱成像</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag526/8768588?rss=1</link>
+      <description><![CDATA[摘要在快照高光谱成像领域，开发具有高空间分辨率和大传感器尺寸的先进光谱信息编码元件是一个长期的追求目标。在各种策略中，法布里-珀罗（F-P）腔彩色滤光片具有高透过率和窄滤色功能，是一个有前途的平台。然而，利用多层沉积方法制作F-P彩色滤光片极具挑战性。在这里，我们证明了可以通过单步灰度电子束光刻来制造兼容商业传感器的 F-P 腔滤色器阵列。在概念验证实验中，空间分辨率为5.2 µm × 5.2 µm、像素数为126万的银-电介质-银F-P彩色滤光片阵列成功用于演示高光谱成像功能。由于电子束直径为数十纳米级别，F-P腔的像素尺寸可小至3.45 µm × 3.45 µm，甚至更小。该方法在高分辨率快照高光谱成像以及光学检测、遥感、生物医学成像等相关应用中具有巨大潜力。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag526/8768588?rss=1</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过物理约束机器学习进行温控材料的多目标和跨尺度逆向设计</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag503/8768582?rss=1</link>
+      <description><![CDATA[摘要温度控制材料，尤其是复合相变材料 (CPCM)，在下一代电力电子器件的热管理方面显示出巨大潜力。然而，多个性能指标的协同优化仍然很大程度上依赖于爱迪生式的试错实验。在此，我们提出了一种人工智能框架，该框架结合了基于 CPCM 有向无环图 (DAG) 架构构建的物理约束逆向设计系统 (PHICS)，集成了接口、相位和载体工程。通过通过 DAG 编码结构层次结构和物理因果关系，PHICS 框架将前向预测建模与多样性增强的 NSGA-II 优化器结合起来，以有效地映射帕累托最优设计边界。在这些预测的指导下，我们成功地制备了由取向石墨纤维骨架和具有非晶氧化铝（am-Al2O3）界面过渡层的正二十烷基体组成的高性能CPCM。受益于am-Al2O3中间层作为界面声子桥和电子势垒的双功能作用，所得的CPCM实现了热传导、热存储和电绝缘的优异平衡。这些结果证明了 PHICS 引导的多功能复合材料设计的准确性，建立了一个闭环平台，将物理约束机器学习与实验验证相结合，以解决关键的热电权衡。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag503/8768582?rss=1</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用元深度传感器进行高吞吐量和精确的跨尺度 3D 传感</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag524/8767957?rss=1</link>
+      <description><![CDATA[摘要深度传感已广泛应用于工业检测、交通运输、消费电子等领域。然而，现有方法仍然面临深度精度和数据吞吐量之间固有的权衡。在这里，我们提出了一种元成像深度传感器（MDS），这是一种完全被动的单目模式，它通过像差鲁棒视差深度校准和视觉基础模型超越了这一限制，基于扫描光场成像系统支持精细增益的 3D 测距。我们的系统将高通量视差估计和基础模型的海量数据相结合，可实现0.1米至500米深度范围内的高精度细粒度度量深度估计。实验验证表明，在 1.5 米距离处的绝对深度精度为 2.5 毫米（相对误差为 0.18%），分辨率为 3 兆像素，其精度比传统光场深度传感器高出 7 倍，空间分辨率比传统光场深度传感器高出 5 倍，而无需牺牲虚拟扫描技术的成像速度。与商用 LiDAR 系统相比，我们还实现了 500 米距离的抗湍流远程深度传感，空间采样率明显更高，235 米距离的深度估计精度为 0.7 米。通过将被动成像的吞吐量优势与物理感知神经回归的高精度深度估计能力相结合，所提出的 MDS 为跨尺度的高保真被动 3D 传感建立了可扩展的范式，其应用范围从工业检测到自动驾驶。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag524/8767957?rss=1</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度洋偶极子的两种不同类型</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag519/8767817?rss=1</link>
+      <description><![CDATA[摘要印度洋偶极子 (IOD) 传统上由热带西印度洋和东印度洋之间的海面温度 (SST) 异常梯度定义，这里揭示了它包含两种不同的类型。采用标准差分析和海温模态组合等多种系统方法，我们确定了西部-东部型和中东部型，并根据海温异常模式、季节演变和反馈机制进行区分。由于强但延迟的风-温跃层-海温反馈，西-东型在北秋季较晚达到峰值，而中-东型则较早达到峰值，受较弱且较早的反馈控制。至关重要的是，近几十年来，积极的西东类型——与传统的 IOD 相比，与东非降雨量增加的关系更为密切——已经加剧，增加了整个东非与降雨相关的灾害的风险。这些发现完善了 IOD 的概念框架，并强调了其不断变化的特征所带来的日益严重的气候危害。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag519/8767817?rss=1</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>1,3-二烯原理：丙二烯去消旋化转化和迁移功能化的替代途径</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag509/8767816?rss=1</link>
+      <description><![CDATA[摘要丙二烯的不对称氢官能化已成为合成特殊烯丙基骨架的一种有价值的策略。然而，现有的研究很大程度上局限于特殊的末端丙二烯底物，以避免严重的去消旋化问题。在此，我们提出 1,3-二烯原理作为一种新的、广泛适用的机制途径来解决这一长期存在的挑战及其他挑战。 1,3-二烯原理通过十多种未探索的外消旋丙二烯对映选择性转化的应用得到证明。立体发散合成、聚合制备和天然产物的简洁获取进一步凸显了该范式的实用价值和通用性。值得注意的是，1,3-二烯歧管还实现了第一个丙二烯迁移氢官能化，打破了仅限于烯烃基材的金属行走化学。实验结果和理论计算均支持涉及1,3-二烯的去消旋化路线，为丙二烯转化开辟了新模型。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag509/8767816?rss=1</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>工业嵌入式人工智能调查：从工业机器人的角度</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag505/8767815?rss=1</link>
+      <description><![CDATA[摘要工业机器人是现代制造自动化的基础，但基于固定轨迹和离线编程的传统确定性控制在高度混合和柔性生产中举步维艰。具身人工智能（EAI）通过在闭环物理交互中耦合感知、推理和行动，提供了一种有前途的替代方案，使工业机器人能够在线适应行为而不是执行预定义的任务。然而，由于对精度、实时性能、可靠性和安全性的严格要求，通用EAI仍然难以在工业环境中部署。这些挑战激发了人们对工业人工智能 (EAI4I) 的兴趣日益浓厚。本文从工业机器人角度对 EAI4I 进行了系统调查。具体来说，我们首先分析EAI4I赋能的工业机器人的量化需求。随后，回顾了近期的研究进展，涵盖单机器人和多机器人系统的核心技术、专用硬件平台、高保真模拟器、特定任务数据集、代表性工业应用场景和关键部署挑战。最后，讨论了 EAI4I 的有希望的方向。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag505/8767815?rss=1</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

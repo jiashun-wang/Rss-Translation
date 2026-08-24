@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Skywind Inside</title>
+    <link>https://skywind.me/blog</link>
+    <description>写自己的代码，让别人猜去吧</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:23:26 GMT</lastBuildDate>
+    <item>
+      <title>在 Vim 里实现可定制表单对话框</title>
+      <link>https://skywind.me/blog/archives/3676</link>
+      <description><![CDATA[Vim 的功能非常强大，但这种强大是有代价的——你得把它全部记住。 记忆的负担 就拿替换命令来说。 ”查找替换”这么一个最常见的编辑操作，在 Vim 里有一堆变体： 替换所有匹配项，而不只是每行第一个？加 g。 每次替换前要确认？加 c。 不区分大小写？加 i。或者在模式里写 \c。 要不要用正则？默认就是正则。但用哪种风格？ \v 是 very-magic，\V 是纯文本，还有默认的 magic 模式，各有各的转义规则。 只匹配整个单词？用 \&lt; 和 \&gt; 把模式包起来。容易忘，也容易打错。 替换整个文件？前面加 %。只替换选中区域？用 &#39;&lt;,&#39;&gt;。指定行范围？输入行号。 于是你写出这样的命令： :%s/\v(foo|bar)/baz/gci 新手要花很久才能记住这些标志位。有经验的用户也会忘掉不常用的那几个。 而且替换只是一个内置命令。真正麻烦的是插件——每个插件都有自己的命令、自己的参数和语法。天天用的那些还好，肌肉记忆自然形成；但那些偶尔才用一次的？每次都得重新翻文档。 这就是 Vim 界面的根本矛盾：命令行天生为速度优化，而不是为可发现性优化。如果你已经记住了命令，它快得飞起；如果你忘了——哪怕只是忘了一个标志位——就只能干瞪眼。 如果能把一个命令的所有可选项一次性展示在用户面前呢？不是藏在 :help 里，而是就在屏幕上，一目了然： 这是一个用 vim-quickui 搭建的查找替换对话框。所有选项清清楚楚：正则模式、大小写敏感、全词匹配、是否确认、替换范围。不管是第一次用，还是隔了几个月再回来用，完全没有记忆负担——你看到有什么选项，勾选你需要的，直接开始。 … Continue reading →
+The post 在 Vim 里实现可定制表单对话框 appeared first on Skywind Inside.]]></description>
+      <guid>https://skywind.me/blog/archives/3676</guid>
+      <pubDate>Sat, 02 May 2026 12:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>单头文件 C++ 游戏开发库（GameLib.h）</title>
+      <link>https://skywind.me/blog/archives/3666</link>
+      <description><![CDATA[最近小孩在学 C++（信奥），学了堆语法以后不知道干嘛，学了一年也只会对着黑窗口打印内容，正反馈太弱了，不像其他语言，学个几天就能做出漂亮的东西来，恰巧他对开发游戏感兴趣，我扫了一眼现在 C++ 的游戏开发框架，都太复杂了，SDL 概念琐碎，SFML 使用麻烦，所以我写了个针对初学者的游戏库，只有一个头文件 GameLib.h 零依赖，拷贝到代码目录 include 就能用，十行代码就能出个小 demo： 本着简化一切的思想，使用起来比 PyGame 还要简单： #include &quot;GameLib.h&quot; int main() { GameLib game; game.Open(640, 480, &quot;My Game&quot;, true); int x = 320, y = 240; while (!game.IsClosed()) { if (game.IsKeyDown(KEY_LEFT)) x -= … Continue reading →
+The post 单头文件 C++ 游戏开发库（GameLib.h） appeared first on Skywind Inside.]]></description>
+      <guid>https://skywind.me/blog/archives/3666</guid>
+      <pubDate>Fri, 03 Apr 2026 14:48:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 rclone bisync 两步搭建个人云盘</title>
+      <link>https://skywind.me/blog/archives/3671</link>
+      <description><![CDATA[如何最快搭建个人云盘？ Nextcloud 太大太臃肿，后面一堆 apache/nginx/php/mysql，命令行同步也不好用，私货还太多。 著名的 syncthing 要求有 P2P 中转服务；还要求同步时另一台电脑也开着机，不开机的话，你要在服务器上做一个同步点持续运行，那么做了这个服务和 C/S 架构的 rclone 有啥区别呢？还要多依赖一个 P2P 中转服务（虽然可以找到别人提供的），其他的开源产品也好不到哪里，相比之下 rclone 是最轻量级的解决方案了。 恰巧 rclone 最近几年一直在优化 bisync 功能，就是双向同步，网盘的核心功能，bisync 在 2022 年引入 rclone 一直处于 experimental/beta 阶段，其实几年前就基本可以用了，官方文档在 2025 年下半年正式移除 experimental/beta 字样，然后 bisync 功能正式转正。 所以我们用 rclone 的 bisync 功能来分别搭建客户端和服务端： 1️⃣ … Continue reading →
+The post 使用 rclone bisync 两步搭建个人云盘 appeared first on Skywind Inside.]]></description>
+      <guid>https://skywind.me/blog/archives/3671</guid>
+      <pubDate>Thu, 29 Jan 2026 16:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 最好用的 TUI 界面库 Turbo Vision 2.0</title>
+      <link>https://skywind.me/blog/archives/3656</link>
+      <description><![CDATA[说起文本模式界面库，也许有人听过 Turbo Vision 2.0，这货是当年 Borland C++ 3.1 （不是 Turbo C 2.0）背后的商用界面库 TV2 的开源版，经过多年迭代，如今是一款支持 unicode 和现代 C++ 跨平台的 TUI 库了： 项目地址：https://github.com/magiblot/tvision 主要特性： 跨平台：Windows，Linux，macOS，DOS，FreeBSD 支持鼠标，支持 unicode，正常显示中文； 多窗口：窗口可以自由拖拽移动，扩大缩小，全屏，互相覆盖（overlap） 控件多：主菜单，对话框，checkbox, radiobox，dropdown list，文件选择器，进度条，阴影 文本编辑：语法高亮，自动 indent，鼠标选中，shift+方向键选中，CTRL+C/CTRL+V 支持真彩：原来老的 Borland 版本的 TV2 只支持 16 色。 Linux 下大部分 TUI … Continue reading →
+The post C++ 最好用的 TUI 界面库 Turbo Vision 2.0 appeared first on Skywind Inside.]]></description>
+      <guid>https://skywind.me/blog/archives/3656</guid>
+      <pubDate>Sat, 03 Jan 2026 14:06:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何清理你的系统盘（C: 盘)？</title>
+      <link>https://skywind.me/blog/archives/3650</link>
+      <description><![CDATA[就一年没清理 C 盘，今天清理出 140GB 的东西来，而且还没影响使用，所有程序都在往你的 C 盘拉屎。不要网友问我怎么清理下来的： 1）右键 C 盘属性，清理； 2）自己到 TEMP 目录手动清空，注意有三个 Temp：AppData 下面两个，Windows 目录下有一个； 3）SpaceSniffer 找占用大的目录，清空不合理的，这个需要一点经验，拿不准可问下 AI 某目录能不能清空； 4）清浏览器缓存； 5）最后 CCleaner 跑一遍。 上面一系列任务做完基本就清理出 100GB 的内容了，然后再使用 Dism++ 删除系统还原点后，又多出 40GB 来： 最开始剩余空间只有 130GB，现在有 272GB 剩余，可以做一次年度全盘备份了。 
+The post 如何清理你的系统盘（C: 盘)？  appeared first on Skywind Inside.]]></description>
+      <guid>https://skywind.me/blog/archives/3650</guid>
+      <pubDate>Fri, 26 Dec 2025 16:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 适合开发游戏吗？</title>
+      <link>https://skywind.me/blog/archives/3639</link>
+      <description><![CDATA[Rust 并不适合开发游戏，它更擅长有明确定义，边界清晰的项目，这样你类型体操一遍做完问题不大，比如重构个已经十年没变过的 C 模块，但游戏领域并没有明确的定义，策划案不停修改，你的代码不但要求快速迭代还要求不停重构，那么类型体操在这过程中就变成锁死你的紧箍咒。 参考文章：3 年写了 10 万行代码开发者吐槽：当初用 Rust 是被忽悠了 这里解释一下，为什么当项目没有明确定义时，rust 为啥会显得笨拙？因为此时不但需求会随时间变来变去，更要命的是你没有一份十年没变过的 C 代码做参考，对项目整体实现缺乏全局的认识，只有自底向上的方法不断尝试和修正自己，不段反思和改进中上层代码，才能像盲人摸象那样逐步认清楚整个世界因该是啥样。 而此时类型体操会在这时勒得你喘不过气来，一个之前需要横着用的变量现在需要竖着用了，你思来想去发现你完全没办像其他语言那样改成法竖着用了，于是你只有引入更大范围的重写才能解决问题，你觉得这样很难受，去 rust 社区寻求帮助，但发现他们并不会帮助你真的解决语言问题，只会一个劲的指责你 “你觉得痛苦正是因为你对 rust 不熟悉导致的” 或者 “rust 逼迫你更大范围重写正是逼你尽早写出更好的代码”，他们这么说在定义清晰的项目里的确没问题，越早重构越好，但在定义不清晰的项目上里存在大量中间设计，你今天改成这样，八成不是最终形态，隔几天可能还要改，而此时 rust 却逼迫你每次都提前费精力进行更大范围的重写，即使这时完全没必要的，过两天就不需要的，他也不许你像其他语言那样用快速实现的方式应对新的中间状态，等需求稳定了，技术方案也收敛的情况下再进行迭代和完善，然后你就抓狂了！ 网友 FENG DONG：项目没有明确定义时候，需要设计 cost function，然后让代码沿着 gradient 演进。但 Rust 不是一种可微的语言。 网友 Aaltonen：游戏开发是 “巨型可变状态球” （giant balls of … Continue reading →
+The post Rust 适合开发游戏吗？ appeared first on Skywind Inside.]]></description>
+      <guid>https://skywind.me/blog/archives/3639</guid>
+      <pubDate>Thu, 30 Oct 2025 05:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>博客迁移服务商</title>
+      <link>https://skywind.me/blog/archives/3623</link>
+      <description><![CDATA[我的博客使用的 wordpress 一直架设在 bluehost.cn 上，差不多十多年了，前两天突然就不能访问了，后台也登录不进去，一查 bluehost.cn 主页，原来停止服务了，很多和我一样在上面运营十多年的网站都是说停就停，然后完全不提供数据备份的时间，连个电话都不给你打一个，就是邮件垃圾箱里提前几天给你发了一封告知邮件，人家 linode 之类的欠费停止你服务后，任然给你机会备份走，结果它完全不给。 所以没有啥完全稳定会一直存在的服务商，幸亏我机器上有备份，调查了以下几家虚拟主机提供商，他们的业务发展情况及稳定性，最后迁移 bluehost.com 了，帖子和评论都恢复了，但是页面访问统计没恢复到，因为页面访问统计插件是把数据存在别的 mysql 表里的，但之前用的备份插件又是只导出 wordpress 标准表格，所以包括访问统计，upvote 之类的数据全部清零了，无所谓了，还好访问量不算啥重要的东西，希望这次 bluehost.com 能多用两年。 之前我用过 bluehost.com 的，指示图 bluehost.cn 服务器在香港，国内访问会快点后面才选他，看来太小众的还是有问题。这次 bluehost.com 的服务器在亚利桑那，虽然远点，但国内访问起来，只要不下载，看个页面什么的也还算顺利。 有人问我为何不用静态页面？发布到 github pages 上那种，因为我这个 wordpress 博客以及个人 wiki 只依赖一家服务商，但是 github pages 页面需要依赖 github，评论需要依赖 gihtub issues+插件，计数器又需要依赖别的什么服务，依赖的服务太多了，上网那么多年我从不相信有什么服务可以一直持续下去的，所以依赖自然也少越好。 … Continue reading →
+The post 博客迁移服务商 appeared first on Skywind Inside.]]></description>
+      <guid>https://skywind.me/blog/archives/3623</guid>
+      <pubDate>Thu, 23 Oct 2025 16:04:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>微信比 Telegram 落后在哪里？</title>
+      <link>https://skywind.me/blog/archives/3617</link>
+      <description><![CDATA[不怕不识货，就怕货比货，以下七点帮你了解差距究竟有多大： 第一：微信桌面 Qt 版引用了来自 Telegram 的 GPL 代码，对二进制 grep 一下字符串 desktop-app 就可以看到。有人找相关负责人提了一年了，结果连删掉字符串都懒得删。 第二：微信这么喜欢抄 Telegram 却不多抄点好的，比如微信群历史服务器只能保存两周，图片更短，当时没下载​​的图片几天后想看看就发现被服务器清除了，而 tg 全球十亿用户，消息存服务器四五年都不会删； 第三：什么年代了，微信附件大小最大 100M（不知改了没？）tg 随便存 10G 附件，一存好几年！一年前群里存的视频现在都找的到； 第四：微信那么挣钱的产品，结果给你搞个朋友圈合照都看不清脸的究极图片压缩，号称节省存储空间，好意思么？语音质量被压缩的经常听不清楚，飞书和钉钉的语音都比它清晰一万倍； 第五：微信用起来比 Telegram 卡有很多原因，其中一个重要原因就是微信使用单消息队列，所有消息挤压在一起，每次切换到微信就要同步一半天，包括全局消息和每个群最近的几百条消息，必须要同步完才能近一步操作，几秒时间消息列表不断更新跳变，点击无响应，导致想发给老婆的话明明点了老婆头像，最后因为列表跳变发到了同事群或者小孩班级群里去了，闹出了无穷无尽的笑话；但 Telegram 之所以不卡一个重要设计就是消息使用多队列，同时不需要等消息同步完才能操作，多个消息队列可以一边同步一边操作，每次切换过去你都可以立即流畅的操作，各个群的最近消息历史会使用并行的多个消息队列在后台并行同步，根本不影响你操作； 第六：微信非常耗电，有一次我手机只有 5% 的电了，希望能撑到出租车到家，所以我开启了节能模式，想着应该没事，正在结束着不同应用时来了条信息，我手贱条件反射的点了上去，瞬间就后悔了，熟悉的微信界面弹了出来，然后一个消息同步，手机被卡住不动，界面不停更新，手机瞬间变烫，几秒时间一下给我手机干没电自动关机了； 第七：微信技术团队比较喜欢吧屁大点事情说的玄乎其玄，不就是用了一个现成的叫 amrNB 的窄带语音编码器么，还只能编解码 8khz 的音频，明明有更好的做法，却用这种老旧淘汰的东西损失很多质量换来一点空间： 居然还做了三个通宵，还是他们当时广研最有技术含量的东西，这是在进一步自我暴露么？ 所以真的不要和 Telegram 比，一比你发现全是差距。 
+The post 微信比 Telegram 落后在哪里？  appeared first on Skywind Inside.]]></description>
+      <guid>https://skywind.me/blog/archives/3617</guid>
+      <pubDate>Tue, 30 Sep 2025 09:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>你是在什么电脑上学编程的？</title>
+      <link>https://skywind.me/blog/archives/3614</link>
+      <description><![CDATA[我小学时用的 GMT-92 学习机写程序，就是 FC 6502 那一套，但比后辈小霸王强多了：右上方有磁带盒，有很多扩展软件以磁带形式发布，自己写的 BASIC 程序也可以录制到磁带上下次接着写，小霸王那种没有存储设备一关机你的代码就没有的环境是根本没法学习编程的，因为代码完全无法积累，每次重来，你永远写不了复杂的软件，而这台 GMT-92 最核心的地方就是提供磁带存储，让我可以写稍微复杂点的代码，我就抱着一本 BASIC 说明书开始抄写上面的各种例子代码，然后修改部分不停验证学编程的: 那时我想做一个空战游戏，但是我只会每次循环控制一个飞机从左边移动到右边，完全不知道该如何同时控制多架飞机，因为身边没人教，没网络，书店里没游戏开发书籍，也没处问人，只能去书店看相关的电脑书籍得知有些操作系统是有多任务功能的，可以同时运行几段程序，我心想这就是我想要的，可 GMT 根本没有多任务这个功能怎么办呢？ 连续数周没想出解决方案来，上课想，吃饭想，后来脑袋里面一遍遍的过以往学习过的电脑知识，让他们俩俩互相搭配，看看有没有新的可能性，突然我想起书店里介绍多任务原理的文字来，每个任务执行一小段时间片再去执行下一个任务的时间片，切换够快就能产生同时运行的效果，然后我忽然灵机一动，是不是我需要同时控制的多架飞机也可以这样每架飞机每次动一小步，然后快速切换下一架动一小步模拟出多架飞机同时移动的效果呢？ 没有多任务系统，我能不能仿照实现呢？然后脑袋里一遍遍琢磨各处细节越想越觉得没问题，然后周末一整天，上午实现了一个基础，下午不停调试，居然被我做出来了，一个简单的空战游戏，多个敌人和主角可以正常同时移动，后来我才知道，这种每次更小一小步保存状态下次继续的方式就是经典的状态机模型，游戏做出来把我同学和身边小伙伴吓了一跳，也把我爹吓了一跳，他终于觉得或许我有潜力搞这个，才在后来初中时真的下决心给我买了台正儿八经的电脑，联想 486DX 66MHz，4MB 内存，DOS 系统，我才正儿八经的有条件开始自学 C 语言和汇编。 
+The post 你是在什么电脑上学编程的？  appeared first on Skywind Inside.]]></description>
+      <guid>https://skywind.me/blog/archives/3614</guid>
+      <pubDate>Fri, 23 May 2025 16:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raylib 这种立即模式的图形引擎如何呢？</title>
+      <link>https://skywind.me/blog/archives/3607</link>
+      <description><![CDATA[最近 raylib 比较火，又是移植 web 又是移植掌机，看了眼 raylib 的例子代码，知道它为什么代码量那么少了，它甚至连一个显示对象树/场景树都没有实现，就是直接调用各种 draw 函数，和 ImGUI 一样属于 “立即模式”，这种模式做点简单的东西很舒服，对象一多一复杂就会比较麻烦： 那么这种每帧控制自己绘制的立即模式有啥问题呢？ 第一：程序简单的时候好像也没区别，程序复杂了性能会急剧降低； 第二：正统图形引擎，都是维护一颗显示对象树/场景树，使用者将模型添加到书节点上，然后引擎能根据摄像机位置，高效剔除不需要显示的东西，raylib 这种立即模式相当于将大量工作，比如显示对象剔除，坐标变换等全部一古脑的推给用户，图形简单时可以不做剔除，但场景稍微复杂点不做剔除性能就会急剧下降； 第三：需要显示的对象多了以后，如果两帧之间大部分对象并没有改变，那么使用显示对象树可以基本不管，而立即模式下即便大量物体没改变也需要全部重新过一遍，大量数据重复传输到显存； 第四：对象多了以后，对脚本不友好，脚本调用 C 接口本来就缓慢，传统引擎脚本只需要维护两帧之间真正改变的对象，连动画这些自动的东西一旦开始都不用管，但立即模式下，所有对象每帧都需要用脚本操作一遍，开销巨大； 立即模式用来做 UI 问题不大，游戏界面本身没多复杂，但有序图形实用性就不太高了，所以 raylib 这样的立即模式图形引擎，更适合作为教学工具，而不是用于实际项目。 
+The post Raylib 这种立即模式的图形引擎如何呢？  appeared first on Skywind Inside.]]></description>
+      <guid>https://skywind.me/blog/archives/3607</guid>
+      <pubDate>Tue, 29 Apr 2025 13:11:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

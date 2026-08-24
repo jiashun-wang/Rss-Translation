@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Cleve’s Corner: Cleve Moler on Mathematics and Computing</title>
+    <link>https://blogs.mathworks.com/cleve</link>
+    <description>Cleve Moler is the author of the first MATLAB, one of the founders of MathWorks, and is currently Chief Mathematician at the company. He writes here about MATLAB, scientific computing and interesting mathematics.</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:41:16 GMT</lastBuildDate>
+    <item>
+      <title>仓本振荡器</title>
+      <link>https://blogs.mathworks.com/cleve/2026/04/24/kuramoto-oscillators/?s_tid=feedtopost</link>
+      <description><![CDATA[
+仓本振荡器
+我之前曾在博客中介绍过 Indika Rajapakse、Steve Smale 和我正在开展的研究 Kuramoto 稳定性的工作... 阅读更多 &gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/cleve/2026/04/24/kuramoto-oscillators/?s_tid=feedtopost</guid>
+      <pubDate>Fri, 24 Apr 2026 17:16:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>矩阵条件和 QR 分解</title>
+      <link>https://blogs.mathworks.com/cleve/2026/04/13/matrix-condition-and-the-qr-decomposition/?s_tid=feedtopost</link>
+      <description><![CDATA[
+QR 分解提供了矩阵条件数的估计...了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/cleve/2026/04/13/matrix-condition-and-the-qr-decomposition/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 13 Apr 2026 14:19:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>维尔维尔·卡汉</title>
+      <link>https://blogs.mathworks.com/cleve/2026/02/28/velvel-kahan/?s_tid=feedtopost</link>
+      <description><![CDATA[
+维尔维尔·卡汉 (Velvel Kahan) 在意第绪语中的非正式名字是 װעלעעל，意思是“小狼”。如果他需要一个更正式的名字，Velvel 会使用 William...阅读更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/cleve/2026/02/28/velvel-kahan/?s_tid=feedtopost</guid>
+      <pubDate>Sat, 28 Feb 2026 15:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>贝雷斯福德·帕莱特</title>
+      <link>https://blogs.mathworks.com/cleve/2026/02/10/beresford-parlett/?s_tid=feedtopost</link>
+      <description><![CDATA[
+
+Linocuts，作者：Henk van der Vorst....了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/cleve/2026/02/10/beresford-parlett/?s_tid=feedtopost</guid>
+      <pubDate>Tue, 10 Feb 2026 16:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>双摆</title>
+      <link>https://blogs.mathworks.com/cleve/2026/02/01/double-pendulum/?s_tid=feedtopost</link>
+      <description><![CDATA[
+最近两个关于双摆的 YouTube 视频让我感到惊讶......了解更多 &gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/cleve/2026/02/01/double-pendulum/?s_tid=feedtopost</guid>
+      <pubDate>Sun, 01 Feb 2026 23:16:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SVD 衡量美国参议院的党派偏见</title>
+      <link>https://blogs.mathworks.com/cleve/2026/01/12/svd-measures-partisanship-in-the-u-s-senate/?s_tid=feedtopost</link>
+      <description><![CDATA[
+我的第一篇关于美国参议院 SVD 和党派之争的博客是五年前。今天的帖子将其更新为 2025 年......了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/cleve/2026/01/12/svd-measures-partisanship-in-the-u-s-senate/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 12 Jan 2026 16:21:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约时报色彩</title>
+      <link>https://blogs.mathworks.com/cleve/2025/12/23/new-york-times-colors/?s_tid=feedtopost</link>
+      <description><![CDATA[
+我欣赏《纽约时报》游戏版块的配色方案，偶尔将其作为我的颜色顺序....阅读更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/cleve/2025/12/23/new-york-times-colors/?s_tid=feedtopost</guid>
+      <pubDate>Tue, 23 Dec 2025 19:28:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>罗布·施赖伯</title>
+      <link>https://blogs.mathworks.com/cleve/2025/11/29/rob-schreiber/?s_tid=feedtopost</link>
+      <description><![CDATA[
+Rob Schrieber 是我最好的朋友之一......了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/cleve/2025/11/29/rob-schreiber/?s_tid=feedtopost</guid>
+      <pubDate>Sat, 29 Nov 2025 12:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼克·特雷芬森</title>
+      <link>https://blogs.mathworks.com/cleve/2025/11/24/nick-trefethen/?s_tid=feedtopost</link>
+      <description><![CDATA[
+Nick Trethen 是一位世界著名的计算科学家，也是我的好朋友......阅读更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/cleve/2025/11/24/nick-trefethen/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 24 Nov 2025 20:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>杰克·唐加拉</title>
+      <link>https://blogs.mathworks.com/cleve/2025/11/21/jack-dongarra/?s_tid=feedtopost</link>
+      <description><![CDATA[
+Jack Dongarra 是我的学生、同事和朋友......了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/cleve/2025/11/21/jack-dongarra/?s_tid=feedtopost</guid>
+      <pubDate>Fri, 21 Nov 2025 19:47:04 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Pick of the Week</title>
+    <link>https://blogs.mathworks.com/pick</link>
+    <description>Showcasing outstanding MATLAB contributions each week from across the MATLAB ecosystem, including File Exchange, GitHub, MATLAB Answers, and more.</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:41:54 GMT</lastBuildDate>
+    <item>
+      <title>STORX：探索形状和拓扑优化</title>
+      <link>https://blogs.mathworks.com/pick/2026/08/12/storx-exploring-shape-and-topology-optimization/?s_tid=feedtopost</link>
+      <description><![CDATA[
+George 本周选择的是 Amir Mirzendehdel（堪萨斯大学）和 Krishnan Suresh（威斯康星大学麦迪逊分校）设计的 STORX。
+假设您有一些空间可以填充材料，零件所在的几个位置...阅读更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/pick/2026/08/12/storx-exploring-shape-and-topology-optimization/?s_tid=feedtopost</guid>
+      <pubDate>Wed, 12 Aug 2026 15:25:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>航天器仪器到底能看到什么？</title>
+      <link>https://blogs.mathworks.com/pick/2026/07/15/what-does-a-spacecraft-instrument-really-see/?s_tid=feedtopost</link>
+      <description><![CDATA[Mike 本周选择的是 George 的航天器矢量交集Xystouris 由 Kostas Leptokaropoulos 提名 仪器在飞行过程中实际看到什么？对于固定相机，这可能是...阅读更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/pick/2026/07/15/what-does-a-spacecraft-instrument-really-see/?s_tid=feedtopost</guid>
+      <pubDate>Wed, 15 Jul 2026 15:38:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>MATLAB 中的桑基图</title>
+      <link>https://blogs.mathworks.com/pick/2026/07/09/sankey-diagrams-in-matlab/?s_tid=feedtopost</link>
+      <description><![CDATA[迈克本周选择的是刘兆旭的桑基情节 / 由 Yair Altman 提名的诽谤者。桑基图可视化能源、金钱、材料、人员以及任何从一个地方移动到...的事物的流动阅读更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/pick/2026/07/09/sankey-diagrams-in-matlab/?s_tid=feedtopost</guid>
+      <pubDate>Thu, 09 Jul 2026 16:25:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>IMVIEW图像显示功能</title>
+      <link>https://blogs.mathworks.com/pick/2026/06/05/imview-image-display-function/?s_tid=feedtopost</link>
+      <description><![CDATA[
+Mike 本周选择的是 Steve Eddins 的 IMVIEW 图像显示功能。
+Steve Eddins 在 MathWorks 工作了 30 多年，是长期运行的使用 MATLAB 进行图像处理博客的作者...阅读更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/pick/2026/06/05/imview-image-display-function/?s_tid=feedtopost</guid>
+      <pubDate>Fri, 05 Jun 2026 15:36:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSqueak – 一种基于深度学习的超声波发声检测和分析系统</title>
+      <link>https://blogs.mathworks.com/pick/2026/05/14/deepsqueak-a-deep-learning-based-system-for-detection-and-analysis-of-ultrasonic-vocalizations/?s_tid=feedtopost</link>
+      <description><![CDATA[Mike 本周选择的是 Kevin R Coffey 的 DeepSqueak。介绍阿尔斯通的歌唱鼠标本周我了解到有一种会唱歌的老鼠，阿尔斯通的歌唱鼠标Scotinomys teguina）！... 阅读更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/pick/2026/05/14/deepsqueak-a-deep-learning-based-system-for-detection-and-analysis-of-ultrasonic-vocalizations/?s_tid=feedtopost</guid>
+      <pubDate>Thu, 14 May 2026 12:39:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Artemis II 轨迹模拟</title>
+      <link>https://blogs.mathworks.com/pick/2026/04/10/artemis-ii-trajectory-simulation/?s_tid=feedtopost</link>
+      <description><![CDATA[
+Mike 本周选择的是 Jacob Honer 的 artemis2_trajectory_simulation。
+今晚晚些时候，阿耳忒弥斯二号机组人员将在成功飞越月球后溅落回地球。该任务有...了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/pick/2026/04/10/artemis-ii-trajectory-simulation/?s_tid=feedtopost</guid>
+      <pubDate>Fri, 10 Apr 2026 17:16:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>插入令牌：使用 Claude 和 MCP 服务器在 MATLAB 中玩 15 个街机游戏</title>
+      <link>https://blogs.mathworks.com/pick/2026/03/25/insert-token-15-arcade-games-in-matlab-with-claude-and-the-mcp-server/?s_tid=feedtopost</link>
+      <description><![CDATA[本周的选择是 Vasilis Bellos 的 Arcade MATLAB 的 MCP 服务器允许 AI 代理，例如 Claude 或Amp，在您的计算机上使用 MATLAB。反过来，这允许您开发 MATLAB 脚本并...了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/pick/2026/03/25/insert-token-15-arcade-games-in-matlab-with-claude-and-the-mcp-server/?s_tid=feedtopost</guid>
+      <pubDate>Wed, 25 Mar 2026 11:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>MATLAB 用户 John D’Errico 发现了已知最大的可逆素数，有 12,346 位</title>
+      <link>https://blogs.mathworks.com/pick/2026/03/16/matlab-user-john-derrico-finds-largest-known-reversible-prime-with-12346-digits/?s_tid=feedtopost</link>
+      <description><![CDATA[
+迈克本周选择的是约翰·德埃里科发现的新世界纪录可逆素数的候选者。
+可逆素数（也称为 emirp）是产生... 阅读更多 &gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/pick/2026/03/16/matlab-user-john-derrico-finds-largest-known-reversible-prime-with-12346-digits/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 16 Mar 2026 15:14:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam 平台上的 MATLAB</title>
+      <link>https://blogs.mathworks.com/pick/2026/03/06/matlab-on-the-steam-deck/?s_tid=feedtopost</link>
+      <description><![CDATA[Toshi 本周选择的是 Reddit 上 Steam Deck 上的 MATLAB无心蛋7324
+最近的 Reddit 帖子展示了一些意想不到且有趣的事情：用户在 Steam Deck 上成功安装了 MATLAB，并且... 阅读更多 &gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/pick/2026/03/06/matlab-on-the-steam-deck/?s_tid=feedtopost</guid>
+      <pubDate>Fri, 06 Mar 2026 15:44:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>MATLAB 深度学习图像分类器应用程序</title>
+      <link>https://blogs.mathworks.com/pick/2026/02/27/matlab-deep-learning-image-classifier-app/?s_tid=feedtopost</link>
+      <description><![CDATA[Mike 本周选择的是 MathWorks 深度学习工具箱团队开发的深度学习图像分类器应用程序。大多数人开始学习深度学习从图像分类工作流程开始。我...了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/pick/2026/02/27/matlab-deep-learning-image-classifier-app/?s_tid=feedtopost</guid>
+      <pubDate>Fri, 27 Feb 2026 17:33:10 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

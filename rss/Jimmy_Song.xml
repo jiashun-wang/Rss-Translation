@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Jimmy Song – 博客</title>
+    <link>https://jimmysong.io/zh/blog/</link>
+    <description>Recent content in 博客 on Jimmy Song</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:20:33 GMT</lastBuildDate>
+    <item>
+      <title>HAMi-core 与 KAI Scheduler：GPU 共享从可分配走向可治理</title>
+      <link>https://jimmysong.io/zh/blog/hami-core-kai-scheduler-retrospective/</link>
+      <description><![CDATA[GPU 共享正从软分配走向可治理，调度决策与运行时隔离开始能够对应。]]></description>
+      <guid>https://jimmysong.io/zh/blog/hami-core-kai-scheduler-retrospective/</guid>
+      <pubDate>Sat, 15 Aug 2026 11:56:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>水磨昆山：一座江南工业城的文​​脉、烟火与开放</title>
+      <link>https://jimmysong.io/zh/blog/kunshan-trip/</link>
+      <description><![CDATA[从奥灶面到太湖，重新理解一座江南工业城。]]></description>
+      <guid>https://jimmysong.io/zh/blog/kunshan-trip/</guid>
+      <pubDate>Sat, 25 Jul 2026 01:53:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>写在 HAMi 晋升 CNCF Incubating 之后：AI 时代，开源社区正在从代码共同体走向共识网络</title>
+      <link>https://jimmysong.io/zh/blog/hami-cncf-incubating-consensus/</link>
+      <description><![CDATA[代码越来越不值钱，共识和社区才是 AI 时代开源的稀缺品。]]></description>
+      <guid>https://jimmysong.io/zh/blog/hami-cncf-incubating-consensus/</guid>
+      <pubDate>Wed, 08 Jul 2026 13:56:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Olares 与 HAMi：我看到的端侧 AI 工作站新拐点</title>
+      <link>https://jimmysong.io/zh/blog/olares-hami-edge-ai-cloud/</link>
+      <description><![CDATA[HAMi 从集群走向桌面，Olares 让端侧 AI 有了真正的控制平面。]]></description>
+      <guid>https://jimmysong.io/zh/blog/olares-hami-edge-ai-cloud/</guid>
+      <pubDate>Wed, 24 Jun 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个民族都从纺织开始</title>
+      <link>https://jimmysong.io/zh/blog/every-nation-starts-with-textiles/</link>
+      <description><![CDATA[从安吉的一次竹编，到工业革命与后发国家的路，中国正走在这条路的新一段上。]]></description>
+      <guid>https://jimmysong.io/zh/blog/every-nation-starts-with-textiles/</guid>
+      <pubDate>Sat, 20 Jun 2026 05:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 GPU 成了 AI 时代的基石？给 K8s 老兵的 GPU 科普</title>
+      <link>https://jimmysong.io/zh/blog/why-gpu-foundation-of-ai/</link>
+      <description><![CDATA[用 Kubernetes 老兵听得懂的类比，讲透 token、模型、训练、推理、Transformer、Tensor Core、HBM、KV Cache 到底是什么，以及为什么 AI 非跑在 GPU 上不可。]]></description>
+      <guid>https://jimmysong.io/zh/blog/why-gpu-foundation-of-ai/</guid>
+      <pubDate>Wed, 17 Jun 2026 14:28:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPU 利用率正在“失灵”：AI 基础设施需要重新定义效率</title>
+      <link>https://jimmysong.io/zh/blog/beyond-gpu-utilization-productive-gpu-hours/</link>
+      <description><![CDATA[从 GPU 利用率到 Productive GPU-Hours，AI Infra 的效率升级。]]></description>
+      <guid>https://jimmysong.io/zh/blog/beyond-gpu-utilization-productive-gpu-hours/</guid>
+      <pubDate>Wed, 17 Jun 2026 05:57:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 Agent 成为长期运行的分布式状态机：解读 Agentic AI 基础设施可靠性</title>
+      <link>https://jimmysong.io/zh/blog/agentic-ai-infrastructure-reliability/</link>
+      <description><![CDATA[解读 Hesham ElBakoury 的《AI Infrastructure Reliability Features and Architecture for Agentic AI》，从可靠性五维框架、容错、恢复、可观测性到混合架构，分析 Agentic AI 基础设施的设计原则，并从 AI Infra 视角给出评价。]]></description>
+      <guid>https://jimmysong.io/zh/blog/agentic-ai-infrastructure-reliability/</guid>
+      <pubDate>Tue, 16 Jun 2026 09:14:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 GPU 到 Token：AI 基础设施的八层可观测性体系</title>
+      <link>https://jimmysong.io/zh/blog/gpu-to-token-observability/</link>
+      <description><![CDATA[从 GPU 硬件、Kubernetes 调度、推理引擎到 Token 成本，理解现代 AI 基础设施的八层可观测性架构。]]></description>
+      <guid>https://jimmysong.io/zh/blog/gpu-to-token-observability/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:31:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Personal AI Stack：每月 700 元构建一个持续运行的个人 AI 基础设施</title>
+      <link>https://jimmysong.io/zh/blog/personal-ai-stack/</link>
+      <description><![CDATA[我如何用 ChatGPT、OpenClaw、Obsidian、GitHub、飞书、GLM-5.1 和 Mac mini M4 构建一套个人 AI 基础设施。]]></description>
+      <guid>https://jimmysong.io/zh/blog/personal-ai-stack/</guid>
+      <pubDate>Sun, 07 Jun 2026 08:58:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Token 不只是计费单位，它正在成为 AI 时代的新资源单位</title>
+      <link>https://jimmysong.io/zh/blog/tokenomics-foundation-new-resource-unit/</link>
+      <description><![CDATA[最近 Linux Foundation 宣布成立 Tokenomics Foundation。这个基金会的意义可能不在于它会不会定义新的标准，而在于它隐含承认了一件事：Token 已经开始成为一种资源，就像 CPU 在云时代那样。]]></description>
+      <guid>https://jimmysong.io/zh/blog/tokenomics-foundation-new-resource-unit/</guid>
+      <pubDate>Thu, 04 Jun 2026 06:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 原生全景图独立上线：landscape.jimmysong.io</title>
+      <link>https://jimmysong.io/zh/blog/ai-native-landscape-launch/</link>
+      <description><![CDATA[AI 原生全景图已迁移至独立域名 landscape.jimmysong.io，收录 600+ 开源项目，支持 AI Skill 搜索，欢迎 Star 和提交项目。]]></description>
+      <guid>https://jimmysong.io/zh/blog/ai-native-landscape-launch/</guid>
+      <pubDate>Thu, 04 Jun 2026 06:12:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kubernetes 正在成为 AI 时代的 GPU Control Plane：从 HAMi v2.9 看下一代 AI Infra 的演化</title>
+      <link>https://jimmysong.io/zh/blog/kubernetes-gpu-control-plane-hami-v29-ai-infra/</link>
+      <description><![CDATA[观察 AI 基础设施控制面演化的几个趋势，聚焦 HAMi v2.9、GPU 调度和 Kubernetes 资源模型。]]></description>
+      <guid>https://jimmysong.io/zh/blog/kubernetes-gpu-control-plane-hami-v29-ai-infra/</guid>
+      <pubDate>Thu, 14 May 2026 06:33:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kubernetes 在 AI 浪潮下的“焦虑”与新生</title>
+      <link>https://jimmysong.io/zh/blog/kubernetes-in-ai-wave-anxiety-and-rebirth/</link>
+      <description><![CDATA[在 KubeCon EU 2026 中，我感受到 Kubernetes 与 AI 浪潮的焦虑与变化。这篇文章深入探讨了 Kubernetes 在 AI 时代的挑战与未来发展机遇。]]></description>
+      <guid>https://jimmysong.io/zh/blog/kubernetes-in-ai-wave-anxiety-and-rebirth/</guid>
+      <pubDate>Fri, 03 Apr 2026 05:20:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Token 该怎么翻译？这场争论背后，是语言、技术与标准化的三重冲突</title>
+      <link>https://jimmysong.io/zh/blog/token-translation-debate/</link>
+      <description><![CDATA[从词元、智元到 Token 本身，这场翻译之争背后，其实是语言系统、工程抽象与产业标准之间的深层冲突。]]></description>
+      <guid>https://jimmysong.io/zh/blog/token-translation-debate/</guid>
+      <pubDate>Tue, 24 Mar 2026 21:53:16 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

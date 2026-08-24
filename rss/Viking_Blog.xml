@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Viking</title>
+    <link>https://vikingz.me/</link>
+    <description>我叫 Viking, 是一名生活在上海的全栈开发工程师，也是一位自由职业者/独立开发者。</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:24:07 GMT</lastBuildDate>
+    <item>
+      <title>我的产品 TinyShip 发布半年赚了多少钱？</title>
+      <link>https://vikingz.me/tinyship-recap/</link>
+      <description><![CDATA[TinyShip 发布半年了，经历了 14 次版本更新，我现在想分享一下这个产品半年来的一些发展，数据以及大家比较关心的收入，以及在我比较独特的市场策略，技术成长以及未来展望，这些都是我的现在未来产品的宗旨，在 AI 时代继续认真做有个人独特品味的小产品。]]></description>
+      <guid>https://vikingz.me/tinyship-recap/</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是怎样使用 AI 构建 E2E 测试体系的？</title>
+      <link>https://vikingz.me/ai-e2e/</link>
+      <description><![CDATA[TinyShip 是一个 Next.js、Nuxt.js、TanStack Start 三套前端框架组成的 monorepo，同时支持 PostgreSQL 和 SQLite，也就是说每改一个功能，有 6 种不同的组合可能出问题。光靠人肉点根本顾不过来，E2E 测试成了必需品。我总结了一套 Spec → Code → Verify（agent-browser）→ Test → Green 五阶段流程，让 AI 辅助完成 E2E 测试的整个生命周期，大幅提升了开发信心和交付质量。]]></description>
+      <guid>https://vikingz.me/ai-e2e/</guid>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何使用人工智能进行代码审查</title>
+      <link>https://vikingz.me/ai-code-review-en/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://vikingz.me/ai-code-review-en/</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是怎样使用 AI 来做 Code Review 的？</title>
+      <link>https://vikingz.me/ai-code-review/</link>
+      <description><![CDATA[在 AI 生成代码时代，我现在越来越发现 Review 的重要性，因为 AI 代码产出太快了，假如长时间不干预，很快整个系统有可能都不受控制，质量严重下降，变成一个黑盒，我实践了一个叫 Review Forge 的流程来规范我的项目中 Code Review 的方式和流程，同时让我对项目中每次的代码改动更有信心。]]></description>
+      <guid>https://vikingz.me/ai-code-review/</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业第六年 - 2025 年度总结</title>
+      <link>https://vikingz.me/6-years/</link>
+      <description><![CDATA[时间过的飞快，又到年底了，2025年是对于我人生是最难忘/最充实的一年。在生活上我女儿从已经一岁，向两岁进发，我们夫妻两个人最骄傲的成就就是独立带娃。对于我的自由职业生涯，也是有很多新的里程碑，我将把职业生涯最真实的一面总结出来，给想了解这条路的朋友一个参考。]]></description>
+      <guid>https://vikingz.me/6-years/</guid>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个出海产品，是怎样冷启动赚到第一个 100 美元的？</title>
+      <link>https://vikingz.me/first-100-dollars/</link>
+      <description><![CDATA[距离简单简历发布已经过了两年半，现在它已经有 20000 用户，所以我认为它已经是一个模式完全被验证的产品了，所以我创建了 TailwindResume 这个产品，通过冷启动的方式在两周内收获 50 个用户，赚到了 100 美元，不是特别惊人，所以非常真实，是每个想出海的独立开发者都可以完全复制的经验。]]></description>
+      <guid>https://vikingz.me/first-100-dollars/</guid>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的里程碑 🎉 独立开发的作品简单简历月收入达到4000元</title>
+      <link>https://vikingz.me/4000mrr/</link>
+      <description><![CDATA[我的小产品在二月份达到了一个新的小里程碑，月收入达到了 4000元，距离上一次3000元已经过了将近半年，期间收入不断起伏，最终达到新的里程碑，所以呢我想把这段时间内我的一些关于独立开发以及运营的小经验分享给大家。]]></description>
+      <guid>https://vikingz.me/4000mrr/</guid>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个是程序员最爱的编程字体？ 2百万阅读的帖子选出最帅的七种字体</title>
+      <link>https://vikingz.me/best-coding-font/</link>
+      <description><![CDATA[字体/终端/主题是程序员最喜欢讨论的几大话题，程序员在对某些和我们朝夕相处的工具都在追求高颜值，前几天我分享编程字体的帖子受到了很多朋友的喜欢，讨论的热度非常高，整个的浏览量达到了几百万，在这里我就做一个总结的文章视频，来看看现在最流行最受欢迎的字体都有哪些？]]></description>
+      <guid>https://vikingz.me/best-coding-font/</guid>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序员自由职业/独立开发的第四年 - 做什么/收入/经验教训</title>
+      <link>https://vikingz.me/4-years/</link>
+      <description><![CDATA[作为一名程序员，我做自由职业已经四年了，这四年我基本确定了人生的整体规划。和上班相比，这四年是我过的最充实，成长最快的四年，所以我在这里给大家分享下自由职业的故事，包括做什么/收入/经验教训，也就是我亲身经历的程序员的 B 计划，另外一种生活方式。]]></description>
+      <guid>https://vikingz.me/4-years/</guid>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的里程碑 🎉 独立开发的作品简单简历月收入达到3000元</title>
+      <link>https://vikingz.me/3000mrr/</link>
+      <description><![CDATA[我的小产品在六月份达到了一个新的小里程碑，月收入达到了 3000元，上一次的里程碑是月二月份的收入两千元，所以从 2000 - 3000 用了四个月。所以呢我想把这段时间内我的一些关于独立开发以及运营的小经验分享给大家。]]></description>
+      <guid>https://vikingz.me/3000mrr/</guid>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>小小里程碑，独立开发的作品简单简历月收入达到2000元</title>
+      <link>https://vikingz.me/2000mrr/</link>
+      <description><![CDATA[我独立开发的产品 - 简单简历在二月份迎来了一个新的小小里程碑，月收入达到了 2000元，准确数目是 2106元。我想把这段时间内产品的收入，运营，策略以及增长的经验带给大家。在其中还会分享一个对我触动很大的失败的故事。]]></description>
+      <guid>https://vikingz.me/2000mrr/</guid>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不上班的1000天，程序员自由职业 B 计划 - 做什么/收入/经验教训</title>
+      <link>https://vikingz.me/1000-days/</link>
+      <description><![CDATA[时间过的很快，我不上班已经 1000 多天了。这三年来整个计算机行业大环境是在走下坡路，996，内卷，人才过剩，裁员，35岁危机层出不穷。焦虑感不停袭击着我们脆弱的神经，所以我在这里给大家分享下自由职业的故事，也就是我亲身经历的程序员的 B 计划，另外一种生活方式。]]></description>
+      <guid>https://vikingz.me/1000-days/</guid>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我独立开发的产品是怎样获得最初的 300 个用户的？</title>
+      <link>https://vikingz.me/first-300-customers/</link>
+      <description><![CDATA[我在8月底发布了独立开发的产品 - 简单简历，我立志将它打造成一个公开盈利，长期维护，不断迭代的项目。经过一个半月的发展，有了首批 300 名用户，产品创建的初衷是什么？整个发布的过程是怎样？市场推广是怎样实施的？流量是怎样获取的？我特意写了一篇文章记录获取首批 300 用户的点点滴滴，希望对大家能有所启发。]]></description>
+      <guid>https://vikingz.me/first-300-customers/</guid>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>打造程序员完美的终端环境，颜值爆表，效率 X 10倍</title>
+      <link>https://vikingz.me/best-terminal-setup/</link>
+      <description><![CDATA[非常多程序员在对某些和我们朝夕相处的工具都在追求高颜值：比如终端，编辑器，键盘等等，在这里，我想单独拿出终端来说说，它是除了编辑器以外最常用的工具，我们会从几方面来对它就行打造，最终让它既好看又好用，最后声明，这是一期比较新手向的教程，假如你已经是 shell 高手，我建议你就不用看啦。]]></description>
+      <guid>https://vikingz.me/best-terminal-setup/</guid>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序员必会的六条黄金 Git 命令，让你效率提高百分之百</title>
+      <link>https://vikingz.me/git-pro/</link>
+      <description><![CDATA[Git 是程序员日常使用的最多的工具之一，但是会经常遇到一些比较棘手的问题比较抓狂，在这里我选取了六条比较进阶，并且非常实用的 Git 命令分享给大家，它们在日常工作中帮我大大提升了效率。希望也能帮助到大家。]]></description>
+      <guid>https://vikingz.me/git-pro/</guid>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

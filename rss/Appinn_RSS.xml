@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>小众软件官方论坛 - 使用rss标记的话题</title>
+    <link>https://meta.appinn.net/tag/rss/105</link>
+    <description>使用rss标记的话题</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:30:08 GMT</lastBuildDate>
+    <item>
+      <title>【开源自荐】rssume — 用 AI 自动翻译和摘要你的 RSS 订阅</title>
+      <link>https://meta.appinn.net/t/topic/86383</link>
+      <description><![CDATA[软件名称
+rssume
+应用平台
+跨平台（自部署 Web 服务，支持 Linux / macOS / Windows）
+推荐类型
+【开源自荐】
+一句简介
+一个自托管的 RSS 中间件，自动检测文章语言，调用 LLM 翻译非目标语言的文章并生成摘要，重新输出为干净的 RSS 源。 
+应用简介
+rssume 解决的是一个很具体的痛点：订阅了很多英文 RSS 源，但没有时间逐篇阅读。 
+核心功能：
+
+自动翻译：检测文章语言，自动调用 LLM 翻译成中文（或其他目标语言）
+AI 摘要：为每篇文章生成摘要，帮你快速判断值不值得细读
+多源支持：同时监控多个 RSS 源，并发生成翻译及总结
+Web 管理面板：内置仪表盘，可添加/管理订阅源、查看翻译状态、浏览文章
+
+技术特点：
+
+Rust + Tokio 异步，单二进制文件，零外部依赖
+支持所有 OpenAI 兼容 API
+翻译和摘要可分别配置不同模型
+内置 Web 面板，RSS 源自带 XSL 样式，浏览器直接打开可读
+
+适合场景：订阅了大量外语技术博客、新闻源，希望用一个 RSS 阅读器就能看到翻译+摘要后的中文内容。 
+官方网站
+GitHub：https://github.com/zyxisme/rssume
+示例站点：https://rss.0sla.de
+2 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/86383</guid>
+      <pubDate>Wed, 03 Jun 2026 23:19:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>【工具自荐】分享一个 iOS WebDAV 工具：支持资源投影、RSS 目录化浏览和内置媒体播放</title>
+      <link>https://meta.appinn.net/t/topic/84929</link>
+      <description><![CDATA[最近在做一个 iOS App，叫 Zwind。它一开始是围绕 WebDAV 做的：你可以在 iPhone 或 iPad 上创建 WebDAV Server，把设备变成一个轻量的文件服务器；也可以用内置的 WebDAV 浏览器访问目录、管理文件，并直接用内置音乐播放器 / 视频播放器播放媒体内容。 
+但慢慢做下来，我发现它不只是一个&quot;文件管理器&quot;或者&quot;播放器&quot;。我更希望它成为一个可以把不同来源的内容统一映射到 WebDAV 目录里的工具。 
+所以最近我给 Zwind 增加了一个新的能力：资源投影（Resource Projection）。 
+简单说，资源投影就是：把外部资源、信息流或服务，通过插件的方式&quot;投影&quot;成一个可以浏览的 WebDAV 目录结构。 
+这样一来，用户看到的就不只是传统文件夹，而是各种被整理成目录、文件、链接、元数据的资源树。你可以像浏览文件一样浏览它们，也可以结合 WebDAV 的方式进行访问、整理和播放。 
+目前我先做了两个方向的解析器：RSS 资源投影 和 夸克搜索转存。 
+
+RSS 资源投影解析器
+RSS 资源投影 可以把 RSS / OPML 转换成一个可浏览的 WebDAV 资源树。 
+传统 RSS 阅读器通常是以时间线、文章列表的方式来消费内容；而在 Zwind 里，RSS 可以被投影成类似目录和文件的结构。比如 feed、文章、链接、元数据、衍生资源等，都可以用更接近文件系统的方式来浏览。 
+它不一定是为了替代传统 RSS 阅读器，而是提供另一种使用 RSS 的方式：
+
+
+把 RSS 内容当作结构化资源来浏览
+
+
+用类似文件夹 / 文件的形式查看 feed 内容
+
+
+更方便地整理、归档或连接到其他 WebDAV 工作流
+
+
+适合喜欢开放协议、个人知识管理、信息流整理的用户尝试
+
+
+如果你平时只是快速刷 RSS，传统 RSS Reader 可能已经足够；但如果你希望 RSS 内容能以更开放、更可组合的方式存在，RSS to WebDAV 这个思路可能会比较有意思。 
+
+夸克搜索转存解析器
+另一个实验性的方向是 夸克搜索转存。 
+它基于资源投影机制，把外部资源管理流程映射到 WebDAV 目录中。配置完成后，你可以通过创建一个空目录，并把目录命名为想要查找或整理的资源名称，解析器会根据这个目录名触发搜索与导入流程，并将结果投影 / 整理到对应目录下。 
+换句话说，它尝试把&quot;搜索、导入、整理资源&quot;的流程变成一个非常直观的文件夹操作：
+创建目录 → 命名 → 等待解析器处理 → 在目录中查看结果。 
+这个功能更适合已经有相关账号、存储空间和个人资源管理需求的用户，用来减少重复搜索、复制、整理的步骤。它的核心目的是给已有资源管理场景提供一个更自动化、更文件系统化的入口。 
+
+Zwind 目前能做什么？ 
+目前 Zwind 大致可以理解为一个围绕 WebDAV 和资源投影构建的 iOS 工具：
+
+
+在 iPhone / iPad 上创建 WebDAV Server
+
+
+使用内置 WebDAV 浏览器访问和管理文件
+
+
+使用内置音乐播放器播放音频
+
+
+使用内置视频播放器播放视频
+
+
+通过 Resolver 将外部资源投影为 WebDAV 目录
+
+
+VIP Lifetime 支持同时运行多个 WebDAV Server，并可长期解锁未来新增的更多 Resolver
+
+
+我自己对这个方向的理解是：Zwind 不只是&quot;播放文件&quot;，而是希望让各种资源都能变成可浏览、可组织、可播放、可连接的 WebDAV 资源树。 
+
+试用 / 优惠
+如果你对 WebDAV、RSS、个人资源管理、iPhone/iPad 本地播放或资源投影这类玩法感兴趣，可以试试看 Zwind。 
+目前提供 1个月免费体验 Offer（请放心不会自动续约）：
+https://apps.apple.com/redeem?ctx=offercodes&amp;id=6755239096&amp;code=ZWIND1M
+App Store 地址：
+https://apps.apple.com/cn/app/zwind-webdav文件管理服务器-网盘云盘播放器/id6755239096
+也欢迎大家反馈：
+你会希望哪些资源也能被&quot;投影&quot;成 WebDAV 目录？ RSS、网盘、收藏夹、网页书签、播客、YouTube 列表，还是别的什么？ 
+2 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/84929</guid>
+      <pubDate>Tue, 05 May 2026 11:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开源自荐】BriefyPet：一个用 RSS + LLM + 桌宠提醒筛选高价值信息的桌面阅读助手</title>
+      <link>https://meta.appinn.net/t/topic/84787</link>
+      <description><![CDATA[软件名称
+BriefyPet
+应用平台
+
+Windows
+macOS
+
+推荐类型
+【开发者自荐】
+一句简介
+BriefyPet 是一个开源桌面 AI 阅读助手，用 RSS、LLM 摘要和桌宠提醒，帮用户筛选优质信息。 
+
+开发背景
+项目的起因是我的一个心得：信息焦虑更多由信息过载而非信息不足造成。 
+有价值的一手内容分散在英文博客、团队主页、学术动态和产品更新里；但日常刷到的内容，往往经过二次转载和重新包装。 
+RSS 本来可以帮助用户重新掌握信息源，但普通 RSS 阅读器也有一个问题，需要用户主动打开、筛选和判断是否值得阅读。久之可能变成吃灰的未读列表。 
+因此我尝试：
+
+用 RSS 保留对一手信源的主动订阅；
+用 LLM 帮用户做初步摘要、评分和兴趣匹配；
+用桌宠作为常驻桌面的低打扰提醒入口；
+用本地数据库保存阅读记录、收藏和笔记；
+
+应用简介
+BriefyPet 是一个面向桌面端的信息筛选与阅读辅助工具，把 RSS 信源订阅、LLM 内容理解、本地阅读管理和桌宠提醒 结合起来，帮助用户发现值得阅读的信息。 
+工作流：
+
+从内置或自定义 RSS 信源中抓取新内容；
+调用用户自己配置的 LLM Provider，生成中文摘要、契合度评分和推荐理由；
+根据用户选择的关注领域和兴趣描述筛选内容；
+当出现值得优先阅读的信息时，通过桌宠进行低打扰提醒；
+用户可以在软件中阅读摘要、打开原文、收藏内容、记录笔记和查看历史。 
+
+
+
+使用说明
+
+需要用户自配 LLM API Key；
+项目本身不提供云端账号体系，也不会把本地数据库同步到我们的服务器；
+Windows 版本可能会提示未知发布者，因为当前安装包还没有代码签名；
+还处于早期版本，部分体验和跨平台打包还在继续完善中。 
+
+下载与开源地址
+产品发布页：
+
+
+briefypet.netlify.app
+
+
+BriefyPet - 静默守护你的桌面阅读助手
+精选信源、LLM 摘要、流动记忆、完全本地。 
+
+
+
+
+
+GitHub 开源地址：
+
+
+github.com
+
+
+
+
+GitHub - DonkeyKing01/BriefyPet: An AI-powered desktop reading companion that...
+An AI-powered desktop reading companion that filters RSS sources, summarizes content with LLMs, and reminds you of high-value information.
+
+
+
+
+
+
+如果你觉得这个思路有用，欢迎试用、提 issue 和推荐高质量 RSS 信源，或者在 GitHub 点一个 star 支持一下。 
+10 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/84787</guid>
+      <pubDate>Fri, 01 May 2026 15:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>发现一个很像 Folo 的一个古早 RSS 在线应用</title>
+      <link>https://meta.appinn.net/t/topic/78662</link>
+      <description><![CDATA[今天尝试搜索 RSS + 推荐算法的项目搜到了这个网站：newsblur
+界面如下：
+
+虽然不知道功能上和 Folo 有多大差别，话说回来，各位觉得 RSS + 推荐算法有实际价值吗？我自己的体会是一些订阅源（比如 36氪）更新频率较高，其中更新的多数内容我都不需要，但是又时常会有些我感兴趣的内容，所以一直订阅着，如果有个推荐算法帮我筛掉或许挺有用？ 
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/78662</guid>
+      <pubDate>Thu, 11 Dec 2025 14:25:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些 RSS 阅读器对中文搜索支持比较好？</title>
+      <link>https://meta.appinn.net/t/topic/77400</link>
+      <description><![CDATA[先后尝试过 FreshRSS 和 NetNewsWire。整体体验还不错，但这两个工具在 中文搜索 方面的表现都不太理想，常常出现无法准确匹配、分词不好等问题。 
+想请教大家：
+有没有哪款 RSS 阅读器或自建方案 对中文搜索支持比较完善？ 
+6 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/77400</guid>
+      <pubDate>Mon, 17 Nov 2025 02:59:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>【更新自荐】Sidefy（原 SideCalendar）是一个以插件为中心的屏幕边缘信息聚合应用</title>
+      <link>https://meta.appinn.net/t/topic/75129</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/75129</guid>
+      <pubDate>Tue, 23 Sep 2025 10:13:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>求开源安卓RSS阅读器推荐</title>
+      <link>https://meta.appinn.net/t/topic/74712</link>
+      <description><![CDATA[需求：
+1，支持各大新闻站点订阅
+2，支持视频网站，
+3，支持BT，
+4，支持 bgm.tv，
+5，支持软件内置阅读/播放而非跳转浏览器/无需第三方软件打开
+没接触过RSS阅读，先谢了！ 
+8 个帖子 - 5 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/74712</guid>
+      <pubDate>Mon, 01 Sep 2025 01:52:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将FreshRSS收藏文章优雅推送至Kindle？</title>
+      <link>https://meta.appinn.net/t/topic/71607</link>
+      <description><![CDATA[
+以下内容经 AI 整理。 
+
+目前我的阅读方案是使用自建 RSSHub 搭配自建 FreshRSS。桌面端通过网页访问，移动端使用 Reeder。 
+FreshRSS 支持将「收藏」的文章生成一个 RSS 订阅地址，我的目标是基于这个功能，将一些长篇收藏文章推送至 Kindle 阅读，但目前遇到一些困难，尝试的方案都不太满意，特来请教大家有没有更好的推荐或经验分享。 
+尝试过的方案如下：
+
+WhereMyLife
+设置为每天早上定时推送，但存在刷新间隔较长的问题：
+
+
+经常推送一些已经取消收藏的文章
+有些前晚收藏的文章早上无法推送
+
+
+KindleEar
+尝试自建，但部署过程中失败了，暂时没有成功运行。 
+Calibre + RSS
+即使订阅地址中没有任何文章，它也依然会推送文件到 Kindle，不够智能和可控。 
+
+有没有朋友有更理想的解决方案？ 
+理想状态是：
+
+支持自定义 RSS 地址（即 FreshRSS 收藏生成的 RSS）
+支持按需或定时推送至 Kindle
+能智能判断是否有新文章，避免空推送或重复推送
+优先考虑自托管，但也欢迎推荐靠谱的第三方服务
+
+感谢大家！ 
+5 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/71607</guid>
+      <pubDate>Thu, 22 May 2025 09:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有大佬会Rsshub定制路由</title>
+      <link>https://meta.appinn.net/t/topic/66342</link>
+      <description><![CDATA[自己在NAS部署了RSShub服务，已经可以正常访问，但是自己需要的网站不提供RSS地址，RSShub也不提供，自己研究了半天一头雾水，请教有没有大佬可以帮忙定制路由，可有偿，如果能指导编写就更好了（本人没得JS、TS经验）。 
+Docker-Compose如下
+services:
+  rsshub:
+    image: diygod/rsshub:chromium-bundled
+    restart: unless-stopped
+    ports:
+      - &quot;1200:1200&quot;
+    environment:
+      NODE_ENV: production
+      CACHE_TYPE: redis
+      REDIS_URL: &quot;redis://redis:6379/&quot;
+      PUPPETEER_WS_ENDPOINT: &quot;ws://browserless:3000&quot;
+    depends_on:
+      - redis
+      - browserless
+    volumes:
+      - ./rsshub/lib/routes:/app/lib/routes
+
+  browserless:
+    image: browserless/chrome
+    restart: unless-stopped
+
+  redis:
+    image: redis:alpine
+    restart: unless-stopped
+    volumes:
+      - ./redis/data:/data
+
+暂时需要的网址如下列表：
+政策文件库
+http://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/
+
+区县动态
+http://www.cq.gov.cn/ywdt/zwhd/qxdt/
+
+部门动态
+http://www.cq.gov.cn/ywdt/zwhd/bmdt/
+
+今日重庆
+http://www.cq.gov.cn/ywdt/jrcq/
+
+回应关切
+http://www.cq.gov.cn/zwgk/zfxxgkml/hygq/
+
+部门解读
+http://www.cq.gov.cn/zwgk/zfxxgkml/zcjd_120614/bmjd/
+
+媒体视角
+http://www.cq.gov.cn/zwgk/zfxxgkml/zcjd_120614/mtsj/
+
+留言回复
+https://www.gov.cn/hudong/hygq/lyhf/
+
+地方动态
+https://www.gov.cn/lianbo/difang/
+
+部门动态
+https://www.gov.cn/lianbo/bumen/
+
+国务院工作进行时
+https://www.gov.cn/gzjxs/liebiao/
+
+决策部署
+https://www.gov.cn/gzjxs/toutiao/
+
+政策解读
+https://www.gov.cn/zhengce/jiedu/
+
+最新政策
+https://www.gov.cn/zhengce/zuixin/
+
+15 个帖子 - 8 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/66342</guid>
+      <pubDate>Mon, 10 Feb 2025 14:20:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>求 Follow 安卓版</title>
+      <link>https://meta.appinn.net/t/topic/62086</link>
+      <description><![CDATA[
+官方内测版，好像还有个非官方版，哪个都行反正我都没找到，有能分享一下的吗？ 
+10 个帖子 - 9 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/62086</guid>
+      <pubDate>Thu, 17 Oct 2024 06:46:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[送码] 我们正在研发一款聚合信息阅读工具，邀请你填写用户需求调研问卷（优先内测资格）</title>
+      <link>https://meta.appinn.net/t/topic/61411</link>
+      <description><![CDATA[
+不知道大家平时主要通过哪些途径来获取信息？是利用碎片时间刷 Twitter 等社交平台，还是定期访问 The Verge 等网站深度阅读？在这一过程中，相信大家或多或少都遇到过在不同平台间来回切换、不知道该阅读什么内容或是信息过载等问题。 
+如果你对以上问题感同身受，欢迎来填写我们的 需求调研问卷。我们正在研发一款聚合信息阅读工具，希望能通过调研了解大家在信息获取过程中的实际需求和痛点，帮助我们确定产品开发的优先级，（尽量）为大家带来更好的产品。 
+回答整个问卷大约需要 3 分钟，主要涉及以下几个问题：
+
+你平时主要通过哪些途径获取信息？ 
+你主要在哪些设备上阅读信息？ 
+你在获取信息时是否遇到过以下困扰？ 
+你平常使用哪些工具阅读和管理信息？ 
+对于一款信息阅读工具，你最看重哪些功能？ 
+
+所有填写问卷的朋友将优先加入我们的 Waiting List，我们会在 Beta 版本发布时第一时间邀请你参与内测！同时，我们会在产品正式上线后选出 100 名参与者分别送出 30 个年度会员以及 70 个月度会员。 
+
+
+
+Tally Forms
+
+
+
+这份表格已经被关闭了
+这份表格在这一刻不能再接受新的回应。 
+
+
+
+
+
+非常感谢大家的支持与参与，如果大家有任何问题或建议，也欢迎随时在评论区分享：）
+11 个帖子 - 7 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/61411</guid>
+      <pubDate>Thu, 26 Sep 2024 07:47:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>GM_脚本 + CF Workers KV 半自动收集 B 用户投稿转为 RSS</title>
+      <link>https://meta.appinn.net/t/topic/51094</link>
+      <description><![CDATA[一
+终于还是尝试了这种方式什么的。 。 。 
+有借助 RSSHub 订阅 B 站用户投稿和番剧更新，几年来整体还算稳定，想着万一反爬变严了就干脆用 GM_脚本 直接从浏览器里抓取数据到远程存储的方式来实现，，然后 2023-12 开始终于发生了。 。 。 
+就结果来说，本文所述方案的代码已经基本完成了，但终究是不能自动运行，然后定位上也和标准的 RSS 需求不太一样，，大概还是要研究下给 RSSHub 配置 cookie 。 。 。 
+二
+关于功能定位，对于部分 up 主，会希望能把历史投稿也看一遍，然而总量上就会很多，采取了基于时间和条目序号分页的方案，以 m 天划分周期，当前周期内输出固定的 n 条数据这样，，具体看代码吧。 。 。 
+
+wdssmq/later-url-cf: 使用 Cloudflare Workers KV 存储服务收集网址并以 RSS 输出；
+https://github.com/wdssmq/later-url-cf
+
+
+userscript/packages/later-url at main · wdssmq/userscript
+https://github.com/wdssmq/userscript/tree/main/packages/later-url#readme
+
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/51094</guid>
+      <pubDate>Thu, 04 Jan 2024 06:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreshRSS如何持久化配置？</title>
+      <link>https://meta.appinn.net/t/topic/48598</link>
+      <description><![CDATA[使用docker安装FreshRSS，就用的官方的quickrun命令稍微改了下-v参数的目录，但是好像挂载出来的目录里面没有任何配置文件，尝试重新创建容器果然不会保存配置。 
+请问有没有前辈知道用docker安装FreshRSS如何持久化配置？ 
+9 个帖子 - 8 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/48598</guid>
+      <pubDate>Sat, 28 Oct 2023 02:37:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[0.8 深色模式优化] [Firefox / Chrome 附加元件] 烟·红 | 在新标签页看你的 RSS 订阅</title>
+      <link>https://meta.appinn.net/t/topic/39632</link>
+      <description><![CDATA[
+
+
+
+名称
+推荐类型
+平台
+
+
+
+
+烟·红
+开发者自荐
+Chrome / Firefox
+
+
+
+
+
+
+
+【介绍】
+拒绝垃圾信息和广告。在新标签页看你的 RSS 订阅，一切由你做主。 
+嗯，就这样。屏幕截图已经说明了一切。默认会有几个 RSS 订阅，如果你不喜欢的话可以把它删除。 
+0.8
+深色模式优化
+
+更新日志 （点击了解更多详细信息）
+【获取】
+[Firefox 附加组件] https://addons.mozilla.org/zh-CN/firefox/addon/烟-红/
+[Chrome] https://url32.ctfile.com/d/42297732-53815644-3465eb?p=7069 [提取码：7069]
+【如果喜欢的话，就点个赞吧~】
+22 个帖子 - 12 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/39632</guid>
+      <pubDate>Fri, 13 Jan 2023 13:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>有替代FEED43的服务推荐吗？ （制作RSS订阅源）</title>
+      <link>https://meta.appinn.net/t/topic/38480</link>
+      <description><![CDATA[FEED43似乎停止营业了。 
+https://www.reddit.com/r/rss/comments/xv6y8d/feed43_is_no_longer_supported_id_be_happy_to_pay/
+34 个帖子 - 13 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/38480</guid>
+      <pubDate>Tue, 29 Nov 2022 23:37:20 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

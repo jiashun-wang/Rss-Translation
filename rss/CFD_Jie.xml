@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>CFD界</title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description>CFD界公众号</description>
+    <lastBuildDate>Mon, 24 Aug 2026 08:51:53 GMT</lastBuildDate>
+    <item>
+      <title>AI之后，这一爆火的学科，将一落千丈</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649431579&amp;idx=1&amp;sn=172f2913f72043853a36c4c48a7cbcf2&amp;chksm=89533a87ee0201ffedadb5e7d401f8993a2d38e24d3768a5b06ca0528fac73bffc030a7d571c&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[CFD计算流体力学，在1940年代被提出之后，经历了几十年的黄金时期，在2015年前后达到行业的巅峰。考虑到国内的时滞，再考虑到AI人工智能的崛起，经典CFD从此，将正式进入下滑期。在行业巅峰时期，我]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649431579&amp;idx=1&amp;sn=172f2913f72043853a36c4c48a7cbcf2&amp;chksm=89533a87ee0201ffedadb5e7d401f8993a2d38e24d3768a5b06ca0528fac73bffc030a7d571c&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Wed, 19 Aug 2026 04:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>JFM：猫猫狗狗怎么喝水的？雷诺数多少？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649431566&amp;idx=1&amp;sn=fca2da5dd335596d07cf81b4db293f4a&amp;chksm=890cf884945be0604646a6e7db48da1cd7c603d00279ed37481ef5447f1f1f438695c7b7f7e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[最近在JFM看到一篇文章，还挺有意思。文章研究自然界各种动物的喝水的行为。并且对各种喝水的行为做了分类。作者认为suction吸水行为是最为普遍的。当然了，对于其他生物还存在一些特殊的喝水行为。尤其是]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649431566&amp;idx=1&amp;sn=fca2da5dd335596d07cf81b4db293f4a&amp;chksm=890cf884945be0604646a6e7db48da1cd7c603d00279ed37481ef5447f1f1f438695c7b7f7e1&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Mon, 03 Aug 2026 04:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>真正的CFD勇士，敢于直面间断的解！</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649431556&amp;idx=1&amp;sn=661ed8deef665bad7f46de7811aa736d&amp;chksm=89fb02a1ab1f0f9986c51a0241e3ae5a519531c965584e2326bafa874bd06d7031ecfedb2c89&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[在临近岸边的浅水领域，可以通过浅水方程进行描述。上图是冲浪的过程中，形成的波浪表面。如果将波浪表面用h来描述，其在某一点x位置处会形成3个h值，也即tripled-value。这对于浅水方程不构成经典]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649431556&amp;idx=1&amp;sn=661ed8deef665bad7f46de7811aa736d&amp;chksm=89fb02a1ab1f0f9986c51a0241e3ae5a519531c965584e2326bafa874bd06d7031ecfedb2c89&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Mon, 13 Jul 2026 04:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>某湍流模型，终于下海了！ ！</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649431550&amp;idx=1&amp;sn=ffb42f0aded48aa6ee3ea9a3ca1c98bf&amp;chksm=89b76e0b3d5c647351f9d19786e8caf1a86ae0689a98c8f40906ed181400b8db215393a5d0bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[全文手敲非AI涉密的湍流模型这个湍流模型最开始的时候，被某商软包含，但是并没有向外界展示其植入的方程形式，甚至在软件的理论文档里面也声称：&gt; 该湍流模型的理论模型并没有对外发布。这是出于商业的因素。该]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649431550&amp;idx=1&amp;sn=ffb42f0aded48aa6ee3ea9a3ca1c98bf&amp;chksm=89b76e0b3d5c647351f9d19786e8caf1a86ae0689a98c8f40906ed181400b8db215393a5d0bc&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Mon, 29 Jun 2026 04:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用湍流来杀死湍流？不，是湍流在掐架！</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430993&amp;idx=1&amp;sn=3ce51393309c681c8986ed610dc3eb32&amp;chksm=8911d5f72aa85412b31c6c2745c24b57e2388e18edc4c2a34e710b2f85cfcaba1ce1fabd1276&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[本来无心读博，想水1篇sci，1篇算球，赶紧毕业，然而误打误撞，竟然发现了湍流潜规则！之前在2018年，Nature刊发文章，用“湍流杀死湍流”，火爆全网，2026年，最新的后续来了！玩多相流的老铁肯]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430993&amp;idx=1&amp;sn=3ce51393309c681c8986ed610dc3eb32&amp;chksm=8911d5f72aa85412b31c6c2745c24b57e2388e18edc4c2a34e710b2f85cfcaba1ce1fabd1276&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Fri, 19 Jun 2026 04:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>毛都不懂，天天在网上吹</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430982&amp;idx=1&amp;sn=12aeb9eac6a4018489b2c4153461e525&amp;chksm=8953df780f152ca4e30a10c41780512b9bd11f269d7f9875fc9f0bfc5de1efaf1b197ebe5aeb&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[2026年，公众号这个地方，你发复杂的技术的东西，根本没人看 你现在发湍流算法，不如发一个美女大腿吃香 另外，不要以为你们看到的复杂的就是流弊的。 80%的sci都是修修改改，一个公式一行代码就能干sc]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430982&amp;idx=1&amp;sn=12aeb9eac6a4018489b2c4153461e525&amp;chksm=8953df780f152ca4e30a10c41780512b9bd11f269d7f9875fc9f0bfc5de1efaf1b197ebe5aeb&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Mon, 15 Jun 2026 04:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>黄 仁 勋 说 的 不 全 对</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430973&amp;idx=1&amp;sn=02f71ef35c7fab0a0ef4defd0a593b1a&amp;chksm=89ef4bdaef8ebbe97383a3185f3dce888208901b8e6a09754eea5aac5244ec3ad0a2fc851fcb&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[&gt; AI不会造成失业，因为AI会创造大量的新岗位。岳子认为，黄仁勋的观点，长期是对的，短期是错的。这主要就是个时间问题。汽车出现时，【短期内】马车夫全部失业，长期变成了汽车司机。织布机时候，【短期内】]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430973&amp;idx=1&amp;sn=02f71ef35c7fab0a0ef4defd0a593b1a&amp;chksm=89ef4bdaef8ebbe97383a3185f3dce888208901b8e6a09754eea5aac5244ec3ad0a2fc851fcb&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Thu, 04 Jun 2026 06:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>codex+CAE，人人都会，人人都卷</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430967&amp;idx=1&amp;sn=a4c05b615f0220def40b23d13c91e71e&amp;chksm=895d07b32db9dc48b7d2ebdd4cc5ef976126cc9b3692ef42b947c24deae4f82540c1c771ba29&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[类似的观点平台会直接删除，岳子之前写的被直接删了，今天尝试说的隐晦一点。价值取决于稀缺性codex和CAE结合一定会大幅度的提升生产力。但这世界上，真正值钱的东西，永远稀缺。有人靠淘宝翻身，那是因为大]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430967&amp;idx=1&amp;sn=a4c05b615f0220def40b23d13c91e71e&amp;chksm=895d07b32db9dc48b7d2ebdd4cc5ef976126cc9b3692ef42b947c24deae4f82540c1c771ba29&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Mon, 01 Jun 2026 04:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>250-460/小时，给AI做家教！马斯克招聘会说汉语的，训练grok的大脑，不卡学历</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430966&amp;idx=1&amp;sn=cd862696a67009b86ff53816ad8af108&amp;chksm=891c0980c60f5ee594c4d4bd3acd59629e5a497b94021aa25127e9c13045356baef2f15ba368&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[最近看到马斯克招聘会说汉语的，大体意思是训练AI，让grok在小语种方面的能力更强。招聘一贯是老马的风格，不卡学历不卡经历，你适合你就投简历，你感觉你能干好就直接投简历。当然了英语、汉语是硬需求。大家]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430966&amp;idx=1&amp;sn=cd862696a67009b86ff53816ad8af108&amp;chksm=891c0980c60f5ee594c4d4bd3acd59629e5a497b94021aa25127e9c13045356baef2f15ba368&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Sun, 31 May 2026 07:57:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>摊 牌 了</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430951&amp;idx=1&amp;sn=0dad3f2715c6f13ec00c0e071f21bdba&amp;chksm=89b6b9c0cfe750e6bdfe83469b193b8b500fc8c9c666c6e84b1f1f3894d6d91ad53dfa19150e&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[公众号自从走向公域之后，知识类的东西就没人看了，满屏的大长腿、或者社会新闻，自动推荐机制根本没有人给你推NS方程如何离散的。当然也不是没有爆的。偶尔爆的那个三瓜俩枣根本不算啥。整个行业都这样。 6 7]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430951&amp;idx=1&amp;sn=0dad3f2715c6f13ec00c0e071f21bdba&amp;chksm=89b6b9c0cfe750e6bdfe83469b193b8b500fc8c9c666c6e84b1f1f3894d6d91ad53dfa19150e&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Wed, 27 May 2026 04:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>各位博士，AI帮你造假写sci，也让你失业</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430947&amp;idx=1&amp;sn=be3c9aa2273aa1617ef99b8ea0b1357e&amp;chksm=894abdf238dcdd8fa947b39758b4be75c6f83bf638a7fdf123de5d814338167801fbe004ea97&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[高知程序员、大学老师正在被AI迅速替代。你们现在高呼AI的生产力提升，在未来都会一刀一刀的刺向自己。 AI大语言模型让知识不值钱，凭借知识赚钱的博士/博导，正在快速的被替代。现在你们让AI帮你造假写sc]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430947&amp;idx=1&amp;sn=be3c9aa2273aa1617ef99b8ea0b1357e&amp;chksm=894abdf238dcdd8fa947b39758b4be75c6f83bf638a7fdf123de5d814338167801fbe004ea97&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Mon, 25 May 2026 04:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这次权威了？普林斯顿大学 + 数学顶刊：NS方程解的不唯一性</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430913&amp;idx=1&amp;sn=02ee1b4a78d09efcacbdd2bcd7720e3b&amp;chksm=89ffefed3c9ac97fec5a736233138a20c308a74f80ba7ee124263b358a41536b731a7a3e0344&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[全文手敲非AI生成NS方程解的存在性与光滑性，是历史的遗留数学问题：&gt; 证明或反证无体积力的三维N-S方程，给定任意的光滑的散度为0的初始速度场，在无穷大或周期的计算域内，在所有的时间周期内，存在一个]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430913&amp;idx=1&amp;sn=02ee1b4a78d09efcacbdd2bcd7720e3b&amp;chksm=89ffefed3c9ac97fec5a736233138a20c308a74f80ba7ee124263b358a41536b731a7a3e0344&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Wed, 06 May 2026 04:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CFD巨星逝世。不卷论文，却定义时代。传奇的人生，充满爆点</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430908&amp;idx=1&amp;sn=d241d993613750f28b55416a316d06f2&amp;chksm=89f76eca1247dfffa1c5ff0dee2b7ab72f2d76b0454436e2f2caebaf8f944602a2475f3db469&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[密歇根大学的Duraisamy发布消息: Roe离世。 Roe应该是，继Spalding离世之后，CFD领域影响力最]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430908&amp;idx=1&amp;sn=d241d993613750f28b55416a316d06f2&amp;chksm=89f76eca1247dfffa1c5ff0dee2b7ab72f2d76b0454436e2f2caebaf8f944602a2475f3db469&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Wed, 29 Apr 2026 04:18:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>意大利的古惑仔，CFD的刀枪炮</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430903&amp;idx=1&amp;sn=0d5eff00c0fe81b4b2e36114b38b974a&amp;chksm=895ec0e9e5082ab860832b21835427d10f8a049154321ecd01364a3436dd6a5f6854af6bd9b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[&lt;图片src=&quot;https://mmbiz.qpic.cn/sz_mmbiz_jpg/pvwsbMypLaWpPSDd6HqZRVNngYk0RIugcbLgkq86YtvLrU0Fhi bTSXEZices4NjwOgUXSHCSN0x5wlvAUh3hmTpeaGJZrCf6eb1miacjMOsqA4/640?wxtype=jpeg&amp;wxfrom=0&quot; /&gt;]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430903&amp;idx=1&amp;sn=0d5eff00c0fe81b4b2e36114b38b974a&amp;chksm=895ec0e9e5082ab860832b21835427d10f8a049154321ecd01364a3436dd6a5f6854af6bd9b3&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Mon, 27 Apr 2026 15:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>(1) AI的尽头是丝袜！ (2) CFD出海都几十年了！ ！</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430831&amp;idx=1&amp;sn=b493cee77603df7df5e7f70edccf9621&amp;chksm=89970607b9bc9f588e56625b6c863876d7da2bca51de84549903d3d2032d40e0345c2802f254&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[各位刀枪炮都把嘴闭上，今天说2个事！ (1) AI的尽头是算力，算力的尽头是电力，电力的尽头是电池，电池的尽头是采矿，采矿的尽头是人情世故，人情世故的尽头是吃饭喝酒，饭局的尽头是作陪，作陪的尽头是丝袜！ ]]></description>
+      <guid>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430831&amp;idx=1&amp;sn=b493cee77603df7df5e7f70edccf9621&amp;chksm=89970607b9bc9f588e56625b6c863876d7da2bca51de84549903d3d2032d40e0345c2802f254&amp;scene=0&amp;xtrack=1#rd</guid>
+      <pubDate>Mon, 16 Mar 2026 05:35:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

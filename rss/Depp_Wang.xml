@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>德普王</title>
+    <link>https://depp.wang/</link>
+    <description>每个人都需要有自己的哈姆雷特</description>
+    <lastBuildDate>Sun, 23 Aug 2026 02:31:57 GMT</lastBuildDate>
+    <item>
+      <title>一副牌的惯蛋玩法</title>
+      <link>https://depp.wang/2026/guandan/</link>
+      <description><![CDATA[
+大侄子来到我家过暑假，我想提升一下他的逻辑思维能力，所以就一起打扑克。 
+打扑克的话，现在我们比较常玩的是「干瞪眼」，这是最开始只有五张牌的这种玩法，看谁先出完。但是这种玩法相对简单一点。 
+稍微复杂点的就是「斗地主」，但是只能三个人玩。我们有四个人，这种不太适合大家一起玩。 
+所以我想四个人怎么一起玩？开始是一起打那个「跑得快」，「跑得快」也有四个人玩法，通过随机叫牌组队，输了抽牌加惩罚，但是容易玩腻。 
+我发现「掼蛋」的这种玩法挺适合四个人玩，有升级戴帽的概念，固定搭配，考验配合，又有一些成就感。但是因为他的手比较小，拿两副牌的话拿不下。另外他才十岁，所以这个逻辑思维能力还不是很好。 ]]></description>
+      <guid>https://depp.wang/2026/guandan/</guid>
+      <pubDate>Sat, 22 Aug 2026 09:52:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>电信宽带携号转网到联通宽带</title>
+      <link>https://depp.wang/2026/china-unicom-broadband/</link>
+      <description><![CDATA[
+01 为什么转主要是因为价格与动态 IPv4 公网 IP。 
+我原来用的是电信融合宽带，99 元一个月，300M 的宽带，但是只有 20G 流量。 
+之前给我装电信宽带的师傅后来跳到移动了，上上个月他问我合约期到了没有，要不要换移动宽带。我这边是不想换移动宽带的，因为移动宽带口碑太差了。我就查了我的合约期，了解到我这个宽带合约期确实要到期了。 
+我就问电信合约到期之后能不能降费，电信这边并不给我降。 
+我就了解了一下其他宽带，联通这边 79 元一个月，是 1000 兆宽带，其实宽带速度我这边并不是太 care，因为正常来说，下载速度更多地取决于服务商的速度，而不是宽带的速度，基本上都跑不满。 
+除此之外，它还有 100G 全国不限速流量，而且可以开四张副卡（加 1 张副卡加 1 元的费用）。这样家里面的人也可以一起共用这个流量，可以给家里面省下一些流量费用。 
+电信 99 元的融合套餐，最多只能加两张副卡。电信其实也可以加 1 元加 10G 流量，最多加 30 G，但是它总的也只有相当于 50G 的流量，而且好像副卡加的流量好像只能副卡使用，不是共用的。 
+联通还有一个优势，就是 79 元以上的套餐可以赠送一个动态 IPv4 公网 IP。 
+其实上个月的时候，联通还有一个 59 元的套餐，70G 流量、500M 宽带。但是到了这个月，这个套餐就没有了。我问了一下宽带安装师傅，他说是因为联通被电信投诉，所以这个套餐停了。我也不知道是不是真的，但至少现在已经办不了这个 59 元的宽带了。 ]]></description>
+      <guid>https://depp.wang/2026/china-unicom-broadband/</guid>
+      <pubDate>Wed, 05 Aug 2026 15:22:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>低成本实现国行 iPhone 使用 eSIM 漫游流量</title>
+      <link>https://depp.wang/2026/esim-iphone/</link>
+      <description><![CDATA[最近 Shadowrocket 出了 Tailscale 功能，解决了因为 iPhone 只能开启一个 VPN，Shadowrocket 与 Tailscale 不能同时开启的问题。但使用下来发现 Shadowrocket 的耗电量还是挺高的。 
+ 
+因为手机大部分时间都连 Wifi，本身使用流量不多，所以还是保留 eSIM 漫游流量 + Tailscale 的使用方式。 
+eSIM 漫游流量简单来说就是让外国人来中国用的漫游流量，可以访问国外服务。 
+正常国行 iPhone 只有实体卡，不支持 eSIM，可以通过 9eSIM 之类的品牌实体卡实现 eSIM 卡写入实体卡。 
+现在也有更低成本的小白卡可以实现。 
+来说下我的折腾过程。 ]]></description>
+      <guid>https://depp.wang/2026/esim-iphone/</guid>
+      <pubDate>Sat, 18 Jul 2026 12:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Sub2API 在 Mac mini 中搭建一个自用 AI API 中转站</title>
+      <link>https://depp.wang/2026/sub2api/</link>
+      <description><![CDATA[现在我订阅了两个 ChatGPT Plus 美区账号来使用 Codex，但现在 Codex 额度缩水严重，两个账号也不够用了。因此，我打算买一个 20 倍的 Pro 账号。 
+不过，我一个人又用不完，所以打算搭建一个中转站，来找几个搭子一起来用。 
+因为我也在使用家里 Mac mini 当服务器，所以我打算先安装在 Mac mini 上面测试一下，然后通过 Tailscale 来建立异地局域网，这样我在其他非家庭网络下也可以使用。 
+我是使用 Sub2API 这个工具来搭建的 API 中转站 。 其功能还是很全，也很强大的。 
+]]></description>
+      <guid>https://depp.wang/2026/sub2api/</guid>
+      <pubDate>Fri, 03 Jul 2026 01:59:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 语音输入工作流：DJI Mic Mini 2、Wispr Flow 和 Vibe Coding</title>
+      <link>https://depp.wang/2026/dji-mic-mini-2-wisper-flow/</link>
+      <description><![CDATA[
+我买 DJI Mic Mini 2，最开始不是为了语音输入，是为了拍视频录音。 
+拍视频时，自带麦克风的问题很明显。人离远一点，声音就会变小；环境里有一点噪音，也会一起被收进去。如果是手机、运动相机或者相机拍摄，声音这块经常比画面更容易出问题。 
+所以当时买 DJI Mic Mini 2，主要看中的就是两个点：降噪和长距离录音。人可以离设备远一点，声音还能收得比较稳；环境没那么安静的时候，也能少收一点杂音。对拍视频来说，这两个点就够实用了。 
+后来用了一段时间，我发现它在另一个场景里也很有用：语音输入。 
+说到底，DJI Mic Mini 2 对语音输入的作用，就是提升输入质量。当语音转文字输入时，不是只看软件识别能力，前面声音收得怎么样也很关键。声音太小、背景音太多，后面的识别就更容易出错。麦克风输入质量越高，识别出来的文字自然会更稳定。 ]]></description>
+      <guid>https://depp.wang/2026/dji-mic-mini-2-wisper-flow/</guid>
+      <pubDate>Thu, 25 Jun 2026 15:20:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究了一下 QDII 纳指基金</title>
+      <link>https://depp.wang/2026/qdii-nasdaq/</link>
+      <description><![CDATA[
+因为 AI，最近纳指涨了不少，国内跟踪纳指的 QDII 基金也越来越热门。我在京东金融、腾讯腾安等平台看了一圈，发现一些基金已经暂停申购，另一些单日只能买 200 元甚至更少，想买还不一定买得到。 
+这类基金名字里大多都有「纳斯达克 100」，但不能只看名字就直接买。虽然它们跟踪的是同一个指数，但管理费、跟踪误差、A 类与 C 类收费、是否限购都有区别。场内 ETF 还多了一个很容易踩的坑：溢价。 
+另外还有一个最基础的问题：对于只有境内人民币和境内证券账户的大多数中国人来说，不能像买 A 股一样直接买 QQQ / QQQM。  QQQ 和 QQQM 是在美国上市的 ETF，需要美股证券账户。所以，对大多数中国人来说，用人民币买 QDII 纳指基金，才是更现实的选择。 
+先说我的结论：QDII 纳指基金本身没有什么隐藏的大坑，正规公募基金也不用担心基金公司拿钱跑路。真正需要注意的是长期费率、汇率、跟踪误差、限购、场内溢价，以及发起式基金的规模。普通人长期定投，我会优先看场外 A 类基金，再比较费率、规模和是否能持续申购。 ]]></description>
+      <guid>https://depp.wang/2026/qdii-nasdaq/</guid>
+      <pubDate>Tue, 16 Jun 2026 14:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://depp.wang/2026/motorcycle-tyre/</link>
+      <description><![CDATA[前两天在小区骑踏板摩托车取快递突然发现摩托车方向不受控制了，以为是摩托车龙头出现问题了，结果发现是后轮爆胎了。运气很好，在小区爆胎，没有在上班骑行过程中爆胎。 
+]]></description>
+      <guid>https://depp.wang/2026/motorcycle-tyre/</guid>
+      <pubDate>Sun, 07 Jun 2026 00:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对钱的理解</title>
+      <link>https://depp.wang/2026/money-understanding/</link>
+      <description><![CDATA[
+钱是王八蛋，长得真好看。 
+一个人只要活着，就会需要用钱。钱到底是什么？这个问题好像很好回答，我们可以说：钱就是货币嘛。但好像也不太好回答。 
+钱和价值是什么关系？什么是资产，什么是负债？为什么钱会贬值？房价为什么会影响整个社会的消费能力？ GDP 和金融这些听起来很大的概念，和一个普通人又有什么关系？ 
+今天我就来谈一下我的理解。 ]]></description>
+      <guid>https://depp.wang/2026/money-understanding/</guid>
+      <pubDate>Tue, 02 Jun 2026 16:13:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spec 驱动开发与自验证闭环：我如何让 AI 更稳定地写代码</title>
+      <link>https://depp.wang/2026/spec-driven-development/</link>
+      <description><![CDATA[
+最近在公司内部做了一次 AI 编程实践分享，主题叫「Spec 驱动开发与自验证闭环」。这是我这段时间在真实项目里使用 AI 开发后，总结出来比较有价值的两个点。 
+现在大家用 AI 写代码已经不稀奇了。把需求丢给 AI，让它帮你生成代码，很多工具都能做到。但如果只是这样用，很容易遇到几个问题：第一次生成看起来还可以，后面越改越乱；AI 忘记前面讨论过的需求；代码能跑，但和业务真实想要的不完全一致；改完以后也不知道有没有把原来的功能搞坏。 
+所以我现在更关心的不是「AI 能不能写代码」，而是「怎么让 AI 稳定地写对代码」。我目前觉得比较有效的方法就是两件事：
+
+先写 Spec，再写代码
+让 AI 自己验证自己写的代码
+]]></description>
+      <guid>https://depp.wang/2026/spec-driven-development/</guid>
+      <pubDate>Tue, 19 May 2026 14:28:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>青甘大环线</title>
+      <link>https://depp.wang/2026/qinggan-great-circuit/</link>
+      <description><![CDATA[自从过年听朋友说，青甘大环线自驾是他旅行体验最好的一次经历后，我就一直想着，有机会也去感受下祖国的大好河山，尝尝地道西北美食。 
+这不五一假期就去了。我是五一前请了 4 天年假，我们一行 4 人，从重庆自驾出发，反穿青甘大环线。计划从重庆一路开到西宁，再经张掖、敦煌、大柴旦、茶卡盐湖、青海湖，最后从兰州回重庆。 
+走完这一圈后，我觉得青甘大环线最迷人的地方，不只在于那些景点，而在于景点和景点之间的路：植被一点点退场，雪山忽然出现在远处，直路通向天边，黄土、黑山、盐湖、铁路、风沙和落日轮流从车窗外经过。你会明显感觉到，自己正在从一种生活空间，驶入另一种更空旷、更粗粝的世界。 
+]]></description>
+      <guid>https://depp.wang/2026/qinggan-great-circuit/</guid>
+      <pubDate>Thu, 07 May 2026 12:10:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>手机的作用</title>
+      <link>https://depp.wang/2026/phone/</link>
+      <description><![CDATA[
+现在智能手机基本是每个人不可缺少的设备了，也可以说是我们的外接器官。玩手机可能是我们一天花时间最多的事了。但我最近捋了一下手机的作用，发现真正离不开手机的功能其实很少，大部分使用时间都花在了锦上添花甚至不必要的功能上。你可以对照看看，你平时用手机最核心的功能是什么。 ]]></description>
+      <guid>https://depp.wang/2026/phone/</guid>
+      <pubDate>Mon, 20 Apr 2026 15:29:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我买 1000 元左右显示器时主要考虑的几个点</title>
+      <link>https://depp.wang/2026/27-inch-display/</link>
+      <description><![CDATA[
+最近给家里的 Mac 加了个新显示器，对比了几款产品，也做了点功课。显示器这东西参数一大堆，但真正影响日常体验的其实就那么几个点。先说结论，如果预算充足，又是 Mac 用户，直接上 Studio Display 就行，省心。以下内容更适合像我这样对预算不足（1000 元左右预算），对显示器要求也不很高的人。我最终买的是红米 A27U 4K 节能版，下面说说我在挑显示器时主要考虑的几个方面，以及为什么我没买看起来更好的 Type-C 版。 ]]></description>
+      <guid>https://depp.wang/2026/27-inch-display/</guid>
+      <pubDate>Sat, 11 Apr 2026 14:12:46 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://depp.wang/2026/obsidian-to-wechat/</link>
+      <description><![CDATA[
+我之前写过一篇如何使用 Obsidian 管理个人知识库，里面提到我的文章创建与编辑都在 Obsidian 中完成，然后通过脚本自动同步到 Hexo 博客。最近我又把这套流程扩展到了微信公众号——写完文章，打个标签，运行脚本，草稿就自动出现在公众号后台了，不用复制粘贴，不用手动排版。 ]]></description>
+      <guid>https://depp.wang/2026/obsidian-to-wechat/</guid>
+      <pubDate>Sun, 22 Mar 2026 15:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为后端软件工程师，我为什么买 M4 MacBook Air 做主力开发机器</title>
+      <link>https://depp.wang/2026/m4-macbook-air/</link>
+      <description><![CDATA[
+做软件后端开发，MacBook 只能用 Pro，Air 胜任不了，不知道你是否还这么想，反正我原来一直是这么想的。最近准备买个 MacBook Pro 14 寸，但看后端同事买的 M2 16G+256G MacBook Air 使用都没有问题，就改变观念打算买 MacBook Air 了。其颜值与价格也有优势。买的 15 寸，15 寸重量与 14 寸 MacBook Pro 差不多，但屏幕更大，更适合移动使用。对我来说，Air 相比 Pro 最大的劣势是在室外使用上，最大亮度只有 500nit，太阳下可能有点看不清，还可能发烫。我觉得 Pro 更适合固定外连显示器使用、偶尔移动的场景，16 寸 MacBook Pro 有点太厚重了。 ]]></description>
+      <guid>https://depp.wang/2026/m4-macbook-air/</guid>
+      <pubDate>Sun, 08 Mar 2026 13:46:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 Claude Code 开发了个 Claude Code 用量监控工具</title>
+      <link>https://depp.wang/2026/claude-code-usage-tracker/</link>
+      <description><![CDATA[不知道你使用 Claude Code（会员订阅）有没有这样的问题：官方只提供了一个模糊的进度条，不知道每天使用了多少 token，不知道对应的费用是多少，也不知道每天的使用占每周额度的比例，更没有历史记录功能；Weekly 与每 5 小时周期到期后还需要手动触发下一个周期。 
+为了解决这些问题，我用 Claude Code 开发了个 Claude Code 用量监控工具。 ]]></description>
+      <guid>https://depp.wang/2026/claude-code-usage-tracker/</guid>
+      <pubDate>Sat, 07 Mar 2026 08:31:24 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

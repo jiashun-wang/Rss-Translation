@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Blog on Posit Open Source</title>
+    <link>https://opensource.posit.co/blog/</link>
+    <description>Recent content in Blog on Posit Open Source</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:32:06 GMT</lastBuildDate>
+    <item>
+      <title>cuda.ml 0.4.0：R 中的 GPU 加速机器学习</title>
+      <link>https://opensource.posit.co/blog/2026-08-21_cuda-ml-0-4-0/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-21_cuda-ml-0-4-0/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python Polars：权威备忘单</title>
+      <link>https://opensource.posit.co/blog/2026-08-18_polars-cheatsheet-announcement/</link>
+      <description><![CDATA[我们的书Python Polars：权威指南近 500 页。在过去的几周里，我们花了很多时间将其压缩到两个。
+Python Polars：权威备忘单现已发布，并且免费。下载、打印、层压、放在办公桌上。
+&lt;图&gt;
+    
+
+
+获取备忘单
+上面有什么
+
+第一页涵盖基础知识：如何开始、数据类型、数据结构、急切和惰性 API、读取和写入数据以及使用选择、过滤、排序、重塑、聚合和连接转换数据。
+第二页主要是表情，这是Polars真正闪光的地方。它还包括处理字符串、日期时间、列表、结构和分类的最常用方法，以及使用 Great Tables 设计数据样式以及使用 Altair 和 Plotnine 可视化数据。
+请记住，这是有损压缩。两页纸可以涵盖许多功能和方法，但没有空间进行细微差别或解释基本概念。该备忘单用于记忆和参考，而不是用于从头开始学习 Polars，并且它不能取代官方文档或我们的书。
+还有 HTML 版本
+
+层压 PDF 是一个很好的桌面参考，但它对于屏幕阅读器来说没有多大用处，而且您无法从中复制任何内容。因此备忘单也以 HTML 形式提供，带有标题、表格和可选代码。它与屏幕阅读器配合使用，文本在手机上重排，您可以将代码片段直接复制到编辑器中，而无需重新输入。
+与 Polars, Inc. 共同制作。
+
+备忘单实际上是一系列关于什么是最重要的争论。每条线都取代了其他东西。 Polars, Inc. 的参与意味着构建该库的人对两页参考应该涵盖的内容有发言权，而备忘单对此要好得多。
+Posit 和 Polars, Inc. 是不同的公司，但我们的工具有重叠。 Great Tables 和 Plotnine 是 Posit 项目，两者都直接与 Polars DataFrames 配合使用。这就是它们出现在表格上的原因，也是这次合作有意义的部分原因。
+我们希望您觉得它有用。如果您认为我们浪费了某种方法，或者我们应该包含某种方法，我们很想听听。
+获取备忘单]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-18_polars-cheatsheet-announcement/</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orbital for Python 0.6.0 中的神经网络：PyTorch 直接连接到您的数据库</title>
+      <link>https://opensource.posit.co/blog/2026-08-17_pyorbital-0-6-0/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-17_pyorbital-0-6-0/</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Newsletter：如何选择模型</title>
+      <link>https://opensource.posit.co/blog/2026-08-14_ai-newsletter/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-14_ai-newsletter/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Positron 八月发布亮点</title>
+      <link>https://opensource.posit.co/blog/2026-08-13_positron-2026-08-release/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-13_positron-2026-08-release/</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>忒弥斯 1.1.0</title>
+      <link>https://opensource.posit.co/blog/2026-08-13_themis-1-1-0/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-13_themis-1-1-0/</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kimi K3 和 GLM 5.2 现已进入 Posit AI</title>
+      <link>https://opensource.posit.co/blog/2026-08-10_kimi-k3-glm-5-2-posit-ai/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-10_kimi-k3-glm-5-2-posit-ai/</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>posit::glimpse() 时事通讯 – 2026 年 8 月</title>
+      <link>https://opensource.posit.co/blog/2026-08-05_glimpse-aug-2026/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-05_glimpse-aug-2026/</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>氧气2 8.1.0</title>
+      <link>https://opensource.posit.co/blog/2026-08-04_roxygen2-8-1-0/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-04_roxygen2-8-1-0/</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>闪亮更新：R 1.14、Python 1.7、bslib 0.12</title>
+      <link>https://opensource.posit.co/blog/2026-08-04_shiny-r-1-14-python-1-7/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-04_shiny-r-1-14-python-1-7/</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>四开1.10</title>
+      <link>https://opensource.posit.co/blog/2026-08-03_quarto-1-10/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-03_quarto-1-10/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Newsletter：EDA 登录 Posit Assistant</title>
+      <link>https://opensource.posit.co/blog/2026-07-31_ai-newsletter/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-07-31_ai-newsletter/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Positron 的 Jupyter Notebook 编辑器现已全面上市</title>
+      <link>https://opensource.posit.co/blog/2026-07-29_positron-jupyter-notebook-editor-ga/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-07-29_positron-jupyter-notebook-editor-ga/</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>lorax 简介：谈论基于树的模型</title>
+      <link>https://opensource.posit.co/blog/2026-07-28_lorax/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-07-28_lorax/</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ir 0.1.0：自描述 R 脚本和 Quarto 文档</title>
+      <link>https://opensource.posit.co/blog/2026-07-23_ir-0-1-0/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-07-23_ir-0-1-0/</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>云计算</title>
+    <link>https://www.v2ex.com/</link>
+    <description>way to explore</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:39:53 GMT</lastBuildDate>
+    <item>
+      <title>免费号蹲了三个月，东京 ARM 终于抢到了，还升到了 2C12G</title>
+      <link>https://www.v2ex.com/t/1236589#reply4</link>
+      <description><![CDATA[免费号蹲了三个月，东京 ARM 终于抢到了，还升到了 2C12G
+众所周知甲骨文 Always Free 的 Ampere A1 东京基本没货。我们这个号就是普通免费档，没付过钱，也没有找客服开白。 
+脚本从今年 5 月开始跑，策略很简单：先抢最小的 1C1G ，有机器再说。今天下午先抢到 1C1G ，接着按 1C6G → 2C12G 阶梯升上去了，现在已经在跑。 
+先抢到最小规格：
+
+再升到目标规格：
+
+补充一句现行免费额度：官方现在是 2 OCPU / 12 GB ，不是以前传说里的 4C24G 。超标的要缩回来。 
+脚本开源了。只适合在 AMD / 笔记本上跑，别装在即将被 STOP 的那台 ARM 上，否则缩容会把自己杀掉。仓库随缘更新。 
+https://github.com/sabialab/oci-arm-hunter]]></description>
+      <guid>https://www.v2ex.com/t/1236589#reply4</guid>
+      <pubDate>Sun, 23 Aug 2026 09:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>忽略了 Oracle 的邮件，然后 Oracle Cloud Always Free A1 实例 18 号被 disabled，无法降配，如何恢复？</title>
+      <link>https://www.v2ex.com/t/1235469#reply55</link>
+      <description><![CDATA[早上发现 Oracle 服务器 4 OCPU / 24 GB 的 A1 实例现在被停止并标记为 disabled ，启动或修改配置都会提示：Instance is disabled and will not accept any action requests. Please contact customer support to reenable.已经成功创建完整 Boot Volume Backup ，但因为免费账户的卷容量限制，无法直接恢复出新卷。 Free Tier 控制台也没有 Create Service Request ，Ask Oracle 机器人一直循环回复。 请问有人遇到并成功解决了吗？ Support Chat 能否临时解锁实例，然后降配到 2 OCPU / 12 GB ？还是只能升级 PAYG ，或者等待旧实例被释放后再从备份恢复？]]></description>
+      <guid>https://www.v2ex.com/t/1235469#reply55</guid>
+      <pubDate>Wed, 19 Aug 2026 01:20:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS 账单越来越高？先查这 5 项，很多人白花了钱</title>
+      <link>https://www.v2ex.com/t/1234146#reply0</link>
+      <description><![CDATA[AWS 账单突然变高，先别急着换服务器或者买 Savings Plans ，建议先查下面 5 项：
+1.EC2 停机 ≠ 完全停止收费
+​​实例停了，EBS 磁盘、快照、公网 IP 等资源仍可能继续产生费用。
+2.查闲置 EIP / EBS / Snapshot
+很多账号用久了以后，会留下大量测试资源和历史资源。单个看起来不贵，积累起来每月可能就是几百美元。
+3.查公网流量和跨区流量
+Data Transfer 、跨 AZ 、跨 Region 以及 NAT Gateway ，经常是账单里最容易被忽略的一块。
+4.长期运行的 EC2 别一直按 On-Demand 付
+如果服务器长期稳定运行，可以评估 RI 或 Savings Plans 。
+不过建议只覆盖确定长期使用的基础负载，不要为了折扣把全部用量锁死。
+5.账单比较大以后，也别忽略结算成本
+如果一个月 AWS 已经稳定消费几千甚至上万美元，资源侧优化完以后，付款方式、汇率和账单结算方式本身也值得重新算一下。 
+我们目前提供 AWS 账单代付/结算服务，主要适合每月有稳定 AWS 消耗、希望进一步降低实际支付成本的团队。
+如果你现在 AWS 账单已经比较高，可以对比一下现有支付方式和结算方案。
+官网： https://pay4aws.com/
+TG:@m6cloud]]></description>
+      <guid>https://www.v2ex.com/t/1234146#reply0</guid>
+      <pubDate>Thu, 13 Aug 2026 08:18:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>换运营商云服务器好吗？</title>
+      <link>https://www.v2ex.com/t/1233750#reply42</link>
+      <description><![CDATA[比如我现在用的某大厂云，带宽很贵（ 80 ？），他们也是向国内运营商采购批发的啊，所以我直接买电信联通或移动云的服务器不就好啦？我看官网带宽才 30 多？ 
+有人这样做吗？有什么优缺点？ ]]></description>
+      <guid>https://www.v2ex.com/t/1233750#reply42</guid>
+      <pubDate>Wed, 12 Aug 2026 02:20:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>GEE 云计算配额转移咨询</title>
+      <link>https://www.v2ex.com/t/1233427#reply0</link>
+      <description><![CDATA[请问是否可以将 A 用户 GEE 配额通过 google 邮箱转移到 B 用户，增加 B 用户的 GEE 基础 tier （ community ）的单月配额量，并用于执行 B 用户的云计算任务使用？
+这个方法是否会触发风控？ ]]></description>
+      <guid>https://www.v2ex.com/t/1233427#reply0</guid>
+      <pubDate>Tue, 11 Aug 2026 01:31:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle 正式通知削减 Free Tier 配额了</title>
+      <link>https://www.v2ex.com/t/1232254#reply18</link>
+      <description><![CDATA[Oracle 正式通知削减 Free Tier 配额了，要求在 8 月 18 日之前调整到新配额 (2 核 12G) 以内，超额资源届时将被自动终止]]></description>
+      <guid>https://www.v2ex.com/t/1232254#reply18</guid>
+      <pubDate>Wed, 05 Aug 2026 07:11:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>RakSmart 香港精品 CN2 线路深度测评：大陆三网运营商直连表现如何？</title>
+      <link>https://www.v2ex.com/t/1230732#reply0</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.v2ex.com/t/1230732#reply0</guid>
+      <pubDate>Wed, 29 Jul 2026 06:54:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>每 3 个月给阿里 CDN 换一次证书，我终于受不了了</title>
+      <link>https://www.v2ex.com/t/1230447#reply59</link>
+      <description><![CDATA[同事突然跑过来说：&quot;你这个图片怎么又裂了？&quot;
+我心里一沉。 
+又是证书过期了。 
+其实阿里云早就发过短信提醒。但说实话，谁会天天盯着阿里云的短信看？ 
+免费的，也是最贵的
+阿里云免费 SSL 证书，不要钱。 
+但三个月换一次。 
+换一次的流程：
+登控制台 → SSL 证书页面 → 申请 → 填域名 → DNS 验证 → 等通过 → 下载 → 进 CDN 页面 → 找域名 → 选择 or 上传 → 关联 → 确认替换。 
+九步。每季度一次。一年四次。 
+从 2023 年到现在，我手动换过不晓得多少次了。 
+每次都要翻那个比迷宫还复杂的控制台，在&quot;数字证书管理服务&quot;和&quot;CDN&quot;之间来回跳。 
+这哪是免费证书。这是免费劳力券。 
+我不是没挣扎过
+试过 acme.sh——签证书好使，但推到阿里 CDN 还得自己写脚本，还得维护。 
+服务器换了，脚本丢了。 cron 停了，证书又过期了。 
+也试过阿里云自己的&quot;托管&quot;——半自动洗衣机，帮你转了，不帮你甩干。 
+既然都在做面板了
+我一直在做一个开源服务器面板，GoPanel 。 
+有一天又收到那条该死的短信，我看着短信，又看着面板——
+为什么不把证书也收了？ 
+Let&#39;s Encrypt 签发 + DNS-01 验证 + 到期自动续签 + 自动推到阿里 CDN 。 
+全自动。签发、续签、推送，一条龙，人不用管。 
+截图为证
+签注的时候，每一步都有实时日志：
+
+这是签注过程中的日志界面。 
+从 ACME 账号注册、DNS 验证、证书下载，到最后推送到 CDN ，每一步都看得清清楚楚。 
+比阿里云控制台那个转圈圈强多了。 
+签完之后，证书列表是这样的：
+
+每个证书旁边都有一个自动续签开关。 
+打开，就不用管了。 
+到期前 7 天，系统自动续签。续完自动推到 CDN 。 
+整个过程，你可能在睡觉，可能在写代码，可能在吃牛肉。 
+还可以配自动部署规则，签完直接推到阿里 CDN：
+
+选云账号，填目标域名，关联证书。保存之后，每次续签完自动推。 
+反正不用在阿里云控制台里点来点去。 
+技术原理
+DNS-01 验证：Let&#39;s Encrypt 让你在 DNS 里放一段验证码，查到了就认你是域名主人。 
+为什么不用 HTTP-01：CDN 场景下域名指向阿里边缘节点，不是你的服务器，Let&#39;s Encrypt 来了也找不到你。 
+自动推送：签完调阿里云 CDN API ，新证书塞进去替换旧的，不用登控制台。 
+技术栈：Go + lego + 阿里云 SDK + cron 。没什么花哨的。 
+现在
+现在我的证书全是 90 天自动续。 
+推送也是自动的。 
+阿里云再发短信提醒我换证书，我直接当垃圾短信处理。 
+偶尔打开 GoPanel 看一眼证书列表，状态都是绿的，推送都是成功的。 
+那种感觉，就像你终于把一件每个月都要重复做的家务，交给了洗衣机。 
+虽然洗衣机偶尔也会出点小问题，但至少你不用自己搓了。 
+关于 GoPanel
+这个功能我做在了 GoPanel 里。 
+GoPanel 是一个开源的服务器管理面板，支持多服务器管理。 
+不只是证书——网站、容器、数据库、定时任务、文件管理，都能管。 
+如果你也被三个月一换的证书折磨过，可以试试：
+👉 在线演示
+👉 GoPanel GitHub
+最后
+这也算是一种进步吧。 
+至少在换证书这件事上，我终于不用再当阿里云的免费劳动力了。 
+如果恰好也有兄弟被同样的问题折磨，希望这能帮到你少踩一个坑。 
+咱长长久久。 
+]]></description>
+      <guid>https://www.v2ex.com/t/1230447#reply59</guid>
+      <pubDate>Tue, 28 Jul 2026 07:56:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>华为云海外业务挂了，到现在都还没好，</title>
+      <link>https://www.v2ex.com/t/1229863#reply28</link>
+      <description><![CDATA[真的服了，2.45 收到服务告警，2.50 起来看为什么还没起来，发现告知是欠费了，我们的账户是后支付模式，2.51 开联系运维，卧槽了他特么电话居然停机了。冲了话费还是停机。找华为的售后也打不通，实在找不到了，直接找到 CTO 去了，CTO 也联系不上他，CTO 去联系华为云的更高级的人员，才知道是他们的供应商挂了。就一直等啊，等啊，熬穿了都还没好，服了都。没有做异地供应商备份，服务全在华为云直接系统宕机]]></description>
+      <guid>https://www.v2ex.com/t/1229863#reply28</guid>
+      <pubDate>Sun, 26 Jul 2026 04:34:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发笔记本推荐</title>
+      <link>https://www.v2ex.com/t/1229558#reply19</link>
+      <description><![CDATA[多开 vscode,flutter,模拟器，预算 4-5k]]></description>
+      <guid>https://www.v2ex.com/t/1229558#reply19</guid>
+      <pubDate>Fri, 24 Jul 2026 06:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS 阿里云国际 腾讯云国际 华为云国际 GCP 官方代理商</title>
+      <link>https://www.v2ex.com/t/1227503#reply0</link>
+      <description><![CDATA[
+多云平台统一采购与管理（ AWS 、阿里云国际、腾讯云国际、华为云国际、Google Cloud ）
+企业级云资源采购及账单代付服务
+灵活的结算方式，支持多种付款渠道
+支持新账号及存量账号接入
+专属客户经理一对一服务
+7×24 小时技术支持与运维协助
+云架构咨询、迁移规划及成本优化（ FinOps ）
+企业级云安全、合规及解决方案支持
+协助申请官方优惠政策、企业折扣及云资源激励计划（符合官方政策条件时）
+全球多区域资源部署，助力企业出海
+免实名提供账号
+无需绑定信用卡，支持多种货币支付，BTC/ETH/USDC/USDT/USD1
+
+contact info:telegram: @awscloud51]]></description>
+      <guid>https://www.v2ex.com/t/1227503#reply0</guid>
+      <pubDate>Wed, 15 Jul 2026 08:38:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS 官方代理，账单代付</title>
+      <link>https://www.v2ex.com/t/1226860#reply2</link>
+      <description><![CDATA[AWS 官方代理，账单代付
+优势:
+• 月账单折扣代付
+• 无需实名（提供匿名云账号，最大限度保护客户隐私，无溯源渠道）
+• 无需绑定信用卡（可代付账单）
+• 支持各种付款方式
+• 新旧账号都可代付
+• 7*24 技术支持，专业团队
+contact info:telegram: @m6cloud
+WhatsApp：@6mcloud
+email： support@6mcloud.com]]></description>
+      <guid>https://www.v2ex.com/t/1226860#reply2</guid>
+      <pubDate>Mon, 13 Jul 2026 02:33:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>没见过像腾讯云这么恶心的厂</title>
+      <link>https://www.v2ex.com/t/1225883#reply11</link>
+      <description><![CDATA[没见过像腾讯云这么恶心的厂
+6 月 13 号新用户 199 买了台轻量云参加的 618 活动
+借论坛其他帖子的图
+
+我买的是最右边 199 的的选项
+买完了不能升配，客服说是资源不足让等后续资源足了就可以免费升配。
+这里也有站内客服说的话为证
+https://global.v2ex.com/t/1220286
+我买完第二天他们才写广州不参与活动，然后我看七月初就可以付费升配了，应该是资源足了， 就联系客服
+客服就变了嘴脸了，说活动结束了 不能升配了
+
+我一直重复 是他们说的等待后续补货后开放升配，他们客服就像机器人一样 一直重复活动已经结束
+]]></description>
+      <guid>https://www.v2ex.com/t/1225883#reply11</guid>
+      <pubDate>Wed, 08 Jul 2026 08:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>腾讯云的短信业务也太拉跨了吧， 10 点的工单 到现在没一个活人处理</title>
+      <link>https://www.v2ex.com/t/1224722#reply10</link>
+      <description><![CDATA[Imgur
+提了两个工单了， 一个活人回复没有。打客服电话也全是“人工智能”
+哪有那么多时间等你两三个小时啊，业务全挂了呀]]></description>
+      <guid>https://www.v2ex.com/t/1224722#reply10</guid>
+      <pubDate>Fri, 03 Jul 2026 03:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>之前那个 mjj 的论坛没了， mjj 们都去哪里了</title>
+      <link>https://www.v2ex.com/t/1224174#reply19</link>
+      <description><![CDATA[以前还在论坛上，等着人打广告，瓦工的限时套餐。 。 。现在没地方去看了]]></description>
+      <guid>https://www.v2ex.com/t/1224174#reply19</guid>
+      <pubDate>Wed, 01 Jul 2026 03:53:32 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

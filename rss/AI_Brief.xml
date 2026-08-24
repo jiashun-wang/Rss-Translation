@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AI论文简报</title>
+    <link>https://ai-brief.liziran.com</link>
+    <description>每天3分钟，从源头论文把握AI前沿。</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:40:36 GMT</lastBuildDate>
+    <item>
+      <title>学习工作流让设计Agent从54.99升至67.39</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-16-learning-workflows-for-design-agents.html</link>
+      <description><![CDATA[论文转海报工作流可通过反馈递归改进：接入学习后的DesignHarness后，7种代码Agent与模型配置均获得提升，平均得分从54.99升至67.39；目前证据限于论文转海报任务。 Evoke将持久世界状态移出生成上下文，用外部状态库、长时教师监督和3步学生模型兼顾长期一致性与低延迟生成。 复合选项错误可能源于组合机制，而非知识不足。模型判断原子命题，整数规划负责AND、OR和NOR等逻辑约束，两个数据集的Macro-F1均提升约29点。 Intern-S2-Preview尝试统一科学Agent训练管线：397B主干结合多模态训练与4B记忆解码器，为长任务链和低成本领域适配提供底座。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-16-learning-workflows-for-design-agents.html</guid>
+      <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>13项技能把捏造检出率推至92%</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-15-evidence-first-research-agents.html</link>
+      <description><![CDATA[13项技能让论文Agent留下可复核证据，Spark-to-Paper将捏造内容检出率从14%提高到92%，引用有效率达到99.5%。 弱模型不改参数也能把平均表现从0.49提升至0.91：AI4AI由强模型在测试时构建代码、路由和格式约束组成的执行框架。 安全评测开始批量合成对抗工具环境。 ToolHazard自动寻找注入点并生成环境专属载荷，但场景规模不能替代业务代表性。 StateFlow以世界记忆和渲染反馈组织3D预演，在状态访问阶段把相机计划修正为视觉上可行的轨迹。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-15-evidence-first-research-agents.html</guid>
+      <pubDate>Sat, 15 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>千段视频接通4D，六成头更新可删</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-14-life-agents-4d-video-domain-updates.html</link>
+      <description><![CDATA[个人Agent要在用户沉默后继续履约：VibeLifeBench用200个跨数周任务检验主动巡检、行动时机与隐含约束，七个前沿模型得分均不高。 视频潜变量可直接连接4D解码器，约1000段重建视频便能训练可在共享VAE模型间迁移的接口，并改善几何与时间一致性。 领域适配未必重写奇异值谱。研究发现变化主要落在奇异向量和部分注意力头上，最多回退60%的头更新仍无可测质量损失。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-14-life-agents-4d-video-domain-updates.html</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SimWAM达91.5，LoRA显存降43.9%</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-13-simwam-yolo-peft-forensics.html</link>
+      <description><![CDATA[SimWAM让视频专家退出部署链路：训练期借助视频生成学习动态规律，推理期仅保留轻量动作分支，在NAVSIM达到91.5PDMS并零样本迁移到nuScenes。 YOLO-PEFT将适配器位置变成约束规划问题，RS-LoRA在两款YOLO模型上超过全量微调、峰值显存降低43.9%，同时能识别不适合PEFT的架构。 多Agent取证的价值来自证据分工。 四个角色分别检查纹理、光照、运动和物理一致性，但跨越未知合成方法的泛化能力仍需验证。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-13-simwam-yolo-peft-forensics.html</guid>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WorldTrace让场景召回提升19.5%</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-10-runtime-memory-agent-search.html</link>
+      <description><![CDATA[WorldTrace把长视频失忆变成可寻址问题：它为压缩记忆槽分配训练分布内的虚拟位置，两条路线将LoopBench时间一致性和情节召回分别提升15.5%和19.5%。 Modular TTT让测试时学习组件可拆解复用，通过DAG表示快速权重、损失函数和学习率；410M与1.45B模型在100B token训练后达到与Gated DeltaNet相当的表现。 ReASearch把搜索决策交给同一个Agent。 它统一评估、诊断、编辑与停止，在14项任务中大多优于专用系统，相对强基线提升2%至40%，但验证纪律仍需核查。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-10-runtime-memory-agent-search.html</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>技能熵让Qwen3-4B升至68.4%</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-09-skill-entropy-multimodal-user-profiling.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-09-skill-entropy-multimodal-user-profiling.html</guid>
+      <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KGD提升推荐4%—12%，3D编辑语料达1200万</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-08-knowledge-refresh-agent-memory-3d.html</link>
+      <description><![CDATA[KGD把知识更新与任务适配分开，在8个公开基准上较强基线提升4%—12%，并在90天数据流和Shopee线上测试中保持收益。 持久记忆不等于持续改进：PAST-Bench用26个场景、204个任务回合，检验经验是否通过保存、检索和更新真正改善后续行为。 Hunyuan3D-Buffalo统一3D理解、生成与编辑。其8700万规模多模态语料包含1200万编辑样本，重点推进几何一致的局部修改与工作流整合。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-08-knowledge-refresh-agent-memory-3d.html</guid>
+      <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DAPD提升2分，扩散解码达1500token/s</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-07-dapd-diffusion-layered-design.html</link>
+      <description><![CDATA[特权信息可能让自蒸馏性能下降：DAPD用双路径与双来源锚定限制不可复现的教师行为，在Qwen3-4B多项任务上平均提升2.00分。 提前暴露未来轨迹会污染驾驶推理监督，Deferred Exposure先让模型选择候选轨迹，再用真实轨迹验证，避免教师为既成结果补写理由。 成熟自回归模型可低成本迁移到扩散解码。 DiffusionGemma使用不到原模型10%的训练token预算，单张H100吞吐约1500token/s。 语义RGBA图层让生成结果可以继续编辑；UniWorld-Design将对象作为独立资产交付，在Crello基准上降低37%的逐图层RGB误差。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-07-dapd-diffusion-layered-design.html</guid>
+      <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户改代码让Agent成功率降7.7个百分点</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-06-coding-agents-user-edits.html</link>
+      <description><![CDATA[用户中途改代码，Agent平均解决率下降7.7个百分点，SWE-Touch显示9个编码模型常会保留冲突或覆盖用户成果，协作评测必须纳入变更检测、归属判断和回归验证。 GradCuit把隐状态更新连上可追踪的梯度路径：5个模型、3类推理基准上平均准确率达64.5%，较思维链高6.6个百分点，但梯度可归因不等于推理已被解释。 UEmbed用单个9B模型统一稀疏、稠密和多模态检索。 它在MMEB-v2上取得稠密71.8、稀疏71.0，实际价值仍取决于延迟、索引成本和部署复杂度能否同步下降。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-06-coding-agents-user-edits.html</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>128个token保住94.7%性能</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-05-token-budgets-silent-failures.html</link>
+      <description><![CDATA[3DZip把场景压至128个token仍保留94.7%性能，通过特征多样性与空间约束减少三维场景冗余，并将推理速度提升至1.92倍。 临床多模态评测必须识别「静默失败」：逐样本、逐模态分析显示，模态缺失不仅降低准确率，还可能让错误预测显得更加可靠。 频繁重规划会让恢复机制成为瓶颈。 BRACE与E-RECAP按决策价值分配预算、裁剪上下文，单次重规划token数减少62%至92%。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-05-token-budgets-silent-failures.html</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CADENA逐步验形，MoE失衡超5倍</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-04-cadena-stepwise-cad-moe-routing.html</link>
+      <description><![CDATA[CADENA把CAD逆向工程变成逐步闭环：每次参数化操作后检查中间几何，并将差异反馈给后续建模。 视觉语言MoE的总账平衡可能掩盖五倍以上失衡，ReBA按模态约束负载，以适应分辨率和图像数量变化。 Poplar把人像合成变成可审计流水线。 它从11,765个候选中保留9,401组数据，同时记录配置与审核结果。 DreamTraj直接从未渲染潜变量预测六自由度轨迹；它绕过完整视频生成和事后视觉解析，为规划控制提供新接口。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-04-cadena-stepwise-cad-moe-routing.html</guid>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>VideoCoCo将VBench提至77.88</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-03-executable-code-video-control.html</link>
+      <description><![CDATA[可执行代码成为视频生成控制面：VideoCoCo让Blender程序负责物理与时序推演，再由生成引擎完成视觉写实，将VBench-2.0得分从52.18提升至77.88。 视觉工具调用需要衡量净收益，Beacon学习判断何时调用工具以及调用后能否改善答案，以减少简单任务中的错误、延迟和额外成本。 多人编辑的高语义分可能掩盖结构错误。 MPIE-Bench中常规视觉语言模型评分普遍超过0.95，但解剖与互动指标最高仅为0.65和0.72。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-03-executable-code-video-control.html</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI4AI升至71.21%，AskChem索引240万论断</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-02-physical-language-claim-search-ai4ai.html</link>
+      <description><![CDATA[PhiZero把物理变化变成离散语言：世界模型先推理状态变化、再渲染视频，让动力学有望成为可检查、可组合的中间表示。 AskChem交付带出处的论断，而非论文列表，已从14.7万篇论文中索引240万条论断，试图压缩科研中的检索、核验与综合链路。 Metis把Agent记忆推进模型内部。它通过可演化记忆状态与记忆注意力实现无梯度在线更新，但是否优于外部模块仍需按任务验证。 Frontis-MA1拆分AI4AI的两笔增益：在单张RTX 4090、每项任务12小时的条件下，模型训练与搜索框架将MLE-Bench Lite成绩从39.39%分阶段提升至71.21%。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-02-physical-language-claim-search-ai4ai.html</guid>
+      <pubDate>Sun, 02 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TurboVLA以0.9GB显存跑到32Hz</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-01-turbovla-real-time-robot-control.html</link>
+      <description><![CDATA[TurboVLA在消费级显卡上实现实时控制，通过重构视觉、语言与动作的计算路径，以0.2B参数达到32Hz、0.9GB显存和97.7%的LIBERO平均成功率。 HumanCLAW将决策错误与执行失误拆账：9个先进模型均未通过1,218个长程任务，最好成功率仅16.8%，身体状态追踪成为突出短板。 OmegaUse-OfficeVal把经济价值纳入办公Agent评测。 100项长流程任务显示，前沿模型虽比人工更快、更便宜，但交付质量仍明显落后。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-01-turbovla-real-time-robot-control.html</guid>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>无机器人数据追平遥操作，插入成功率85%</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-07-31-robot-free-data-editable-designs.html</link>
+      <description><![CDATA[高保真人类示范可替代真实机器人锚点：HiFi-UMI仅用便携设备采集的数据完成后训练，在三种架构上与遥操作基线的成功率差距控制在-2.5至+3.1个百分点，精密插入成功率达到85%。 Decoder-only模型也能统一多模态输入输出，MODUS通过复用成熟预训练模型的先验，将增加新模态从重造架构转向扩展接口，但各模态生成质量尚未全面领先。 设计恢复的关键指标是能否继续编辑。 ReDesign从截图重建设计图层树，并以14,796条编辑指令检验布局、颜色和文本能否再次修改。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-07-31-robot-free-data-editable-designs.html</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

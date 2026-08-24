@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ran Xue</title>
+    <link>https://RanX79.github.io/</link>
+    <description>是冉冉升起的冉</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:22:26 GMT</lastBuildDate>
+    <item>
+      <title>ncl画斜剖面</title>
+      <link>https://RanX79.github.io/post/ncl-hua-xie-pou-mian/</link>
+      <description><![CDATA[趁着今天顺利挂上了github，赶紧同步一下！ 
+主要参考ncl官网中的例子：narr_5.ncl，但该例子多了对曲面网格数据的处理,首先利用了ESMF_regrid_with_weights进行网格化生成直线网格，如果用再分析资料个人觉得可以不用这一步。 
+主要分为两步，首先是大圆路径，主要使用ncl中gc_latlon这个函数，该函数中设置变量时有一个常数npts，为x轴的点数，根据需要设置，一般设置越大数据越密。接下来进行插值，使用双线性插值从直线网格插值到非结构化网格，使用linint2_points_Wrap这个函数。 
+在实际画图中，遇到的问题是最后画图设置的经纬度，因为地球是球面，所以经纬度不是均匀的，设置​​时需要画gc_latlon 函数对应的经纬度。在选择的经度范围跨越半球时，两点之间的方向不可控制，这是因为gc_latlon这个函数的问题，试了多次也没解决，只能选择不跨越半球了。 
+If the two specified points are exactly opposite one another on the globe, the code does not fail, but the direction of the great circle route will be somewhat unpredictable. Setting npts &lt;= 2 has the effect of just calculating the great circle distance between the two input points. No lat/lon points will be interpolated in between.
+最后出现的警告，猜测是由于网格的不均匀分布造成的，但对画图的结果好像没有影响。 
+warning:ScalarFieldSetValues: irr​​egular coordinate array sfXArray non-monotonic: defaulting sfXArray
+更新一下，最后出现的警告是因为我！写代码的时候忘记删掉cyclic=&quot;True&quot;这一行设置了！所以坐标就会出现警告！ （问题不大
+;=================================================================
+
+;----------------斜刨面
+
+;  calculate great circle along transect
+
+npts=600 ;The actual number of interpolated points is npts-2.
+
+N1=npts-1
+
+nLabels      = 5   ;x轴坐标想要的标签数目
+
+fiCyclicX    =True ;注意数据是否循环
+
+;选取的两个点
+
+leftlat  =  45
+
+rightlat =  80
+
+leftlon  =  300
+
+rightlon =  357.5
+
+;attention:数据是从0-360 or -180-180
+
+;lonFlip 可以使用该函数转换
+
+dist = gc_latlon(leftlat,leftlon, rightlat,rightlon, npts,2) ;大圆路径
+
+;插值 变量为Fx_pos_10_area
+
+xlon=Fx_pos_10_area&amp;lon
+
+xlat=Fx_pos_10_area&amp;lat
+
+Fx_pos_10_cross = linint2_points_Wrap(xlon,xlat,Fx_pos_10_area,fiCyclicX,dist@gclon,dist@gclat,2)
+
+;插值后赋予变量属性
+
+Fx_pos_10_cross!0      = &quot;time&quot;
+
+Fx_pos_10_cross!1      = &quot;level&quot;
+
+Fx_pos_10_cross&amp;level= Fx_pos_10_area&amp;level
+
+;-----对应的经纬度
+
+latXsecUser  = dist@gclat      ; convenience
+
+lonXsecUser  = dist@gclon
+
+print (dist@gclat+&quot;  &quot;+dist@gclon )  ; print the lats/lons
+
+;--------画图时x轴坐标设置
+
+;数据从0-360
+
+XBValues_pos    = toint( fspan(0,N1,nLabels) )
+
+XBLabels_pos    = new(nLabels,&quot;string&quot;)
+
+do i=0,nLabels-1
+
+x = lonXsecUser(XBValues_pos(i))
+
+y = latXsecUser(XBValues_pos(i))
+
+if(x.lt.180)then
+XBLabels_pos(i) = sprintf(&quot;%3.1f&quot;, y)+&quot;N&quot;+&quot;~C~&quot;+sprintf(&quot;%3.1f&quot;, x)+&quot;E&quot;
+
+else if(x.gt.180.and.x.le.360)then
+
+x1=360-x
+
+XBLabels_pos(i) = sprintf(&quot;%3.1f&quot;, y)+&quot;N&quot;+&quot;~C~&quot;+sprintf(&quot;%3.1f&quot;,x1)+&quot;W&quot;
+
+else if(x.eq.180.or.x.eq.360)then
+
+XBLabels_pos(i) = sprintf(&quot;%5.1f&quot;, y)+&quot;N&quot;+&quot;~C~&quot;+sprintf(&quot;%5.1f&quot;, x)
+end if
+
+end if
+
+end if
+
+end do
+
+res@tmXBMode   = &quot;Explicit&quot;
+
+res@tmXBValues = XBValues_pos
+
+res@tmXBLabels = XBLabels_pos
+
+图片类似这样吧！
+
+ps：最近读文献才发现，看你研究方向热不热门，就看看高质量期刊新出的文章跟你的方向差不多的多不多；然后发现我的方向真！离大谱！（不是 我爱科研]]></description>
+      <guid>https://RanX79.github.io/post/ncl-hua-xie-pou-mian/</guid>
+      <pubDate>Mon, 24 Aug 2026 09:22:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>NCL计算plumb波活动通量</title>
+      <link>https://RanX79.github.io/post/ncl-ji-suan-plumb-bo-huo-dong-tong-liang/</link>
+      <description><![CDATA[😀开心，今天终于配置好了评论！ ！ ！本来在微信公众号就是为了评论！结果没注意现在改版不能评论了！就很烦！所以继续同步github的内容！ 
+因为老师说TN通量的向下不一定是波活动通量向下传播！可能是向上的减少，其异常是减去了气候带的结果，Kodera这篇文章中也提到了这个；
+
+所以现在计算了一下Plumb的结果，plumb是纬向偏差，包含了时间的总场。但是不知道这两者算出来差异会不会很大！按理说感觉应该不会太大吧！ 
+2008-Kodera., et al.,-GRL-Tropospheric impact of reflected planetary waves from the stratosphere.
+
+
+结果和摸鱼的对比了一下，大体趋势差不多，但是垂直方向没有验证，有问题联系我。 
+;///////////////////////////////////////////////////////////////
+;  Calculate 3-D wave-activity flux:plumb[1985]
+;///////////////////////////////////////////////////////////////
+;  Written by Ran,20240606.
+;  E-mail: 602023280016@nju.edu.cn
+
+;If there is a problem with the code calculation, please contact me by email.
+
+;Input data：hgt t u v
+
+;Note that the data downloaded by ERA5 is the gravitational potential (unites:m^2/s^2).
+;The ncep data is the gravity potential height z, which needs to be multiplied by g.
+
+;Input data must include the entire longitude！ ！ ！ Because to take the zonal deviation!!
+
+;Return value -  Four multi-dimentional arrays containing:
+;                    x-component:  Fx
+;                    y-component:  Fy
+;                    z-component:  Fz
+;                    z_ano
+
+;Usage: [/Fx,Fy,Fz,z_ano/] = plumb_pLLL(hgt,t,u,v)
+
+
+undef(&quot;plumb_pLLL&quot;)
+function plumb_pLLL(hgt[*][*][*][*]:numeric,t[*][*][*][*]:numeric,u[*][*][*][*]:numeric,v[*][*][*][*]:numeric)
+local re,sclhgt,k,pi,dName,level,lat,lon,f,wmg,ga,z,coslat,sin2lat,leveltmp,ftmp,coslattmp,sin2lattmp,t_ano,u_ano,v_ano,t_mean,dt_meandz,\
+        S,Stmp,dvzdlon,duzdlon,dtzdlon
+begin
+;基本量
+
+; Radius of the earth
+re      = 6.37*10^6;6378388
+
+; scale height
+sclhgt  = 8000.
+
+k=0.286
+
+; pi
+pi      = atan(1.0)*4.
+printVarSummary(hgt)
+dName   = getvardims(hgt)
+if (any(ismissing(dName(1:)))) then
+   print(&quot;fatal: plumb_pLLL: requires that all the rightmost dimensions be named&quot;)
+   exit
+end if
+    level   = hgt&amp;$dName(1)$
+    lat     = hgt&amp;$dName(2)$
+    lon     = hgt&amp;$dName(3)$
+
+; Coriolis parameter
+f       = lat(:)
+f       = (/2.*2.*pi/(60.*60.*24.)*sin(pi/180.*f)/)
+f@_FillValue = hgt@_FillValue
+
+;Rotational angular velocity of the earth
+wmg=2.*pi/(60.*60.*24.) 
+
+; Gravitational acceleration
+ga      = 9.80665
+z=hgt*ga
+copy_VarMeta(hgt, z)
+; cosine
+coslat  = cos(lat(:)*pi/180.)
+coslat@_FillValue = default_fillvalue(typeof(coslat))
+coslat  = (/where(coslat.le.0.,coslat@_FillValue,coslat)/)
+
+; sin2lat
+sin2lat  = sin(2*(lat(:)*pi/180.))
+sin2lat@_FillValue = default_fillvalue(typeof(sin2lat))
+sin2lat  = (/where(sin2lat.le.0.,sin2lat@_FillValue,sin2lat)/)
+
+
+; 1-D -&gt; 4-D
+leveltmp   = conform_dims(dimsizes(hgt),level,1)
+ftmp       = conform_dims(dimsizes(hgt),f,2)
+coslattmp  = conform_dims(dimsizes(hgt),coslat,2)
+sin2lattmp = conform_dims(dimsizes(hgt),sin2lat,2)
+;Zonal deviation
+t_ano   =dim_rmvmean_n_Wrap(t, 3)
+u_ano   =dim_rmvmean_n_Wrap(u, 3)
+v_ano   =dim_rmvmean_n_Wrap(v, 3)
+z_ano   =dim_rmvmean_n_Wrap(z, 3)
+;printVarSummary(t_ano)
+;printVarSummary(z_ano)
+
+;Zonal mean
+t_mean=dim_avg_n_Wrap(t, 3)
+dt_meandz = center_finite_diff_n(t_mean,-sclhgt*log(level/1000.),False,0,1)
+
+
+S=dt_meandz+k*t_mean/sclhgt;
+copy_VarCoords_1(hgt, S)
+;printVarSummary(S)
+; 3-D -&gt; 4-D
+Stmp = conform_dims(dimsizes(hgt),S,(/0,1,2/))
+;printVarSummary(Stmp)
+
+; dvz/dlon
+dvzdlon      =  center_finite_diff_n(v_ano*z_ano,lon*pi/180.,True,0,3)
+; duz/dlon
+duzdlon      =  center_finite_diff_n(u_ano*z_ano,lon*pi/180.,True,0,3)
+; dtz/dlon
+dtzdlon      =  center_finite_diff_n(t_ano*z_ano,lon*pi/180.,True,0,3)
+
+;printVarSummary(sin2lattmp)
+;printVarSummary(dvzdlon)
+;printVarSummary(wmg)
+;printVarSummary(coslattmp)
+
+; x-component
+Fx      = leveltmp/1000.*coslattmp*(v_ano*v_ano-1./(2.*wmg*re*sin2lattmp)*dvzdlon)
+;printVarSummary(Fx)
+
+; y-component
+Fy      = leveltmp/1000.*coslattmp*(-u_ano*v_ano+1./(2.*wmg*re*sin2lattmp)*duzdlon)
+
+; z-component
+Fz      = leveltmp/1000.*coslattmp*(ftmp/Stmp*(v_ano*t_ano-1./(2.*wmg*re*sin2lattmp)*dtzdlon))
+
+copy_VarCoords(hgt,Fx)
+copy_VarCoords(Fx,Fy)
+copy_VarCoords(Fx,Fz)
+
+Fx@units = &quot;m^2/s^2&quot;
+Fx@var_desc = &quot;wave-activity flux&quot;
+Fx@long_name = &quot;x-component of wave-activity flux (Plumb1985)&quot;
+
+Fy@units = &quot;m^2/s^2&quot;
+Fy@var_desc = &quot;wave-activity flux&quot;
+Fy@long_name = &quot;y-component of wave-activity flux (Plumb1985)&quot;
+
+Fz@units = &quot;Pa m/s^2&quot;
+Fz@var_desc = &quot;wave-activity flux&quot;
+Fz@long_name = &quot;z-component of wave-activity flux (Plumb1985)&quot;
+
+return [/Fx,Fy,Fz,z_ano/]
+
+end
+
+]]></description>
+      <guid>https://RanX79.github.io/post/ncl-ji-suan-plumb-bo-huo-dong-tong-liang/</guid>
+      <pubDate>Mon, 24 Aug 2026 09:22:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>NCL计算波折射指数</title>
+      <link>https://RanX79.github.io/post/ncl-ji-suan-bo-zhe-she-zhi-shu/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://RanX79.github.io/post/ncl-ji-suan-bo-zhe-she-zhi-shu/</guid>
+      <pubDate>Mon, 24 Aug 2026 09:22:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>NCL计算波作用密度倾向方程</title>
+      <link>https://RanX79.github.io/post/ncl-ji-suan-bo-zuo-yong-mi-du-qing-xiang-fang-cheng/</link>
+      <description><![CDATA[……
+undef(“def_dAdt”)
+;输入气候状况和异常场
+;数据：经纬度时间 
+function def_dAdt(pv_cli[*][*][*]:数值,pv_ano[*][*][*]:数值,youwantlevel)
+
+本地 pi,dName,lon,lat,级别,gradpv,pv_grad_lat,pv_grad_lon,A,opt,dt,t,gradpv2,dQdy,时间
+
+开始
+
+pi = atan(1.0)*4。
+dName = getvardims(pv_cli)
+
+if (any(ismissing(dName(1:)))) then
+print(“致命：def_DADt：要求命名所有最右边的维度”)
+        退出
+结束如果
+
+纬度 = pv_cli&amp;$dName(1)$
+lon = pv_cli&amp;$dName(2)$
+;余弦
+coslat = cos(纬度(:)*pi/180。)
+coslat@_FillValue = default_fillvalue(typeof(coslat))
+coslat = (/where(coslat.le.0.,coslat@_FillValue,coslat)/)
+;一维-&gt; 3-D
+coslattmp = conform_dims(dimsizes(pv_cli),coslat,1)
+；----------------------------------------------------------------
+
+; dQdx = center_finite_diff_n(pv_cli,lon*pi/180., False,0,2)
+dQdy = center_finite_diff_n(pv_cli,lat*pi/180., False,0,1)
+copy_VarMeta(pv_cli, dQdy)
+
+如果（任意（dQdy.eq.0））那么
+    print(&quot;你的数据：dQdy 为零！！！&quot;)
+结束如果
+
+；----------------------------------------------------------------
+gradpv = grad_latlon_cfd(pv_cli, pv_cli&amp;纬度, pv_cli&amp;经度, True, False)
+pv_grad_lat = gradpv[0]    
+pv_grad_lon = gradpv[1]
+
+copy_VarMeta(pv_cli, pv_grad_lat)
+copy_VarMeta(pv_cli, pv_grad_lon)
+
+printVarSummary(pv_grad_lat)
+printMinMax(pv_grad_lat, 0)
+
+如果（任何（pv_grad_lat.eq.0））那么
+    print(“你的数据：pv_grad_lat为零！！！”)
+结束如果
+
+如果（任何（pv_grad_lon.eq.0））那么
+    print(“你的数据：pv_grad_lat为零！！！”)
+结束如果
+
+
+pv_grad_lat =其中（pv_grad_lat.eq.0，pv_grad_lat@_FillValue，pv_grad_lat）
+pv_grad_lon =其中（pv_grad_lon.eq.0，pv_grad_lon@_FillValue，pv_grad_lon）
+dQdy =其中(dQdy.eq.0, dQdy@_FillValue, dQdy)
+
+;------补充值
+猜测=1；使用区域手段
+is_circular=真；循环[全局]
+n 扫描 = 1500 ；通常比这个少得多
+每股收益=1.e-2；变量相关
+相对值 = 0.6 ;弛豫系数
+选择=0；未使用
+
+; poisson_grid_fill（pv_grad_lat，is_circular，猜测，nscan，eps，relc，opt）
+; poisson_grid_fill（pv_grad_lon，is_circular，猜测，nscan，eps，relc，opt）
+; poisson_grid_fill( dQdy, is_circular, 猜测, nscan, eps, relc, opt)
+
+；----------------------------------------------------------------
+
+回复 = 6.37*10^6
+
+gradpv2=sqrt(pv_grad_lat^2+pv_grad_lon^2)
+copy_VarMeta(pv_cli, gradpv2)
+
+
+如果（任何（gradpv2.eq.0））那么
+    print(&quot;你的数据：gradpv2有零！！！&quot;)
+结束如果
+gradpv2=其中(gradpv2.eq.0, gradpv2@_FillValue, gradpv2)
+;poisson_grid_fill（gradpv2，is_circlic，猜测，nscan，eps，relc，opt）
+打印（“-----gradpv2-----”）
+printMinMax(gradpv2, 0)
+
+;-----3种方法计算A
+;A=(你想要的等级*pv_ano^2)/(2.*1000.*gradpv2)
+
+A=(youwantlevel*pv_ano^2*re*coslattmp^2)/(2.*1000.*dQdy)
+
+;A=(1.225*pv_ano^2)/(2.*dQdy)
+
+copy_VarMeta(pv_cli, A)
+打印变量摘要(A)
+
+
+打印（“-----pv_ano-----”）
+printMinMax(pv_ano, 0)
+print(&quot;-----pv_ano^2-----&quot;)
+printMinMax(pv_ano^2, 0)
+print(&quot;-----dQdy-----&quot;)
+printMinMax(dQdy^2, 0)
+打印（“-----A-----”）
+打印最小最大(A, 0)
+
+;utc =cd_calendar(pv_cli&amp;$dName(0)$, 2)
+;日 = tointeger(utc(:,2))
+;天=ispan(0, 60, 1)
+;打印（世界标准时间）
+
+;---转换“自...以来的小时数”到“自...以来的秒数”
+
+时间 = pv_cli&amp;时间   
+print(time@units);自 1900-01-01 00:00:00 以来的小时数
+
+dt = 24.*3600。
+t = 时间*3600。
+
+
+如果（任何（缺少（A）））然后
+    print(“您的数据：A 丢失。”)
+结束如果
+poisson_grid_fill（A，is_circular，猜测，nscan，eps，relc，opt）
+
+dAdt = tofloat(center_finite_diff_n(A,t,False,0,0));最后一个是时间维单位
+copy_VarMeta(pv_cli, dAdt)
+printVarSummary(dAdt)
+printMinMax(dAdt, 0)
+
+
+返回（dAdt）
+
+结束
+
+……]]></description>
+      <guid>https://RanX79.github.io/post/ncl-ji-suan-bo-zuo-yong-mi-du-qing-xiang-fang-cheng/</guid>
+      <pubDate>Mon, 24 Aug 2026 09:22:17 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

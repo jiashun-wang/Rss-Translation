@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>FreeMdict Forum - 使用雅思标记的话题</title>
+    <link>http://forum.freemdict.com/tag/669-tag/669</link>
+    <description>使用雅思标记的话题</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:07:59 GMT</lastBuildDate>
+    <item>
+      <title>雅思真题例句词典 v4.3.4</title>
+      <link>http://forum.freemdict.com/t/topic/44591</link>
+      <description><![CDATA[]]></description>
+      <guid>http://forum.freemdict.com/t/topic/44591</guid>
+      <pubDate>Tue, 14 Jul 2026 15:07:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>雅思例句词典 V1.04</title>
+      <link>http://forum.freemdict.com/t/topic/43307</link>
+      <description><![CDATA[做了一个雅思例句词典
+制作思路
+文本预处理 → 拆分单句 → AI翻译单句 → 单句提取词头 → 生成单个txt → 合并txt → 转换mdx
+词典展示
+
+
+下载链接
+站内网盘
+https://cloud.freemdict.com/index.php/s/5Hswexaa9XmwNPf
+百度网盘
+
+
+pan.baidu.com
+
+
+百度网盘-链接不存在
+百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间
+
+
+
+
+
+注意
+
+词典文件为mdx、css、js三个文件
+目前版本中仅包含词头、例句及其译文
+目前版本中仅包含剑4阅读的内容
+译文来自AI翻译，仅供参考
+链接内包含该项目过程文件，可用于学习研究
+
+鸣谢
+感谢 @woodcube @winn @jackki 三位大佬的帮助
+
+
+
+
+请教mdx词典制作的相关问题 技术交流与词典编修
+
+
+
+    ========== &gt;&gt;&gt; 问题2 &lt;&lt;&lt; ==================== 
+我通过一些流程生成了一个测试txt，但是用AutoMdxBuilder打包mdx时遇到了闪退 
+请各位大佬帮忙看看问题出在哪里？ 
+—————— 
+测试文本：merged_mdx.txt (704.7 KB) 
+========== &gt;&gt;&gt; 问题1（已解决）&lt;&lt;&lt; ==================== 
+我…
+  
+
+4 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/43307</guid>
+      <pubDate>Sun, 08 Mar 2026 18:39:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Koolearn 2025年新版雅思课程</title>
+      <link>http://forum.freemdict.com/t/topic/37518</link>
+      <description><![CDATA[转载，失效不补
+「2025【知x雅思】6分录播课（旗舰版 雅思基础强化包）（A类）」
+
+
+pan.quark.cn
+
+
+夸克网盘分享
+夸克网盘是夸克推出的一款云服务产品，功能包括云存储、高清看剧、文件在线解压、PDF一键转换等。通过夸克网盘可随时随地管理和使用照片、文档、手机资料，目前支持Android、iOS、PC、iPad。 
+
+
+
+
+
+「2025【知x雅思】6.5分录播课（旗舰版 基础英语补充包 雅思基础强化」
+
+
+pan.quark.cn
+
+
+夸克网盘分享
+夸克网盘是夸克推出的一款云服务产品，功能包括云存储、高清看剧、文件在线解压、PDF一键转换等。通过夸克网盘可随时随地管理和使用照片、文档、手机资料，目前支持Android、iOS、PC、iPad。 
+
+
+
+
+
+「2025【知x雅思】7分录播课（旗舰版 雅思基础强化包）（A类）」
+
+
+pan.quark.cn
+
+
+夸克网盘分享
+夸克网盘是夸克推出的一款云服务产品，功能包括云存储、高清看剧、文件在线解压、PDF一键转换等。通过夸克网盘可随时随地管理和使用照片、文档、手机资料，目前支持Android、iOS、PC、iPad。 
+
+
+
+
+
+5 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/37518</guid>
+      <pubDate>Sat, 22 Mar 2025 23:31:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于《雅思真题例句词典》的构想与讨论</title>
+      <link>http://forum.freemdict.com/t/topic/35668</link>
+      <description><![CDATA[仿照欧路《听力原生例句》《常用例句库》《大学英语四级六级考研真题库》打造一款“雅思真题例句词典”。 
+资料来源
+真题部分：新东方线上真题 https://ieltscat.xdf.cn/
+翻译部分：新东方《剑桥雅思真题精讲》系列图书 百度网盘 请输入提取码
+概念图
+
+主要特点
+将雅思听力和阅读真题的正文部分拆分成句，并匹配对应翻译。其中阅读真题文章需要去除文章标题、摘要、脚注，只保留正文。 
+词典可以选择显示全部例句，或仅显示听力/阅读部分。同时，通过排序，可选择从C5-C19查看，或者倒序。词典仅显示前5条例句，多余部分折叠隐藏。 
+可能的困难
+
+需要手动整理资料
+如何合成词典文件
+需要匹配词头，还需注意单复数、时态等拼写变化
+
+欢迎大家讨论！ 
+3 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/35668</guid>
+      <pubDate>Wed, 08 Jan 2025 01:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>XDF直通雅思系列教材</title>
+      <link>http://forum.freemdict.com/t/topic/35593</link>
+      <description><![CDATA[这应该是市面上最好的雅思教材！ 
+
+
+
+
+
+
+链接: https://pan.baidu.com/s/1crG3Y-94HyDOjEYni37jhw?pwd=q88q 提取码: q88q
+（链接失效不补）
+11 个帖子 - 9 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/35593</guid>
+      <pubDate>Sun, 05 Jan 2025 23:33:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>雅思分数核算表</title>
+      <link>http://forum.freemdict.com/t/topic/33528</link>
+      <description><![CDATA[原文链接： 共享 | 雅思分数核算表
+介绍
+众所周知，雅思分数并非是“算”出来的，而是使用了特定的分数核算表。除了听力和阅读部分可以通过核对正确答案数量来求出分数外，写作部分的评分也并非两部分分数的简单加权。这种独特的计分方式同样体现在总分的计算上，也就是说，即便某位考生最终成绩为9分，其总分也未必需要达到36分。 
+本表整合了官方的分数核算表，并对其进行了视觉优化处理。不仅保留了表格的基本功能，还允许用户通过Excel进行个性化设置，以便在在刷题过程中不断激励自己追求卓越。 ಠ_ಠ
+效果展示
+
+听力、阅读分数核算表
+
+写作分数核算表
+
+总分核算表
+文件下载
+链接：https://pan.baidu.com/s/1Hxwb0V_n6TCFFCGL12XFWg?pwd=bz8r
+提取码：bz8r
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/33528</guid>
+      <pubDate>Thu, 31 Oct 2024 16:11:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>雅思刷题记录与错题分析表</title>
+      <link>http://forum.freemdict.com/t/topic/33493</link>
+      <description><![CDATA[原文链接： 共享 | 雅思刷题记录与错题分析表
+使用方法
+对完答案后，将自己的错题数按部分输入系统（听力4/阅读3），系统将自动计算错题总数，并生成相应的雅思单项成绩。以阅读为例，只需将三篇文章的错题数量分别填入指定的输入框，系统便会自动在左侧显示总错题数和对应的阅读分数。 
+错误分析表的具体记录方法因人而异，文件中的是我的记录习惯供大家参考。 
+效果展示
+
+刷题记录（以阅读为例）
+
+错题分析（以阅读为例）
+函数示例
+=IFS(AND(D2&gt;=0, D2&lt;=1), &quot;9&quot;,
+     AND(D2&gt;=2, D2&lt;=3), &quot;8.5&quot;,
+     AND(D2&gt;=4, D2&lt;=5), &quot;8&quot;,
+     AND(D2&gt;=6, D2&lt;=7), &quot;7.5&quot;,
+     AND(D2&gt;=8, D2&lt;=10), &quot;7&quot;,
+     AND(D2&gt;=11, D2&lt;=13), &quot;6.5&quot;,
+     AND(D2&gt;=14, D2&lt;=17), &quot;6&quot;,
+     AND(D2&gt;=18, D2&lt;=20), &quot;5.5&quot;,
+     AND(D2&gt;=21, D2&lt;=24), &quot;5&quot;,
+     AND(D2&gt;=25, D2&lt;=27), &quot;4.5&quot;,
+     AND(D2&gt;=28, D2&lt;=30), &quot;4&quot;,
+     AND(D2&gt;=31, D2&lt;=34), &quot;3.5&quot;,
+     AND(D2&gt;=35, D2&lt;=36), &quot;3&quot;,
+     AND(D2=37), &quot;2.5&quot;,
+     AND(D2=38), &quot;2&quot;,
+     AND(D2=39), &quot;1&quot;)
+
+文件下载
+链接：https://pan.baidu.com/s/1P6CuUjYp6yE5Jfa8CJ2pQA?pwd=qic9
+提取码：qic9
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/33493</guid>
+      <pubDate>Wed, 30 Oct 2024 16:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于考研、雅思写作的word字帖模板</title>
+      <link>http://forum.freemdict.com/t/topic/30407</link>
+      <description><![CDATA[适用于考研、雅思写作的word字帖模板
+雅思写作字帖模板：
+雅思写作字帖.docx (623.6 KB)
+
+雅思写作字帖模板（简）：
+雅思写作字帖 简.docx (18.6 KB)
+
+考研写作字帖模板：
+考研写作字帖.docx (402.4 KB)
+
+必下字体：
+Farsan-Regular.ttf (236.2 KB)
+使用方法：
+自己准备一张答题卡，抄写内文2-3行，以确定自己每行书写的字数。回到word，调整字体大小，调整每行字数，就可以得到一份自己专属的字帖模板了。 
+注意：
+1.调整字体时，注意实时监测总字数。如果字数超了，说明字体过大，需要调整自己的书写习惯。 
+2.这些字帖仅适用于临帖，不适用于摹贴。尽管我提供的文件都是答题卡的原始大小，但更细化的私人制定需要自己调整。 
+3.除字号外，尽量不要调整任何参数！ ！ ！ 
+4 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/30407</guid>
+      <pubDate>Sat, 27 Jul 2024 09:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>求雅思教材</title>
+      <link>http://forum.freemdict.com/t/topic/26136</link>
+      <description><![CDATA[求《雅思阅读高分全攻略》，作者：新东方胡静老师
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/26136</guid>
+      <pubDate>Tue, 16 Jan 2024 09:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>雅思听力真题词汇</title>
+      <link>http://forum.freemdict.com/t/topic/25644</link>
+      <description><![CDATA[内容来自《剑桥雅思真题精讲》，如图
+
+已整理完成：剑4-5
+雅思听力词汇.xlsx (59.4 KB)
+4 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/25644</guid>
+      <pubDate>Tue, 26 Dec 2023 04:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>雅思资料网站分享</title>
+      <link>http://forum.freemdict.com/t/topic/23007</link>
+      <description><![CDATA[本人是雅思初学者，目前我对雅思的学习路线感到迷茫。我现在勉强收集了一些雅思资料网站，只是少数，希望对你们也有用，如果哪位学神有较多的资料或者是学习网站，可以与大家分享一下。同时也可以分享一些学习经验，或者是交流讨论。 
+我目前收集的雅思资料网站：
+
+
+IELTS Game
+
+
+IELTS Game
+IELTS Game is a website focusing on IELTS Exam Preparation by providing latest Free IELTS Practice Tests, and Reading, Listening, Writing &amp; Speaking Free IELTS material and resources.
+
+
+
+
+
+
+查词：https://dictionary.cambridge.org/
+雅思听力备考资料大全(音频+PDF文本)_雅思_新东方在线
+3 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/23007</guid>
+      <pubDate>Mon, 28 Aug 2023 06:58:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>求《雅思词汇 词根+联想记忆法 乱序版》最新版电子资源</title>
+      <link>http://forum.freemdict.com/t/topic/16207</link>
+      <description><![CDATA[求《雅思词汇 词根+联想记忆法 乱序版》最新版电子资源
+这个资源不太好找，如果有朋友找到，记得踢我~
+雅思词汇联想_淘宝搜索 (taobao.com)
+
+这是2018年旧版pdf（还是想求一个2022年的 ）
+链接：https://pan.baidu.com/s/1N3fULeMnBFHYRiALYs2bVg?pwd=vx0w
+提取码：vx0w
+14 个帖子 - 6 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/16207</guid>
+      <pubDate>Fri, 14 Oct 2022 07:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧路单词课本&词典包（以新东方为主）</title>
+      <link>http://forum.freemdict.com/t/topic/12246</link>
+      <description><![CDATA[《新东方柯林斯雅思备考词典》
+（之前发过资料 https://forum.freemdict.com/t/topic/11709）
+欧路单词课本（无释义）
+
+
+—— —— —— —— —— —— —— —— —— ——
+《NGSL》词表
+欧路单词课本（释义由有道考神雅思提供）
+
+
+—— —— —— —— —— —— —— —— —— ——
+《新东方雅思词汇 词根+联想记忆法 乱序版》2022.4新版
+欧路单词课本
+
+
+欧路词典包
+雅思词汇绿宝书.zip (203.1 KB)
+—— —— —— —— —— —— —— —— —— ——
+新东方雅思精准词汇
+（朱峰雅思词汇课讲义）
+欧路单词课本
+
+—— —— —— —— —— —— —— —— —— ——
+CEFR英语词汇表 拔高版
+（收录B2-C2等级词条，对应雅思5.5-8.5分段，倒序，建议结合剑桥词典食用）
+欧路单词课本（无释义）
+
+
+—— —— —— —— —— —— —— —— —— ——
+《新东方雅思词汇胜经》
+待整理
+9 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>http://forum.freemdict.com/t/topic/12246</guid>
+      <pubDate>Wed, 13 Apr 2022 23:45:42 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>PO.DAAC</title>
+    <link>https://podaac.jpl.nasa.gov</link>
+    <description></description>
+    <lastBuildDate>Mon, 24 Aug 2026 08:44:39 GMT</lastBuildDate>
+    <item>
+      <title>请访问我们的新地点：NASA Earthdata。</title>
+      <link>https://podaac.jpl.nasa.gov/node/2038</link>
+      <description><![CDATA[首页此网站不再更新，所有最新信息和数据均可在我们的新位置获取。旧链接将被重定向到我们的新网站。请更新您的书签。
+链接：https://www.earthdata.nasa.gov/centers/po-daac]]></description>
+      <guid>https://podaac.jpl.nasa.gov/node/2038</guid>
+      <pubDate>Tue, 10 Feb 2026 01:42:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>SWOT 全球河流流量和水质估算现已提供</title>
+      <link>https://podaac.jpl.nasa.gov/node/2037</link>
+      <description><![CDATA[首页PO.DAAC 很高兴地宣布公开发布 SWOT L4 科学之剑河流排放产品第 3 版。SWOT 任务由 NASA 和国家空间研究中心 (CNES) 联合执行，旨在提供有关世界海洋及其陆地表面水（例如湖泊、河流和湿地）的宝贵数据和信息。该数据收集提供了六种流动定律参数估计 (FLPE) 算法的放电时间序列以及代表规范“SWOT 放电”的单个“共识”估计。
+链接：https://podaac.jpl.nasa.gov/announcements/2026-01-08-SWOT-Global-River-Discharge...]]></description>
+      <guid>https://podaac.jpl.nasa.gov/node/2037</guid>
+      <pubDate>Mon, 12 Jan 2026 22:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>SWOT 全球河流流量和水质估算现已提供</title>
+      <link>https://podaac.jpl.nasa.gov/announcements/2026-01-08-SWOT-Global-River-Discharge-and-Water-Quality-Estimates-Now-Available</link>
+      <description><![CDATA[2026 年 1 月 8 日，星期四PO.DAAC 很高兴地宣布公开发布SWOT 4 级科学河道排放之剑产品第 3 版。
+SWOT 任务由 NASA 和国家空间研究中心 (CNES) 联合执行，旨在提供有关世界海洋及其陆地表面水（如湖泊、河流和湿地）的宝贵数据和信息。该数据收集提供了六种流动定律参数估计 (FLPE) 算法的放电时间序列和代表规范“SWOT 放电”的单个“共识”估计。
+排放产品按照SWOT 河流数据库 (SWORD) 结构和命名约定按大陆（不包括南极洲）进行组织。 Sword of Science 数据产品由开源 SWOT Confluence 程序生成，包含河流流量参数估计以及河流河段和河流节点的流量时间序列，遵循 SWORD 结构。时间序列数据按周期存储并传递一个观察维度。 Confluence 的输出被组织成与 SWOT-Confluence 处理软件中的模块相对应的组。 Confluence 模块文档中对模块进行了描述。
+这些 L4 流量和水质时间序列以 netCDF 形式提供，并与每个质量控制 SWOT 观测相匹配的流量估计值一起发布。因此，每条河流的流量估算的时间频率是不同的。
+可通过 NASA 地球数据搜索并通过下面的 DOI 链接重定向到相应的数据集登录页面。
+DOI：https://doi.org/10.5067/SWOT-SOS-RD3
+
+ 
+数据资源列表
+
+快速用户指南：SWOT HR River Discharge Products v1.0 快速指南
+快速用户指南图：SWOT HR 河流排放图解概述
+概览视频：SWOT 任务视频中的河流排水 
+Python 和R 视频教程：SWOT Discharge 视频教程 - 针对 Python 和 R 用户从 SoS NetCDF 文件访问 SWOT discharge 产品的教程。
+PO.DAAC 食谱：SWOT 章节 
+
+ 
+
+ 意见/问题？请联系 podaac@podaac.jpl.nasa.gov 或访问 地球数据论坛上的 PO.DAAC。
+]]></description>
+      <guid>https://podaac.jpl.nasa.gov/announcements/2026-01-08-SWOT-Global-River-Discharge-and-Water-Quality-Estimates-Now-Available</guid>
+      <pubDate>Tue, 06 Jan 2026 21:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>实际数据：Sentinel-6B 将延续 TOPEX/Poseidon、Jason-1、-2、-3 和 Sentinel-6 Michael Freilich 的传统</title>
+      <link>https://podaac.jpl.nasa.gov/node/2035</link>
+      <description><![CDATA[首页Sentinel-6B 于 2025 年 11 月发射，将延续数十年来以英寸精度测量海平面的记录。
+链接：https://podaac.jpl.nasa.gov/DataAction-2025-12-10-Sentinel-6B-continued-TOPEX-Po…]]></description>
+      <guid>https://podaac.jpl.nasa.gov/node/2035</guid>
+      <pubDate>Thu, 11 Dec 2025 00:34:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>实际数据：Sentinel-6B 将延续 TOPEX/Poseidon、Jason-1、-2、-3 和 Sentinel-6 Michael Freilich 的传统</title>
+      <link>https://podaac.jpl.nasa.gov/DataAction-2025-12-10-Sentinel-6B-continued-TOPEX-Poseidon-Jason-1-2-3-and-Sentinel-6-Michael-Freilich-legacy</link>
+      <description><![CDATA[]]></description>
+      <guid>https://podaac.jpl.nasa.gov/DataAction-2025-12-10-Sentinel-6B-continued-TOPEX-Poseidon-Jason-1-2-3-and-Sentinel-6-Michael-Freilich-legacy</guid>
+      <pubDate>Wed, 10 Dec 2025 21:45:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sentinel-6A Michael Freilich 重新处理的测高数据集发布</title>
+      <link>https://podaac.jpl.nasa.gov/announcements/2025-12-04-Sentinel-6A-Michael-Freilich-Reprocessed-Altimetry-Datasets-Release</link>
+      <description><![CDATA[]]></description>
+      <guid>https://podaac.jpl.nasa.gov/announcements/2025-12-04-Sentinel-6A-Michael-Freilich-Reprocessed-Altimetry-Datasets-Release</guid>
+      <pubDate>Thu, 04 Dec 2025 00:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>实际数据：SWOT 在海冰监测方面的潜力已揭晓</title>
+      <link>https://podaac.jpl.nasa.gov/node/2032</link>
+      <description><![CDATA[首页该研究强调了 SWOT 提供海冰厚度二维估计的潜力，这对于量化海冰、大气和海洋之间的交换至关重要，而当前的高度计无法提供这一点。 SWOT 海冰测量还可以支持需要更大空间覆盖范围和更频繁采样的应用，包括过程研究、季节性预报和导航。
+链接：https://podaac.jpl.nasa.gov/DataAction-2025-0916-Potential-of-SWOT-for-Sea-Ice-M…]]></description>
+      <guid>https://podaac.jpl.nasa.gov/node/2032</guid>
+      <pubDate>Mon, 22 Sep 2025 19:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>实际数据：SWOT 在海冰监测方面的潜力已揭晓</title>
+      <link>https://podaac.jpl.nasa.gov/DataAction-2025-0916-Potential-of-SWOT-for-Sea-Ice-Monitoring-Unveiled</link>
+      <description><![CDATA[
+
+图： SWOT 和 ICESat-2 表面高度比较：(a) 地图显示 4 月 9 日北极（左）和 6 月 26 日南极（右）SWOT（条）和 ICESat-2（点）叠加的位置和高度； (b) ICESat-2 的沿轨道表面高度剖面（红色为原始分辨率，绿色为 500 米平均值）和 SWOT（蓝色）。紫色阴影区域突出显示了 ICESat-2 和 SWOT 捕获的已识别线索区域。资料来源：Kacimi 等人，20254
+
+
+ 
+过去几十年里，北极海冰的范围和厚度急剧减少，与全球变暖的预测一致1。南极海冰也一直在减少，特别是自 2016 年以来，近年来出现了创纪录的低范围2。海冰的消失不仅是气候变暖的结果，而且海冰减少也意味着反射回太空的导致地球变暖的阳光减少。此外，海冰是北冰洋野生动物的重要栖息地，为休息、分娩和狩猎提供空间3。
+自 2000 年代以来，ICESat（冰、云、陆地高程卫星）、CryoSat-2 和最近的 ICESat-2 等专用卫星高度计任务的测量结果提供了关于海冰厚度变化的时空模式的前所未有的记录。尽管如此，观测记录仍存在相当大的差距。
+自 2022 年 12 月 16 日成功发射以来，NASA/CNES 地表水海洋地形 (SWOT) 卫星任务一直在以前所未有的空间尺度捕捉海洋上空（海面高度 (SSH)）以及湖泊、河流和湿地内陆的水位高度。与之前的高度计任务不同，SWOT 携带了第一个宽测绘带 Ka 波段干涉高度计 (KaRIn)，它首次能够以高达 78°S/N 的高分辨率提供表面形貌的二维测绘。尽管 SWOT 并不是专门为监测海冰而设计的，但最近发现 SWOT 有潜力为极地科学和我们对快速变化的海冰系统的理解做出重大贡献4。
+最近的研究4比较了 ICESat-2 和 SWOT 测量的海冰表面高度。在北极（左）和南极（右）的两个特定日子里，两颗卫星的沿轨道表面高度紧密对齐（图a）。图b显示了ICESat-2的沿轨道表面高度（红色为~17-200米的不同原始分辨率，绿色为平均超过500米）以及相应的SWOT表面高程（蓝色）。这说明了两个独立仪器之间的高度一致性，提高了卫星观测的保真度。图 b 中的紫色阴影区域突出显示了 ICESat-2 和 SWOT 捕获的已识别线索区域（即冰盖内的裂缝，下面的海洋暴露在外）。 ICESat-2 和 SWOT 海冰干舷（水线以上冰雪的高度）对于北极和南极的两个案例研究也相似。
+这项研究强调了 SWOT 提供海冰厚度二维估计的潜力，这对于量化海冰、大气和海洋之间的交换至关重要，而目前的高度计无法提供这一点。 SWOT 海冰测量还可以支持需要更大空间覆盖范围和更频繁采样的应用，包括过程研究、季节性预报和导航。
+ 
+ 
+]]></description>
+      <guid>https://podaac.jpl.nasa.gov/DataAction-2025-0916-Potential-of-SWOT-for-Sea-Ice-Monitoring-Unveiled</guid>
+      <pubDate>Tue, 16 Sep 2025 19:36:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>NASA 数据培训网络研讨会 2025 年 8 月 21 日：主题 - 访问虚拟化 PO.DAAC 海洋学数据</title>
+      <link>https://podaac.jpl.nasa.gov/node/2030</link>
+      <description><![CDATA[首页了解如何使用 Python 和 Xarray 访问来自 NASA PO.DAAC 的虚拟化、可用于探索和分析的物理海洋学数据集。
+链接：https://www.earthdata.nasa.gov/learn/webinars/acceleating-science-using-virtual…]]></description>
+      <guid>https://podaac.jpl.nasa.gov/node/2030</guid>
+      <pubDate>Tue, 19 Aug 2025 17:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GHRSST 4级海面温度SPoRT数据集发布</title>
+      <link>https://podaac.jpl.nasa.gov/announcements/2025-07-30-Release-of-GHRSST-Level-4-Sea-Surface-Temperature-SPoRT-dataset</link>
+      <description><![CDATA[2025 年 7 月 30 日星期三PO.DAAC 很高兴地宣布公开发布由 NASA 短期预测研究和过渡 (SPoRT) 制作的GHRSST 4 级 SPoRT 全球基金会海面温度分析 (v1.0) 数据集美国宇航局马歇尔太空飞行中心（MSFC）的项目。该数据集每天两次以 2 公里分辨率提供连续、高分辨率、合成的近全球 (80N-80S) 海面温度场，适用于区域天气、海洋和沿海应用。 
+SPoRT SST 分析将 7 天的可见红外成像辐射计套件 (VIIRS) 和高级甚高分辨率辐射计 (AVHRR) 卫星 L2 SST 数据以及来自 OSTIA 和 Geo-Polar 混合 L4 SST 产品的附加数据整合到单个分析中。合成过程中使用两种类型的权重。一个权重用于数据延迟，另一个权重用于产品类型。 VIIRS和AVHRR数据分别在750m和1km分辨率下被赋予最大的权重，而L4数据集被赋予较弱的权重。数据根据 GHRSST 数据规范版本 2 (GDS2) 以 netCDF4 格式打包。有关 GHRSST 的更多信息，请访问 PO.DAAC 的 GHRSST 任务页面。
+MSFC SPoRT SST Level 4 Version 1.0 数据集通过PO.DAAC 数据门户进行描述和发现。
+DOI：10.5067/GHSPT-4FM01
+ 
+]]></description>
+      <guid>https://podaac.jpl.nasa.gov/announcements/2025-07-30-Release-of-GHRSST-Level-4-Sea-Surface-Temperature-SPoRT-dataset</guid>
+      <pubDate>Wed, 30 Jul 2025 22:06:44 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

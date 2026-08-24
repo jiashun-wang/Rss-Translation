@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>抽筋儿的话语权</title>
+    <link>https://chouj.github.io/</link>
+    <description>Recent content on 抽筋儿的话语权</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:14:37 GMT</lastBuildDate>
+    <item>
+      <title>Gitee 仓库容量超限后的偷懒处理办法</title>
+      <link>https://chouj.github.io/when-run-into-exceeding-git-repo-size-limit/</link>
+      <description><![CDATA[因为“今日南海涡旋播报”使用 Gitee 作为备用页面的缘故，加上 Git 本身作为版本管理工具会保留每次提交的内容，所以经常在一段时日之后，Gitee Repo 的容量就超过免费版本的限额了，造成自动提交失败。要解决这个问题，对这个项目来说可以“偷懒”。这是因为这个项目本身并不需要版本管理，所以“偷懒”表示不需要留存历史版本，直接清库，然后重新生成 .git ，重新提交完事。 请看到本文的朋友们一定要留意这个前提！ 以下记录一下，备查。 ]]></description>
+      <guid>https://chouj.github.io/when-run-into-exceeding-git-repo-size-limit/</guid>
+      <pubDate>Tue, 12 Sep 2023 02:32:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>就像台风有编号、强度、轨迹一样，涡旋也可以</title>
+      <link>https://chouj.github.io/oceanic-eddy-trajectory-intensity-and-lifetime/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://chouj.github.io/oceanic-eddy-trajectory-intensity-and-lifetime/</guid>
+      <pubDate>Sat, 03 Jun 2023 07:32:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>南海-西太各深度层涡旋边界识别和三维可视化示例</title>
+      <link>https://chouj.github.io/3d-eddy-detection-and-visualization/</link>
+      <description><![CDATA[最近尝试了基于三维海洋温盐和海表高度数据，进行各深度上涡旋边界的识别和可视化。套路和基于卫星遥感海表资料的识别方法一样，无非海表高度换成水压（分巴）。垂直方向同一个涡旋的判据也按最简单的来，即相邻深度层上闭合水压等值线圈起来的面积有重叠即可。识别不新鲜也不费劲，新鲜且费劲的其实是可视化的部分。 ]]></description>
+      <guid>https://chouj.github.io/3d-eddy-detection-and-visualization/</guid>
+      <pubDate>Wed, 31 Aug 2022 07:32:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>今日南海涡旋播报的最近更新</title>
+      <link>https://chouj.github.io/scs-eddies-today-recent-updates/</link>
+      <description><![CDATA[2019 年上线的「今日南海涡旋播报」已进入第四个年头，特别感谢新老顾客的支持！ 2022年有一批新功能上线，特此说明：]]></description>
+      <guid>https://chouj.github.io/scs-eddies-today-recent-updates/</guid>
+      <pubDate>Mon, 29 Aug 2022 07:32:45 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://chouj.github.io/posts/oceanography-webinar-aggregator/</link>
+      <description><![CDATA[
+（物理）海洋与气候领域在线学术报告聚合页
+功能
+
+转发近期（物理）海洋与气候领域的在线学术报告通知和报告录像视频，方便科研工作者一站拣选想听的报告。
+
+
+标题一般涵盖报告人、报告题目、主办单位或活动名称，描述部分一般是报告的时间（预告通知）或内容简介（录像视频）；
+支持 RSS 订阅；
+支持标签：#lecture 是预告，#video 是录像。 
+
+]]></description>
+      <guid>https://chouj.github.io/posts/oceanography-webinar-aggregator/</guid>
+      <pubDate>Wed, 17 Feb 2021 02:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>用MATLAB生成RSS Feed文件（.XML格式）的.m脚本</title>
+      <link>https://chouj.github.io/generate-rss-feed-by-matlab/</link>
+      <description><![CDATA[因为“今日南海中尺度涡”是一个每日更新的项目，所以希望能在它自动更新后获得即时推送。觉得有两条路：要么直接在项目的执行脚本里加上一段，输出一个XML后缀的RSS Feed文件，这样直接用RSS阅读器订阅这个Feed就好了；要么想办法通过Webhook激活企业版微信机器人，实现在企业版微信群的推送。不过，第二条路的可行性未知。先搞定第一条路再说。 ]]></description>
+      <guid>https://chouj.github.io/generate-rss-feed-by-matlab/</guid>
+      <pubDate>Sun, 08 Mar 2020 13:36:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>国际学术会议会务工作手册</title>
+      <link>https://chouj.github.io/manual-for-academic-conference-volunteers/</link>
+      <description><![CDATA[按：去年11月，由于实验室青年委员会承接了实验室国际会议的志愿者招募和组织，我和其他会务成员一起，在会前将会议流程及可能出现的情况过了一遍，并拟了一份面向会议志愿者的会务工作手册。我把它整理了一下，发在这里，供参考。由于起草时间紧迫，词不达意之处还望担待。特别感谢许博士、钱博士、湛老师、方老师、吴老师和陈老师的参与。需要注意的是，这份指南仅囊括会议举办期间的流程和注意事项，因为会议前期繁复的准备工作是由实验室秘书团队和会务公司操办的。 ]]></description>
+      <guid>https://chouj.github.io/manual-for-academic-conference-volunteers/</guid>
+      <pubDate>Thu, 13 Feb 2020 09:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>推荐一首儿歌：Let's Love Our Sea</title>
+      <link>https://chouj.github.io/selected-songs-for-kids/</link>
+      <description><![CDATA[很棒的一首海洋主题英文儿歌
+
+ 
+Let&#39;s Love Our Sea - Chris Lam Sam
+
+
+歌词和MP3文件可在作者官网下载，歌曲介绍也有： http://www.chrislamsam.com/music]]></description>
+      <guid>https://chouj.github.io/selected-songs-for-kids/</guid>
+      <pubDate>Wed, 02 Oct 2019 14:01:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>物理海洋领域日历</title>
+      <link>https://chouj.github.io/calendar-for-oceanographer/</link>
+      <description><![CDATA[update 20190920: 从Zoho切换到Airtable。 
+update 20200311: 从Airtable搬家去了Notion。 
+　　我用Zoho Airtable Notion做了一个共享日历。它可以理解为是日历版的“海洋知圈”。 
+　　它的链接在此：
+https://www.notion.so/pocalendar/Calendar-for-Physical-Oceanographer-814d0e162904439a932fac0b4ee9b87a
+　　如果你想在这个日历上发布活动或会议通知，请填下表：]]></description>
+      <guid>https://chouj.github.io/calendar-for-oceanographer/</guid>
+      <pubDate>Mon, 09 Sep 2019 14:44:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用到的MATLAB FileExchange工具们</title>
+      <link>https://chouj.github.io/827/</link>
+      <description><![CDATA[
+罗列一下从FileExchange下载回来的好东西，常更新以备查。 ]]></description>
+      <guid>https://chouj.github.io/827/</guid>
+      <pubDate>Tue, 27 Aug 2019 13:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>RSS.com花落谁手</title>
+      <link>https://chouj.github.io/rss_com/</link>
+      <description><![CDATA[
+08年写过一篇：“RSS.com即将拍卖”，这篇是迟来的谜底揭晓。 ]]></description>
+      <guid>https://chouj.github.io/rss_com/</guid>
+      <pubDate>Sun, 25 Aug 2019 08:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>怎么办青年学术论坛才更有趣</title>
+      <link>https://chouj.github.io/825/</link>
+      <description><![CDATA[　　突破学术论坛的固有形式，是办更有趣学术论坛的法宝。就我所知，一种是黄瑞新老师的那种：每人5页PPT，只讲IDEA，不讲已有成果。所争取的，是让听者觉得“我怎么没这么想过”，效果拔群。没点深思远虑后的“金刚钻”，怕是上去讲会发怵。那么正规动作的青年学术论坛、特别是主题或方向较宽的论坛该怎么改变以谋求“更有趣”呢？我觉得可以拓展“学术”二字的边界，往“接地气”的方向走。 ]]></description>
+      <guid>https://chouj.github.io/825/</guid>
+      <pubDate>Fri, 09 Aug 2019 01:21:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于ThingSpeak生成Shields.io Dynamic Badge</title>
+      <link>https://chouj.github.io/dynamic-shieldsio-badge/</link>
+      <description><![CDATA[公开的ThingSpeak Channel可以将频道的数据以xml或json格式输出，所以可以用其生成Shields.io Dynamic Badge。我丢了段读取我Telegram频道订阅数的MATLAB脚本到ThingSpeak，挂上TimeControl每隔20分钟跑一次，订阅数写进ThingSpeak Public Channel，就可以作一个动态展示Telegram频道订阅数的Shields.io Badge啦。 ]]></description>
+      <guid>https://chouj.github.io/dynamic-shieldsio-badge/</guid>
+      <pubDate>Wed, 24 Jul 2019 03:09:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>今日南海中尺度涡 (South China Sea Mesoscale Eddies Today)</title>
+      <link>https://chouj.github.io/scs-eddies-today/</link>
+      <description><![CDATA[近期有一个利用水下滑翔机观测中尺度涡的应用型海试，我一直在帮忙做观测方案设计。这期间每天必做的就是下载当天的准实时海表面高度异常资料，进行初步涡识别，然后成图 ，发给执行方供参考。为了节省这部分重复劳动占用的时间，我把整个过程在本地自动化（借助timer function），然后在码云代码仓库作自动线上发布与更新。 ]]></description>
+      <guid>https://chouj.github.io/scs-eddies-today/</guid>
+      <pubDate>Fri, 19 Jul 2019 02:30:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>友链</title>
+      <link>https://chouj.github.io/links/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://chouj.github.io/links/</guid>
+      <pubDate>Thu, 04 Jul 2019 02:11:07 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

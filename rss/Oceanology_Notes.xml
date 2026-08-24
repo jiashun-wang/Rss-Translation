@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Oceanology notes</title>
+    <link>https://blog.chum-bucket.site/</link>
+    <description>Thoughts, tutorials, and projects by Jiashun Wang.</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:22:12 GMT</lastBuildDate>
+    <item>
+      <title>模板</title>
+      <link>https://blog.chum-bucket.site/zh/posts/2026-05-16/</link>
+      <description><![CDATA[这是我的新 Astro 博客的第一篇文章。]]></description>
+      <guid>https://blog.chum-bucket.site/zh/posts/2026-05-16/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>英语学习资源</title>
+      <link>https://blog.chum-bucket.site/zh/posts/2026-05-12/</link>
+      <description><![CDATA[英语学习资源]]></description>
+      <guid>https://blog.chum-bucket.site/zh/posts/2026-05-12/</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>时间戳</title>
+      <link>https://blog.chum-bucket.site/zh/posts/2026-05-11-0218/</link>
+      <description><![CDATA[这是我的新 Astro 博客的第一篇文章。]]></description>
+      <guid>https://blog.chum-bucket.site/zh/posts/2026-05-11-0218/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>科研GOCO 模式</title>
+      <link>https://blog.chum-bucket.site/zh/posts/post-3/</link>
+      <description><![CDATA[GOCO模式是美国科研体系中一种非常典型的管理模式]]></description>
+      <guid>https://blog.chum-bucket.site/zh/posts/post-3/</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

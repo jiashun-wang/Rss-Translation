@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>小姜同学的博客</title>
+    <link>https://brian-jiangz.github.io/</link>
+    <description>热衷物理海洋、海洋科学、摄影</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:17:31 GMT</lastBuildDate>
+    <item>
+      <title>MGF半月谈</title>
+      <link>https://brian-jiangz.github.io/2022/07/19/Lecture/MGF%E5%8D%8A%E6%9C%88%E8%B0%88/</link>
+      <description><![CDATA[科学问题研究背景自然碳增汇
+全球碳循环与碳库
+海洋吸收了人类排放二氧化碳的27%；
+海洋是全球最大的碳存储库（95%为DIC）；
+如果没有生物泵作用，深海对于上层海洋是碳源。 ]]></description>
+      <guid>https://brian-jiangz.github.io/2022/07/19/Lecture/MGF%E5%8D%8A%E6%9C%88%E8%B0%88/</guid>
+      <pubDate>Tue, 19 Jul 2022 12:04:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>MATLAB语法及其在地球科学中的应用</title>
+      <link>https://brian-jiangz.github.io/2022/07/17/Program/MATLAB%E8%AF%AD%E6%B3%95%E5%8F%8A%E5%85%B6%E5%9C%A8%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</link>
+      <description><![CDATA[本文用语记录MATLAB基本语法及其在地球科学（尤其是海洋科学）中的应用，如使用、改用文中信息，请标注、引用。 ]]></description>
+      <guid>https://brian-jiangz.github.io/2022/07/17/Program/MATLAB%E8%AF%AD%E6%B3%95%E5%8F%8A%E5%85%B6%E5%9C%A8%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</guid>
+      <pubDate>Sun, 17 Jul 2022 06:57:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算流体力学基础</title>
+      <link>https://brian-jiangz.github.io/2021/11/10/Earth%20science/Oceanography/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E5%9F%BA%E7%A1%80/</link>
+      <description><![CDATA[考核形式课时：32学时；学分：2.0考核：上课及作业30%；课程论文70%1 绪论1.1 什么是计算流体力学定义：在离散的时间和空间上，得到流场的数值解的技术目的：定量描述流动问题工具：计算机（PC，工作站（台式计算机），小型或大型集群）计算流体力学1）数值计算2）流体力学3）计算机编程理论流体力学实验流体力学计算流体力学（交叉学科）数学：数学分析、数值分析流体力学计算机：编程语言、高性能计算（HPC）专业领域：地球科学（大气与海洋科学）bench：当使用耦合系统时，需要bench来做基本原理：1.2 为什么研究CFD物理试验缺点：成本高、效率低、危险CFD作为研究工具：数值试验、设计工具、CFD的应用案例（汽车发动机、工业制造、环境工程等）研究CFD与CFD研究：CFD研究是应用CFD黑匣子对其他对象进行研究；CFD可以在高时间、空间分辨率上探讨流动、物质输运特性1.3 为什么CFD是有挑战性的三大难题：激波、涡分离和湍流加速器增加了编程环境的复杂性1.4 CFD的发展历史1.5 几个CFD的研究案例1.5.1 飓风模拟网格分辨率对飓风模拟的影响，三维结构模拟，网格分辨率同时提高2倍，整体提升$2^3$倍1.5.2 天气模拟1.5.3 全球海洋模拟的计算机渲染1.5.4 海气耦合耦合模式需要耦合器耦合系统示意图1.6 怎么学习CFD推荐阅读课后练习题计算机编程代码资源由简单到复杂]]></description>
+      <guid>https://brian-jiangz.github.io/2021/11/10/Earth%20science/Oceanography/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E5%9F%BA%E7%A1%80/</guid>
+      <pubDate>Wed, 10 Nov 2021 02:10:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>第四届世界桂冠论坛</title>
+      <link>https://brian-jiangz.github.io/2021/11/03/Lecture/WorldLaureatesForum4th/</link>
+      <description><![CDATA[使用显示出强烈遗传分化的 SNP 解析群体结构]]></description>
+      <guid>https://brian-jiangz.github.io/2021/11/03/Lecture/WorldLaureatesForum4th/</guid>
+      <pubDate>Wed, 03 Nov 2021 02:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>报告</title>
+      <link>https://brian-jiangz.github.io/2021/10/29/Reports/</link>
+      <description><![CDATA[-]]></description>
+      <guid>https://brian-jiangz.github.io/2021/10/29/Reports/</guid>
+      <pubDate>Fri, 29 Oct 2021 07:49:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>龚老师</title>
+      <link>https://brian-jiangz.github.io/2021/10/18/Earth%20science/Oceanography/Teacher-Gong/</link>
+      <description><![CDATA[自我介绍按照论文结构来介绍]]></description>
+      <guid>https://brian-jiangz.github.io/2021/10/18/Earth%20science/Oceanography/Teacher-Gong/</guid>
+      <pubDate>Mon, 18 Oct 2021 06:28:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>地学信息可视化</title>
+      <link>https://brian-jiangz.github.io/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+      <description><![CDATA[《地学信息三维可视化》教师：王贤敏教授二级单位：地球科学学院
+1 地学三维可视化1.1 地学系统
+GIS：Geographical information sciences 即地学信息科学；地理信息科学在气象（全球气候变化、温室效应、全球碳排放、$EI \ ni\widetilde{n}o$、ENSO等）、地表、全球变化等领域都有应用。 
+范围：上到大气、中到山川河流、下到岩石圈等；集成空间（数字），涵盖了大气、地形、地表与地下集成空间。 
+地学系统概念：将涉及地球内部、表面及外部的系统统称为地学系统。 ]]></description>
+      <guid>https://brian-jiangz.github.io/2021/10/15/Earth%20science/Geosciences/%E5%9C%B0%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+      <pubDate>Fri, 15 Oct 2021 06:37:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>XingXing Wang CMST 2021-69</title>
+      <link>https://brian-jiangz.github.io/2021/10/14/Lecture/CMST/XingXing-Wang-CMST-2021-69/</link>
+      <description><![CDATA[“海洋之光”学术论坛（第69期）报告学者：王星星报告时间：2021年10月14日星期四报告地点：东区综合楼A栋1805
+南海东北陆缘晚中新世-第四纪深水沉积层序对构造和气候变化的响应]]></description>
+      <guid>https://brian-jiangz.github.io/2021/10/14/Lecture/CMST/XingXing-Wang-CMST-2021-69/</guid>
+      <pubDate>Thu, 14 Oct 2021 06:56:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>大气科学概论</title>
+      <link>https://brian-jiangz.github.io/2021/10/12/Earth%20science/atmospheric%20science/%E5%A4%A7%E6%B0%94%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA/</link>
+      <description><![CDATA[1 绪论40%平时分+60%考核
+1.1 大气科学概述1.1.1 大气科学的定义
+研究对象：大气中各种现象、成因及其演化规律等；
+目的：利用规律为人类服务；
+涉及学科：大气物理、化学、动力学；]]></description>
+      <guid>https://brian-jiangz.github.io/2021/10/12/Earth%20science/atmospheric%20science/%E5%A4%A7%E6%B0%94%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA/</guid>
+      <pubDate>Tue, 12 Oct 2021 08:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>格晨CMST 2021-17</title>
+      <link>https://brian-jiangz.github.io/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/</link>
+      <description><![CDATA[“海洋之光”学术论坛（第68期）报告学者：陈戈报告时间：2021年10月8日星期五报告地点：南望山八角楼
+干涉测高时代的海平面遥感——跨越与挑战]]></description>
+      <guid>https://brian-jiangz.github.io/2021/10/08/Lecture/CMST/Ge-Chen-CMST-2021-17/</guid>
+      <pubDate>Fri, 08 Oct 2021 05:24:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>物理海洋学</title>
+      <link>https://brian-jiangz.github.io/2021/09/28/Earth%20science/Oceanography/Physical-Oceanography/</link>
+      <description><![CDATA[1 作用在海水微团上的力时间：2021年9月28日教师：宫勋教授月球引潮力约为太阳引潮力的2.17倍；
+
+天体引潮力
+重力加速度
+压强梯度力
+地转偏向力
+摩擦力]]></description>
+      <guid>https://brian-jiangz.github.io/2021/09/28/Earth%20science/Oceanography/Physical-Oceanography/</guid>
+      <pubDate>Mon, 27 Sep 2021 23:40:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>地球系统概论</title>
+      <link>https://brian-jiangz.github.io/2021/09/24/Earth%20science/Geosciences/Earth-system/</link>
+      <description><![CDATA[1 从行星系统到地球系统时间：2021年9月24日教师：肖龙联系方式：longxiao@cug.edu.cn
+
+地球作为太阳系统内的行星，有自己独特的系统，以全球、系统的角度研究地球科学；
+地球系统科学要跳出地球本身来研究。 
+
+研究对象：层圈结构、物质组成、相互作用、演变过程、驱动因素；理论基础：矿物岩石矿床学、地球化学、构造地质学、沉积学、古生物学、第四纪地质学；]]></description>
+      <guid>https://brian-jiangz.github.io/2021/09/24/Earth%20science/Geosciences/Earth-system/</guid>
+      <pubDate>Thu, 23 Sep 2021 23:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>LTO讲座 2021/9/23</title>
+      <link>https://brian-jiangz.github.io/2021/09/23/Lecture/LTO-Lecture-2021-9-23/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brian-jiangz.github.io/2021/09/23/Lecture/LTO-Lecture-2021-9-23/</guid>
+      <pubDate>Thu, 23 Sep 2021 07:41:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>《海洋学导论》</title>
+      <link>https://brian-jiangz.github.io/2021/09/20/Earth%20science/Oceanography/Oceanography/</link>
+      <description><![CDATA[4 海洋沉积物4.1 绪论
+海洋沉积物具有时间序列连续性，经过成岩作用形成沉积岩。陆地大部分岩石为沉积岩，其中部分是海底沉积岩通过板块构造抬升而露出的。 
+沉积岩分类：造岩沉积、生物沉积、水生沉积、宇宙沉积其中，水生沉积指化学反应引起的海水中溶解物质的沉淀；来自河流、火山喷发、滑坡、​​侵蚀的沉积叫做造岩沉积；]]></description>
+      <guid>https://brian-jiangz.github.io/2021/09/20/Earth%20science/Oceanography/Oceanography/</guid>
+      <pubDate>Mon, 20 Sep 2021 01:46:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人简历</title>
+      <link>https://brian-jiangz.github.io/2021/09/16/Resume/Jiang-resume/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brian-jiangz.github.io/2021/09/16/Resume/Jiang-resume/</guid>
+      <pubDate>Thu, 16 Sep 2021 05:09:59 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

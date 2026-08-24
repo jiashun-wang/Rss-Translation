@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>wallabag</title>
+    <link>https://wallabag.org/</link>
+    <description>News about wallabag development</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:37:11 GMT</lastBuildDate>
+    <item>
+      <title>Wallabag 开胃酒将于 2026 年 7 月 29 日星期三在巴黎举行</title>
+      <link>https://wallabag.org/news/20260624-apero-wallabag/</link>
+      <description><![CDATA[继 2025 年推出第一版之后，我们今年将更新运营。
+我们期待在 7 月 29 日星期三下午 6:30 与您见面。位于 Chez Jean-Claude 酒吧，地址：9 rue Vandamme, Paris 75014（网站：https://www.chezjeanclaudeleviens.fr/）。
+将会有食物、饮料，可能还有袋鼠贴纸🦘
+如果您认为自己参与其中，请考虑填写参与调查：https://beta.framadate.org/polls/b6cede884d27340afff1。
+如果位置发生变化（因为人太多或任何其他原因），我们将更新此博文并通过我们的乳齿象帐户进行交流https://fosstodon.org/@wallabag。
+
+]]></description>
+      <guid>https://wallabag.org/news/20260624-apero-wallabag/</guid>
+      <pubDate>Wed, 24 Jun 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>wallabag x La Clinique du Libre：一小时改进项目</title>
+      <link>https://wallabag.org/news/20260623-clinique-libre-video/</link>
+      <description><![CDATA[由于视频是法语，因此本博文的其余部分也是法语。
+几天前，我们与部分团队一起参加了由道德设计师自由软件社区组织的第一届自由软件诊所。
+&lt;块引用&gt;
+道德设计师是一个探索数字设计实践的协会。我们致力于帮助设计师和数字专业人士创造出解放性的、可持续的和理想的数字技术。
+自由软件社区由 Émilie Nguyen Van Yen 和 Nathalie 于 2026 年创建。其目标是在用户体验设计方面帮助自由主义项目。
+
+这个练习非常有趣：在一个小时的现场直播中，用户体验设计专家向我们指出了项目中的异常情况。
+没有判断，只有实际反馈，有时很容易纠正。
+感谢他们的工作，我们将能够改进 wallabag。
+你错过了直播吗？ 该视频可在他们的 Peertube 上观看。]]></description>
+      <guid>https://wallabag.org/news/20260623-clinique-libre-video/</guid>
+      <pubDate>Tue, 23 Jun 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>文档存储库上的更改</title>
+      <link>https://wallabag.org/news/20260612-documentation-move/</link>
+      <description><![CDATA[最近，我们决定将文档存储库合并到 wallabag 代码存储库。通过避免维护和贡献单独的存储库，这将大大简化贡献工作流程。
+此更改还将使我们能够轻松维护专用于次要版本的文档。
+仍然可以在 https://doc.wallabag.org/ 上访问当前版本的文档。现在可以在 https://github.com/wallabag/wallabag/tree/master/doc 上进行贡献。
+最后，作为此次合并的结果，我们将归档以前的文档存储库。]]></description>
+      <guid>https://wallabag.org/news/20260612-documentation-move/</guid>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于官方 wallabag iOS 应用程序的重要更改</title>
+      <link>https://wallabag.org/news/20260327-important-change-ios-app/</link>
+      <description><![CDATA[五年来，wallabag iOS 应用程序源代码得到了维护和维护
+由@bourvill 在 wallabag GitHub 组织下提供，我们
+谨对他的奉献和贡献表示感谢。
+最近原始维护者已将重点转移到闭源版本
+（版本 7.6 及以上）具有自己的一组付费功能。内部后
+与团队、核心团队和维护者讨论决定不
+监督相关开源存储库的进一步开发
+可预见的未来。
+因此，wallabag/ios-app 存储库将被存档，但将
+仍然可供任何人查看原始源代码。
+此外，该 iOS 应用程序将不再被宣布为官方应用程序
+适用于 iOS 平台的 wallabag 应用程序。
+对于有关此 iOS 应用程序的任何评论、查询或支持请求，
+请参阅相关的App Store页面。]]></description>
+      <guid>https://wallabag.org/news/20260327-important-change-ios-app/</guid>
+      <pubDate>Mon, 06 Apr 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>钱包 2.6.14</title>
+      <link>https://wallabag.org/news/20251007-new-release-wallabag-2614/</link>
+      <description><![CDATA[这是最新版本的 wallabag。
+📈 要更新您的实例，只需运行 make update。
+不要忘记备份您的实例（数据库和文件）。
+🤝 温馨提示，您可以通过在 Liberapay 上赞助我们或在 wallabag.it 上订阅来支持我们在 wallabag 上的工作。谢谢！
+人类总结
+您现在可以在 API 中过滤带有注释的条目。还有一个关于阅读时间的修复。
+发生了什么变化
+改进
+
+通过 @skn 在 https://github.com/wallabag/wallabag/pull/8346 中向条目 API 端点添加注释过滤器
+
+修复
+
+修复了 @andreadecorte 在 https://github.com/wallabag/wallabag/pull/8332 中的短条目的阅读时间计算
+修复了 https://github.com/wallabag/wallabag/pull/8488 中 @j0k3r 使用 API 发送要存储的多个网址时的 urls 参数
+通过 @yguedidi 在 https://github.com/wallabag/wallabag/pull/8440 中修复 docker 基础镜像
+
+技术内容
+
+@nicosomb 在 https://github.com/wallabag/wallabag/pull/8251 中更改 wallabag.yml 中的版本
+修复了 https://github.com/wallabag/wallabag/pull/8267 中 @j0k3r 的弃用问题
+由 @yguedidi 在 https://github.com/wallabag/wallabag/pull/8435 中更新依赖项
+@j0k3r 在https://github.com/wallabag/wallabag/pull/8489中修改依赖项（主要用于站点配置）
+
+您可以在 GitHub 上阅读完整变更日志。
+下载 wallabag 2.6.14
+要下载、安装/升级 wallabag，请阅读我们的下载页面。
+&lt;小时/&gt;
+需要帮助吗？
+我们在 Matrix，请联系我们！
+您还可以在 GitHub 上打开新问题。
+&lt;小时/&gt;
+您可以如何帮助我们？
+通过使用 wallabag，通过报告错误，通过翻译 wallabag 及其文档，通过与您的朋友谈论 wallabag，...
+您还可以通过 Liberapay 捐款来帮助我们。]]></description>
+      <guid>https://wallabag.org/news/20251007-new-release-wallabag-2614/</guid>
+      <pubDate>Tue, 07 Oct 2025 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wallabag 开胃酒将于 2025 年 7 月 17 日星期四在巴黎举行</title>
+      <link>https://wallabag.org/news/20250627-apero-wallabag/</link>
+      <description><![CDATA[我们期待在 7 月 17 日星期四下午 6:30 与您见面。位于 Chez Jean-Claude 酒吧，地址：9 rue Vandamme（网站：https://www.chezjeanclaudeleviens.fr/）。
+Wallabag 贴纸将可用:)您将有机会见到几乎整个维护该项目的团队，因此没有理由避免这次会议。
+如果您认为自己参与其中，请考虑填写参与调查：https://framadate.org/6Ay2dR4GHKA8Qn9z。
+如果位置发生变化（因为人太多或任何其他原因），我们将更新此博文并通过我们的乳齿象帐户进行交流https://fosstodon.org/@wallabag。]]></description>
+      <guid>https://wallabag.org/news/20250627-apero-wallabag/</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>钱包 2.6.13</title>
+      <link>https://wallabag.org/news/20250604-new-release-wallabag-2613/</link>
+      <description><![CDATA[这是最新版本的 wallabag。
+📈 要更新您的实例，只需运行 make update。
+不要忘记备份您的实例（数据库和文件）。
+🤝 温馨提示，您可以通过在 Liberapay 上赞助我们或在 wallabag.it 上订阅来支持我们在 wallabag 上的工作。谢谢！
+人类总结
+我们添加了 Pocket CSV 导入。您也可以从 Shaarli 迁移。我们修复了一个有关一次性密码的恼人错误和另一个有关编码的错误。
+发生了什么变化
+改进
+
+在 https://github.com/wallabag/wallabag/pull/8240 中添加对 @kdecherf 和 @nicosomb 导入 Pocket CSV 的支持
+向后移植 Pocket 和 Shaarli HTML，由 @nicosomb 在 https://github.com/wallabag/wallabag/pull/8193 中导入
+
+修复
+
+避免 @j0k3r 在 https://github.com/wallabag/wallabag/pull/8139 中启用未经验证的 OTP #8139
+
+技术内容
+
+更新 j0k3r/php-readability:1.2.13 以修复回归（关于条目中使用 latin1 而不是 UTF-8），作者：@nicosomb https://github.com/wallabag/wallabag/pull/8194
+
+您可以在 GitHub 上阅读完整变更日志。
+下载 wallabag 2.6.13
+要下载、安装/升级 wallabag，请阅读我们的下载页面。
+&lt;小时/&gt;
+需要帮助吗？
+我们在 Matrix，请联系我们！
+您还可以在 GitHub 上打开新问题。
+&lt;小时/&gt;
+您可以如何帮助我们？
+通过使用 wallabag，通过报告错误，通过翻译 wallabag 及其文档，通过与您的朋友谈论 wallabag，...
+您还可以通过 Liberapay 捐款来帮助我们。]]></description>
+      <guid>https://wallabag.org/news/20250604-new-release-wallabag-2613/</guid>
+      <pubDate>Wed, 04 Jun 2025 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>再见，感谢所有的鱼：Pocket 关闭，但开放的网络仍然存在</title>
+      <link>https://wallabag.org/news/20250524-pocket-shutdown/</link>
+      <description><![CDATA[Mozilla 最近宣布关闭其 Pocket 服务令许多用户感到惊讶。我们想分享一些想法作为对 Pocket 的告别信息，并讨论寻找新平台的 Pocket 用户的可用选项。
+Pocket 和 wallabag 的早期
+早在 2013 年，Google 就决定终止其最著名的产品之一 Google Reader。作为当时的 Pocket 用户，尼古拉斯问自己，如果 Pocket 决定这样做，他的数据和所有这些保存的文章会发生什么。然后，wallabag诞生了。好吧，它以“poche”这个名字而闻名。早期的意思是“口袋”有趣的是，更名是因为与 Pocket 的公司 Read It Later, Inc. 发生商标问题。因此，poche 在 2014 年初更名为 wallabag。
+如果您想了解有关此背景故事的更多信息，请阅读以下文章：
+
+致 Pocket 创建者 Read It Later, Inc. 的公开信
+袖珍回复
+我们走吧！
+
+2017 年，Mozilla 公司宣布收购 Pocket，并计划开源服务器部分，但这一计划从未完全完成。
+再见，感谢所有的鱼，口袋；或者我们应该说：感谢您推动我们更改名称，感谢您简化稍后阅读应用程序。
+通过开放在网络中生存
+看到一项服务关闭总是让人苦乐参半，尤其是当这项服务广为人知和使用时。 Omnivore 是另一项稍后阅读的服务，于 2024 年底关闭。在这两种情况下，都是一家营利性公司决定取消他们购买的产品。 Mozilla 解释说，他们做出这一决定是因为“网络和我们使用网络的方式发生了很大变化”。尽管这一说法是正确的，我们仍然坚信赋予人们权力并帮助他们控制自己的数据和隐私。
+这就是为什么我们在 wallabag 创建 12 年后仍然继续开发它。
+您是 Pocket 用户？阅读本文
+来自 Mozilla 的进一步阅读：
+
+Pocket 即将告别 - 您需要了解的内容
+投资于推动互联网向前发展的事物
+
+现在 Pocket 预计将在今年关闭，如果您是用户该怎么办？
+最重要的是要求导出数据，理想情况下导出数据可以包括通过链接获取的内容。这至少可以让您保留一段时间内保存的链接列表。
+如果您正在寻找 Pocket 的替代方案来继续保存文章，这里有一些想法：
+
+您可以自行托管自己的 wallabag 实例
+或者如果您不想管理任何内容，可以订阅 wallabag.it
+您还可以通过 CHATONS 查找其他 wallabag 实例
+
+wallabag 并不是唯一可用的稍后阅读应用程序，您还可以看看 Readeck 和 Raindrop 等。
+结束词
+我们要感谢社区和用户，并提醒您，wallabag 是一款免费的开源软件。您可以自由使用它、托管它并为其做出贡献。
+这个项目的工作大部分是在我们的空闲时间完成的，因此，如果您有能力并且愿意，请毫不犹豫地通过 Liberapay 向 wallabag 捐款。
+欢迎在 Matrix 或 fediverse 上与我们聊天:)
+祝您阅读愉快。]]></description>
+      <guid>https://wallabag.org/news/20250524-pocket-shutdown/</guid>
+      <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>钱包 2.6.12</title>
+      <link>https://wallabag.org/news/20250410-new-release-wallabag-2612/</link>
+      <description><![CDATA[这是最新版本的 wallabag。
+⚠️ 此版本遵循 2.6.11，这是一个安全版本。
+📈 要更新您的实例，只需运行 make update。
+不要忘记备份您的实例（数据库和文件）。
+🤝 温馨提示，您可以通过在 Liberapay 上赞助我们或在 wallabag.it 上订阅来支持我们在 wallabag 上的工作。谢谢！
+人类总结
+我们忘记更新上一个版本中项目的依赖项。
+发生了什么变化
+修复
+
+修复了 @yguedidi 在 https://github.com/wallabag/wallabag/pull/8135 中的变更日志
+由 @yguedidi 在 https://github.com/wallabag/wallabag/pull/8136 中更新依赖项
+
+技术内容
+
+准备 2.6.12 版本，由 @yguedidi 在 https://github.com/wallabag/wallabag/pull/8137
+
+您可以在 GitHub 上阅读完整变更日志。
+下载 wallabag 2.6.12
+要下载、安装/升级 wallabag，请阅读我们的下载页面。
+&lt;小时/&gt;
+需要帮助吗？
+我们在 Matrix，请联系我们！
+您还可以在 GitHub 上打开新问题。
+&lt;小时/&gt;
+您可以如何帮助我们？
+通过使用 wallabag，通过报告错误，通过翻译 wallabag 及其文档，通过与您的朋友谈论 wallabag，...
+您还可以通过 Liberapay 捐款来帮助我们。]]></description>
+      <guid>https://wallabag.org/news/20250410-new-release-wallabag-2612/</guid>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>钱包 2.6.11</title>
+      <link>https://wallabag.org/news/20250408-new-release-wallabag-2611/</link>
+      <description><![CDATA[这是最新版本的 wallabag。
+⚠️这是 wallabag 的安全版本。
+📈 要更新您的实例，只需运行 make update。
+不要忘记备份您的实例（数据库和文件）。
+🤝 温馨提示，您可以通过在 Liberapay 上赞助我们或在 wallabag.it 上订阅来支持我们在 wallabag 上的工作。谢谢！
+人类总结
+在多个端点上添加针对 CSRF 的保护。
+发生了什么变化
+安全修复⚠️
+
+通过 @yguedidi 在 https://github.com/wallabag/wallabag/commit/99c8a06594d6ee7480ce4d041ccff3025b353656（报告为
+GHSA-5pm7-cp8f-p2c2)
+
+修复
+
+修复了 @nicosomb 在 https://github.com/wallabag/wallabag/pull/7827 中的搜索结果中执行操作后的重定向
+在https://github.com/wallabag/wallabag/pull/7846中修复@nicosomb的标题标签过滤器
+@j0k3r 在 https://github.com/wallabag/wallabag/pull/7993 中将 Pocket 导入器中的 NB_ELEMENTS 更改为 30
+通过 https://github.com/wallabag/wallabag/pull/7999 中的 @j0k3r 修复了菜单中带注释条目的条目计数器
+
+技术内容
+
+由 @yguedidi 在 https://github.com/wallabag/wallabag/pull/8133 中准备 2.6.11 版本
+
+您可以在 GitHub 上阅读完整变更日志。
+下载 wallabag 2.6.11
+要下载、安装/升级 wallabag，请阅读我们的下载页面。
+&lt;小时/&gt;
+需要帮助吗？
+我们在 Matrix，请联系我们！
+您还可以在 GitHub 上打开新问题。
+&lt;小时/&gt;
+您可以如何帮助我们？
+通过使用 wallabag，通过报告错误，通过翻译 wallabag 及其文档，通过与您的朋友谈论 wallabag，...
+您还可以通过 Liberapay 捐款来帮助我们。]]></description>
+      <guid>https://wallabag.org/news/20250408-new-release-wallabag-2611/</guid>
+      <pubDate>Tue, 08 Apr 2025 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>再见 X / Twitter 和 Facebook</title>
+      <link>https://wallabag.org/news/20250120-bye-fb-twitter/</link>
+      <description><![CDATA[今天，我们决定告别 Facebook 和 Twitter。
+我们的官方沟通方式现在是通过我们的博客和我们的 Mastodon 帐户。]]></description>
+      <guid>https://wallabag.org/news/20250120-bye-fb-twitter/</guid>
+      <pubDate>Mon, 20 Jan 2025 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TechCrunch 表示，“wallabag，一个强有力的竞争对手”</title>
+      <link>https://wallabag.org/news/20241126-techcrunch/</link>
+      <description><![CDATA[著名科技博客 Techcrunch 写了一篇关于 wallabag 的文章。
+wallabag 团队惊喜地发现他们的项目在最近的一篇 TechCrunch 文章中得到了强调。 wallabag 被认为是 Pocket 的隐私友好替代品，因其自托管功能和对用户自治的承诺而受到赞誉——自项目启动以来，这些价值观一直是该项目的核心。
+对于一个小型的、社区驱动的团队来说，与 Signal 和 Nextcloud 等巨头一起亮相既令人意外，又深受激励。在如此知名的平台上看到我们的作品被提及真是令人难以置信。这证明独立、合乎道德的替代方案可以脱颖而出。
+这一认可不仅验证了 wallabag 的使命，还鼓励团队不断改进应用程序。我们希望这一焦点能够激励更多用户和贡献者加入我们的旅程，让个人能够掌控自己的数据。
+wallabag 的未来一片光明，这证明即使是小项目也可以对科技世界产生巨大影响。]]></description>
+      <guid>https://wallabag.org/news/20241126-techcrunch/</guid>
+      <pubDate>Tue, 26 Nov 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>钱包 2.6.10</title>
+      <link>https://wallabag.org/news/20241103-new-release-wallabag-2610/</link>
+      <description><![CDATA[这是最新版本的 wallabag。
+📈 要更新您的实例，只需运行 make update。
+不要忘记备份您的实例（数据库和文件）。
+🤝 温馨提示，您可以通过在 Liberapay 上赞助我们或在 wallabag.it 上订阅来支持我们在 wallabag 上的工作。谢谢！
+人类总结
+我们添加了 Omnivore 导入。
+发生了什么变化
+改进
+
+在 https://github.com/wallabag/wallabag/pull/7754 中添加 @nicosomb 的 Omnivore 导入
+
+修复
+
+更新站点配置和@j0k3r 在 https://github.com/wallabag/wallabag/pull/7582 中进行的测试（修复了“提供的密钥较短”
+超过 256 位，仅提供 240 位” https://github.com/wallabag/wallabag/issues/7531)
+由 @yguedidi 在 https://github.com/wallabag/wallabag/pull/7623 中更新站点配置
+将 https://github.com/wallabag/wallabag/pull/7753 中的 @nicosomb 的 gitter 替换为矩阵
+
+您可以在 GitHub 上阅读完整变更日志。
+下载wallabag 2.6.10
+要下载、安装/升级 wallabag，请阅读我们的下载页面。
+&lt;小时/&gt;
+需要帮助吗？
+我们在 Matrix，请联系我们！
+您还可以在 GitHub 上打开新问题。
+&lt;小时/&gt;
+您可以如何帮助我们？
+通过使用 wallabag，通过报告错误，通过翻译 wallabag 及其文档，通过与您的朋友谈论 wallabag，...
+您还可以通过 Liberapay 捐款来帮助我们。]]></description>
+      <guid>https://wallabag.org/news/20241103-new-release-wallabag-2610/</guid>
+      <pubDate>Sun, 03 Nov 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从杂食动物迁移到袋鼠</title>
+      <link>https://wallabag.org/news/20241031-migrate-from-omnivore/</link>
+      <description><![CDATA[稍后阅读应用 Omnivore 最近宣布它将加入 ElevenLabs 公司。不幸的是，作为此过程的一部分，他们还宣布该服务将被关闭，所有用户数据将在 11 月底被删除。
+我们理解这种情况可能会令人沮丧和不安。我们正在积极与 Omnivore 导入器合作，以便您可以将您的内容转移到 wallabag。
+同时，由于这项工作仍在进行中，我们强烈建议您尽快请求导出您的 Omnivore 数据。该数据将以 zip 存档形式提供，一旦我们的导入程序发布，您将能够添加您保存的内容。
+请注意，至少目前，进口商预计不会支持亮点。]]></description>
+      <guid>https://wallabag.org/news/20241031-migrate-from-omnivore/</guid>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>钱包 2.6.9</title>
+      <link>https://wallabag.org/news/20240403-new-release-wallabag-269/</link>
+      <description><![CDATA[这是最新版本的 wallabag。
+📈 要更新您的实例，只需运行 make update。
+不要忘记备份您的实例（数据库和文件）。
+🤝 温馨提示，您可以通过在 Liberapay 上赞助我们或在 wallabag.it 上订阅来支持我们在 wallabag 上的工作。谢谢！
+人类总结
+我们修复了查看相同域文章时的分页问题。站点配置也是最新的。
+发生了什么变化
+
+修复了 @yguedidi 在 #7266 中的相同域分页
+由 @yguedidi 在 #7272 中升级 PHP 依赖项
+使用正确的“如何做” @j0k3r 的 elCurator #7323
+由 @j0k3r 在 #7395 中准备 2.6.9
+
+您可以在 GitHub 上阅读完整变更日志。
+下载wallabag 2.6.9
+要下载、安装/升级 wallabag，请阅读我们的下载页面。
+&lt;小时/&gt;
+需要帮助吗？
+我们在 Gitter，请联系我们！
+您还可以在 GitHub 上打开新问题。
+&lt;小时/&gt;
+您可以如何帮助我们？
+通过使用 wallabag，通过报告错误，通过翻译 wallabag 及其文档，通过与您的朋友谈论 wallabag，...
+您还可以通过 Liberapay 捐款来帮助我们。]]></description>
+      <guid>https://wallabag.org/news/20240403-new-release-wallabag-269/</guid>
+      <pubDate>Wed, 03 Apr 2024 09:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

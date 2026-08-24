@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Kevin Hu胡华平</title>
+    <link>https://www.huhuaping.com/posts.html</link>
+    <description></description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:21:19 GMT</lastBuildDate>
+    <item>
+      <title>编程式制图</title>
+      <link>https://www.huhuaping.com/posts/2024-03-16-diagram/</link>
+      <description><![CDATA[Quarto原生支持嵌入Mermaid和Graphviz图表（见quarto介绍页）
+
+在线mermaid制图https://mermaid.live/。可以在在线制作并保存在云端（国内似乎不能访问url地址），然后下载图片到本地。 
+
+
+
+
+
+
+classDiagram
+    阅读改进 &lt;|-- 教师因素
+    阅读改进 &lt;|-- 学生因素
+    阅读改进 &lt;|-- 父母因素
+    阅读改进 : 转变/阻滞 
+    class 教师因素{
+      - 师生互动
+      - 教师风格
+      - 评分操作
+    }
+    class 学生因素{
+      - 学习参与度
+      - 社交参与度
+    }
+    class 父母因素{
+      - 父子沟通
+      - 家校沟通
+    }
+
+
+
+
+
+]]></description>
+      <guid>https://www.huhuaping.com/posts/2024-03-16-diagram/</guid>
+      <pubDate>Fri, 15 Mar 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数学公式转图片</title>
+      <link>https://www.huhuaping.com/posts/2023-11-12-math2image/math-img-html.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.huhuaping.com/posts/2023-11-12-math2image/math-img-html.html</guid>
+      <pubDate>Sat, 11 Nov 2023 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>rmd迁移qmd</title>
+      <link>https://www.huhuaping.com/posts/2023-11-11-rmd2qmd/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.huhuaping.com/posts/2023-11-11-rmd2qmd/</guid>
+      <pubDate>Fri, 10 Nov 2023 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>R知识：从formula对象获取变量</title>
+      <link>https://www.huhuaping.com/posts/2023-11-07-formula/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.huhuaping.com/posts/2023-11-07-formula/</guid>
+      <pubDate>Mon, 06 Nov 2023 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>计量极速学习的体系路径</title>
+      <link>https://www.huhuaping.com/posts/2023-06-22-fast-economic-learning/</link>
+      <description><![CDATA[如何进行快速的计量学习。这是一篇测试blog。 
+
+R代码
+
+文内R代码
+
+# show demo
+print(&quot;hello quarto!&quot;)
+
+[1] &quot;hello quarto!&quot;
+
+
+
+
+外部R脚本
+
+
+
+latex公式
+
+]]></description>
+      <guid>https://www.huhuaping.com/posts/2023-06-22-fast-economic-learning/</guid>
+      <pubDate>Wed, 21 Jun 2023 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quarto的文件路径关系</title>
+      <link>https://www.huhuaping.com/posts/2023-06-22-quarto-path/</link>
+      <description><![CDATA[
+网站设置
+
+网站模板（template）风格参照了Mike Mahoney
+字体风格（font family）参照了YiHui
+
+
+
+网站维护
+网站的基本架构：
+（1）个人网站门户的Quarto项目为site-hhp。其中“博文|Blog”直接在本项目内开发维护。网站门户有两个同步域名：
+
+域名1：https://kevinhhp.netlify.app 。此域名为netlify服务器二级域名。静态站点文件夹（_site/），直接通过命令上传到netlify服务器。 
+域名2：https:/www.huhuaping.com 。此域名为服务器域名。静态站点文件夹（_site/），将通过文件同步软件resilio进行服务器的同步上传。为避免无效的反复上传，将进行关键提交点的手动控制上传。同时为保证resilio同步功能的正常运行，需要使用pre-render:和post-render:指令（_quarto.yaml）进行同步系统文件的来回复制和切换。 
+
+（2）独立quarto子项目的建设维护。主要包括：
+
+“教学|Teaching”：course-em、course-emii等。这类项目的输出结果，通过外部资源（resource）的方式，直接同步复制（单向同步）到门户项目的对应文件夹下，我们采用syncToy软件进行同步管理。 
+“项目|Project”：books-quarto、rworld等。这类项目的输出结果，直接托管到netlify站点服务平台，因此采用外部链接（[text](url-path)）的方式进行页面跳转。 
+
+
+
+网站发布
+发布网站到netlify简单地有两种方式：
+
+第一，直接使用publish command：quarto publish netlify，这将会把_site/文件夹上传到netlify从而站点发布。 
+第二，通过github进行触发式站点发布。需要管理netlify与R项目的github仓库。一旦R project进行了git push，则触发netlify的网站渲染。 
+
+测试R运算，显示计算结果。此时使用Quarto Netlify Build Plugin来调用netlify的server渲染。 
+测试更新Quarto Netlify Build Plugin到0.06版本，测试失败。官方说这是netlify的一个bug，目前不知道何时能解决。 
+更多尝试：
+
+1.更新quarto到最新预览版本；
+2.在netlify上链接设置Personal access tokens，并按照quarto官方引导进行设置。 
+
+github API调用限制。 access limits。测试是否有限制。 
+
+
+外部资源external resource
+需要配置yaml参数resource:
+
+
+R运算及代码文件
+尽量本地运行R代码，并保存结果到freeze。 
+尽量避免使用github action，这样会在CL远端执行R代码，因为这种运行很难保证未来持续性和可运行。 
+]]></description>
+      <guid>https://www.huhuaping.com/posts/2023-06-22-quarto-path/</guid>
+      <pubDate>Wed, 21 Jun 2023 16:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

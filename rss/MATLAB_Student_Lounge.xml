@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Student Lounge</title>
+    <link>https://blogs.mathworks.com/student-lounge</link>
+    <description>The student lounge blog focuses on student success stories.   Winning student teams share their knowledge and the MathWorks student programs team shares best practices and workflows using MATLAB and Simulink.</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:43:22 GMT</lastBuildDate>
+    <item>
+      <title>用于双电机 EV 平台的 STM32F4 上基于 Simulink 的 CAN 控制和验证</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/08/12/simulink-based-can-control-and-validation-on-stm32f4-for-a-dual-motor-ev-platform/?s_tid=feedtopost</link>
+      <description><![CDATA[
+
+在今天的博客中，我们邀请了 I.C.C 团队。来自韩国仁荷大学。他们分享了如何使用 MATLAB 和 Simulink 开发和验证基于 CAN 的嵌入式电机控制工作流程... 了解更多 &gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/08/12/simulink-based-can-control-and-validation-on-stm32f4-for-a-dual-motor-ev-platform/?s_tid=feedtopost</guid>
+      <pubDate>Wed, 12 Aug 2026 14:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>建造 Janus：第一个机器人团队如何设计冠军机器人</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/07/27/building-janus-how-a-first-robotics-team-engineered-a-championship-robot/?s_tid=feedtopost</link>
+      <description><![CDATA[
+
+在本周的博客文章中，我们将重点介绍来自 FIRST 机器人竞赛的 FRC Team 2040，他们回顾了自己的 2026 年赛季，并分享了他们如何使用 Simulink 和 WPILib 来协调他们的... 了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/07/27/building-janus-how-a-first-robotics-team-engineered-a-championship-robot/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 27 Jul 2026 14:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化不可预测的事情：Buckeye AutoDrive 的随机障碍物轨迹生成</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/07/13/automating-the-unpredictable-buckeye-autodrives-random-obstacle-trajectory-generation/?s_tid=feedtopost</link>
+      <description><![CDATA[
+今天，来自俄亥俄州立大学 SAE AutoDrive II 团队的学生也加入了我们的行列。七叶树自动驾驶。
+代表汽车研究中心 (CAR) 和俄亥俄州立大学...了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/07/13/automating-the-unpredictable-buckeye-autodrives-random-obstacle-trajectory-generation/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 13 Jul 2026 14:47:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>MathWorks 迷你无人机竞赛 - 欧洲 2025：基于模型的自主无人机设计</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/06/22/mathworks-minidrone-competition-europe-2025-model%e2%80%91based-design-for-autonomous-uavs/?s_tid=feedtopost</link>
+      <description><![CDATA[
+
+MathWorks 剑桥办事处主办了 2025 年欧洲版 MathWorks 迷你无人机竞赛，欢迎来自欧洲各地大学的学生。 2025 年版本吸引了来自...的申请了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/06/22/mathworks-minidrone-competition-europe-2025-model%e2%80%91based-design-for-autonomous-uavs/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 22 Jun 2026 11:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用激光雷达进行 3D 物体检测</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/06/01/using-lidar-for-3d-object-detection/?s_tid=feedtopost</link>
+      <description><![CDATA[
+今天，我们将详细介绍使用激光雷达数据创建 3D 物体检测器的每个步骤。我们首先介绍 3D 点云以及如何处理它们，然后...阅读更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/06/01/using-lidar-for-3d-object-detection/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 01 Jun 2026 14:33:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过基于模型的设计将 DB-15 变为现实</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/05/18/bringing-db-15-to-life-with-model-based-design/?s_tid=feedtopost</link>
+      <description><![CDATA[
+
+在本周的博客文章中，我们邀请了 DuBois Area Robotics 团队分享他们的旅程以及他们如何使用 MATLAB 和 Simulink 参加 2025 年 BEST 机器人锦标赛。 MathWorks 非常...了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/05/18/bringing-db-15-to-life-with-model-based-design/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 18 May 2026 12:30:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>模拟混合 PVT-制冷系统以在约旦炎热的夏季实现最大 COP</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/05/04/simulating-a-hybrid-pvt-chiller-system-for-maximum-cop-in-jordans-hot-summers/?s_tid=feedtopost</link>
+      <description><![CDATA[
+
+工程师 Heba Al Zaben 博士也加入了今天的博客。阿德姆·雅各布，工程师。瓦利德·穆罕默德，工程师。奥马尔·费尔和恩格。来自侯赛因技术大学的 Khaled Al Halab，他的项目赢得了... 了解更多 &gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/05/04/simulating-a-hybrid-pvt-chiller-system-for-maximum-cop-in-jordans-hot-summers/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 04 May 2026 13:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Team Endurance Racing 如何在 Simscape 中设计出获胜的电动 BAJA 动力系统模型</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/04/20/how-team-endurance-racing-engineered-a-winning-electric-baja-powertrain-model-in-simscape/?s_tid=feedtopost</link>
+      <description><![CDATA[
+
+在今天的博客中，我们邀请了来自浦那 Vishwakarma 理工学院的 Team Endurance Racing 团队，他们在 BAJA SAEINDIA：MathWorks 电动动力系统模拟挑战赛中获得第一名... 了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/04/20/how-team-endurance-racing-engineered-a-winning-electric-baja-powertrain-model-in-simscape/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 20 Apr 2026 15:48:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>从真实道路到真实模拟：TwinX 团队如何赢得 2025 年智能印度黑客马拉松</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/04/06/from-real-roads-to-real-simulations-how-team-twinx-won-smart-india-hackathon-2025/?s_tid=feedtopost</link>
+      <description><![CDATA[
+
+智能印度黑客马拉松 (SIH) 是一项全国性举措，旨在让学生参与解决日常生活中一些最紧迫的挑战。成立的目的是促进...了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/04/06/from-real-roads-to-real-simulations-how-team-twinx-won-smart-india-hackathon-2025/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 06 Apr 2026 04:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>RoboSub 模拟环境</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/03/23/robosub-simulation-environment/?s_tid=feedtopost</link>
+      <description><![CDATA[
+
+在今天的博客中，MathWorks 学生项目团队的 Abhishek Shankar 介绍了新发布的水下 RoboSub 仿真环境，该环境使用 Simulink、Simulink 3D 动画和... 了解更多 &gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/03/23/robosub-simulation-environment/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 23 Mar 2026 16:45:39 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

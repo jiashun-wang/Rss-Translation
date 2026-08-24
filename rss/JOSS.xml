@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Journal of Open Source Software</title>
+    <link>https://joss.theoj.org</link>
+    <description></description>
+    <lastBuildDate>Mon, 24 Aug 2026 08:12:00 GMT</lastBuildDate>
+    <item>
+      <title>Cont2SAS：用于计算连续纳米结构小角度散射参数的 Python 包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.09772</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.09772</guid>
+      <pubDate>Sun, 23 Aug 2026 23:40:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>GCAMUSAJobs：基于 GCAM-USA 电力部门成果的就业预测 R 包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10142</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10142</guid>
+      <pubDate>Fri, 21 Aug 2026 09:33:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>FELiCS：适用于多物理场应用的多功能线性化流求解器</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10241</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10241</guid>
+      <pubDate>Thu, 20 Aug 2026 21:28:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SARXarray：合成孔径雷达数据的 Xarray 扩展</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10492</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10492</guid>
+      <pubDate>Thu, 20 Aug 2026 20:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cocofest：用于最优控制驱动的功能性电刺激的开源 Python 包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10669</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10669</guid>
+      <pubDate>Thu, 20 Aug 2026 14:29:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROMS-Tools：使用 ROMS 进行区域海洋建模的可重复预处理和分析</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10234</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10234</guid>
+      <pubDate>Thu, 20 Aug 2026 13:18:49 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10654</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10654</guid>
+      <pubDate>Thu, 20 Aug 2026 00:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>LogoClim：NetLogo 中的 WorldClim</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.08845</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.08845</guid>
+      <pubDate>Wed, 19 Aug 2026 21:02:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>链接和节点：分布式实时机器人系统的中间件</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10777</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10777</guid>
+      <pubDate>Wed, 19 Aug 2026 18:56:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>JupyterGIS：JupyterLab 的协作 GIS 环境</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10383</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10383</guid>
+      <pubDate>Wed, 19 Aug 2026 17:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>FIRECODE：计算化学工作流程驱动程序和模块化集线器</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10698</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10698</guid>
+      <pubDate>Tue, 18 Aug 2026 19:05:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>pharmsol：用于药代动力学和药效建模与模拟的高性能 Rust 库</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10580</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10580</guid>
+      <pubDate>Tue, 18 Aug 2026 17:31:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>ProbINet：弥合概率网络分析中的可用性差距</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.08638</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.08638</guid>
+      <pubDate>Tue, 18 Aug 2026 15:48:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Balsa：带有命令行和 Python 界面的快速 C++ 随机森林分类器</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.08778</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.08778</guid>
+      <pubDate>Tue, 18 Aug 2026 14:48:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Joule Profiler：基于相位的能量测量工具</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10575</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10575</guid>
+      <pubDate>Tue, 18 Aug 2026 11:46:41 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

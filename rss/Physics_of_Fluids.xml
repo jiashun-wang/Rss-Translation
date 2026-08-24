@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Physics of Fluids Current Issue</title>
+    <link>https://pubs.aip.org/pof</link>
+    <description></description>
+    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>采用无网格局部径向基函数法对倾斜 U 形多孔腔内自然对流进行熵产生分析</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/083619/3402849/Entropy-generation-analysis-using-a-meshless-local</link>
+      <description><![CDATA[对顶壁冷方形倾角和底壁均匀加热的倾斜多孔 U 形腔中的自然对流和熵产生进行了数值研究，并与等面积的抛物线倾角配置进行了比较。通过 Brinkman-Forchheimer-Darcy 公式和 Boussinesq 近似对穿过各向同性多孔介质的稳定、不可压缩流动进行建模，并使用无网格局部径向基函数方法进行求解，为所选的复杂空腔配置提供几何灵活性和稳定的离散化。考察了倾角（0°≤γ≤90°）、纵横比（AR=0.2–0.6）、瑞利数（105≤Ra≤106）、达西数（10−4≤Da≤10−3）和普朗特数（Pr=0.71和6.2）的影响。对于所有参数组合，平均努塞尔数 (Nu´) 随着 AR 单调增加，同时表现出对 γ 的非单调依赖性。低Ra和Da情况显示中间角度的传热峰值，而高Ra和Da由于竞争浮力和几何效应而产生复杂的行为。总熵生成 (Stotal) 随着 AR 单调增加。它随倾角 ( γ) 的变化是非单调的，并且取决于 Ra 和 Da。在较低的 Ra 和 Da 处，Stotal 先升至峰值，然后随 γ 的增加而下降；相反，在较高的Ra和Da时，表现出复杂的减少-增加-减少趋势。贝让数 (Be) 在高 Ra 和 Da 处随着 γ 的增加而增加，在低 Da 处的中间角度处轻微减小，并且在低 Ra 处保持一致的高值style=&quot;font-style: italic;&quot;&gt;Ra。对于垂直构型（γ=0°），与先前研究中报告的等面积抛物线倾角结果进行比较表明，抛物线几何形状将传热增强高达~29%，同时增加熵产生（在低渗透率下高达~36%），表明与热力学不可逆性的权衡。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/083619/3402849/Entropy-generation-analysis-using-a-meshless-local</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>受限颗粒悬浮液中入侵者的沉降动力学</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/083347/3402847/Settling-dynamics-of-intruders-in-confined</link>
+      <description><![CDATA[本研究使用耦合晶格-玻尔兹曼方法和离散元方法研究了中性浮力颗粒悬浮液中入侵者的沉降行为，该悬浮液具有不同的受壁限制的颗粒体积分数，其中所有固体颗粒均得到完全解析。仿真模型经过严格评估和验证。我们采用均质、粘度匹配的牛顿有效流体作为颗粒分辨悬浮液的替代品，以研究控制入侵者沉降的机制。结果表明，虽然有效流体有效地捕获了单个入侵者的基本运动以及与不同颗粒体积分数相关的整体阻尼效应，但在处理复杂的成对入侵者沉降时，尤其是在颗粒浓度较高的悬浮液中，它会崩溃。具体来说，悬浮液中的悬浮颗粒充当离散障碍物，导致翻滚入侵者过早分离，并且与它们在均匀有效流体中的行为相比，临界分离角减小。分离后，悬浮会促使入侵者对在水平方向上进一步远离，这是主要由马格努斯效应驱动的运动学发散。这些发现强调了在对稠密颗粒悬浮液中的多入侵者动力学进行建模时考虑离散颗粒效应的必要性。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/083347/3402847/Settling-dynamics-of-intruders-in-confined</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>环境空气中强烈的激光-固体相互作用引起的冲击波的传播动力学：强到弱的冲击转变</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/086128/3402839/Propagation-dynamics-of-shockwave-via-intense</link>
+      <description><![CDATA[在本研究中，我们研究了固体镍靶上产生的激光诱导冲击波在环境空气中传播的特性。使用泵浦探针传输和阴影成像这两种光学诊断技术在高通量状态（30 和 66 J/mm2）下检查激波演化。两种技术独立建立了跨度≈0.1-2cm的冲击波的传播特性，显示出相互的一致性。冲击波传播与当代爆炸波模型（即谢多夫-泰勒和琼斯模型）的比较暗示了冲击的过渡性质，表明冲击从强到弱的逐渐衰减。这种转变从激波锋面速度剖面上初步可见，该速度剖面表现出最初的快速衰减，随后是几乎恒定的传播阶段。类似地，探针传输的定量分析，例如信号衰减的变化，可以识别相应的转变点。此外，转变点表现出对注量的依赖性，66 J/mm2 时发生在 ∼4 mm 处，30 J/mm2 时发生在 ∼3 mm 处。同时，观察到冲击波传播的关键参数，例如马赫数和压缩比，在各自的转变点处接近相似的热力学条件。这项研究提供了对环境空气中激光-固体相互作用产生的纳秒激光诱导冲击波传播过程中强到弱冲击转变的明确实验识别。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/086128/3402839/Propagation-dynamics-of-shockwave-via-intense</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>冰覆盖河道中早期沉积物运动的分析模型：集成跃动、滚动和滑动的多种运动模式</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/083351/3402838/Analytical-model-for-incipient-sediment-motion-in</link>
+      <description><![CDATA[高纬度北部地区的天然河流在极低温条件下形成稳定的冰盖。这一阶段冰盖的形成影响河道的流动特性，从而改变寒冷地区河流的沉积物输送过程。作为泥沙输移的关键环节，泥沙初期运动是控制后续泥沙输运行为和河道形态演化的关键阈值。鉴于此，通过对作用在沉积物颗粒上的力进行建模并考虑沉积物暴露的程度，在跃移、滚动和滑动模式下导出了冰覆盖河道中初始沉积物运动的阈值速度公式。初动速度的计算结果与测量值高度吻合，验证了解析解的有效性。此外，对三种模态的敏感性分析表明，初动速度与颗粒直径、河床粗糙度、沉积物密度和相对暴露程度呈非线性正相关，而与冰盖粗糙度和河床坡度呈非线性负相关。该研究为阐明冰盖河道泥沙初运动机制提供了理论依据，有助于更好地认识寒地河流泥沙输运过程。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/083351/3402838/Analytical-model-for-incipient-sediment-motion-in</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>非均匀流湍流动能估计模型的局部平衡假设</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/085152/3402834/Local-equilibrium-assumptions-of-turbulent-kinetic</link>
+      <description><![CDATA[在高雷诺数的均匀各向同性湍流中，归一化耗散率 Cε 通常被视为渐近常数。然而，在空间不均匀湍流中，Cε 表现出与恒定行为的非平衡偏离。为了获得 Cε 的解析表达式并利用它来改进湍流建模，关键步骤是估计湍流动能 (TKE)。基于扰动方法，[Bos 和 Araki，“非均匀和不稳定湍流中的平衡和非平衡统计”，Phys。 Rev. Fluids 10, 044603 (2025)]基于两个不同的局部平衡假设推导了两个 TKE 估计模型，导致 Cε 的两种不同的显式表达式，从而导致其实际使用中的模糊性。为了消除这种实际的模糊性，本研究的目的并不是引入新的 TKE 模型；而是要引入新的 TKE 模型。相反，我们评估了两个 TKE 估计模型的适用性，并建立了一个标准，用于根据其性能选择适当的局部均衡假设。该标准是使用具有明显非平衡特征的两尺度尾流的直接数值模拟（DNS）来评估的。通过该准则，相对于 DNS 统计数据，TKE 估计值与 DNS 统计数据之间的差异明显减小，并且获得了统计上一致的一致性。此外，在这种空间非均匀二尺度尾流中，平衡谱及其非平衡校正仍然表现出有限波数范围内预测的标度行为，表明相应的理论标度定律在此类空间非均匀流中仍然有效。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/085152/3402834/Local-equilibrium-assumptions-of-turbulent-kinetic</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>减压条件下两平行圆柱体进水过程空腔演化特性研究</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/083350/3402832/Study-on-cavity-evolution-characteristics-during</link>
+      <description><![CDATA[多体跨介质部署常见于海洋装备部署、水下航行器下水和集群部署等，其中空腔相互作用和运动响应强烈影响入水稳定性。本研究研究了减压条件下两个气缸的平行进水。通过独立参数控制识别弗劳德数和空化数的独立影响，并将单缸进水与两缸平行进水在相同弗劳德数和空化数下进行比较。经过实验验证的数值模拟用于分析空腔演化和运动响应。结果表明，在空化数一定的情况下，随着弗劳德数的增加，空化封闭模式由深度封闭转变为表面封闭。在高弗劳德数条件下，自由表面附近的飞溅回滚加剧，空腔闭合更早，闭合后波动变得更加明显。与单圆柱入水相比，平行入水的整体空腔形态保持镜面对称，而每个圆柱体表现出明显的内外空腔不对称性，并伴有偏转和横向迁移。在弗劳德数固定的情况下，增加空化数可以抑制空穴扩张，促进颈缩和闭合，并增强姿态响应。总体而言，弗劳德数主要控制空腔扩张和闭合模式，而空化数主要影响空腔收缩和运动响应强度。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/083350/3402832/Study-on-cavity-evolution-characteristics-during</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>粘性通道流中圆形蠕动动力学的解析解</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/082014/3402831/Analytical-solutions-for-circular-squirmer</link>
+      <description><![CDATA[在有限的几何形状内操纵微型游泳器对于其在生物医学和微流体等领域的应用非常重要。然而，实现可靠的控制需要精确了解底层流场，而受限泊肃叶流中二维圆形蠕动的精确解析解尚未见报道。在这里，我们提出了一个分析框架来获得受限泊肃叶流中二维蠕动器的流场。斯托克斯方程的线性使我们能够将完整的流场分解为两个互补的部分：（i）通道中的远场蠕动扰动，通过 Goursat 函数谱方法获得，以及（ii）经过二维圆柱体的泊肃叶流，通过 Papkovich-Fadle 特征函数展开表示。我们系统地描述了游泳者类型、方向、流动强度和限制比如何控制周围流场的结构，包括回流区的形成和重新分布。该框架针对已知的单壁分析解决方案进行了验证，并显示出与各种条件下的格子玻尔兹曼模拟的定性一致性。通过法克森定律对所得速度场和旋转场进行积分，产生受流动强度控制的不同轨迹状态。中性蠕动器表现出振荡、泪滴状循环和下游摆动，具体取决于流动强度和初始方向。相比之下，拉拔器向墙壁移动并执行阻尼振荡。除了壁与壁之间的摆动之外，逆流下的推动器还会产生带有环形转折点的摆动。这些解决方案为预测和控制外部流动下有界环境中的二维蠕动提供了分析基础。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/082014/3402831/Analytical-solutions-for-circular-squirmer</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>带电液滴在干燥表面蒸发过程中的自发平移</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/082016/3402830/Spontaneous-translation-of-charged-droplets-during</link>
+      <description><![CDATA[蒸发的固着液滴通常被视为毛细管物体，但常规处理产生的液滴可以携带数十到数百皮库伦的电荷。在这里，我们将法拉第杯电荷测量与光学成像相结合，以确定当水滴在干燥聚合物基材上蒸发时，这种电荷如何演变。零时间方案表明，聚甲基戊烯 (PMP) 上保留了可重现的初始电荷，而聚二甲基硅氧烷、光滑的全疏共价连接液体表面和聚苯乙烯则产生依赖于基质的恢复电荷响应，包括异质交换、快速净电荷弛豫和界面充电。在 PMP 上，系综分辨测量揭示了两种状态：电荷在早期蒸发过程中几乎保持恒定，然后一旦液滴达到小体积状态，电荷就会突然减少。这种电荷塌陷与自发横向平移而不是喷射或分裂同时发生。瑞利归一化分析（包括球盖应力校正和有效接触线保留尺度）表明，仅在蒸发驱动液滴进入高电钉扎状态后才会发生运动。高速成像和运动学分析支持这样一种观点，其中后续运动是由重复的接触线脱钉和重新钉扎控制的：行进的总距离受到干表面钉扎的强烈影响，而峰值平移速度可以作为放电强度的更可靠的指标。足迹形状统计数据进一步表明，随着平移加速，可见的脱钉前伸长会松弛，但其主轴并不能预测快速爆发方向。互补的侧视图测量揭示了滑动过程中短暂的左右视角不对称。这些结果确定了蒸发驱动静电弛豫的干基底模式，与润滑表面上的库仑裂变不同，其中基底静电钝性能够实现电荷保留，液滴几何形状选择不稳定性开始，而整个液滴平移提供电荷释放途径。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/082016/3402830/Spontaneous-translation-of-charged-droplets-during</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>高温盐水钻井液流变和过滤的两亲聚合物控制</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/083124/3402829/Amphiphilic-polymer-control-of-rheology-and</link>
+      <description><![CDATA[在深部和超深部钻井过程中，水基钻井液（WBDF）经常暴露在高温、高盐环境下，对粘土颗粒的聚集状态、流变响应和过滤性能产生不利影响。本工作采用衣康酸（IA）、2-丙烯酰胺基-2-甲基丙磺酸（AMPS）、二甲基二烯丙基氯化铵（DMDAAC）和对苯乙烯磺酸钠（SSS）合成了一种耐盐耐温的两亲性聚合物降滤失剂（poly-IADS），用于调节膨润土基钻井液的微观结构、流变性和滤失行为。对聚-IADS的化学结构、分子量分布和热稳定性进行了表征，系统评价了其对膨润土基钻井液在盐水和高温条件下使用的美国石油学会(API)流变参数和API滤失量(FLAPI)的影响。所研究的 NaCl 浓度范围为 0–30 wt。 %，WBDF + 聚-IADS的FLAPI从6.04增加到14.98 ml，而WBDF + 聚阴离子纤维素(PAC)的FLAPI从9.24增加到35.18 ml。 180℃老化16h后，聚合物基浆料(PBS) + poly-IADS的FLAPI为9.20ml，低于同等条件下PBS + PAC和PBS空白。 Zeta 电位和粒径测量表明动电环境和悬浮液粒径分布的变化。吸附测量直接证明了聚-IADS 在膨润土颗粒上的吸附。综上所述，结果与涉及聚合物吸附、粘土颗粒聚集和滤饼形成的过滤控制机制一致。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/083124/3402829/Amphiphilic-polymer-control-of-rheology-and</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用自由表面格子玻尔兹曼法对二维非对称振荡水柱波浪能转换器进行数值研究</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/082121/3402828/Numerical-investigation-of-a-two-dimensional</link>
+      <description><![CDATA[本研究开发了一种基于瞬时压力的数值动力输出 (PTO) 边界模型，用于采用改进的压力处理的单相自由表面晶格玻尔兹曼 (LB) 框架内的振荡水柱 (OWC) 波浪能转换器。使用格子玻尔兹曼方法求解流场，而使用单相模型跟踪自由表面。 PTO 的压力-流量关系被转换为施加到 OWC 室内部自由表面的随时间变化的附加压力。该方法代表了气室内的瞬时压降和相关能量提取，无需直接解析气相流场，并且适用于线性和非线性 PTO 条件。该模型根据线性势流理论以及现有的实验和数值结果进行了验证。在线性PTO条件下，理论和数值结果均表明，能量转换效率在无量纲频率ω2h/g=1.65时达到最大值。在非线性PTO条件下，预测的水动力参数变化与邓等人报道的结果非常吻合[“带有水平底板的海上固定式OWC装置的水动力性能：实验和数值研究”，Energy 187, 115941 (2019)]。这些结果表明，结合瞬时附加压降PTO模型的自由表面LB数值框架可以有效模拟OWC装置中的波演化和能量转换。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/082121/3402828/Numerical-investigation-of-a-two-dimensional</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于一维流动模型的高速列车穿越特长斜坡隧道气动阻力数值模拟</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/086126/3402827/Numerical-simulation-of-aerodynamic-drag-for-high</link>
+      <description><![CDATA[高原铁路具有隧道线比高、标高高、坡度大的特点。基于一维可压缩非定常非等熵流模型的广义黎曼变特征线法，考虑隧道标高和坡度的影响因素，提出了两列列车穿越带坡度隧道中部的气动阻力仿真方法。现场试验结果和数值模拟数据间接验证了该方法的合理性和准确性。分析了200米高速列车穿越不同长度、坡度、高程隧道时的气动阻力。车身摩擦阻力占列车整体空气阻力的比例超过60%，采用一维流动模型时，车身摩擦系数的取值对于合理预测空气阻力尤为重要。空气动力阻力随着高度的增加而减小。临界隧道长14公里，坡度25‰，高程0米，平均阻力达到最大。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/086126/3402827/Numerical-simulation-of-aerodynamic-drag-for-high</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>三排喷嘴水力收集器中柯安德引导的流动特性和颗粒迁移</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/083349/3402821/Coanda-guided-flow-characteristics-and-particle</link>
+      <description><![CDATA[深海多金属结核是重要的潜在矿产资源，水力采集是一种很有前景的低扰动开采方法。然而，传统的收集器受到不稳定的气流汇聚、弱负压和分散的颗粒轨迹的限制。本研究将柯安德表面引入三排射流水力收集器的辅助喷嘴区域，并利用计算流体动力学-离散元耦合方法数值模拟和小型实验研究其流场调节机制。柯安德表面产生稳定的附壁射流，增强环境流体夹带和动量传递，并稳定向上会聚流。这种流场调节扩大了低压区域，集中了颗粒轨迹，促进了颗粒提升，并减少了颗粒与壁的碰撞。随着Coandă表面半径的变化，收集率先增加后减少，在R = 156 mm时达到最大值90.99%，比基线配置提高了8.40个百分点。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/083349/3402821/Coanda-guided-flow-characteristics-and-particle</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>混流喷嘴近场轨迹微物理和能见度：环境湿度和烟灰直径的影响</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/083348/3402820/Contrail-microphysics-and-visibility-in-the-near</link>
+      <description><![CDATA[飞机的轨迹可以轻松揭示其位置和航向，从而增加被传感器检测到的可能性。尽管大量研究探索了飞机尾迹的形成，但专门针对混流喷气发动机更复杂结构的研究仍然很少。凝结尾迹本质上是气体-粒子两相流，其中冰晶作为离散相悬浮在湍流排气羽流中。因此，捕获两相相互作用至关重要。本文采用离散相方法来表征具有喷射器和可调收敛发散出口的典型混流喷嘴的近场尾迹形成和可见度。使用稳态雷诺平均纳维-斯托克斯求解混合射流，而通过非稳态拉格朗日方法跟踪离散相。异质凝结微物理模型描述了水蒸气凝结到烟灰颗粒上形成冰。该模型通过真空激波管实验进行了验证。研究了相对湿度和烟灰直径对冰粒的影响。结果表明，较高的湿度会促进冰的生长，强调其主导作用，而较大的烟灰颗粒在相同的湿度下会产生较大的冰晶。预计在距喷嘴出口约 30 米处将形成可见的尾迹；较高的环境相对湿度导致可见的尾迹更靠近喷嘴。这些模拟结果证明了该模型能够预测混流发动机尾迹的微物理过程和光学可见度特征。这对于预测此类发动机排气中的尾迹可见度以及设计防止尾迹形成的措施具有重要意义。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/083348/3402820/Contrail-microphysics-and-visibility-in-the-near</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不同出口背压下压电悬臂驱动气动伺服先导阀流固耦合分析</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/086127/3402805/Fluid-structure-interaction-analysis-of-a</link>
+      <description><![CDATA[压电悬臂驱动气动伺服先导阀涉及受限狭缝节流、可压缩射流膨胀、剪切层不稳定性和压力引起的结构变形。这些耦合机制仍未得到充分理解，特别是在不同的出口背压下。在本研究中，开发了三维流固耦合模型，以研究喷嘴挡板气动先导阀在六种操作条件下的流态、流动损失和被动结构响应，结合三种打开条件和两种出口背压。结果表明出口背压控制着流动状态。在低背压下，压力比远远超过空气的临界压力比，狭缝扼流圈和超音速膨胀发展，最大马赫数为2.68，而在高背压下，流动保持亚音速且不可压缩。一个关键发现是低背压下超音速射流引起的负压吸引效应。阻塞的狭缝流沿压电悬臂梁的下表面形成高速贴壁射流。局部超音速膨胀和壁射流加速的综合作用将下表面压力降低到上表面压力以下，导致自由端向喷嘴弯曲。在高背压下，这种吸引力机制消失，下表面分布的高压将悬臂推离喷嘴。能量损失分析表明，低背压下的总流动损失是高背压下的300倍以上，主要损失区域位于壁面射流和下游剪切层。这些结果揭示了压电气动先导阀中压力比控制的流态转变、超音速射流引起的吸引机制以及局部不可逆损失结构。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/086127/3402805/Fluid-structure-interaction-analysis-of-a</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>超声激励下流体振荡器瞬态流场演化及混合特性研究</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/085151/3402804/Study-on-the-transient-flow-field-evolution-and</link>
+      <description><![CDATA[为了增强高粘度系统中的试剂分散，本研究采用计算流体动力学模拟和高速摄影来评估流体振荡器混合器的瞬态流动和混合特性，比较有和没有超声波激励的性能。结果表明，超声干预不会改变固有的扫频频率，但会引起强烈的交变压力脉动。定量地，在2.0秒的时间内，连接分量的数量（Ncc）随着超声强度的增加而呈现逐步放大的趋势，证实高频声能有效地粉碎大规模流体结构以扩大混合界面面积。同时，超声波的引入提高了平均速度，但降低了最大速度，揭示了对功率对频率的更强依赖性，其中较高的功率增强了内部动量传输。此外，超声条件下时均体积平均湍流动能及其相应的耗散率分别提高了45.6%和10.2%。定量图像分析证实，超声波显着加快了初始混合速率，将 0.23 秒时的浓度标准偏差从 2.01 降低到 1.31。在随后的演化过程中，超声波有效抑制了局部浓度振荡，使流场的最终变异系数稳步降低至0.14左右，同时增强了整体混合效率和均匀性。这项研究为超声辅助喷射混合器的设计和优化提供了有用的流体动力学见解。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/085151/3402804/Study-on-the-transient-flow-field-evolution-and</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

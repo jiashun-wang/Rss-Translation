@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Synology News</title>
+    <link>https://www.synology.cn/zh-cn/company/news</link>
+    <description>Synology News Feed.</description>
+    <lastBuildDate>Tue, 04 Aug 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Synology® 推出 DiskStation neo+ Series，内存按需灵活升级</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/dsneoplus</link>
+      <description><![CDATA[中国上海 ——2026 年 8 月 5 日消息 —— 群晖（Synology®）今日正式发布 DiskStation neo+ 系列网络存储设备，机型包含 DS1825neo+、DS1525neo+、DS925neo + 以及 DS725neo+。这条全新产品线优化了入门级内存配置，方便用户结合自身]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/dsneoplus</guid>
+      <pubDate>Tue, 04 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology® 推出 RackStation RS1226+ 与 RS1226RP+，专为成长中有边缘和远程环境业务需求的企业而设计</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/RS1226rpp</link>
+      <description><![CDATA[中国台湾台北—2026 年 7 月 22 日—Synology 群晖科技今日推出 RackStation RS1226+ 与 RS1226RP+，两款 2U 8 盘位存储设备，专为需要精简且可靠数据管理的中小企业打造。两款机型采用短机身设计，适合分支机构和机房中心等空间受限环境。 Synology 产]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/RS1226rpp</guid>
+      <pubDate>Tue, 21 Jul 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology® 推出全闪存 FS3420，扩展全闪存企业级存储产品线</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/FS3420</link>
+      <description><![CDATA[中国台湾台北 — 7 月 8 日 — Synology 今日宣布全新全闪机型 FS3420 正式上市，专为延迟敏感型企业工作负载打造。 FS3420 在 IOPS 和吞吐性能方面大幅提升，适用于本地虚拟化、数据库和企业应用。 Synology 产品经理 Jeffrey Huang 表示：“越来越多企业在]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/FS3420</guid>
+      <pubDate>Tue, 07 Jul 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology 推出备份一体机 DP5200，为成长中企业带来全平台集中化的数据保护</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/dp5200</link>
+      <description><![CDATA[中国台湾台北 — 2026 年 7 月 8 日 — Synology 群晖科技今日宣布推出 ActiveProtect 备份一体机 DP5200，这是一款紧凑型 1U 备份专用服务器，可备份广泛的数据平台、大规模工作负载，更带来由 AI 强化的保护功能。 &quot;如今企业在寻找能够满足需求、又不增加成本和复]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/dp5200</guid>
+      <pubDate>Tue, 07 Jul 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology 发布 DiskStation Manager 7.4，将 AI 转换成企业生产力，提升协作和存储效率</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/dsm74</link>
+      <description><![CDATA[中国台湾 — 2026年6月17日 — Synology 群晖科技发布 DiskStation Manager（DSM）7.4 ，深度集成 AI，打造可控的 AI 办公体系，推出全新&quot;数据缩减&quot;功能，结合 Synology Tiering 可对冷层数据压缩、重删，优化存储空间。 &quot;随着 AI 能力日益]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/dsm74</guid>
+      <pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology 推出 RackStation RS6426xs+</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/RS6426xsp</link>
+      <description><![CDATA[中国台湾台北 — 2026 年 6 月 10 日 — Synology 群晖科技今日宣布推出 RS6426xs+，这是新一代机型专为成长中的企业集中管理数据并支持多种业务工作负载而打造。该机型适合高性能文件共享、多站点同步，以及其他商业和企业级应用。 “随着 IT 环境日益复杂，企业对可靠且灵活的基础]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/RS6426xsp</guid>
+      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology 发布 ActiveProtect Manager 2.0，提升企业安全韧性</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/apm20</link>
+      <description><![CDATA[中国台湾，2026年6月3日，Synology 今日宣布推出 ActiveProtect Manager 2.0，这是 ActiveProtect 数据保护平台的升级版本。此次升级扩展了在主流 IaaS 平台与虚拟化环境中的备份和恢复能力，并引入 AI 驱动的威胁检测，构建主动式网络韧性。 &quot;AI 加]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/apm20</guid>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology 展望新一代 DSM，发布私有 AI 和企业级管理功能</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/future_dsm</link>
+      <description><![CDATA[中国台湾 — 2026 年 6 月 3 日 — 在2026台北国际电脑展（COMPUTEX 2026）上，群晖科技（Synology）展示了企业级数据管理、数据保护、AI 智能化办公、AI 影像监控的全新解决方案，包括新一代 DSM 操作系统、数据保护硬件与管理平台，以及本地化 AI 办公]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/future_dsm</guid>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology 亮相 COMPUTEX 2026，展示新一代 DSM 系统，将 AI 转化为企业生产力</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/computex2026</link>
+      <description><![CDATA[中国台湾 – 2026 年 6 月 4 日 – 在 2026 台北国际电脑展（COMPUTEX 2026）上，群晖集中展示了企业级数据管理、数据保护、AI 智能办公与 AI 影像监控的全新解决方案，涵盖新一代 DSM 操作系统、数据保护硬件与管理平台，以及本地化 AI 办公套件。新一代 D]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/computex2026</guid>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology® 推出 RackStation RS826RP+ 和 RS826+</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/RS826p</link>
+      <description><![CDATA[中国台北——2026 年 6 月 3 日——Synology 群晖科技今日宣布推出 RS826RP+ 和 RS826+，这两款紧凑型 1U 4 盘位机架式存储服务器，旨在协助中小型企业高效管理和保护边缘及远程环境中的数据。 “RS826RP+ 和 RS826+ 以紧凑的外形提供可靠的性能和弹性扩充性，]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/RS826p</guid>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology 双活 NVMe PAS7700 发布，满足企业关键负载效能及稳定需求</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/pas7700_official</link>
+      <description><![CDATA[中国台北 —— 2026 年 5 月 21 日 —— Synology 群晖科技推出双活全 NVMe PAS7700 存储服务器，除了具备高效能、低延迟的优势之外，更兼具稳定性、安全性与出色的存储效率，专为企业关键任务型工作负载而生。 &quot;PAS7700 体现了 Synology 在存储领域超 25 年]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/pas7700_official</guid>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology 入选 2026 年 Gartner™《客户之声》报告，推荐率高达 98%</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/gpi_backup</link>
+      <description><![CDATA[中国，上海——2026年5月11日——近日，Synology 群晖凭借深受用户信赖的综合实力，入选《2026 Gartner 备份与数据保护平台客户之声》报告，获评行业表现突出厂商。群晖自研的数据保护解决方案，收获企业 IT 负责人 98% 的推荐率，口碑实力获高度认可。 &quot;此次入选 Gartner]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/gpi_backup</guid>
+      <pubDate>Sun, 10 May 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology 推出全新 RackStation 系列：RS6426xs+、RS4826xs+ 和 RS3626xs</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/RS6426xsp_RS4826xsp_RS3626xs</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/RS6426xsp_RS4826xsp_RS3626xs</guid>
+      <pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology 推出全新全闪企业级存储产品：FS6420 和 FS3420</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/FS6420_FS3420</link>
+      <description><![CDATA[中国台湾台北 — 2026 年 5 月 6 日 — Synology 群晖科技今天推出新一代全闪机型 FS6420 和 FS3420，专为对延迟敏感的企业工作负载打造。并在虚拟化、数据库和企业应用的 IOPS 和吞吐性能均有大幅提升。 “越来越多的企业在本地执行高负载工作，对于存储空间的需求也持续扩大]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/FS6420_FS3420</guid>
+      <pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synology 发布 ActiveProtect Manager 1.2，进一步提升企业数据韧性</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/apm12</link>
+      <description><![CDATA[中国台北 — 2026 年 4 月 6 日 — Synology 群晖科技今日推出 ActiveProtect Manager（APM）最新 1.2 版本，本次更新大幅提升了集中管理能力并扩展了支持的平台，协助企业在复杂的 IT 环境中提升数据韧性。 “ActiveProtect 备份专用一体机自发布]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/apm12</guid>
+      <pubDate>Sun, 05 Apr 2026 16:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

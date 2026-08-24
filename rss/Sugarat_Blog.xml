@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>粥里有勺糖</title>
+    <link>https://sugarat.top</link>
+    <description>你的指尖,拥有改变世界的力量（大前端相关技术分享）</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:18:53 GMT</lastBuildDate>
+    <item>
+      <title>视野修炼第130期 | 光影效果</title>
+      <link>https://sugarat.top/weekly/2026-08-23.html</link>
+      <description><![CDATA[① 屏幕边缘光影效果 ② Blossom Carousel - 轮播组件 ③ 10. Virtua - 快且小的虚拟滚动库 ④ Dot Matrix = 点阵动画 ⑤ Stolen Buttons - 可供参考的一大批按钮 ⑥ termdom - 使用3剑客构建终端应用 ⑦ Ant - 仅 9 MB的运行时 ⑧ gridstack.js ⑨ tslog - Beautiful logging  ⑩ import defer ⑪ hucre - 0 依赖的 Excel 处理库 ⑫ scriptc - TS2Native ⑬ Node 新文档站]]></description>
+      <guid>https://sugarat.top/weekly/2026-08-23.html</guid>
+      <pubDate>Sun, 23 Aug 2026 09:46:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享一下最近做的AI记账 App</title>
+      <link>https://sugarat.top/technology/works/miaowa.html</link>
+      <description><![CDATA[自己做了个记账 App「妙蛙记账」。支持自然语言记账和查询。 Web 和 Android 都能用。]]></description>
+      <guid>https://sugarat.top/technology/works/miaowa.html</guid>
+      <pubDate>Tue, 18 Aug 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人作品</title>
+      <link>https://sugarat.top/technology/works/</link>
+      <description><![CDATA[为我造过的轮子与写过的项目,书写传记
+个人精力有限,感兴趣有能力的朋友可以帮忙迭代维护
+ 目录
+* 分享一下最近做的记账 App：妙蛙记账
+* Kite：把构建留在本地，把部署丢给 Kite
+* Vi]]></description>
+      <guid>https://sugarat.top/technology/works/</guid>
+      <pubDate>Tue, 18 Aug 2026 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Harness 学习笔记分享（Part 1）</title>
+      <link>https://sugarat.top/technology/learn/harness.html</link>
+      <description><![CDATA[学习过程参考了 Pi Agent 的源码。按照其分层思路和一些实现方案，笔者自行实现了一个 MVP 版本的 Agent]]></description>
+      <guid>https://sugarat.top/technology/learn/harness.html</guid>
+      <pubDate>Mon, 10 Aug 2026 02:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>润了</title>
+      <link>https://sugarat.top/offer/experience/run-2026.html</link>
+      <description><![CDATA[提 🪣 跑路了]]></description>
+      <guid>https://sugarat.top/offer/experience/run-2026.html</guid>
+      <pubDate>Sat, 01 Aug 2026 12:56:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>VitePress 产品卡片展示插件介绍</title>
+      <link>https://sugarat.top/technology/works/vitepress-plugin-product-card.html</link>
+      <description><![CDATA[VitePress 产品/作品展示卡片插件支持 markdown 容器语法与 GitHub 时间自动展示]]></description>
+      <guid>https://sugarat.top/technology/works/vitepress-plugin-product-card.html</guid>
+      <pubDate>Wed, 29 Jul 2026 09:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享一下最近 VibeCoding 的项目部署工具：Kite</title>
+      <link>https://sugarat.top/technology/works/kite.html</link>
+      <description><![CDATA[之前用 ssh/scp 推本地项目到服务器，索性做了一个本地构建 + 一键上传的工具，走 HTTP 协议更方便]]></description>
+      <guid>https://sugarat.top/technology/works/kite.html</guid>
+      <pubDate>Sun, 14 Jun 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享一下笔者的 Mac 装机必备软件</title>
+      <link>https://sugarat.top/essay/dev/mac-init.html</link>
+      <description><![CDATA[分享一下笔者高频使用的一些 Mac 软件]]></description>
+      <guid>https://sugarat.top/essay/dev/mac-init.html</guid>
+      <pubDate>Wed, 06 May 2026 09:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 VitePress 插件开发计划</title>
+      <link>https://sugarat.top/essay/dev/vitepress-plugins.html</link>
+      <description><![CDATA[主题在近几年里集成了非常的多功能了，接下来计划将这些能力拆分成组件，以便于更方便的与其它主题集成。]]></description>
+      <guid>https://sugarat.top/essay/dev/vitepress-plugins.html</guid>
+      <pubDate>Sat, 18 Apr 2026 07:50:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>视野修炼第129期 | 上一次古法编程是什么时候</title>
+      <link>https://sugarat.top/weekly/2026-04-11.html</link>
+      <description><![CDATA[① 杀死那个写代码的人 ② 插件离线安装包获取 ③ Harness Engineering是什么？ ④ SSGOI - Native 过度效果 ⑤ boneyard-js - 自动骨架屏 ⑥ gitlogue - 动画展示 Git 提交历史 ⑦ gh-space-shooter - 贡献图转为射击小游戏 ⑧ Tunelo - 穿透工具 ⑨ 图解演示 CC 工作流程 ⑩ Open Agent SDK]]></description>
+      <guid>https://sugarat.top/weekly/2026-04-11.html</guid>
+      <pubDate>Sun, 12 Apr 2026 07:46:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>🧧 红包封面来了</title>
+      <link>https://sugarat.top/offer/experience/2025-wechat-red-packet.html</link>
+      <description><![CDATA[共 6000 个封面，今年制作了2款供大家选择，希望大家喜欢！
+微信打开这个链接 或者微信扫码领取
+ 马上暴富
+ 马上大吉]]></description>
+      <guid>https://sugarat.top/offer/experience/2025-wechat-red-packet.html</guid>
+      <pubDate>Sat, 14 Feb 2026 06:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025年度总结</title>
+      <link>https://sugarat.top/offer/experience/2025summary.html</link>
+      <description><![CDATA[跌宕起伏但又被幸运眷顾的的一年。]]></description>
+      <guid>https://sugarat.top/offer/experience/2025summary.html</guid>
+      <pubDate>Sat, 07 Feb 2026 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>心得总结</title>
+      <link>https://sugarat.top/offer/experience/</link>
+      <description><![CDATA[目录
+* 2025年度总结
+* 2024年度总结 - 🕊
+* 2023年度总结
+* 2022年度总结
+* 2021年度总结
+* 2020年度总结
+* 2020前端春招经验分享
+* 前端备战之计算机网]]></description>
+      <guid>https://sugarat.top/offer/experience/</guid>
+      <pubDate>Sat, 07 Feb 2026 13:12:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发一个美观的 VitePress 图片预览插件</title>
+      <link>https://sugarat.top/technology/works/vitepress-plugin-image-preview.html</link>
+      <description><![CDATA[开发了一个适用于 VitePress 的图片预览插件 vitepress-plugin-image-preview，风格样式类似 element-plus 的图片预览组件]]></description>
+      <guid>https://sugarat.top/technology/works/vitepress-plugin-image-preview.html</guid>
+      <pubDate>Sat, 10 Jan 2026 07:15:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>心外“天花板”手术经历</title>
+      <link>https://sugarat.top/essay/life/sbzy-26-1-5.html</link>
+      <description><![CDATA[25年12月25日进行的胸腹主替换手术，时长约6小时，由心外顶尖医生&quot;孙立忠&quot;主刀，顺利拿下；近期状态恢复得还行，在这里记录分享一下相关细节。]]></description>
+      <guid>https://sugarat.top/essay/life/sbzy-26-1-5.html</guid>
+      <pubDate>Wed, 07 Jan 2026 07:05:40 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

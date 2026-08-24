@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>链滴</title>
+    <link>https://ld246.com</link>
+    <description>记录生活，连接点滴。</description>
+    <lastBuildDate>Mon, 24 Aug 2026 09:28:32 GMT</lastBuildDate>
+    <item>
+      <title>华为鸿蒙安卓平板触发悬浮菜单问题</title>
+      <link>https://ld246.com/article/1787491310524</link>
+      <description><![CDATA[设备信息
+
+Harmony 4.0.0 （安卓 12）
+版本：v3.8.1
+
+1.纯触屏触发悬浮菜单问题
+触发逻辑的疑问
+
+长按选中文字，触发右键菜单
+收回键盘触发悬浮工具栏
+
+疑问：这个逻辑是当初设计好的就是这个逻辑，还是品牌平板未适配导致的？现在这个逻辑有一定概率两个菜单叠在一起，参考如下视频
+
+ 浏览器不支持该媒体的播放
+
+
+悬浮小键盘无法触发
+
+使用悬浮键盘
+长按选中文字，触发右键菜单
+收回悬浮键盘，无法触发悬浮工具栏
+
+参考视频如下
+
+ 浏览器不支持该媒体的播放
+
+
+2.使用手写笔触发悬浮菜单闪屏
+
+使用手写笔长按选中文字
+同时先触发华为平板的全局手写，然后触发弹出键盘（使用悬浮小键盘同上），这个就是导致闪屏的原因，因为会先触发全局手写工具栏然后立刻又弹出了键盘
+使用悬浮小键盘，在手写笔模式下依旧无法触发悬浮工具栏
+有时候触发工具栏、有时候触发右键菜单、有时候同时出发悬浮工具栏和右键菜单、有时候什么都不触发
+
+参考视频如下，视频较长但覆盖所有情况
+
+ 浏览器不支持该媒体的播放
+
+3.优化建议
+针对 1 悬浮工具栏以及右键菜单
+是否考虑做成和手机端一样的那种，悬浮工具栏紧贴在输入法上方那种，这样不影响长按选中文字右键菜单弹出。 
+（不太确定只是我这个品牌平板系统是这种情况，其他品牌什么样）
+类似可以参考 Obsidian 在我这个平板上的做法，如下图
+
+
+针对 2 手写笔问题
+
+手写笔问题可以考虑适配华为全局手写，也就是说一旦使用手写笔，屏蔽键盘弹出，使用华为全局手写
+或者直接屏蔽掉全局手写的触发，直接只弹出键盘
+
+最后想知道其他品牌平板什么样
+比如华为 Harmony Next、Vivo、小米、三星的平板]]></description>
+      <guid>https://ld246.com/article/1787491310524</guid>
+      <pubDate>Sun, 23 Aug 2026 13:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想知道这是正常的还是不正常</title>
+      <link>https://ld246.com/article/1787489787564</link>
+      <description><![CDATA[用测试空间来测试，发现我添加到数据的表格 2 居然表格 1 和表格 3 也一并添加上了。 
+我之前没用过这个同一个数据库几个表格，不知道这是正常的还是不正常
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1787489787564</guid>
+      <pubDate>Sun, 23 Aug 2026 12:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源笔记 3.8.1 docker 升级后无法打开笔记</title>
+      <link>https://ld246.com/article/1787487955847</link>
+      <description><![CDATA[
+
+windows 客户端版本 3.5.8 手动重建索引直接内核错误
+
+已经不知所措了...
+
+版本：SiYuan v3.8.1 docker b3log/siyuan:latest 现象：后台索引线程 refsFromTree → GetEmbedBlockRefID 调用 vitess‑sqlparser.Parse ()，传入畸形短字符串触发 SIGSEGV segmentation violation signal 11，内核直接被操作系统杀死退出。 
+
+堆栈：
+
+github.com/88250/vitess-sqlparser/sqlparser.convertTiDBStmtToVitessShow
+github.com/88250/vitess-sqlparser/sqlparser.Parse
+github.com/siyuan-note/siyuan/kernel/treenode.GetEmbedBlockRefID
+github.com/siyuan-note/siyuan/kernel/treenode.GetEmbedBlockRef
+github.com/siyuan-note/siyuan/kernel/treenode.IsEmbedBlockRef
+github.com/siyuan-note/siyuan/kernel/sql.refsFromTree
+github.com/siyuan-note/siyuan/kernel/sql.indexTree
+github.com/siyuan-note/siyuan/kernel/sql.execOp
+github.com/siyuan-note/siyuan/kernel/sql.FlushQueue
+
+
+复现条件：AST 节点内存中存在畸形 embed 碎片，该碎片不持久化写入 sy 文档 data 字段，磁盘 grep 检索不到。 
+v3.6.5 不会调用该 sqlparser 路径，完全稳定；v3.8.1 引入该逻辑，第三方库无异常捕获，硬件级段错误 Go recover 无法捕获。 
+建议修复：在调用 sqlparser.Parse() 之前增加输入前置校验，非法 / 短畸形输入直接返回，不要下传给 vitess‑sqlparser。 
+]]></description>
+      <guid>https://ld246.com/article/1787487955847</guid>
+      <pubDate>Sun, 23 Aug 2026 12:27:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>v3.8.2 新版局部关系图首次打开不缩放、手动点击刷新后不一致等问题</title>
+      <link>https://ld246.com/article/1787458425580</link>
+      <description><![CDATA[我是从早期版本（v3.7.0）升上来的（当前版本 v3.8.2-alpha.2），新版本局部关系图显示逻辑不一样，好别扭，主要以下几点
+
+首次打开文档局部关系图不缩放自适应
+首次打开与手动刷新不一致
+无任何引用局部关系图节点过大
+
+首次打开文档局部关系图不缩放自适应
+显示如图，感觉看不到全局关系，还得手动拖动（或者手动刷新让其自适应），早期版本是整体缩放然后适应显示框显示全貌，下图看出来现在的逻辑是首次打开文档后局部关系图不缩放适应窗口，感觉最别扭的就是这个地方，早期版本那种默认打开自适应缩放应该更符合实际使用需求，现在这种想看整体关系得手动刷新一下
+
+早期版本 v3.7.0 默认首次打开文档如图
+
+早期版本 v3.7.0 默认首次打开文档即使关联关系很多也会整体缩放，保证整体关系显示完全，如下图
+
+首次打开与手动刷新不一致
+最直观的是第一次进入文档以后的局部关系图和手动点击刷新后的关系图不一致，以前版本不是这样，这个感觉就是上面第一个问题导致的，早期版本打开后默认的局部关系图和手动刷新后的差异不会很大。 
+
+无任何引用局部关系图节点过大
+文件无任何引用，局部关系图不显示，但是点击刷新后就显示了，然后还显示的特别大，如图
+
+特意回退了一下早期版本，如图
+]]></description>
+      <guid>https://ld246.com/article/1787458425580</guid>
+      <pubDate>Sun, 23 Aug 2026 10:26:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>大模型 providers 支持问题</title>
+      <link>https://ld246.com/article/1787478016981</link>
+      <description><![CDATA[智谱等配置，需要支持 coding plan 计划的 api 端点。 
+当前设置界面，配置为 coding plan 计划的 api 端点报错。 
+openai 端点 https://open.bigmodel.cn/api/v1
+anthropic 端点​​ https://open.bigmodel.cn/api/anthropic
+@88250 @Vanessa]]></description>
+      <guid>https://ld246.com/article/1787478016981</guid>
+      <pubDate>Sun, 23 Aug 2026 09:40:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源笔记 3.8.1 AI 唤起快捷键设置完可用，刷新页面后失效</title>
+      <link>https://ld246.com/article/1787476987740</link>
+      <description><![CDATA[
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1787476987740</guid>
+      <pubDate>Sun, 23 Aug 2026 09:23:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>发现一个可用的 S3 存储桶</title>
+      <link>https://ld246.com/article/1787469419085</link>
+      <description><![CDATA[用 DS 找 S3 存储桶发现了一个 Tigris 的存储桶供应商,正在尝试使用.有 5G 免费空间,不过稳定性不是很好.
+]]></description>
+      <guid>https://ld246.com/article/1787469419085</guid>
+      <pubDate>Sun, 23 Aug 2026 07:16:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源视频下载器 VidBee 破 1 万 Star：2.0 支持在本地把视频转成文稿与 AI 提问</title>
+      <link>https://ld246.com/article/1787463621771</link>
+      <description><![CDATA[大家好，很久之前在 L 站分享过自己写的开源视频下载器 VidBee，不知不觉在 GitHub 突破了 10k Star，非常感谢大家一直以来的支持！ 
+前段时间周末断断续续的花了挺多精力重构并做新特性，今天正式把 2.0 版本发布了。 
+这次 2.0 最大的更新，是把本地语音转写与 AI 文稿处理做进去了——现在视频下载完，或者直接把本地音视频文件拖进来，就能在本地转成带时间戳和说话人的文稿，还能直接针对文稿问 AI 或生成摘要。 
+
+官网：https://vidbee.org
+GitHub：https://github.com/nexmoe/VidBee
+
+也欢迎 Follow 关注我的 GitHub（平时会持续折腾和开源一些有趣的小工具与项目）：
+
+个人主页：https://github.com/nexmoe
+
+
+本地视频转文稿：离线隐私、时间戳联动
+转写全程运行在你自己的电脑上，音视频数据完全不会上传到云端。 
+
+多模型支持：内置/支持了 Whisper、SenseVoice、Parakeet、Qwen3-ASR 等模型，软件会根据你的硬件配置给出推荐建议。中文场景推荐试试 SenseVoice 或 Qwen3-ASR，速度和准确率都很不错。如果初次下载模型较慢，可以在设置里一键切换国内镜像源。 
+定位与导出：支持说话人分离（Diarization）。在生成的文稿里搜原话，点击对应句子就能直接跳到对应视频进度播放。支持一键复制，也可导出为 TXT、Markdown 以及 SRT/VTT 字幕。 
+
+(文稿模块目前还在持续打磨中，界面上先标了 experimental，遇到问题欢迎轻喷反馈)
+
+
+文稿 AI 提问 &amp; 摘要：支持本地 LLM 与云端 API
+转写完成后，可以直接对文稿内容进行提问、提取核心观点或生成结构化摘要：
+
+隐私安全：发给 AI 的只是提取出来的文稿纯文本，不是原始庞大的音视频文件。 
+灵活接入：不仅支持标准 OpenAI 格式的云端 API，也可以直接连本地跑的 Ollama 或 LM Studio。如果你想要从「转写」到「AI 总结」全程断网离线运行，配合本地大模型即可搞定。所有 API Key 都只存放在本地。 
+
+
+
+老本行：批量下载与 RSS 追更
+底层的视频下载能力依旧稳定给力：
+
+强大的下载支持：基于成熟的 yt-dlp，YouTube、B 站等常见平台及支持的 1000+ 网站都能轻松加入队列排队批量下载。 
+
+
+
+RSS 追更订阅：内置 RSS 抓取与追更功能，订阅创作者或频道后有新更新可以自动捕获下载。 
+
+
+
+软件下载与安装
+可以到官网下载页获取 v2.0.0：https://vidbee.org/download/
+
+如果大家在转写速度、说话人识别、模型适配或者下载体验上遇到任何 bug 或问题，欢迎直接在回帖中吐槽交流，或者去 GitHub 提 Issue / PR。项目完全开源，觉得好用的话欢迎顺手点个 Star 支持一下。 ]]></description>
+      <guid>https://ld246.com/article/1787463621771</guid>
+      <pubDate>Sun, 23 Aug 2026 05:40:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>老白的故事课</title>
+      <link>https://ld246.com/article/1787459537903</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1787459537903</guid>
+      <pubDate>Sun, 23 Aug 2026 04:44:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于提示框的建议</title>
+      <link>https://ld246.com/article/1787455354548</link>
+      <description><![CDATA[当我打出这个框的时候，基本就确定我是用这个类型的框。为什么我想要更改它名字的时候，点进去还是默认更改框的类型呢？就不能让我直接改标题呢？ 
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1787455354548</guid>
+      <pubDate>Sun, 23 Aug 2026 03:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>一分钟前更新了最新版，就反复提示获取社区用户账号失败 是为什么？有影响吗</title>
+      <link>https://ld246.com/article/1787454080491</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1787454080491</guid>
+      <pubDate>Sun, 23 Aug 2026 03:01:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>产品是否可以考虑下搜索打开笔记时同时进行文档列表中对应笔记选中</title>
+      <link>https://ld246.com/article/1787453842972</link>
+      <description><![CDATA[就是搜索选中打开的文章同时自动选中文档列表页对应文章
+
+这样查看同一目录相关内容时就不用再再根据文章路径一层一层的去找到对应目录！ 
+
+说到这希望还希望可以实现文章的路径的选中切换 直接选中某一层级实现目录选中，下面是有道云笔记的参考
+]]></description>
+      <guid>https://ld246.com/article/1787453842972</guid>
+      <pubDate>Sun, 23 Aug 2026 02:57:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>浅色主题及功能增强——易搭 0.9.5 发布</title>
+      <link>https://ld246.com/article/1787452629095</link>
+      <description><![CDATA[易搭 v0.9.5
+新增
+
+支持备注（Memo）查询与展示：新增“备注”字段，统一整合块级备注与行内划线备注（spans 表 memo / textmark 备注），支持按备注进行条件过滤、排序以及在视图中展示。 
+新增“文本长度”字段：新增“文本长度”（textLength​）系统字段，映射底层 blocks.length，支持基于文本字数的数值过滤与排序。 
+新增“字数最多的块(Top10)”预置场景：在日常管理分类下新增预置模板，一键按字数降序定位内容最长的块。 
+条件编辑器支持“小于”操作符：在过滤条件中新增“小于”（lt）操作符，完善数值与日期字段的比较筛选能力。 
+排序规则支持“随机排序” ：视图排序规则新增“随机排序”选项（底层生成 ORDER BY RANDOM()），方便快速搭建随机漫游、抽样复习等场景。 
+支持清空查询历史：侧边栏“最近运行”历史记录面板新增“清空历史记录”按钮，支持一键清空本地历史记录。 
+
+改进
+
+引入 Lucide 图标库与 UI 质感提升：集成 Lucide 线框图标，统一优化侧边栏、顶部栏和编辑器各操作按钮的视觉风格。 
+浅色主题（Light Theme）适配与优化：全面优化浅色模式下的配色对比度与界面层次，提升日间模式下的视觉体验。 
+表单与控件细节修复：修复下拉选择框（Select）箭头指示器显示异常，优化各设置面板的布局与交互细节。 
+优化嵌入块模板保存机制：插入嵌入块时不再强制自动静默保存模板，改为由用户按需手动保存，避免产生冗余的模板快照。 
+
+
+‍
+附录
+易搭——别让 SQL 成为你探索笔记的阻碍 - 链滴 *
+推荐和“属性管家”配合使用： 属性管家：自底向上的维护属性，水到渠成时构建数据库 - 链滴
+为了让思源笔记用起来更顺手，我打算开发 10 个插件，目前进度…… - 链滴 *]]></description>
+      <guid>https://ld246.com/article/1787452629095</guid>
+      <pubDate>Sun, 23 Aug 2026 02:37:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>
+      <link>https://ld246.com/article/1787204819965</link>
+      <description><![CDATA[思源即将在下个版本的移动端提供集市功能。为避免未适配移动端界面的桌面主题破坏布局、导致无法操作，主题须在 theme.json 中增加 frontends 字段并且显式声明支持移动端。 
+v3.8.0 已支持主题清单中的 frontends，当时缺失该字段会被视为支持所有前端。自移动端支持集市功能起，这条默认规则只对桌面端保留。 
+主题作者需要做什么
+若希望主题出现在移动端集市、并能在移动端被选择和加载，请在 theme.json 中显式声明 frontends。 
+已适配各前端、希望全平台可用时，与内置主题 daylight / midnight 一样写：
+{
+  &quot;name&quot;: &quot;example-theme&quot;,
+  &quot;author&quot;: &quot;example&quot;,
+  &quot;url&quot;: &quot;https://github.com/example/example-theme&quot;,
+  &quot;version&quot;: &quot;1.0.0&quot;,
+  &quot;frontends&quot;: [
+    &quot;all&quot;
+  ],
+  &quot;modes&quot;: [
+    &quot;light&quot;,
+    &quot;dark&quot;
+  ]
+}
+
+只支持部分前端时，列出具体取值。匹配是精确匹配，写 &quot;desktop&quot; 不会自动覆盖 desktop-window 或 browser-desktop。 
+可用取值：
+
+
+
+取值
+含义
+
+
+
+
+all
+所有前端
+
+
+desktop
+桌面端主窗口
+
+
+desktop-window
+桌面端独立窗口
+
+
+mobile
+移动端 App
+
+
+browser-desktop
+浏览器桌面端
+
+
+browser-mobile
+浏览器移动端
+
+
+
+请先确认主题在移动端可用，再声明 mobile、browser-mobile 或 all。未适配时可以不声明。 
+集市包请发新版本（提高 version 并发布 GitHub Release），索引更新后才会生效。本地主题改完 theme.json 后重启思源即可。 
+兼容性规则
+
+
+
+frontends
+桌面端（desktop / desktop-window / browser-desktop）
+移动端（mobile / browser-mobile）
+
+
+
+
+缺失或空数组
+兼容（与现在相同）
+不兼容
+
+
+包含 all
+兼容
+兼容
+
+
+包含当前前端取值
+兼容
+兼容
+
+
+有字段但不包含当前前端
+不兼容
+不兼容
+
+
+
+另外，插件清单里的 frontends 不变：缺失仍视为全平台。本次只收紧主题在移动端的默认行为。 
+不声明时，移动端会怎样
+桌面端继续能搜到、安装、切换这些主题，无需为「只在桌面使用」而改清单。 
+在 mobile 和 browser-mobile 上：
+
+集市会标为不兼容，不能安装或更新
+设置 - 外观 的主题下拉列表不会列出
+若移动端已经使用该主题，新版本不会加载该主题的 CSS 和 JS，界面回退到内置 daylight / midnight
+
+常见写法
+希望全平台可用（含移动端）：
+&quot;frontends&quot;: [&quot;all&quot;]
+
+只做桌面、明确不支持移动端：可以不写 frontends，也可以显式列出桌面相关前端，例如：
+&quot;frontends&quot;: [&quot;desktop&quot;, &quot;desktop-window&quot;, &quot;browser-desktop&quot;]
+
+仅支持移动端界面时：
+&quot;frontends&quot;: [&quot;mobile&quot;, &quot;browser-mobile&quot;]
+
+注意：上面这种写法在桌面端会显示为不兼容。 
+相关议题：Issue #17151 · siyuan-note/siyuan]]></description>
+      <guid>https://ld246.com/article/1787204819965</guid>
+      <pubDate>Thu, 20 Aug 2026 05:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>演示一下 3.8 版本如何划选块</title>
+      <link>https://ld246.com/article/1786962474568</link>
+      <description><![CDATA[3.8 支持了跨块划选文本，改变了原来划选块的行为，我演示一下 3.8.1 划选块的几种方式：
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1786962474568</guid>
+      <pubDate>Mon, 17 Aug 2026 10:27:53 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
