@@ -1,1 +1,7 @@
 encoding: utf-8
+
+# 确保 OPML / RSS 这类文件原样发布，不被 Jekyll 转码或换行处理
+include:
+  - "*.opml"
+  - "rss-*.opml"
+  - "rss/*.xml"
