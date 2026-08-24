@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>原始 RSS 订阅源</title>
+    <dateCreated>Mon, 24 Aug 2026 17:13:15 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="J001 OS" type="rss" xmlUrl="https://os.copernicus.org/xml/rss2_0.xml"/>
+    <outline text="J002 JGRO" type="rss" xmlUrl="https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=21699291&amp;type=etoc&amp;feed=rss"/>
+    <outline text="N001 Our World in Data" type="rss" xmlUrl="https://ourworldindata.org/atom.xml"/>
+    <outline text="J003 Palaeoceanography : nature.com subject feeds" type="rss" xmlUrl="https://www.nature.com/subjects/palaeoceanography.rss?error=cookies_not_supported&amp;code=d8fe12cf-035f-44ee-ba06-42703b4355e3"/>
+    <outline text="J004 PNAS: Earth, Atmospheric, and Planetary Sciences" type="rss" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=earth-sci"/>
+    <outline text="J005 Physical oceanography : nature.com subject feeds" type="rss" xmlUrl="https://www.nature.com/subjects/physical-oceanography.rss?error=cookies_not_supported&amp;code=af9f2a31-1c84-445e-a8a5-8f1b782e953d"/>
+    <outline text="J006 AAAS: Science Advances" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciadv"/>
+    <outline text="J007 Nature Communications" type="rss" xmlUrl="https://www.nature.com/ncomms.rss?error=cookies_not_supported&amp;code=7af1fe47-fe96-4860-ab8c-2a25eab20d12"/>
+    <outline text="J008 ScienceDirect: The Innovation" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/26666758"/>
+    <outline text="J009 National Science Review Advance Access" type="rss" xmlUrl="https://academic.oup.com/rss/site_5332/advanceAccess_3198.xml"/>
+    <outline text="J010 Nature" type="rss" xmlUrl="https://www.nature.com/nature.rss"/>
+    <outline text="J011 Scientific Reports" type="rss" xmlUrl="https://www.nature.com/srep.rss?error=cookies_not_supported&amp;code=c4028aff-45fa-44cb-b3f6-c3ffd82771ad"/>
+    <outline text="J012 PNAS: Physical Sciences" type="rss" xmlUrl="https://www.pnas.org/action/showFeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=phys-sci"/>
+    <outline text="J013 AAAS: Science" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=science"/>
+    <outline text="J014 ScienceDirect: Science Bulletin" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/20959273"/>
+    <outline text="J015 tandf: Big Earth Data" type="rss" xmlUrl="https://www.tandfonline.com/feed/rss/tbed20"/>
+    <outline text="J016 Journal of Open Source Software" type="rss" xmlUrl="https://joss.theoj.org/papers/published.atom"/>
+    <outline text="J017 ScienceDirect: SoftwareX" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/23527110"/>
+    <outline text="J018 Scientific Data" type="rss" xmlUrl="https://www.nature.com/sdata.rss"/>
+    <outline text="J019 Wiley: Geoscience Data Journal" type="rss" xmlUrl="https://rmets.onlinelibrary.wiley.com/feed/20496060/most-recent"/>
+    <outline text="J020 ScienceDirect: Data in Brief" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/23523409"/>
+    <outline text="J021 ESSD - recent papers" type="rss" xmlUrl="https://essd.copernicus.org/xml/rss2_0.xml"/>
+    <outline text="J022 Nature Methods" type="rss" xmlUrl="https://www.nature.com/nmeth.rss"/>
+    <outline text="J023 Wiley: JGR: Machine Learning and Computation" type="rss" xmlUrl="https://agupubs.onlinelibrary.wiley.com/feed/29935210/most-recent"/>
+    <outline text="J024 Annual Review of Fluid Mechanics: Most Cited" type="rss" xmlUrl="https://www.annualreviews.org/rss/content/journals/fluid/mostcitedarticles?fmt=rss"/>
+    <outline text="J025 Journal of Fluid Mechanics" type="rss" xmlUrl="https://www.cambridge.org/core/rss/product/id/1F51BCFAA50101CAF5CB9A20F8DEA3E4"/>
+    <outline text="J026 Physics of Fluids Current Issue" type="rss" xmlUrl="https://pubs.aip.org/rss/site_1000037/1000021.xml"/>
+    <outline text="J028 PRL: Nonlinear Dynamics, Fluid Dynamics, Classical Optics, etc." type="rss" xmlUrl="https://feeds.aps.org/rss/tocsec/PRL-NonlinearDynamicsFluidDynamicsClassicalOpticsetc.xml"/>
+    <outline text="J029 PRE: Classical physics" type="rss" xmlUrl="https://feeds.aps.org/rss/tocsec/PRE-Classicalphysics.xml"/>
+    <outline text="J030 Recent Articles in Phys. Rev. Fluids" type="rss" xmlUrl="https://feeds.aps.org/rss/recent/prfluids.xml"/>
+    <outline text="J031 Journal of Applied Mechanics Open Issues" type="rss" xmlUrl="https://asmedigitalcollection.asme.org/rss/site_1000001/LatestOpenIssueArticles_1000001.xml"/>
+    <outline text="J032 ScienceDirect: Computers &amp; Fluids" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/00457930"/>
+    <outline text="J033 ScienceDirect: International Journal of Heat and Mass Transfer" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/00179310"/>
+    <outline text="J034 Annual Review of Fluid Mechanics: Most Recent" type="rss" xmlUrl="https://www.annualreviews.org/rss/content/journals/fluid/latestarticles?fmt=rss"/>
+    <outline text="J035 tandf: Geophysical &amp; Astrophysical Fluid Dynamics" type="rss" xmlUrl="https://www.tandfonline.com/feed/rss/ggaf20"/>
+    <outline text="J036 力学进展" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/lxjz"/>
+    <outline text="J037 PRE: Fluid dynamics" type="rss" xmlUrl="https://feeds.aps.org/rss/tocsec/PRE-Fluiddynamics.xml"/>
+    <outline text="J038 ScienceDirect: Journal of Computational Physics" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/00219991"/>
+    <outline text="J039 力学与实践" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/lxysj"/>
+    <outline text="J040 力学学报" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/lxxb"/>
+    <outline text="J041 National Science Review Current Issue" type="rss" xmlUrl="https://academic.oup.com/rss/site_5332/3198.xml"/>
+    <outline text="J042 Nature Geoscience" type="rss" xmlUrl="https://www.nature.com/ngeo.rss"/>
+    <outline text="J043 Wiley: AGU Advances" type="rss" xmlUrl="https://agupubs.onlinelibrary.wiley.com/feed/2576604x/most-recent"/>
+    <outline text="J044 Wiley: Earth's Future" type="rss" xmlUrl="https://agupubs.onlinelibrary.wiley.com/feed/23284277/most-recent"/>
+    <outline text="J045 Wiley: Geophysical Research Letters" type="rss" xmlUrl="https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=19448007&amp;type=etoc&amp;feed=rss"/>
+    <outline text="J046 Nature Reviews Earth &amp; Environment" type="rss" xmlUrl="https://www.nature.com/natrevearthenviron.rss"/>
+    <outline text="J047 Wiley: Reviews of Geophysics" type="rss" xmlUrl="https://agupubs.onlinelibrary.wiley.com/feed/19449208/most-recent"/>
+    <outline text="J048 GMD - recent papers" type="rss" xmlUrl="https://gmd.copernicus.org/xml/rss2_0.xml"/>
+    <outline text="J049 JCP: ACM Table of Contents" type="rss" xmlUrl="https://dl.acm.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=jocp"/>
+    <outline text="J050 Wiley: JAMES" type="rss" xmlUrl="https://agupubs.onlinelibrary.wiley.com/feed/19422466/most-recent"/>
+    <outline text="J051 ScienceDirect: Ocean Modelling" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/14635003"/>
+    <outline text="J052 Annual Review of Statistics and Its Application" type="rss" xmlUrl="https://www.annualreviews.org/rss/content/journals/statistics/latestarticles?fmt=rss"/>
+    <outline text="J053 Atmospheric science : nature.com subject feeds" type="rss" xmlUrl="https://www.nature.com/subjects/atmospheric-science.rss?error=cookies_not_supported&amp;code=4b66967b-526b-48e0-aea6-cbec2161b208"/>
+    <outline text="J054 ADVANCES IN ATMOSPHERIC SCIENCES" type="rss" xmlUrl="https://www.iapjournals.ac.cn/aas/rss/current.xml"/>
+    <outline text="J055 Climate change : nature.com subject feeds" type="rss" xmlUrl="https://www.nature.com/subjects/climate-change.rss?error=cookies_not_supported&amp;code=1403513f-7bd8-4d8f-bf3a-0ba4d1d83db9"/>
+    <outline text="J056 BAMS" type="rss" xmlUrl="https://journals.ametsoc.org/journalissuetocrss/journals/bams/bams-overview.xml"/>
+    <outline text="J057 Wiley: International Journal of Climatology" type="rss" xmlUrl="https://rmets.onlinelibrary.wiley.com/feed/10970088/most-recent"/>
+    <outline text="J058 Springer: Climate journal-id=382" type="rss" xmlUrl="https://link.springer.com/search.rss?new-search=true&amp;query=*&amp;content-type=Article&amp;sortBy=relevance&amp;search-within=Journal&amp;facet-journal-id=382&amp;error=cookies_not_supported&amp;code=9169db4a-1233-4b02-aa8c-5b3d5b21089f"/>
+    <outline text="J059 Nature Climate Change" type="rss" xmlUrl="https://www.nature.com/nclimate.rss"/>
+    <outline text="J060 npj Climate and Atmospheric Science" type="rss" xmlUrl="https://www.nature.com/npjclimatsci.rss?error=cookies_not_supported&amp;code=f30f0465-fa45-4b70-a402-48e86e492538"/>
+    <outline text="J061 Journal of Climate" type="rss" xmlUrl="https://journals.ametsoc.org/journalissuetocrss/journals/clim/clim-overview.xml"/>
+    <outline text="J062 ASCMO - recent articles" type="rss" xmlUrl="https://ascmo.copernicus.org/xml/rss2_0.xml"/>
+    <outline text="J063 热带气象学报" type="rss" xmlUrl="https://rdqxxb.itmm.org.cn/rss/current.xml"/>
+    <outline text="J064 ScienceDirect: Weather and Climate Extremes" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/22120947"/>
+    <outline text="J065 Wiley: Atmospheric Science Letters" type="rss" xmlUrl="https://rmets.onlinelibrary.wiley.com/feed/1530261x/most-recent"/>
+    <outline text="J066 Environmental Research: Climate" type="rss" xmlUrl="https://iopscience.iop.org/journal/rss/2752-5295"/>
+    <outline text="J067 tandf: Atmosphere-Ocean" type="rss" xmlUrl="https://www.tandfonline.com/feed/rss/tato20"/>
+    <outline text="J068 ScienceDirect: Science of The Total Environment" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/00489697"/>
+    <outline text="J069 AAAS: Ocean-Land-Atmosphere Research" type="rss" xmlUrl="https://spj.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=olar"/>
+    <outline text="J070 ScienceDirect: Deep Sea Research Part II" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/09670645"/>
+    <outline text="J071 Annual Review of Marine Science" type="rss" xmlUrl="https://www.annualreviews.org/rss/content/journals/marine/latestarticles?fmt=rss"/>
+    <outline text="J072 ScienceDirect: Deep Sea Research Part I" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/09670637"/>
+    <outline text="J073 ScienceDirect: Dynamics of Atmospheres and Oceans" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/03770265"/>
+    <outline text="J074 Frontiers in Marine Science" type="rss" xmlUrl="https://www.frontiersin.org/journals/marine-science/rss"/>
+    <outline text="J075 ScienceDirect: Journal of Sea Research" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/13851101"/>
+    <outline text="J076 ScienceDirect: Journal of Marine Systems" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/09247963"/>
+    <outline text="J077 Journal of Physical Oceanography" type="rss" xmlUrl="https://journals.ametsoc.org/journalissuetocrss/journals/phoc/phoc-overview.xml"/>
+    <outline text="J078 ScienceDirect: Ocean Engineering" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/00298018"/>
+    <outline text="J079 ScienceDirect: Progress in Oceanography" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/00796611"/>
+    <outline text="J080 Wiley-Online-Library: Oceanography Physical keyword" type="rss" xmlUrl="https://agupubs.onlinelibrary.wiley.com/action/showFeed?ui=0&amp;mi=5eaj7wl&amp;type=search&amp;feed=rss&amp;query=%2526ConceptID%253D103716%2526content%253DarticlesChapters%2526target%253Dtopic-results"/>
+    <outline text="J081 tandf: Journal of Operational Oceanography" type="rss" xmlUrl="https://www.tandfonline.com/feed/rss/tjoo20"/>
+    <outline text="J082 Springer: Oceanography journal-id=10236" type="rss" xmlUrl="https://link.springer.com/search.rss?new-search=true&amp;query=*&amp;content-type=Article&amp;sortBy=relevance&amp;search-within=Journal&amp;facet-journal-id=10236&amp;error=cookies_not_supported&amp;code=29af1f69-2dbb-4177-9965-5aa6de06a81a"/>
+    <outline text="J083 tandf: Tellus A" type="rss" xmlUrl="https://www.tandfonline.com/feed/rss/zela20"/>
+    <outline text="J084 海岸工程" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/hagc"/>
+    <outline text="J085 海洋与湖沼" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/hyyhz"/>
+    <outline text="J086 海洋学研究" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/dhhy"/>
+    <outline text="J087 海洋学报（中文版）" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/hyxb"/>
+    <outline text="J088 海洋气象学报" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/sdqx"/>
+    <outline text="J089 海洋科学进展" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/hbhhy"/>
+    <outline text="J090 海洋科学" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/hykx"/>
+    <outline text="J091 海洋预报" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/hyyb"/>
+    <outline text="J092 海洋环境科学" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/hyhjkx"/>
+    <outline text="J093 海洋通报" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/hytb"/>
+    <outline text="J094 海洋技术学报" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/hyjs"/>
+    <outline text="J095 IEEE Transactions on Geoscience and Remote Sensing" type="rss" xmlUrl="https://ieeexplore.ieee.org/rss/TOC36.XML"/>
+    <outline text="J096 Remote Sensing" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/remotesensing"/>
+    <outline text="J097 ScienceDirect: ISPRS JPRS" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/09242716"/>
+    <outline text="J098 ScienceDirect: Remote Sensing of Environment" type="rss" xmlUrl="https://rss.sciencedirect.com/publication/science/00344257"/>
+    <outline text="J099 求是" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/qius"/>
+    <outline text="N002 科学网新闻RSS——首页头条" type="rss" xmlUrl="https://www.sciencenet.cn/xml/news-0.aspx?news=0"/>
+    <outline text="N003 中国科技信息" type="rss" xmlUrl="https://apps.wanfangdata.com.cn/perios/rss/zgkjxx"/>
+    <outline text="N004 Google Scholar Blog" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleScholarBlog"/>
+    <outline text="N005 ORCID" type="rss" xmlUrl="https://info.orcid.org/feed/"/>
+    <outline text="N006 NSF Program Announcements and Information" type="rss" xmlUrl="https://www.nsf.gov/rss/rss_www_funding_pgm_annc_inf.xml"/>
+    <outline text="N007 国家自然科学基金委员会" type="rss" xmlUrl="https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_c1f2e5989666.xml"/>
+    <outline text="N008 DFG" type="rss" xmlUrl="https://www.dfg.de/service/rss/de/323556/feed.rss"/>
+    <outline text="N009 Marine: News" type="rss" xmlUrl="https://marine.copernicus.eu/news/rss.xml"/>
+    <outline text="N010 Woods Hole Oceanographic Institution" type="rss" xmlUrl="https://www.whoi.edu/feed/"/>
+    <outline text="N011 PO.DAAC" type="rss" xmlUrl="https://podaac.jpl.nasa.gov/rss.xml"/>
+    <outline text="N012 AVISO" type="rss" xmlUrl="https://www.aviso.altimetry.fr/index.php?id=325&amp;type=100"/>
+    <outline text="N013 National Oceanography Centre" type="rss" xmlUrl="https://noc.ac.uk/news/latest_news.xml"/>
+    <outline text="N014 MAA News" type="rss" xmlUrl="https://maa.org/news/feed/"/>
+    <outline text="N015 IPCC" type="rss" xmlUrl="https://www.ipcc.ch/feed/"/>
+    <outline text="N016 WCRP Climate News" type="rss" xmlUrl="https://feeds.feedburner.com/WCRP-Climate-News"/>
+    <outline text="N017 青塔" type="rss" xmlUrl="https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_9eaf123d0c6f.xml"/>
+    <outline text="N018 智慧海洋产学研交流" type="rss" xmlUrl="https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_92ea03075875.xml"/>
+    <outline text="N019 溪流之海洋人生" type="rss" xmlUrl="https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_83e50f392f01.xml"/>
+    <outline text="N020 海洋知圈" type="rss" xmlUrl="https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_9b0474b2d051.xml"/>
+    <outline text="N021 青柠学术" type="rss" xmlUrl="https://we-mp-rss.oceanographer.eu.org/feed/MP_WXS_3017820841.rss"/>
+    <outline text="N022 简谱学记" type="rss" xmlUrl="https://we-mp-rss.oceanographer.eu.org/feed/MP_WXS_3513886464.rss"/>
+    <outline text="N023 CFD界" type="rss" xmlUrl="https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_d4ba208ffa0b.xml"/>
+    <outline text="N024 知识分子" type="rss" xmlUrl="https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_d21f67d094a5.xml"/>
+    <outline text="N025 Latest meeting submissions" type="rss" xmlUrl="https://www.egu.eu/meetings/rss/"/>
+    <outline text="N026 Webinars in the field of (Physical) Oceanography" type="rss" xmlUrl="https://bg.raindrop.io/rss/public/15230711"/>
+    <outline text="N027 36氪" type="rss" xmlUrl="https://36kr.com/feed"/>
+    <outline text="N028 人民日报" type="rss" xmlUrl="https://plink.anyfeeder.com/people-daily"/>
+    <outline text="N029 标志情报局" type="rss" xmlUrl="https://www.logonews.cn/feed"/>
+    <outline text="N030 力学科普" type="rss" xmlUrl="https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_ff7c8476b324.xml"/>
+    <outline text="N031 JSTOR Daily" type="rss" xmlUrl="http://daily.jstor.org/feed/"/>
+    <outline text="N032 MIT科技评论-本周热榜" type="rss" xmlUrl="https://plink.anyfeeder.com/mittrchina/hot"/>
+    <outline text="E001 Business" type="rss" xmlUrl="https://www.economist.com/business/rss.xml"/>
+    <outline text="E002 Finance &amp; economics" type="rss" xmlUrl="https://www.economist.com/finance-and-economics/rss.xml"/>
+    <outline text="E003 Graphic detail" type="rss" xmlUrl="https://www.economist.com/graphic-detail/rss.xml"/>
+    <outline text="E004 International" type="rss" xmlUrl="https://www.economist.com/international/rss.xml"/>
+    <outline text="E005 Leaders" type="rss" xmlUrl="https://www.economist.com/leaders/rss.xml"/>
+    <outline text="E006 Science &amp; technology" type="rss" xmlUrl="https://www.economist.com/science-and-technology/rss.xml"/>
+    <outline text="E007 China Daily &gt; Opinion" type="rss" xmlUrl="https://europe.chinadaily.com.cn/opinion_rss.xml"/>
+    <outline text="E008 Harvard Business Review" type="rss" xmlUrl="https://feedx.net/rss/hbr.xml"/>
+    <outline text="E009 IEEE Spectrum" type="rss" xmlUrl="https://spectrum.ieee.org/feeds/feed.rss"/>
+    <outline text="E010 MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/"/>
+    <outline text="E011 New Scientist" type="rss" xmlUrl="https://www.newscientist.com/feed/home/?cmpid=RSS%7CNSNS-Home"/>
+    <outline text="E012 Science News" type="rss" xmlUrl="https://www.sciencenews.org/feed"/>
+    <outline text="E013 ScienceBlogs" type="rss" xmlUrl="https://scienceblogs.com/rss.xml"/>
+    <outline text="E014 Scientific American" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global"/>
+    <outline text="E015 FreeMdict Forum - 使用雅思标记的话题" type="rss" xmlUrl="https://forum.freemdict.com/tag/%E9%9B%85%E6%80%9D.rss"/>
+    <outline text="E016 The Antimoon Blog" type="rss" xmlUrl="https://www.antimoon.com/blog/feed/"/>
+    <outline text="E017 FreeMdict Forum - cmm 的最新帖子" type="rss" xmlUrl="https://forum.freemdict.com/u/cmm/activity.rss"/>
+    <outline text="G001 中华人民共和国国务院公报-CNKI" type="rss" xmlUrl="https://rss.cnki.net/knavi/rss/GWYB?pcode=CJFD,CCJD"/>
+    <outline text="G002 江苏省人民政府公报-CNKI" type="rss" xmlUrl="https://rss.cnki.net/knavi/rss/JSZB?pcode=CJFD,CCJD"/>
+    <outline text="G003 中华人民共和国教育部公报-CNKI" type="rss" xmlUrl="https://rss.cnki.net/knavi/rss/GJBG?pcode=CJFD,CCJD"/>
+    <outline text="G004 中华人民共和国全国人民代表大会常务委员会公报-CNKI" type="rss" xmlUrl="https://rss.cnki.net/knavi/rss/CWGB?pcode=CJFD,CCJD"/>
+    <outline text="G005 数据发布" type="rss" xmlUrl="https://www.stats.gov.cn/sj/zxfb/rss.xml"/>
+    <outline text="G006 数据解读" type="rss" xmlUrl="https://www.stats.gov.cn/sj/sjjd/rss.xml"/>
+    <outline text="G007 司法部 - 立法意见征集" type="rss" xmlUrl="https://quanwenrss.com/gov/moj/lifayijianzhengji"/>
+    <outline text="B001 老苏的blog" type="rss" xmlUrl="https://laosu.tech/atom.xml"/>
+    <outline text="B002 抽筋儿的话语权" type="rss" xmlUrl="https://chouj.github.io/index.xml"/>
+    <outline text="B003 德普王" type="rss" xmlUrl="https://depp.wang/rss2.xml"/>
+    <outline text="B004 焕昭君的博客" type="rss" xmlUrl="https://blog.huan666.de/index.xml"/>
+    <outline text="B005 老宁的博客" type="rss" xmlUrl="https://blog.synocircle.top/feed"/>
+    <outline text="B006 凉糕" type="rss" xmlUrl="https://osnsyc.top/index.xml"/>
+    <outline text="B007 用户 RSS" type="rss" xmlUrl="https://blog.sciencenet.cn/rss.php?uid=611158"/>
+    <outline text="B008 小姜同学的博客" type="rss" xmlUrl="https://brian-jiangz.github.io/atom.xml"/>
+    <outline text="B009 用户 WuchangZhang RSS" type="rss" xmlUrl="https://blog.sciencenet.cn/rss.php?uid=39359"/>
+    <outline text="B010 粥里有勺糖" type="rss" xmlUrl="https://sugarat.top/feed.rss"/>
+    <outline text="B011 Achuan-2" type="rss" xmlUrl="https://www.achuan-2.top/atom.xml"/>
+    <outline text="B012 Code and more on theOceanCode" type="rss" xmlUrl="https://theoceancode.netlify.app/blog/index.xml"/>
+    <outline text="B013 EdNovas的小站" type="rss" xmlUrl="https://ednovas.xyz/atom.xml"/>
+    <outline text="B014 Jimmy Song – 博客" type="rss" xmlUrl="https://jimmysong.io/zh/blog/index.xml"/>
+    <outline text="B015 Kerry的学习笔记" type="rss" xmlUrl="https://kerrynotes.com/feed/"/>
+    <outline text="B016 Kevin Hu胡华平" type="rss" xmlUrl="https://kevinhhp.netlify.app/posts.xml"/>
+    <outline text="B017 LINUX DO - jkun 的最新话题" type="rss" xmlUrl="https://linux.do/u/jkun/activity/topics.rss"/>
+    <outline text="B018 lvbibir's Blog" type="rss" xmlUrl="https://www.lvbibir.cn/index.xml"/>
+    <outline text="B019 Oceanology notes" type="rss" xmlUrl="https://blog.chum-bucket.site/rss.xml"/>
+    <outline text="B020 Ran Xue" type="rss" xmlUrl="https://ranx79.github.io//atom.xml"/>
+    <outline text="B021 RQL's Blog" type="rss" xmlUrl="https://renqlsysu.github.io/feed.xml"/>
+    <outline text="B022 Skywind Inside" type="rss" xmlUrl="https://skywind.me/blog/feed"/>
+    <outline text="B023 Viking" type="rss" xmlUrl="https://vikingz.me/rss.xml"/>
+    <outline text="B024 Zettelkasten.de" type="rss" xmlUrl="https://zettelkasten.de/feed.atom"/>
+    <outline text="B025 红枫吟" type="rss" xmlUrl="https://honmaple.me/atom.xml"/>
+    <outline text="T001 发现频道 - 小众软件官方论坛" type="rss" xmlUrl="https://meta.appinn.net/c/faxian/10.rss"/>
+    <outline text="T002 开源空间" type="rss" xmlUrl="https://opensource.zone/rss/alternatives.xml"/>
+    <outline text="T003 蓝点网" type="rss" xmlUrl="https://www.landiannews.com/feed"/>
+    <outline text="T004 链滴" type="rss" xmlUrl="https://ld246.com/rss/recent.xml"/>
+    <outline text="T005 如有乐享" type="rss" xmlUrl="http://51.ruyo.net/feed"/>
+    <outline text="T006 软件天地(Software)版 - 最新文章" type="rss" xmlUrl="https://bbs.pku.edu.cn/v2/rss.php?bid=181"/>
+    <outline text="T007 数学工具(MathTools)版 - 最新文章" type="rss" xmlUrl="https://bbs.pku.edu.cn/v2/rss.php?bid=346"/>
+    <outline text="T008 小众软件" type="rss" xmlUrl="https://www.appinn.com/feed/"/>
+    <outline text="T009 小众软件官方论坛 - 使用rss标记的话题" type="rss" xmlUrl="https://meta.appinn.net/tag/rss/105.rss"/>
+    <outline text="T010 异次元软件世界" type="rss" xmlUrl="https://feed.iplaysoft.com/"/>
+    <outline text="T011 优秀的Free OS(Linux)版 - 最新文章" type="rss" xmlUrl="https://bbs.pku.edu.cn/v2/rss.php?bid=13"/>
+    <outline text="T012 云坤系统软件-中国科技云" type="rss" xmlUrl="https://yunkun.cstcloud.cn/feed/"/>
+    <outline text="T013 Blog on Posit Open Source" type="rss" xmlUrl="https://quarto.org/docs/blog/index.xml"/>
+    <outline text="T014 iOS - 反斗限免" type="rss" xmlUrl="https://free.apprcn.com/category/ios/feed/"/>
+    <outline text="T015 Mac - 反斗限免" type="rss" xmlUrl="https://free.apprcn.com/category/mac/feed/"/>
+    <outline text="T016 Mac玩儿法" type="rss" xmlUrl="https://www.waerfa.com/feed"/>
+    <outline text="T017 OSCHINA 社区最新软件" type="rss" xmlUrl="https://www.oschina.net/project/rss"/>
+    <outline text="T018 Publii" type="rss" xmlUrl="https://getpublii.com/feed.xml"/>
+    <outline text="T019 Quick RSS 技术资源分享" type="rss" xmlUrl="https://wangchujiang.com/quick-rss/feed.xml"/>
+    <outline text="T020 selfh.st" type="rss" xmlUrl="https://selfh.st/rss/"/>
+    <outline text="T021 Synology News" type="rss" xmlUrl="https://www.synology.cn/api/rssfeed/news/zh-cn"/>
+    <outline text="T022 Visual Studio Code" type="rss" xmlUrl="https://vscode.js.cn/feed.xml"/>
+    <outline text="T023 wallabag" type="rss" xmlUrl="https://wallabag.org/feed.xml"/>
+    <outline text="T024 Zotero" type="rss" xmlUrl="http://feeds.feedburner.com/zotero/"/>
+    <outline text="T025 阮一峰的网络日志" type="rss" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml"/>
+    <outline text="T026 存储在线" type="rss" xmlUrl="https://www.dostor.com/feed"/>
+    <outline text="T027 少数派" type="rss" xmlUrl="https://sspai.com/feed"/>
+    <outline text="T028 网络技术(Networking)版 - 最新文章" type="rss" xmlUrl="https://bbs.pku.edu.cn/v2/rss.php?bid=35"/>
+    <outline text="T029 云计算" type="rss" xmlUrl="https://www.v2ex.com/feed/cloud.xml"/>
+    <outline text="T030 AI论文简报" type="rss" xmlUrl="https://ai-brief.liziran.com/zh/feed.xml"/>
+    <outline text="T031 Cleve's Corner" type="rss" xmlUrl="https://feeds.feedburner.com/mathworks/moler"/>
+    <outline text="T032 Pick of the Week" type="rss" xmlUrl="https://feeds.feedburner.com/mathworks/pick"/>
+    <outline text="T033 RSS" type="rss" xmlUrl="https://www.v2ex.com/feed/rss.xml"/>
+    <outline text="T034 Student Lounge" type="rss" xmlUrl="https://feeds.feedburner.com/mathworks/StudentLounge"/>
+    <outline text="T035 阿里云公告" type="rss" xmlUrl="https://www.aliyun.com/rss/notice/zh.xml"/>
+    <outline text="M001 Instapaper: Starred" type="rss" xmlUrl="https://www.instapaper.com/starred/rss/8161260/aH2ai4sC4c17oukpbWwFT30w3kE"/>
+    <outline text="M002 Instapaper: Unread" type="rss" xmlUrl="https://www.instapaper.com/rss/8161260/QGFSH3jN0VDolNovmRYRuRaMsc"/>
+  </body>
+</opml>

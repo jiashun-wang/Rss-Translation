@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>翻译后 RSS 订阅源</title>
+    <dateCreated>Mon, 24 Aug 2026 17:13:15 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="J001 OS" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/OceanScience_Copernicus.xml"/>
+    <outline text="J002 JGRO" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JGR_Oceans.xml"/>
+    <outline text="N001 Our World in Data" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Our_World_in_Data.xml"/>
+    <outline text="J003 Palaeoceanography : nature.com subject feeds" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Palaeoceanography_Nature.xml"/>
+    <outline text="J004 PNAS: Earth, Atmospheric, and Planetary Sciences" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PNAS_Earth_Atmos_Planetary.xml"/>
+    <outline text="J005 Physical oceanography : nature.com subject feeds" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Physical_Oceanography_Nature.xml"/>
+    <outline text="J006 AAAS: Science Advances" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Science_Advances.xml"/>
+    <outline text="J007 Nature Communications" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Nature_Communications.xml"/>
+    <outline text="J008 ScienceDirect: The Innovation" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/The_Innovation.xml"/>
+    <outline text="J009 National Science Review Advance Access" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/NSR_Advance_Access.xml"/>
+    <outline text="J010 Nature" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Nature.xml"/>
+    <outline text="J011 Scientific Reports" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Scientific_Reports.xml"/>
+    <outline text="J012 PNAS: Physical Sciences" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PNAS_Physical_Sciences.xml"/>
+    <outline text="J013 AAAS: Science" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Science.xml"/>
+    <outline text="J014 ScienceDirect: Science Bulletin" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Science_Bulletin.xml"/>
+    <outline text="J015 tandf: Big Earth Data" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Big_Earth_Data.xml"/>
+    <outline text="J016 Journal of Open Source Software" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JOSS.xml"/>
+    <outline text="J017 ScienceDirect: SoftwareX" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/SoftwareX.xml"/>
+    <outline text="J018 Scientific Data" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Scientific_Data.xml"/>
+    <outline text="J019 Wiley: Geoscience Data Journal" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Geoscience_Data_Journal.xml"/>
+    <outline text="J020 ScienceDirect: Data in Brief" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Data_in_Brief.xml"/>
+    <outline text="J021 ESSD - recent papers" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ESSD.xml"/>
+    <outline text="J022 Nature Methods" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Nature_Methods.xml"/>
+    <outline text="J023 Wiley: JGR: Machine Learning and Computation" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JGR_Machine_Learning_Computation.xml"/>
+    <outline text="J024 Annual Review of Fluid Mechanics: Most Cited" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ARFM_Most_Cited.xml"/>
+    <outline text="J025 Journal of Fluid Mechanics" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JFM.xml"/>
+    <outline text="J026 Physics of Fluids Current Issue" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Physics_of_Fluids.xml"/>
+    <outline text="J028 PRL: Nonlinear Dynamics, Fluid Dynamics, Classical Optics, etc." type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PRL_Nonlinear_Fluid.xml"/>
+    <outline text="J029 PRE: Classical physics" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PRE_Classical_Physics.xml"/>
+    <outline text="J030 Recent Articles in Phys. Rev. Fluids" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PRFluids_Recent.xml"/>
+    <outline text="J031 Journal of Applied Mechanics Open Issues" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JAM_Open_Issues.xml"/>
+    <outline text="J032 ScienceDirect: Computers &amp; Fluids" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Computers_and_Fluids.xml"/>
+    <outline text="J033 ScienceDirect: International Journal of Heat and Mass Transfer" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/IJHMT.xml"/>
+    <outline text="J034 Annual Review of Fluid Mechanics: Most Recent" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ARFM_Latest.xml"/>
+    <outline text="J035 tandf: Geophysical &amp; Astrophysical Fluid Dynamics" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/GAFD.xml"/>
+    <outline text="J036 力学进展" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Lixue_Jinzhan.xml"/>
+    <outline text="J037 PRE: Fluid dynamics" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PRE_Fluid_Dynamics.xml"/>
+    <outline text="J038 ScienceDirect: Journal of Computational Physics" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JCP.xml"/>
+    <outline text="J039 力学与实践" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Lixue_Yu_Shijian.xml"/>
+    <outline text="J040 力学学报" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Lixue_Xuebao.xml"/>
+    <outline text="J041 National Science Review Current Issue" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/NSR_Current_Issue.xml"/>
+    <outline text="J042 Nature Geoscience" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Nature_Geoscience.xml"/>
+    <outline text="J043 Wiley: AGU Advances" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/AGU_Advances.xml"/>
+    <outline text="J044 Wiley: Earth's Future" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Earths_Future.xml"/>
+    <outline text="J045 Wiley: Geophysical Research Letters" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/GRL.xml"/>
+    <outline text="J046 Nature Reviews Earth &amp; Environment" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/NREE.xml"/>
+    <outline text="J047 Wiley: Reviews of Geophysics" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Reviews_of_Geophysics.xml"/>
+    <outline text="J048 GMD - recent papers" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/GMD.xml"/>
+    <outline text="J049 JCP: ACM Table of Contents" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JCP_ACM.xml"/>
+    <outline text="J050 Wiley: JAMES" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JAMES.xml"/>
+    <outline text="J051 ScienceDirect: Ocean Modelling" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Ocean_Modelling.xml"/>
+    <outline text="J052 Annual Review of Statistics and Its Application" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ARStatistics.xml"/>
+    <outline text="J053 Atmospheric science : nature.com subject feeds" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Atmospheric_Science_Nature.xml"/>
+    <outline text="J054 ADVANCES IN ATMOSPHERIC SCIENCES" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/AAS.xml"/>
+    <outline text="J055 Climate change : nature.com subject feeds" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Climate_Change_Nature.xml"/>
+    <outline text="J056 BAMS" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/BAMS.xml"/>
+    <outline text="J057 Wiley: International Journal of Climatology" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Int_Journal_Climatology.xml"/>
+    <outline text="J058 Springer: Climate journal-id=382" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Springer_Climate_Latest.xml"/>
+    <outline text="J059 Nature Climate Change" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Nature_Climate_Change.xml"/>
+    <outline text="J060 npj Climate and Atmospheric Science" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/npj_Climate_Atmospheric_Science.xml"/>
+    <outline text="J061 Journal of Climate" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Journal_of_Climate.xml"/>
+    <outline text="J062 ASCMO - recent articles" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ASCMO.xml"/>
+    <outline text="J063 热带气象学报" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Journal_of_Tropical_Meteorology.xml"/>
+    <outline text="J064 ScienceDirect: Weather and Climate Extremes" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Weather_and_Climate_Extremes.xml"/>
+    <outline text="J065 Wiley: Atmospheric Science Letters" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Atmospheric_Science_Letters.xml"/>
+    <outline text="J066 Environmental Research: Climate" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Environmental_Research_Climate.xml"/>
+    <outline text="J067 tandf: Atmosphere-Ocean" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Atmosphere_Ocean.xml"/>
+    <outline text="J068 ScienceDirect: Science of The Total Environment" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Science_of_Total_Environment.xml"/>
+    <outline text="J069 AAAS: Ocean-Land-Atmosphere Research" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Ocean_Land_Atmosphere_Research.xml"/>
+    <outline text="J070 ScienceDirect: Deep Sea Research Part II" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Deep_Sea_Research_II.xml"/>
+    <outline text="J071 Annual Review of Marine Science" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ARMS_Latest.xml"/>
+    <outline text="J072 ScienceDirect: Deep Sea Research Part I" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Deep_Sea_Research_I.xml"/>
+    <outline text="J073 ScienceDirect: Dynamics of Atmospheres and Oceans" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Dynamics_of_Atmos_Oceans.xml"/>
+    <outline text="J074 Frontiers in Marine Science" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Frontiers_in_Marine_Science.xml"/>
+    <outline text="J075 ScienceDirect: Journal of Sea Research" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Journal_of_Sea_Research.xml"/>
+    <outline text="J076 ScienceDirect: Journal of Marine Systems" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Journal_of_Marine_Systems.xml"/>
+    <outline text="J077 Journal of Physical Oceanography" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JPO.xml"/>
+    <outline text="J078 ScienceDirect: Ocean Engineering" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Ocean_Engineering.xml"/>
+    <outline text="J079 ScienceDirect: Progress in Oceanography" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Progress_in_Oceanography.xml"/>
+    <outline text="J080 Wiley-Online-Library: Oceanography Physical keyword" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Wiley_Physical_Oceanography_Keyword.xml"/>
+    <outline text="J081 tandf: Journal of Operational Oceanography" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Journal_of_Operational_Oceanography.xml"/>
+    <outline text="J082 Springer: Oceanography journal-id=10236" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Springer_Oceanography_Latest.xml"/>
+    <outline text="J083 tandf: Tellus A" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Tellus_A.xml"/>
+    <outline text="J084 海岸工程" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiAn_GongCheng.xml"/>
+    <outline text="J085 海洋与湖沼" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiYang_Yu_HuZhao.xml"/>
+    <outline text="J086 海洋学研究" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiYangXue_YanJiu.xml"/>
+    <outline text="J087 海洋学报（中文版）" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiYang_Xuebao_CN.xml"/>
+    <outline text="J088 海洋气象学报" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiYang_QiXiang_Xuebao.xml"/>
+    <outline text="J089 海洋科学进展" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiYang_Kexue_Jinzhan.xml"/>
+    <outline text="J090 海洋科学" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiYang_Kexue.xml"/>
+    <outline text="J091 海洋预报" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiYang_YuBao.xml"/>
+    <outline text="J092 海洋环境科学" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiYang_Huanjing_Kexue.xml"/>
+    <outline text="J093 海洋通报" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiYang_TongBao.xml"/>
+    <outline text="J094 海洋技术学报" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiYang_Jishu_Xuebao.xml"/>
+    <outline text="J095 IEEE Transactions on Geoscience and Remote Sensing" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/IEEE_TGRS.xml"/>
+    <outline text="J096 Remote Sensing" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Remote_Sensing.xml"/>
+    <outline text="J097 ScienceDirect: ISPRS JPRS" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ISPRS_JPRS.xml"/>
+    <outline text="J098 ScienceDirect: Remote Sensing of Environment" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Remote_Sensing_of_Environment.xml"/>
+    <outline text="J099 求是" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/QiuShi.xml"/>
+    <outline text="N002 科学网新闻RSS——首页头条" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ScienceNet_News.xml"/>
+    <outline text="N003 中国科技信息" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/China_ST_Info.xml"/>
+    <outline text="N004 Google Scholar Blog" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Google_Scholar_Blog.xml"/>
+    <outline text="N005 ORCID" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ORCID.xml"/>
+    <outline text="N006 NSF Program Announcements and Information" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/NSF_Program_Announcements.xml"/>
+    <outline text="N007 国家自然科学基金委员会" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/NSFC_Wechat.xml"/>
+    <outline text="N008 DFG" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/DFG.xml"/>
+    <outline text="N009 Marine: News" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Copernicus_Marine_News.xml"/>
+    <outline text="N010 Woods Hole Oceanographic Institution" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/WHOI.xml"/>
+    <outline text="N011 PO.DAAC" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PODAAC.xml"/>
+    <outline text="N012 AVISO" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/AVISO.xml"/>
+    <outline text="N013 National Oceanography Centre" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/NOC_Latest_News.xml"/>
+    <outline text="N014 MAA News" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/MAA_News.xml"/>
+    <outline text="N015 IPCC" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/IPCC.xml"/>
+    <outline text="N016 WCRP Climate News" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/WCRP_Climate_News.xml"/>
+    <outline text="N017 青塔" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/QingTa.xml"/>
+    <outline text="N018 智慧海洋产学研交流" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ZhiHui_HaiYang.xml"/>
+    <outline text="N019 溪流之海洋人生" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/XiLiu_ZhiHaiYang.xml"/>
+    <outline text="N020 海洋知圈" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HaiYang_ZhiQuan.xml"/>
+    <outline text="N021 青柠学术" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/QingNing_XueShu.xml"/>
+    <outline text="N022 简谱学记" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JianPu_XueJi.xml"/>
+    <outline text="N023 CFD界" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/CFD_Jie.xml"/>
+    <outline text="N024 知识分子" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Intellectuals.xml"/>
+    <outline text="N025 Latest meeting submissions" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/EGU_Meetings.xml"/>
+    <outline text="N026 Webinars in the field of (Physical) Oceanography" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PO_Webinars.xml"/>
+    <outline text="N027 36氪" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/36Kr.xml"/>
+    <outline text="N028 人民日报" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/People_Daily.xml"/>
+    <outline text="N029 标志情报局" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/LogoNews.xml"/>
+    <outline text="N030 力学科普" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Lixue_Kepu.xml"/>
+    <outline text="N031 JSTOR Daily" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JSTOR_Daily.xml"/>
+    <outline text="N032 MIT科技评论-本周热榜" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/MITTR_China_Hot.xml"/>
+    <outline text="E001 Business" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Economist_Business.xml"/>
+    <outline text="E002 Finance &amp; economics" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Economist_Finance_Economics.xml"/>
+    <outline text="E003 Graphic detail" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Economist_Graphic_Detail.xml"/>
+    <outline text="E004 International" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Economist_International.xml"/>
+    <outline text="E005 Leaders" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Economist_Leaders.xml"/>
+    <outline text="E006 Science &amp; technology" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Economist_Science_Tech.xml"/>
+    <outline text="E007 China Daily &gt; Opinion" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/China_Daily_Opinion.xml"/>
+    <outline text="E008 Harvard Business Review" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Harvard_Business_Review.xml"/>
+    <outline text="E009 IEEE Spectrum" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/IEEE_Spectrum.xml"/>
+    <outline text="E010 MIT Technology Review" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/MIT_Technology_Review.xml"/>
+    <outline text="E011 New Scientist" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/New_Scientist.xml"/>
+    <outline text="E012 Science News" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Science_News.xml"/>
+    <outline text="E013 ScienceBlogs" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ScienceBlogs.xml"/>
+    <outline text="E014 Scientific American" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Scientific_American.xml"/>
+    <outline text="E015 FreeMdict Forum - 使用雅思标记的话题" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/FreeMdict_IELTS.xml"/>
+    <outline text="E016 The Antimoon Blog" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Antimoon_Blog.xml"/>
+    <outline text="E017 FreeMdict Forum - cmm 的最新帖子" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/FreeMdict_cmm.xml"/>
+    <outline text="G001 中华人民共和国国务院公报-CNKI" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/GWY_GongBao.xml"/>
+    <outline text="G002 江苏省人民政府公报-CNKI" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JiangSu_GongBao.xml"/>
+    <outline text="G003 中华人民共和国教育部公报-CNKI" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/JiaoYuBu_GongBao.xml"/>
+    <outline text="G004 中华人民共和国全国人民代表大会常务委员会公报-CNKI" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/RenDa_GongBao.xml"/>
+    <outline text="G005 数据发布" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Stats_Data_Release.xml"/>
+    <outline text="G006 数据解读" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Stats_Data_Interpretation.xml"/>
+    <outline text="G007 司法部 - 立法意见征集" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/MoJ_Legislation.xml"/>
+    <outline text="B001 老苏的blog" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/LaoSu_Blog.xml"/>
+    <outline text="B002 抽筋儿的话语权" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Chouj_Blog.xml"/>
+    <outline text="B003 德普王" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Depp_Wang.xml"/>
+    <outline text="B004 焕昭君的博客" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Huanzhao_Blog.xml"/>
+    <outline text="B005 老宁的博客" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/LaoNing_Blog.xml"/>
+    <outline text="B006 凉糕" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/LiangGao_Blog.xml"/>
+    <outline text="B007 用户 RSS" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ScienceNet_U611158.xml"/>
+    <outline text="B008 小姜同学的博客" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/XiaoJiang_Blog.xml"/>
+    <outline text="B009 用户 WuchangZhang RSS" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/ScienceNet_WuchangZhang.xml"/>
+    <outline text="B010 粥里有勺糖" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Sugarat_Blog.xml"/>
+    <outline text="B011 Achuan-2" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Achuan2_Blog.xml"/>
+    <outline text="B012 Code and more on theOceanCode" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/theOceanCode.xml"/>
+    <outline text="B013 EdNovas的小站" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/EdNovas.xml"/>
+    <outline text="B014 Jimmy Song – 博客" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Jimmy_Song.xml"/>
+    <outline text="B015 Kerry的学习笔记" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Kerry_Notes.xml"/>
+    <outline text="B016 Kevin Hu胡华平" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Kevin_Hu.xml"/>
+    <outline text="B017 LINUX DO - jkun 的最新话题" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/LinuxDo_jkun.xml"/>
+    <outline text="B018 lvbibir's Blog" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Lvbibir_Blog.xml"/>
+    <outline text="B019 Oceanology notes" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Oceanology_Notes.xml"/>
+    <outline text="B020 Ran Xue" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Ran_Xue.xml"/>
+    <outline text="B021 RQL's Blog" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/RQL_Blog.xml"/>
+    <outline text="B022 Skywind Inside" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Skywind_Inside.xml"/>
+    <outline text="B023 Viking" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Viking_Blog.xml"/>
+    <outline text="B024 Zettelkasten.de" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Zettelkasten_de.xml"/>
+    <outline text="B025 红枫吟" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/HongFengYin.xml"/>
+    <outline text="T001 发现频道 - 小众软件官方论坛" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Appinn_Faxian.xml"/>
+    <outline text="T002 开源空间" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/OpenSource_Zone.xml"/>
+    <outline text="T003 蓝点网" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Landian.xml"/>
+    <outline text="T004 链滴" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/LD246.xml"/>
+    <outline text="T005 如有乐享" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Ruyo.xml"/>
+    <outline text="T006 软件天地(Software)版 - 最新文章" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PKU_Software.xml"/>
+    <outline text="T007 数学工具(MathTools)版 - 最新文章" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PKU_MathTools.xml"/>
+    <outline text="T008 小众软件" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Appinn.xml"/>
+    <outline text="T009 小众软件官方论坛 - 使用rss标记的话题" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Appinn_RSS.xml"/>
+    <outline text="T010 异次元软件世界" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Iplaysoft.xml"/>
+    <outline text="T011 优秀的Free OS(Linux)版 - 最新文章" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PKU_FreeOS.xml"/>
+    <outline text="T012 云坤系统软件-中国科技云" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/YunKun_CSTCloud.xml"/>
+    <outline text="T013 Blog on Posit Open Source" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Quarto_Blog.xml"/>
+    <outline text="T014 iOS - 反斗限免" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/AppRcn_iOS.xml"/>
+    <outline text="T015 Mac - 反斗限免" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/AppRcn_Mac.xml"/>
+    <outline text="T016 Mac玩儿法" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Waerfa.xml"/>
+    <outline text="T017 OSCHINA 社区最新软件" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/OSCHINA.xml"/>
+    <outline text="T018 Publii" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Publii.xml"/>
+    <outline text="T019 Quick RSS 技术资源分享" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Quick_RSS.xml"/>
+    <outline text="T020 selfh.st" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Selfhst.xml"/>
+    <outline text="T021 Synology News" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Synology_News.xml"/>
+    <outline text="T022 Visual Studio Code" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/VSCode.xml"/>
+    <outline text="T023 wallabag" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Wallabag.xml"/>
+    <outline text="T024 Zotero" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Zotero.xml"/>
+    <outline text="T025 阮一峰的网络日志" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Ruan_YiFeng.xml"/>
+    <outline text="T026 存储在线" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Dostor.xml"/>
+    <outline text="T027 少数派" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/SSPai.xml"/>
+    <outline text="T028 网络技术(Networking)版 - 最新文章" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/PKU_Networking.xml"/>
+    <outline text="T029 云计算" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/V2EX_Cloud.xml"/>
+    <outline text="T030 AI论文简报" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/AI_Brief.xml"/>
+    <outline text="T031 Cleve's Corner" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Cleves_Corner.xml"/>
+    <outline text="T032 Pick of the Week" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/MATLAB_Pick_of_Week.xml"/>
+    <outline text="T033 RSS" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/V2EX_RSS.xml"/>
+    <outline text="T034 Student Lounge" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/MATLAB_Student_Lounge.xml"/>
+    <outline text="T035 阿里云公告" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Aliyun_Notice.xml"/>
+    <outline text="M001 Instapaper: Starred" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Instapaper_Starred.xml"/>
+    <outline text="M002 Instapaper: Unread" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/Instapaper_Unread.xml"/>
+  </body>
+</opml>
