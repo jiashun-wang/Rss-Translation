@@ -128,10 +128,10 @@ def update_readme(links):
             list1 = f.readlines()
     else:
         list1 = []
-    # 截取到第一个 "## 订阅源列表" 之前，避免旧标题与旧列表残留造成重复
+    # 截取到第一个 "## 订阅源总表" 或 "## 订阅源列表" 之前，避免旧标题与旧列表残留造成重复
     cut = None
     for i, line in enumerate(list1):
-        if line.strip().startswith("## 订阅源列表"):
+        if line.strip().startswith("## 订阅源总表") or line.strip().startswith("## 订阅源列表"):
             cut = i
             break
     if cut is None:
@@ -151,7 +151,7 @@ def _xml_escape(s):
 
 def _build_opml(entries, title):
     lines = [
-        # 注意：第一行加了 \ufeff（UTF-8 BOM），让浏览器直接打开时能正确识别 UTF-8，避免中文乱码
+        # 加上 \ufeff（UTF-8 BOM），让浏览器直接打开时正确识别 UTF-8，避免中文乱码
         '\ufeff<?xml version="1.0" encoding="UTF-8"?>',
         '<opml version="1.0">',
         "  <head>",

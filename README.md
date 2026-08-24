@@ -16,11 +16,7 @@
 
  📢查看[ 已翻译的订阅源列表 ](https://jiashun-wang.github.io/Rss-Translation) 修改自[ rss-translate ](https://github.com/rcy1314/Rss-Translation)
 
- 更好用的RSS翻译项目 [RSS-Translator](https://github.com/rss-translator/RSS-Translator) ❗️❗️❗️
-## 订阅源总表
-- 原始 RSS：[rss-old.opml](rss-old.opml)
-- 翻译后 RSS：[rss-new.opml](rss-new.opml)
-## 订阅源总表
+ 更好用的RSS翻译项目 [RSS-Translator](https://github.com/rss-translator/RSS-Translator) ❗️❗️❗️## 订阅源总表
 - 原始 RSS：[rss-old.opml](rss-old.opml)
 - 翻译后 RSS：[rss-new.opml](rss-new.opml)
 ## 订阅源列表
