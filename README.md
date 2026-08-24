@@ -17,10 +17,10 @@
  📢查看[ 已翻译的订阅源列表 ](https://jiashun-wang.github.io/Rss-Translation) 修改自[ rss-translate ](https://github.com/rcy1314/Rss-Translation)
 
  更好用的RSS翻译项目 [RSS-Translator](https://github.com/rss-translator/RSS-Translator) ❗️❗️❗️
-## 订阅源列表
-## 订阅源列表
+## 订阅源总表
 - 原始 RSS：[rss-old.opml](rss-old.opml)
 - 翻译后 RSS：[rss-new.opml](rss-new.opml)
+## 订阅源列表
  - J001 OS :  source [J001 OS](https://os.copernicus.org/xml/rss2_0.xml)  ---->  translation [OceanScience_Copernicus](rss/OceanScience_Copernicus.xml)
  - J002 JGRO :  source [J002 JGRO](https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=21699291&type=etoc&feed=rss)  ---->  translation [JGR_Oceans](rss/JGR_Oceans.xml)
  - N001 Our World in Data :  source [N001 Our World in Data](https://ourworldindata.org/atom.xml)  ---->  translation [Our_World_in_Data](rss/Our_World_in_Data.xml)

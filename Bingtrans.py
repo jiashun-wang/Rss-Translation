@@ -128,7 +128,16 @@ def update_readme(links):
             list1 = f.readlines()
     else:
         list1 = []
-    head = list1[:20]
+    # 截取到第一个 "## 订阅源列表" 之前，避免旧标题与旧列表残留造成重复
+    cut = None
+    for i, line in enumerate(list1):
+        if line.strip().startswith("## 订阅源列表"):
+            cut = i
+            break
+    if cut is None:
+        head = list1[:20]
+    else:
+        head = list1[:cut]
     tail = head + links
     with open("README.md", "w+", encoding="UTF-8") as f:
         f.writelines(tail)
@@ -439,10 +448,13 @@ def main():
     write_opml_new()
 
     opml_links = [
-        "## 订阅源列表\n",
+        "## 订阅源总表\n",
         "",
         "- 原始 RSS：[rss-old.opml](rss-old.opml)\n",
         "- 翻译后 RSS：[rss-new.opml](rss-new.opml)\n",
+        "",
+        "## 订阅源列表\n",
+        "",
     ]
     update_readme(opml_links + links)
     # ---------------------------------------------------------------------------------
