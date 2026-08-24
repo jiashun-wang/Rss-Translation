@@ -24,7 +24,7 @@ NEW_RSS_BASE = "https://jiashun-wang.github.io/Rss-Translation/"  # 部署后 RS
 #   1 = 运行所有源
 #   2 = 只抓取没有 md5 的（即新加入的 RSS）
 #   3 = 随机测试 1 个源
-MODE = 3
+MODE = 1
 # =========================================================
 
 # =========================================================
@@ -151,7 +151,8 @@ def _xml_escape(s):
 
 def _build_opml(entries, title):
     lines = [
-        '<?xml version="1.0" encoding="UTF-8"?>',
+        # 注意：第一行加了 \ufeff（UTF-8 BOM），让浏览器直接打开时能正确识别 UTF-8，避免中文乱码
+        '\ufeff<?xml version="1.0" encoding="UTF-8"?>',
         '<opml version="1.0">',
         "  <head>",
         "    <title>%s</title>" % _xml_escape(title),
