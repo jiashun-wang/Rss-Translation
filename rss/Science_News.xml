@@ -4,7 +4,21 @@
     <title>Science News</title>
     <link>https://www.sciencenews.org</link>
     <description>INDEPENDENT JOURNALISM SINCE 1921</description>
-    <lastBuildDate>Mon, 24 Aug 2026 09:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:58:21 GMT</lastBuildDate>
+    <item>
+      <title>个性化大脑刺激可以缓解慢性疼痛</title>
+      <link>https://www.sciencenews.org/article/brain-stimulation-chronic-pain</link>
+      <description><![CDATA[三名疼痛患者的病例系列显示，为期一周的大脑绘图课程可以带来持久的缓解。]]></description>
+      <guid>https://www.sciencenews.org/article/brain-stimulation-chronic-pain</guid>
+      <pubDate>Mon, 24 Aug 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>运动神经元不仅仅移动肌肉。他们也可能指挥该动议</title>
+      <link>https://www.sciencenews.org/article/motor-neurons-muscles-motion</link>
+      <description><![CDATA[一项果蝇研究表明，运动神经元的作用不仅仅是传递命令：它们将信号发送回大脑并组织运动序列。]]></description>
+      <guid>https://www.sciencenews.org/article/motor-neurons-muscles-motion</guid>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>平凡中的奥秘</title>
       <link>https://www.sciencenews.org/article/ed-note-september-2026</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[长爪鼩鼱的鼻子在冬天会暂时变大。这种头骨重塑可能是寒冷条件下的一种极端生存策略。]]></description>
       <guid>https://www.sciencenews.org/article/shrews-winter-organ-mass-adaptation</guid>
       <pubDate>Tue, 18 Aug 2026 23:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>蜘蛛侠关于关闭超能力的正确和错误</title>
-      <link>https://www.sciencenews.org/article/spider-man-superpower-inhibitor-rna</link>
-      <description><![CDATA[在《蜘蛛侠：崭新的一天》中，彼得·帕克根据真实的 RNA 疗法设计了一种超能力抑制剂。]]></description>
-      <guid>https://www.sciencenews.org/article/spider-man-superpower-inhibitor-rna</guid>
-      <pubDate>Tue, 18 Aug 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>蜗牛粘液富含钙，可以发挥多种作用</title>
-      <link>https://www.sciencenews.org/article/snail-slime-mucus-many-jobs-calcium</link>
-      <description><![CDATA[蜗牛有五种不同类型的粘液，每种都有其自己的作用。软体动物会调整钙的分泌物，以使化学混合物恰到好处。]]></description>
-      <guid>https://www.sciencenews.org/article/snail-slime-mucus-many-jobs-calcium</guid>
-      <pubDate>Mon, 17 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

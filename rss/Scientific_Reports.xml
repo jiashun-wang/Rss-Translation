@@ -1,67 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Scientific Reports</title>
-    <link>http://feeds.nature.com/srep/rss/current</link>
-    <description><p><em>Scientific Reports</em>&nbsp;publishes original research in&nbsp;all areas of the natural and clinical sciences. We believe that if your research is scientifically valid and technically sound then it deserves to be published and made accessible to the research community.</p>
-
-<p>By publishing with us, your research will get the coverage and attention it deserves. Open access and continuous online publication means your work will be published swiftly, ready to be accessed by anyone, anywhere, at any time. Article Level Metrics allow you to follow the conversations your work has started.</p></description>
-    <lastBuildDate>Mon, 24 Aug 2026 08:14:32 GMT</lastBuildDate>
-    <item>
-      <title>胎盘与早产相关的代谢组学分析及候选代谢物对蜕膜衰老的作用</title>
-      <link>https://www.nature.com/articles/s41598-026-68066-9</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 24 日； doi:10.1038/s41598-026-68066-9胎盘与早产相关的代谢组学分析及候选代谢物对蜕膜衰老的作用]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68066-9</guid>
-      <pubDate>Mon, 24 Aug 2026 08:14:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于二次重构分解和CNN-Transformer-AcfPSO-BiLSTM的极端天气条件下风力发电预测模型</title>
-      <link>https://www.nature.com/articles/s41598-026-67948-2</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 24 日； doi:10.1038/s41598-026-67948-2极端天气条件下基于二次重构分解和CNN-Transformer-AcfPSO-BiLSTM的风力发电预测模型]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-67948-2</guid>
-      <pubDate>Mon, 24 Aug 2026 08:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>撤稿说明：基于区块链技术的体育产业链数字交易模型研究</title>
-      <link>https://www.nature.com/articles/s41598-026-67554-2</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 24 日； doi:10.1038/s41598-026-67554-2撤稿说明：基于区块链技术的体育产业链数字交易模型研究]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-67554-2</guid>
-      <pubDate>Mon, 24 Aug 2026 08:14:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用机器学习自动简历筛选：一种基于集成的高效候选人选择方法</title>
-      <link>https://www.nature.com/articles/s41598-026-54959-2</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 24 日； doi:10.1038/s41598-026-54959-2使用机器学习自动简历筛选：一种基于集成的高效候选人选择方法]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-54959-2</guid>
-      <pubDate>Mon, 24 Aug 2026 08:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国留学生生成式人工智能依赖与心理资本耗竭的心理路径</title>
-      <link>https://www.nature.com/articles/s41598-026-68047-y</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 24 日； doi:10.1038/s41598-026-68047-y中国留学生的生成式人工智能依赖与心理资本耗竭之间的联系心理路径]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68047-y</guid>
-      <pubDate>Mon, 24 Aug 2026 08:14:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 ProbAttention 和卷积块注意力模块增强 swin 变压器以进行交通标志识别</title>
-      <link>https://www.nature.com/articles/s41598-026-67629-0</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 24 日； doi:10.1038/s41598-026-67629-0通过 ProbAttention 和卷积块注意力模块增强 swin 变压器以进行交通标志识别]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-67629-0</guid>
-      <pubDate>Mon, 24 Aug 2026 08:14:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>结合人类视觉感知与色貌尺度相位一致性的图像处理质量评价分析</title>
-      <link>https://www.nature.com/articles/s41598-026-67506-w</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 24 日； doi:10.1038/s41598-026-67506-w结合人类视觉感知与色貌尺度相位一致性的图像处理质量评估分析]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-67506-w</guid>
-      <pubDate>Mon, 24 Aug 2026 08:14:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>绘制天然放射性核素分布图并评估铁矿土壤中的放射性危害</title>
-      <link>https://www.nature.com/articles/s41598-026-67654-z</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 24 日； doi:10.1038/s41598-026-67654-z绘制天然放射性核素分布图并评估铁矿土壤中的放射性危害]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-67654-z</guid>
-      <pubDate>Mon, 24 Aug 2026 08:14:18 GMT</pubDate>
-    </item>
+    <title></title>
+    <link></link>
+    <description></description>
+    <lastBuildDate>Mon, 24 Aug 2026 14:51:19 GMT</lastBuildDate>
     </channel>
 </rss>

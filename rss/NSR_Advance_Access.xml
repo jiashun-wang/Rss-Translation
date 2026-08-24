@@ -4,7 +4,49 @@
     <title>National Science Review Advance Access</title>
     <link>http://academic.oup.com/nsr</link>
     <description></description>
-    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>通过加速条件扩散模型增强非均匀采样 NMR 谱重建的泛化能力</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag527/8769440?rss=1</link>
+      <description><![CDATA[摘要多维核磁共振波谱提供了有关物种和结构的丰富的分子级信息，在化学、生物学和材料科学领域具有广泛的意义。然而，其广泛应用通常受到采集时间延长的限制。将非均匀采样技术与光谱重建方法相结合，为这一采集瓶颈提供了一种有前景的解决方案。传统的重建方法很稳健，但受到算法假设和近似的限制，而深度学习方法可以克服这些限制并实现更高的重建保真度，尽管对未见过的数据的泛化仍然具有挑战性。在这里，我们提出了一种用于多维核磁共振谱重建的加速条件扩散模型，将任务表述为概率迭代去噪过程，在物理约束下逐步细化欠采样谱。实验表明，该方法在峰值恢复、伪影抑制以及跨多个采样条件和实验数据集的鲁棒性方面优于传统和端到端深度学习算法。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag527/8769440?rss=1</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>克级微生物合成金丝桃素（一种低丰度复杂植物化学候选药物）</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag517/8769438?rss=1</link>
+      <description><![CDATA[摘要金丝桃素是一种有前景的肿瘤和银屑病II/III期候选药物，但其可持续供应存在问题：多步合成需要大量资源，且异源表达会被未知的植物途径阻断。在这里，我们重新设计了Cladosporium fulvum中的聚酮化合物生物合成途径，并克服了底物抑制和代谢低效，实现了可扩展且不依赖于植物途径的金丝桃素生物制造。特别是，我们重新设计了关键 P450 酶 RugG 的催化腔，以产生具有增强活性和减少底物抑制的变体 (RugGT452P-R160D)。这一成就与抑制分流产物形成相结合，将代谢流重新导向大黄素双蒽酮（一种不可或缺的金丝桃素前体）。这些努力使我们能够构建工程菌株 ΔclaC-ΔclaH2-rugGT452P-R160D-claA-claE，其产量为 1.87g/L光催化处理后的金丝桃素在 5 L 生物反应器中。总的来说，这项工作为复杂、高价值天然产物的生物制造中减轻底物抑制和重定向代谢流提供了有效的策略。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag517/8769438?rss=1</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭示近中性水系全铁液流电池的磷酸盐-Fe(III)络合物的稳定途径、堆验证和技术经济评估</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag533/8769436?rss=1</link>
+      <description><![CDATA[Abstract水基铁基氧化还原液流电池由于其固有的安全性、低成本和材料丰富而有望用于电网规模的储能。然而，它们的稳定性仍然受到较差的氧化还原可逆性和铁枝晶形成的限制。在此，我们报道了一种富含六齿磷酸盐的 Fe(III) 络合物 Fe(P4N2)，专为近中性条件而设计。磷酸盐配体框架强大的 Fe-O/Fe-N 配位环境可稳定氧化还原活性 Fe3+/Fe2+ 中心并抑制寄生副反应。此外，由丰富的膦酸酯端基形成的富含氢键的溶剂化壳，在配合物周围形成致密的水化层，带来高水溶性（1.47M）和低跨膜污染。因此，基于 Fe(P4N2) 的液流电池表现出高能效（100 mA cm-2 时为 85.7%）、快速氧化还原动力学（200 mA cm-2 时为 21.4 Wh L-1）、超低容量衰减（每次循环 0.00052% 或每天 0.027%）。当扩展到 12 节电池组（每节电池 900cm2 有效面积）时，基于 Fe(P4N2) 的液流电池在长期运行期间可提供稳定的 300 W 功率输出。技术经济分析表明，在低材料成本、高能源效率和长期耐用性的推动下，该系统具有广阔的经济潜力。这项研究建立了一种多齿磷酸盐配位策略，用于开发快速充电、耐用、可扩展且具有经济吸引力的全铁氧化还原液流电池。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag533/8769436?rss=1</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过分离的 Cr 物质稳定富含空位的 In2O3，以实现持久的 CO2 加氢</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag532/8769434?rss=1</link>
+      <description><![CDATA[Abstract富含空位的In2O3相的过度还原仍然是In2O3基催化剂上CO2加氢的关键挑战。在这里，我们证明了由嵌入In2O3晶格中的孤立Cr原子组成的空位稳定系综可以在CO2加氢条件下同时提供丰富的表面Ov位点、优异的催化活性和出色的结构稳定性。通过实验和 DFT 研究，我们确定活性位点为 Cr3+-[Ov]2-Inδ+，其中成对的 Ov 位点促进 CO2 在桥结构中的吸附以及随后氢化为 HCOO* 中间体。含有 10 mol% Cr 的优化催化剂的甲醇产率比原始 In2O3 高 2.1 倍，并且即使经过强还原处理，在运行 110 小时内也能保持结构完整性，不会形成可检测到的金属 In°。这项工作强调了孤立 Cr 稳定的氧空位对系综是一种有效的策略，可以在 In2O3 基 CO2 加氢催化剂中协调丰富的活性空位与结构耐久性。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag532/8769434?rss=1</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用自整流忆阻器阵列的拓扑塑性储层计算</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag525/8769432?rss=1</link>
+      <description><![CDATA[Abstract预测高维混沌系统（例如气象和气候动力学）的演化需要能够捕获复杂时空相关性的硬件高效框架。虽然储层计算（RC）提供了一种有前途的方法，但传统的实现方式受到固定网络拓扑的限制，无法适应现实世界混沌固有的非平稳、多尺度动态。在这里，我们介绍了一种具有拓扑可塑性的可重构 RC 系统，其核心功能本质上是由新型自整流忆阻器 (SRM) 阵列实现的。 SRM 器件具有高整流比 (&gt;106) 和 128 个可区分的电导状态，表现出独特的电压门控三模操作：用于局部非线性计算的低电压范围 (0–2 V)；高电压状态 (2.5–3 V) 可引起稳定的电阻切换，从而实现全局储层连通性的动态硬件级重新配置；以及阻止互导串扰的负电压状态 (−2V–0)。这种三模式操作允许物理硬件基板本身（16 kb SRM 阵列）改变其互连拓扑，以直接响应操作需求。当应用于经典洛伦兹系统时，我们的模型实现了 0.0613 的归一化均方误差 (NMSE)，核心阵列能量成本为 0.83 pJ/op。在气象动力学预报中，系统物理上实现了一个自适应调整的小世界网络水库，维持&gt; 30 天内逐帧准确率达到 90%，与固定拓扑存储库硬件相比提高了 7.6%。我们的工作建立了由设备物理驱动的自适应神经拟态计算的新范式，为复杂环境现象的节能和高保真预测提供了变革性的硬件解决方案。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag525/8769432?rss=1</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有刚度和行程变化的机翼使扑翼机器人能够高效飞行和游泳</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag520/8768813?rss=1</link>
+      <description><![CDATA[摘要扑翼推进展现出高效率和可操作性，这在自然物种的空中飞行或水中游泳中很常见。为了追逐猎物和躲避捕食者，生物扑翼专门针对单一介质，这对实现有效且高效的两栖扑翼提出了重大挑战。现有的空中水上机器人主要由人工推进驱动，缺乏仿生扑翼机构。同时，目前的扑翼机器人仅在单一介质中运行，不具备两栖推进能力。受到鸟类和蝠鲼这两种不同物种扑动原理的启发，我们设计了一种用于空中和水中推进的双峰扑翼。机翼可以在空中和水上模式之间切换，以适应空气和水环境的不同要求。在空中模式下，金属管状翼梁复制了鸟类中空骨骼的高刚度，而关节的有限旋转行程则模拟了不对称的羽毛变形。在水生模式下，弹性板模仿蝠鲼的柔性软骨，关节的自由旋转行程再现了对称的鳍变形。简化分析、动力学测试和机器人运动测试表明，机翼的空中模式增强了空中扑动时的升力产生，而其水下模式则降低了功耗并提高了水下扑动时的推力效率。此外，通过携带辅助结构，配备双模翼的扑翼机器人显示出执行空中-水下两栖应用的潜力。我们的工作增强了大型扑翼机器人的两栖推进适应性，并提出了可行的工程设计。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag520/8768813?rss=1</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>气候驱动的风和热带气旋造成的沿海波浪危害不断上升</title>
       <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag528/8768594?rss=1</link>
@@ -32,34 +74,6 @@
       <description><![CDATA[摘要温度控制材料，尤其是复合相变材料 (CPCM)，在下一代电力电子器件的热管理方面显示出巨大潜力。然而，多个性能指标的协同优化仍然很大程度上依赖于爱迪生式的试错实验。在此，我们提出了一种人工智能框架，该框架结合了基于 CPCM 有向无环图 (DAG) 架构构建的物理约束逆向设计系统 (PHICS)，集成了接口、相位和载体工程。通过通过 DAG 编码结构层次结构和物理因果关系，PHICS 框架将前向预测建模与多样性增强的 NSGA-II 优化器结合起来，以有效地映射帕累托最优设计边界。在这些预测的指导下，我们成功地制备了由取向石墨纤维骨架和具有非晶氧化铝（am-Al2O3）界面过渡层的正二十烷基体组成的高性能CPCM。受益于am-Al2O3中间层作为界面声子桥和电子势垒的双功能作用，所得的CPCM实现了热传导、热存储和电绝缘的优异平衡。这些结果证明了 PHICS 引导的多功能复合材料设计的准确性，建立了一个闭环平台，将物理约束机器学习与实验验证相结合，以解决关键的热电权衡。]]></description>
       <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag503/8768582?rss=1</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用元深度传感器进行高吞吐量和精确的跨尺度 3D 传感</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag524/8767957?rss=1</link>
-      <description><![CDATA[摘要深度传感已广泛应用于工业检测、交通运输、消费电子等领域。然而，现有方法仍然面临深度精度和数据吞吐量之间固有的权衡。在这里，我们提出了一种元成像深度传感器（MDS），这是一种完全被动的单目模式，它通过像差鲁棒视差深度校准和视觉基础模型超越了这一限制，基于扫描光场成像系统支持精细增益的 3D 测距。我们的系统将高通量视差估计和基础模型的海量数据相结合，可实现0.1米至500米深度范围内的高精度细粒度度量深度估计。实验验证表明，在 1.5 米距离处的绝对深度精度为 2.5 毫米（相对误差为 0.18%），分辨率为 3 兆像素，其精度比传统光场深度传感器高出 7 倍，空间分辨率比传统光场深度传感器高出 5 倍，而无需牺牲虚拟扫描技术的成像速度。与商用 LiDAR 系统相比，我们还实现了 500 米距离的抗湍流远程深度传感，空间采样率明显更高，235 米距离的深度估计精度为 0.7 米。通过将被动成像的吞吐量优势与物理感知神经回归的高精度深度估计能力相结合，所提出的 MDS 为跨尺度的高保真被动 3D 传感建立了可扩展的范式，其应用范围从工业检测到自动驾驶。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag524/8767957?rss=1</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度洋偶极子的两种不同类型</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag519/8767817?rss=1</link>
-      <description><![CDATA[摘要印度洋偶极子 (IOD) 传统上由热带西印度洋和东印度洋之间的海面温度 (SST) 异常梯度定义，这里揭示了它包含两种不同的类型。采用标准差分析和海温模态组合等多种系统方法，我们确定了西部-东部型和中东部型，并根据海温异常模式、季节演变和反馈机制进行区分。由于强但延迟的风-温跃层-海温反馈，西-东型在北秋季较晚达到峰值，而中-东型则较早达到峰值，受较弱且较早的反馈控制。至关重要的是，近几十年来，积极的西东类型——与传统的 IOD 相比，与东非降雨量增加的关系更为密切——已经加剧，增加了整个东非与降雨相关的灾害的风险。这些发现完善了 IOD 的概念框架，并强调了其不断变化的特征所带来的日益严重的气候危害。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag519/8767817?rss=1</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>1,3-二烯原理：丙二烯去消旋化转化和迁移功能化的替代途径</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag509/8767816?rss=1</link>
-      <description><![CDATA[摘要丙二烯的不对称氢官能化已成为合成特殊烯丙基骨架的一种有价值的策略。然而，现有的研究很大程度上局限于特殊的末端丙二烯底物，以避免严重的去消旋化问题。在此，我们提出 1,3-二烯原理作为一种新的、广泛适用的机制途径来解决这一长期存在的挑战及其他挑战。 1,3-二烯原理通过十多种未探索的外消旋丙二烯对映选择性转化的应用得到证明。立体发散合成、聚合制备和天然产物的简洁获取进一步凸显了该范式的实用价值和通用性。值得注意的是，1,3-二烯歧管还实现了第一个丙二烯迁移氢官能化，打破了仅限于烯烃基材的金属行走化学。实验结果和理论计算均支持涉及1,3-二烯的去消旋化路线，为丙二烯转化开辟了新模型。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag509/8767816?rss=1</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>工业嵌入式人工智能调查：从工业机器人的角度</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag505/8767815?rss=1</link>
-      <description><![CDATA[摘要工业机器人是现代制造自动化的基础，但基于固定轨迹和离线编程的传统确定性控制在高度混合和柔性生产中举步维艰。具身人工智能（EAI）通过在闭环物理交互中耦合感知、推理和行动，提供了一种有前途的替代方案，使工业机器人能够在线适应行为而不是执行预定义的任务。然而，由于对精度、实时性能、可靠性和安全性的严格要求，通用EAI仍然难以在工业环境中部署。这些挑战激发了人们对工业人工智能 (EAI4I) 的兴趣日益浓厚。本文从工业机器人角度对 EAI4I 进行了系统调查。具体来说，我们首先分析EAI4I赋能的工业机器人的量化需求。随后，回顾了近期的研究进展，涵盖单机器人和多机器人系统的核心技术、专用硬件平台、高保真模拟器、特定任务数据集、代表性工业应用场景和关键部署挑战。最后，讨论了 EAI4I 的有希望的方向。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag505/8767815?rss=1</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

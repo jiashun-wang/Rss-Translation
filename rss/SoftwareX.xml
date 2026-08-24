@@ -4,111 +4,111 @@
     <title>ScienceDirect Publication: SoftwareX</title>
     <link>https://www.sciencedirect.com/journal/softwarex</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 24 Aug 2026 05:50:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:51:43 GMT</lastBuildDate>
+    <item>
+      <title>DPArena：联邦学习中数据中毒的可重复实验平台</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2352711026004474?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Tudor Lepădatu、Andrei Brînzea、Iulian Aciobănişei]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004474?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 24 Aug 2026 14:51:43 GMT</pubDate>
+    </item>
     <item>
       <title>EpiFlowML：用于标准化和可重复流行病学预测的模块化框架</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2352711026004437?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Amanda J. Meadows、James Schlitt、Vikram Sridharan、Nicole Stephenson、Nita K. Madhav]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004437?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>DPArena：联邦学习中数据中毒的可重复实验平台</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2352711026004474?dgcid=rss_sd_all</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004474?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:50:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>xRHEED：用于 RHEED 图像分析的多功能 Python 工具包</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2352711026004607?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Marek Kopciuszyński]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004607?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:58 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 14:51:43 GMT</pubDate>
     </item>
     <item>
       <title>JOSSeph：一个可重复、可重用且可扩展的管道，用于从开源 Java 项目中大规模提取软件质量指标</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2352711026004565?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：A. Chesnokov、D. Kovalev]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004565?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:54 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 14:51:41 GMT</pubDate>
     </item>
     <item>
-      <title>JAX-AMG：适用于 JAX 的 GPU 加速可微稀疏线性求解器库</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2352711026004577?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：刘毅、范贤涛、王建勋]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004577?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><span class="small-caps">Deliberate</span>：用于人工智能辅助公共审议分析的开源 Python 工具包</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2352711026004516?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Georgios Domalis、Athanasios Koursaris、Alexandra Apostolopoulou、Georgios Fiotakis、Dimitris Tsakalidis、Ioannis E. Livieris、Nikos Karacapilidis]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004516?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:45 GMT</pubDate>
+      <title>xRHEED：用于 RHEED 图像分析的多功能 Python 工具包</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2352711026004607?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Marek Kopciuszyński]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004607?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 24 Aug 2026 14:51:41 GMT</pubDate>
     </item>
     <item>
       <title>用于衡量社区项目影响的 Web 应用程序：农村社区的验证案例</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2352711026004425?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Urbano Eliécer Gómez-Prada]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004425?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:39 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 14:51:40 GMT</pubDate>
     </item>
     <item>
-      <title>版本 2 - ELICIPY：用于专家启发的 Python 在线工具</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2352711026002773?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Mattia de&#39; Michieli Vitturi、Andrea Bevilacqua、Alessandro Tadini、Augusto Neri]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026002773?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:35 GMT</pubDate>
+      <title><span class="small-caps">Deliberate</span>：用于人工智能辅助公共审议分析的开源 Python 工具包</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2352711026004516?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Georgios Domalis、Athanasios Koursaris、Alexandra Apostolopoulou、Georgios Fiotakis、Dimitris Tsakalidis、Ioannis E. Livieris、Nikos Karacapilidis]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004516?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 24 Aug 2026 14:51:40 GMT</pubDate>
     </item>
     <item>
-      <title>版本 1.0.1 – FEniCSx-preCICE：将 FEniCSx 与其他仿真软件耦合</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2352711026002992?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Niklas Vinnitchenko、Ishaan Desai、Benjamin Rodenberg、Philip Hildebrand、Angelika Humbert、Benjamin Uekermann]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026002992?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>版本 [2]- [PEPFinder：基于 MATLAB 的工具，用于搜索聚合物混合物的相平衡对]</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2352711026003341?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：淼叶、杨勇彪、李红雷]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026003341?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:24 GMT</pubDate>
+      <title>JAX-AMG：适用于 JAX 的 GPU 加速可微稀疏线性求解器库</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2352711026004577?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：刘毅、范贤涛、王建勋]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004577?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 24 Aug 2026 14:51:40 GMT</pubDate>
     </item>
     <item>
       <title>版本 6.6.1 - AI-KM：代理技能和本体驱动的知识建模</title>
       <link>https://www.sciencedirect.com/science/article/pii/S235271102600347X?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: September 2026Source: SoftwareX, Volume 35Author(s): Haolin Wen, Songyi Wang, Bingjie Li, Junfen Xiong, Tong Chen, Xin Liang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S235271102600347X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:20 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 14:51:39 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>版本 [2]- [PEPFinder：基于 MATLAB 的工具，用于搜索聚合物混合物的相平衡对]</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2352711026003341?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：淼叶、杨勇彪、李红雷]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026003341?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 24 Aug 2026 14:51:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>版本 1.0.1 – FEniCSx-preCICE：将 FEniCSx 与其他仿真软件耦合</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2352711026002992?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Niklas Vinnitchenko、Ishaan Desai、Benjamin Rodenberg、Philip Hildebrand、Angelika Humbert、Benjamin Uekermann]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026002992?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 24 Aug 2026 14:51:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>版本 2 - ELICIPY：用于专家启发的 Python 在线工具</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2352711026002773?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Mattia de&#39; Michieli Vitturi、Andrea Bevilacqua、Alessandro Tadini、Augusto Neri]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026002773?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 24 Aug 2026 14:51:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>版本 3.0.0 – AccuClass：机器学习、遥感和空间暴露分析中基于混淆矩阵的指标工具</title>
       <link>https://www.sciencedirect.com/science/article/pii/S2352711026003626?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：P. Kramarczyk、B. Hejmanowska]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S2352711026003626?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:17 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 14:51:38 GMT</pubDate>
     </item>
     <item>
       <title>版本 <math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si230.svg" class="math"><mo tenty="false">[</mo></math>1.4<math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si231.svg" class="math"><mostretchy="false">]</mo></math>-<math xmlns:mml="http://www.w3.org/1998/Math/MathML"altimg="si230.svg"class="math"><mostretchy="false">[</mo></math>pyrepo-mcda - 基于参考对象的 MCDA 软件包<math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si231.svg" class="math"><mostretchy="false">]</mo></math></title>
       <link>https://www.sciencedirect.com/science/article/pii/S2352711026003870?dgcid=rss_sd_all</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Artur Karczmarczyk、Aleksandra Bączkiewicz、Jarosław Wątróbski、Wojciech Sałabun]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S2352711026003870?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>版本 2 - BibexPy：协调 Scopus 和 Web of Science 的文献计量交响乐</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2352711026004358?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Burak Can Kara、Alperen Şahin、Taşkın Dysehan]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004358?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:12 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 14:51:37 GMT</pubDate>
     </item>
     <item>
       <title>DigitalPedon：用于土壤剖面监测和全球土壤数据互操作性的新型数字孪生框架</title>
       <link>https://www.sciencedirect.com/science/article/pii/S235271102600395X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Ali Youssef、Nasem Badreldin]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S235271102600395X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 24 Aug 2026 05:49:06 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 14:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>版本 2 - BibexPy：协调 Scopus 和 Web of Science 的文献计量交响乐</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2352711026004358?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026 年 9 月来源： SoftwareX，第 35 卷作者：Burak Can Kara、Alperen Şahin、Taşkın Dysehan]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S2352711026004358?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 24 Aug 2026 14:51:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

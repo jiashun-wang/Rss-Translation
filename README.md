@@ -19,6 +19,9 @@
  更好用的RSS翻译项目 [RSS-Translator](https://github.com/rss-translator/RSS-Translator) ❗️❗️❗️## 订阅源总表
 - 原始 RSS：[rss-old.opml](rss-old.opml)
 - 翻译后 RSS：[rss-new.opml](rss-new.opml)
+## 订阅源总表
+- 原始 RSS：[rss-old.opml](rss-old.opml)
+- 翻译后 RSS：[rss-new.opml](rss-new.opml)
 ## 订阅源列表
  - J001 OS :  source [J001 OS](https://os.copernicus.org/xml/rss2_0.xml)  ---->  translation [OceanScience_Copernicus](rss/OceanScience_Copernicus.xml)
  - J002 JGRO :  source [J002 JGRO](https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=21699291&type=etoc&feed=rss)  ---->  translation [JGR_Oceans](rss/JGR_Oceans.xml)
