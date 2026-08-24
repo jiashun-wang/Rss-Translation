@@ -4,7 +4,18 @@
     <title>ESSD - recent papers</title>
     <link>https://essd.copernicus.org/articles/</link>
     <description>Combined list of the recent articles of the journal Earth System Science Data and the recent discussion forum Earth System Science Data Discussions</description>
-    <lastBuildDate>Mon, 24 Aug 2026 05:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:15:09 GMT</lastBuildDate>
+    <item>
+      <title>AMSR2 的穿透感知北极海冰发射率和发射温度的十三个冬天（2012-2025）</title>
+      <link>https://doi.org/10.5194/essd-2026-471</link>
+      <description><![CDATA[AMSR2 穿透感知北极海冰发射率和发射温度的十三个冬季（2012-2025）
+                    Eui-Jong Kang、Byung-Ju Sohn、Hwan-Jin Song、Wonho Kim 和 Chao Liu
+                        地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-471,2026
+ESSD 预印本正在审核中（讨论：开放，0 条评论）
+                        这项研究提供了一个新的冬季北极海冰数据集，其中包含 2012-2025 年卫星微波观测的穿透感知发射特性。它提供了有关积雪海冰如何发射微波辐射的物理可解释信息，有助于将北极海冰环境描述为多元地球物理系统。该数据集可以作为可重复使用的地球物理信息，用于表征海冰变化并支持遥感和建模应用。]]></description>
+      <guid>https://doi.org/10.5194/essd-2026-471</guid>
+      <pubDate>Mon, 24 Aug 2026 07:57:44 GMT</pubDate>
+    </item>
     <item>
       <title>上普罗旺斯天文台电化学浓差电池（ECC）臭氧探空仪 2002-2007 年期间长期数据记录的修正</title>
       <link>https://doi.org/10.5194/essd-18-5939-2026</link>
@@ -13,7 +24,7 @@
                         地球系统。科学。数据，18, 5939–5950，https://doi.org/10.5194/essd-18-5939-2026, 2026
                         根据 ECC 数据质量评估委员会的建议，2022 年对上普罗旺斯天文台 (OHP) 电化学浓差电池 (ECC) 1991-2020 年期间的臭氧探测数据进行了均质化。与激光雷达和卫星观测的比较表明，除了 2022 年均质化之外，2002-2007 年 ECC 泵温度测量结果还需要进行校正。此修正提高了 OHP 的 ECC 臭氧数据集的一致性。]]></description>
       <guid>https://doi.org/10.5194/essd-18-5939-2026</guid>
-      <pubDate>Fri, 21 Aug 2026 19:36:27 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
       <title>海洋色卫星应用的全球生物光学现场数据汇编 - 第四版</title>
@@ -24,7 +35,7 @@
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         本文介绍了欧空局海洋颜色气候变化倡议全球原位生物光学数据库的第四版。更新后的汇编结合了 1996 年至 2025 年期间收集的许多国际数据源的观察结果，并包括覆盖范围和变量的重大扩展。该数据集为验证卫星海洋颜色产品提供了一致的参考，并支持算法开发和长期气候研究。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-539</guid>
-      <pubDate>Fri, 21 Aug 2026 19:36:27 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
       <title>C3S 气候数据存储中欧洲的多模型水文季节预报</title>
@@ -33,9 +44,9 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                     Peter Berg、Denica Bozhinova、杜一恒、Yeshewatesfa Hundecha、Tobias Lagander、Ursula McKnight、Lisanne Nauta、Spyridon Paparrizos、Ilias Pechlivanidis 和 Wei Yang
                         地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-604,2026
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
-                        我们开发并评估了一项欧洲范围内的服务，该服务每月提供未来六个月的预期河流流量、径流、积雪储存和土壤湿度的最新信息。通过将几种水文模型与季节性预测相结合，并根据历史数据对其进行测试，我们发现这些预测可以为长期规划提供有用的指导。免费提供的服务可以帮助改善水资源管理、降低风险并支持适应。]]></description>
+                        我们开发并评估了一项欧洲范围内的服务，该服务每月提供未来六个月的预期河流流量、径流、积雪储存和土壤湿度的最新信息。通过将几种水文模型与季节性预测相结合，并根据历史数据对其进行测试，我们发现这些预测可以为长期规划提供有用的指导。免费提供的服务有助于改善水管理、降低风险并支持适应。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-604</guid>
-      <pubDate>Fri, 21 Aug 2026 19:36:27 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
       <title>塔拉航行高光谱生物光学观测 (HyperBOOST) 数据集</title>
@@ -46,20 +57,20 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，1 条评论）
                         这样的事情会发生吗？：作为穿越欧洲海岸线研究计划的一部分，HyperBOOST（塔拉航行高光谱生物光学观测）团队在塔拉欧罗巴探险期间收集了前所未有的光学和生物地球化学测量数据集。该资源涵盖欧洲不同的沿海环境，将改善卫星观测，支持新生物光学模型的开发，并推进沿海海洋生态系统的研究。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-623</guid>
-      <pubDate>Fri, 21 Aug 2026 19:36:27 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
-      <title>1984-2022 年多十年全球陆地卫星衍生的森林火灾斑块数据集</title>
+      <title>1984 年至 2022 年多十年全球陆地卫星衍生的森林火灾斑块数据集</title>
       <link>https://doi.org/10.5194/essd-18-5915-2026</link>
       <description><![CDATA[1984年至2022年多十年全球陆地卫星衍生的森林火灾斑块数据集
-                    何家英、邹鑫、张伟涵、段全、刘荣高、刘洋、董金伟、吴朝阳、李伟、吴超
+                    何家英、邹欣、张伟涵、段全、刘荣高、刘洋、董金伟、吴朝阳、李伟、吴超
                         地球系统。科学。数据，18, 5915–5937, https://doi.org/10.5194/essd-18-5915-2026, 2026
                         了解森林火灾如何重塑景观不仅需要了解火灾发生的地点，还需要了解火斑的大小、形状和空间组织。我们使用 Landsat 卫星档案创建了 1984 年至 2022 年全球 30 m 森林火灾斑块数据集。该数据集包括近 1200 万个火斑，通过描述火斑结构和空间组织随时间变化的特征，促进区域到全球范围内的生态研究。]]></description>
       <guid>https://doi.org/10.5194/essd-18-5915-2026</guid>
-      <pubDate>Thu, 20 Aug 2026 19:36:27 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
-      <title>浮动光伏发电和湖泊热响应：基于监测的对比气候下的气象驱动因素评估</title>
+      <title>浮动光伏发电和湖泊热响应：基于监测的不同气候下的气象驱动因素评估</title>
       <link>https://doi.org/10.5194/essd-2026-177</link>
       <description><![CDATA[浮动光伏发电和湖泊热响应：基于监测的不同气候下的气象驱动因素评估
                     康斯坦丁·伊尔根、德克·辛德勒和延斯·兰格
@@ -67,7 +78,7 @@ ESSD 预印本正在审核中（讨论：开放，1 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         漂浮式太阳能电池板越来越多地安装在湖泊上，但它们对水温的影响尚不清楚。我们分析了三个带有浮动太阳能系统的欧洲湖泊的详细测量结果。结果表明，温度变化很大程度上取决于气候、湖泊条件和系统设计。遮阳和减少风力是关键驱动因素。这些发现有助于改进环境评估并支持浮动太阳能项目的负责任规划。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-177</guid>
-      <pubDate>Thu, 20 Aug 2026 19:36:27 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
       <title>IrrEM（地中海东部灌溉）：二十年半的地中海东部季节性高分辨率灌溉土地地图</title>
@@ -76,23 +87,12 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                     艾斯梅尔·阿德拉、卢卡·布罗卡、艾敏·森卡德斯勒、何银
                         地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-603,2026
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
-                        东地中海是干旱、极度缺水和地缘政治紧张的热点地区，但长期灌溉数据却缺失。为了解决这个问题，我们使用了二十六年的卫星图像来跟踪土壤湿度并绘制冬季和夏季灌溉土地的地图。这些免费数据揭示了整个地区灌溉随时间的变化，并支持管理稀缺水资源、了解气候影响和改善地区粮食安全。]]></description>
+                        东地中海是干旱、极度缺水和地缘政治紧张的热点地区，但长期灌溉数据却缺失。为了解决这个问题，我们使用了二十六年的卫星图像来跟踪土壤湿度并绘制冬季和夏季灌溉土地的地图。这些免费数据揭示了该地区随时间的灌溉变化，并支持管理稀缺水资源、了解气候影响和改善区域粮食安全。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-603</guid>
-      <pubDate>Thu, 20 Aug 2026 19:36:27 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
-      <title>在欧空局气候变化倡议下重新审视 1993-2022 年期间的海平面和全球水资源预算</title>
-      <link>https://doi.org/10.5194/essd-2026-627</link>
-      <description><![CDATA[在欧空局气候变化倡议下重新审视 1993 年至 2022 年期间的海平面和全球水资源预算
-                    亚历杭德罗·布拉兹克斯、伯努瓦·梅西涅克、罗宾·弗劳多、迈克尔·阿布兰、乔纳森·班伯、安东尼奥·博纳杜斯、玛丽·布伊、安妮·卡泽纳夫、托尔本·多纳、伊内斯·杜赛扬、拉米罗·法拉利、马丁·霍瓦斯、尼古拉斯·科洛杰西克、雨果·勒孔特、斯蒂芬妮·勒鲁、威廉·洛弗尔、丹尼尔·梅里尼、埃尔万·奥尔亨、蒂埃里Penduff、Roshin P. Raj、Giorgio Spada、Marius Schlaak、Papasarafianou Stamatia、Andrea Storto、Chunxue Yang 和 Sarah Connors
-                        地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-627,2026
-ESSD 预印本正在审核中（讨论：开放，0 条评论）
-                        年度和更长时间尺度的海平面预算是物理海洋学的基石，因为海平面上升是气候变化的最佳指标之一，而封闭预算表明我们已经确定并量化了所有主要驱动因素。我们从 1993 年到 2022 年对其进行了研究，发现直到 2015 年，其加速上升的速度与冰融化和温水相匹配。随后出现了无法解释的差距。需要更好的深海观测和精细的重力处理来关闭预算。]]></description>
-      <guid>https://doi.org/10.5194/essd-2026-627</guid>
-      <pubDate>Wed, 19 Aug 2026 19:36:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>CzechGrids Micro：捷克共和国分辨率为 10 m 的微气候温度偏移网格</title>
+      <title>CzechGrids Micro：捷克共和国分辨率为 10 m 的小气候温度偏移网格</title>
       <link>https://doi.org/10.5194/essd-2026-344</link>
       <description><![CDATA[CzechGrids Micro：捷克共和国分辨率为 10 m 的微气候温度偏移网格
                     ﻿Martin Macek、Matěj Man、Josef Brůna、Lucia Hederová、Tereza Klinerová、Jiří Prošek、Anna Růžičková、Jan Wild 和 Martin Kopecký
@@ -100,7 +100,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         CzechGrids Micro 代表捷克共和国 10 m 空间分辨率的小气候气温。小气候表示为宏观气候每日最低、平均和最高温度的月平均偏移量，考虑了地形和森林覆盖的局部影响。使用根据微气候站、标准气象站和精细预测层的数据训练的广义相加模型对偏移量进行建模。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-344</guid>
-      <pubDate>Wed, 19 Aug 2026 19:36:27 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
       <title>HP-CatCH：将水电基础设施与瑞士的水文流域连接起来</title>
@@ -111,7 +111,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         水力发电对于能源转型至关重要，但如果不知道流经其基础设施的水从何而来，规划就会变得困难。我们引入了一个开放访问数据集，详细介绍了水电基础设施并将其连接到当地的水文盆地。使用该工具估算流入水库和径流发电厂的水量，揭示了巨大的区域差异。该数据集可以直接为可靠且有弹性的能源转型规划提供信息。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-448</guid>
-      <pubDate>Wed, 19 Aug 2026 19:36:27 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
       <title>欧洲浅层和深层低风事件：基于 ERA5 的事件数据集（1979-2024）</title>
@@ -122,7 +122,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         随着欧洲越来越依赖风力发电，弱风时期变得越来越重要。我们表明，并非所有低风事件都是相同的：有些仍然接近地面，而另一些则达到现代风力涡轮机的高度，因此更有可能影响能源生产。我们新的欧洲数据集有助于识别这些不同的事件，并为天气、气候和可再生能源研究提供宝贵的资源。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-483</guid>
-      <pubDate>Wed, 19 Aug 2026 19:36:27 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
       <title>以 10 米分辨率绘制全球软土地区年度农作物残留覆盖图（2019-2024 年）</title>
@@ -133,7 +133,18 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         留在田野上的农作物残茬可以保护肥沃的土壤，但它们在主要黑土耕作区的分布却鲜为人知。我们使用 Sentinel-2 图像创建了 2019 年至 2024 年四个地区的年度 10 米地图，并根据现场观测对其进行了检查。地图显示，残留物在集约化种植地区最为常见，而玉米是主要来源。该数据集可以指导土壤保持，并帮助评估农业对土壤碳、水资源和气候的影响。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-613</guid>
-      <pubDate>Wed, 19 Aug 2026 19:36:27 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 07:57:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>在欧空局气候变化倡议下重新审视 1993-2022 年期间的海平面和全球水资源预算</title>
+      <link>https://doi.org/10.5194/essd-2026-627</link>
+      <description><![CDATA[在欧空局气候变化倡议下重新审视 1993 年至 2022 年期间的海平面和全球水资源预算
+                    亚历杭德罗·布拉兹克斯、伯努瓦·梅西涅克、罗宾·弗劳多、迈克尔·阿布兰、乔纳森·班伯、安东尼奥·博纳杜斯、玛丽·布伊、安妮·卡泽纳夫、托尔本·多纳、伊内斯·杜赛扬、拉米罗·法拉利、马丁·霍瓦斯、尼古拉斯·科洛杰西克、雨果·勒孔特、斯蒂芬妮·勒鲁、威廉·洛弗尔、丹尼尔·梅里尼、埃尔万·奥尔亨、蒂埃里Penduff、Roshin P. Raj、Giorgio Spada、Marius Schlaak、Papasarafianou Stamatia、Andrea Storto、Chunxue Yang 和 Sarah Connors
+                        地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-627,2026
+ESSD 预印本正在审核中（讨论：开放，0 条评论）
+                        年度和更长时间尺度的海平面预算是物理海洋学的基石，因为海平面上升是气候变化的最佳指标之一，而封闭预算表明我们已经确定并量化了所有主要驱动因素。我们从 1993 年到 2022 年对其进行了研究，发现直到 2015 年，其加速上升的速度与冰融化和温水相匹配。随后出现了无法解释的差距。需要更好的深海观测和精细的重力处理来关闭预算。]]></description>
+      <guid>https://doi.org/10.5194/essd-2026-627</guid>
+      <pubDate>Wed, 19 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
       <title>来自卫星生物量观测的森林干扰状况全球数据集</title>
@@ -143,7 +154,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 5895–5913，https://doi.org/10.5194/essd-18-5895-2026, 2026
                         森林扰动很难在模型中预测，因为它们是随机发生的。我们发现，被称为制度的长期干扰规则在森林的空间生物量模式中留下了独特的足迹。我们在数百万次计算机模拟中训练了一个模型来学习这种联系。通过将该模型应用于详细的卫星生物量，我们可以读取这些模式来推断全球的扰动状况，从而帮助使气候预测更加准确。]]></description>
       <guid>https://doi.org/10.5194/essd-18-5895-2026</guid>
-      <pubDate>Tue, 18 Aug 2026 19:36:28 GMT</pubDate>
+      <pubDate>Tue, 18 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     <item>
       <title>CAMELS-KR：韩国大样本水文学的流域属性、气象学和重建水流</title>
@@ -154,14 +165,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，1 条评论）
                         本文介绍了韩国首次全国范围内河流和流域数据的收集。它将降雨、天气、河流流量、景观特征和人类水资源管理的长期记录汇集到一种易于使用的资源中。通过公开这些数据，该数据集将帮助研究人员更好地了解洪水、干旱和水资源的可用性；比较河流系统；改进预测；并支持在不断变化的气候条件下更好地管理水资源。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-544</guid>
-      <pubDate>Tue, 18 Aug 2026 19:36:28 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://doi.org/10.5194/essd-2026-598</link>
-      <description><![CDATA[]]></description>
-      <guid>https://doi.org/10.5194/essd-2026-598</guid>
-      <pubDate>Tue, 18 Aug 2026 19:36:28 GMT</pubDate>
+      <pubDate>Tue, 18 Aug 2026 07:57:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>老苏的blog</title>
     <link>https://laosu.tech/</link>
     <description>聚沙成塔，集腋成裘</description>
-    <lastBuildDate>Mon, 24 Aug 2026 09:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:26:59 GMT</lastBuildDate>
+    <item>
+      <title>一键把 SMB 共享变成网页文件管理器，手机也能直接使用</title>
+      <link>https://laosu.tech/2026/08/24/%E4%B8%80%E9%94%AE%E6%8A%8A%20SMB%20%E5%85%B1%E4%BA%AB%E5%8F%98%E6%88%90%E7%BD%91%E9%A1%B5%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E6%89%8B%E6%9C%BA%E4%B9%9F%E8%83%BD%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8/</link>
+      <description><![CDATA[Sambee 是一个浏览器端的文件查看与管理工具，支持 SMB 共享和本地磁盘的快速预览与 Markdown 编辑。]]></description>
+      <guid>https://laosu.tech/2026/08/24/%E4%B8%80%E9%94%AE%E6%8A%8A%20SMB%20%E5%85%B1%E4%BA%AB%E5%8F%98%E6%88%90%E7%BD%91%E9%A1%B5%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E6%89%8B%E6%9C%BA%E4%B9%9F%E8%83%BD%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8/</guid>
+      <pubDate>Mon, 24 Aug 2026 03:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>多个大模型API管理太乱？这个开源网关帮你一键聚合</title>
       <link>https://laosu.tech/2026/08/23/%E5%A4%9A%E4%B8%AA%E5%A4%A7%E6%A8%A1%E5%9E%8BAPI%E7%AE%A1%E7%90%86%E5%A4%AA%E4%B9%B1%EF%BC%9F%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E7%BD%91%E5%85%B3%E5%B8%AE%E4%BD%A0%E4%B8%80%E9%94%AE%E8%81%9A%E5%90%88/</link>
@@ -62,7 +69,7 @@
       <pubDate>Tue, 11 Aug 2026 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>开源堡垒机 Warpgate：一个容器搞定 SSH、MySQL 和 Web 访问</title>
       <link>https://laosu.tech/2026/08/09/%E5%BC%80%E6%BA%90%E5%A0%A1%E5%9E%92%E6%9C%BA%20Warpgate%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E6%90%9E%E5%AE%9A%20SSH%E3%80%81MySQL%20%E5%92%8C%20Web%20%E8%AE%BF%E9%97%AE/</link>
       <description><![CDATA[Warpgate 是一个开源的智能堡垒机，支持 SSH、HTTPS、Kubernetes、MySQL、PostgreSQL、RDP 和 VNC 多协议访问代理。]]></description>
       <guid>https://laosu.tech/2026/08/09/%E5%BC%80%E6%BA%90%E5%A0%A1%E5%9E%92%E6%9C%BA%20Warpgate%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E6%90%9E%E5%AE%9A%20SSH%E3%80%81MySQL%20%E5%92%8C%20Web%20%E8%AE%BF%E9%97%AE/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[诗泉 (chinese-poetry-api) 是一个基于 Go 语言的高性能中国古诗词 API 服务，支持 REST 和 GraphQL 接口，收录近 40 万首诗词。]]></description>
       <guid>https://laosu.tech/2026/07/21/%E6%8A%8A%E5%94%90%E8%AF%97%E5%AE%8B%E8%AF%8D%E5%85%83%E6%9B%B2%E5%85%A8%E8%A3%85%E8%BF%9BDocker%EF%BC%8C%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AF%97%E8%AF%8DAPI/</guid>
       <pubDate>Tue, 21 Jul 2026 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>浇花、清滤网、备份NAS——这些没有截止日期的事，终于有个工具管了</title>
-      <link>https://laosu.tech/2026/07/20/%E6%B5%87%E8%8A%B1%E3%80%81%E6%B8%85%E6%BB%A4%E7%BD%91%E3%80%81%E5%A4%87%E4%BB%BDNAS%E2%80%94%E2%80%94%E8%BF%99%E4%BA%9B%E6%B2%A1%E6%9C%89%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F%E7%9A%84%E4%BA%8B%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%B8%AA%E5%B7%A5%E5%85%B7%E7%AE%A1%E4%BA%86/</link>
-      <description><![CDATA[Taskrr 是一个轻量级的自托管周期任务追踪工具，帮你记录上次做某件事的时间。]]></description>
-      <guid>https://laosu.tech/2026/07/20/%E6%B5%87%E8%8A%B1%E3%80%81%E6%B8%85%E6%BB%A4%E7%BD%91%E3%80%81%E5%A4%87%E4%BB%BDNAS%E2%80%94%E2%80%94%E8%BF%99%E4%BA%9B%E6%B2%A1%E6%9C%89%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F%E7%9A%84%E4%BA%8B%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%B8%AA%E5%B7%A5%E5%85%B7%E7%AE%A1%E4%BA%86/</guid>
-      <pubDate>Mon, 20 Jul 2026 05:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,112 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 09:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:28:28 GMT</lastBuildDate>
+    <item>
+      <title>v3.8.1 版本 ios 端 无序列表输入中文的时候会出现显示错误</title>
+      <link>https://ld246.com/article/1787554282551</link>
+      <description><![CDATA[
+输入中文的时候 文字会跑到圆点的前面
+最新版本 更新完出现的 上周使用还没有问题]]></description>
+      <guid>https://ld246.com/article/1787554282551</guid>
+      <pubDate>Mon, 24 Aug 2026 06:52:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>手机文本一返回就消失，存不下来</title>
+      <link>https://ld246.com/article/1787553115846</link>
+      <description><![CDATA[输入的数据全都消失了，完全不可靠，用不了
+
+ 浏览器不支持该媒体的播放
+
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1787553115846</guid>
+      <pubDate>Mon, 24 Aug 2026 06:31:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个几万字的带颜色等样式的表格，HTML 格式和思源原生的 MD 格式，哪个更卡？</title>
+      <link>https://ld246.com/article/1787543873486</link>
+      <description><![CDATA[思源原生的 MD 最终也是转换成 HTML 格式渲染的，为什么不直接使用 HTML 格式呢？ 
+表格都是可视化编辑，有谁直接写表格代码吗？ ]]></description>
+      <guid>https://ld246.com/article/1787543873486</guid>
+      <pubDate>Mon, 24 Aug 2026 03:59:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>最近的测试版移动端长按选中文字感觉不是很跟手</title>
+      <link>https://ld246.com/article/1787541294443</link>
+      <description><![CDATA[3.8.1 没有这个问题。应该是加了隐藏标题和底栏之后产生的。 
+  例如很难拖选到想要的文本，或者总是容易转换为跨块选择。 
+  视频如下 a3f33292ee17e9695e37d9edef0c0a80.mp4]]></description>
+      <guid>https://ld246.com/article/1787541294443</guid>
+      <pubDate>Mon, 24 Aug 2026 03:14:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家晒一下自己的 S3 存储成本吧</title>
+      <link>https://ld246.com/article/1787540526080</link>
+      <description><![CDATA[我用七牛云，算是有一定知名度的小服务商吧，免费存储空间 10G，思源笔记也是才接触，笔记容量才 200M 左右，3 台电脑 1 部手机之间同步，充值 10 元，三个月花费 0.14 元。 ]]></description>
+      <guid>https://ld246.com/article/1787540526080</guid>
+      <pubDate>Mon, 24 Aug 2026 03:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>v3.8.1 自动同步失败次数过多</title>
+      <link>https://ld246.com/article/1787538564009</link>
+      <description><![CDATA[
+更新后经常弹出这两个报错，不过手动同步基本都能成功。 
+重新登录后鉴权不再报错，同步失败仍每 30s 出现 1 次
+systemlog.zip]]></description>
+      <guid>https://ld246.com/article/1787538564009</guid>
+      <pubDate>Mon, 24 Aug 2026 02:48:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>同步失败：账号鉴权失败，请重新登录账号 (Provider: SiYuan) v3.8.1</title>
+      <link>https://ld246.com/article/1787539341133</link>
+      <description><![CDATA[今天打开思源笔记提示：“同步失败：账号鉴权失败，请重新登录账号 (Provider: SiYuan) v3.8.1”
+什么问题？在线求大神解决方案]]></description>
+      <guid>https://ld246.com/article/1787539341133</guid>
+      <pubDate>Mon, 24 Aug 2026 02:42:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>SiYuan v3.8.2-alpha.3 手机端迎来功能新升级！</title>
+      <link>https://ld246.com/article/1787538827809</link>
+      <description><![CDATA[今晨更新了 SiYuan v3.8.2-alpha.3，带来了多项优化。其中，手机端的这几项优化值得单独分享！ 🎉
+
+移动端导航优化，支持自定义底部工具栏
+移动端支持插件市场功能
+优化移动端滑动手势，侧边栏支持左右侧自定义配置
+
+
+ 浏览器不支持该媒体的播放
+
+连不上 GitHub 的话，可以在这里下载安装包 ➡️https://qfile.qq.com/q/W5fxau8JSo]]></description>
+      <guid>https://ld246.com/article/1787538827809</guid>
+      <pubDate>Mon, 24 Aug 2026 02:41:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>请开发大神添加功能</title>
+      <link>https://ld246.com/article/1787537409655</link>
+      <description><![CDATA[右侧点击文档，该文档在左侧的目录里可区别显示。 
+原因：右侧界面打开太多文档，点击文档都不知道在目录哪个位置了，麻烦了，谢谢了。 ]]></description>
+      <guid>https://ld246.com/article/1787537409655</guid>
+      <pubDate>Mon, 24 Aug 2026 02:10:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>shift+enter 键无法内部换行</title>
+      <link>https://ld246.com/article/1787536282049</link>
+      <description><![CDATA[在 3.8.0 之前的版本，按 shift+enter 键可以内部换行，更新 3.8.0 之后，再按 shift+enter 键会换行至新的块，还有偶尔可以内部换行的情况，操作见视频
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1787536282049</guid>
+      <pubDate>Mon, 24 Aug 2026 01:51:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>增加中文语法检查</title>
+      <link>https://ld246.com/article/1787536039891</link>
+      <description><![CDATA[经常需要对错别字、语病、标点符号进行修正，可惜思源笔记不具备该功能，希望可以新增中文语法检查功能。 ]]></description>
+      <guid>https://ld246.com/article/1787536039891</guid>
+      <pubDate>Mon, 24 Aug 2026 01:47:19 GMT</pubDate>
+    </item>
     <item>
       <title>华为鸿蒙安卓平板触发悬浮菜单问题</title>
       <link>https://ld246.com/article/1787491310524</link>
@@ -73,207 +178,6 @@ Harmony 4.0.0 （安卓 12）
 ]]></description>
       <guid>https://ld246.com/article/1787489787564</guid>
       <pubDate>Sun, 23 Aug 2026 12:56:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源笔记 3.8.1 docker 升级后无法打开笔记</title>
-      <link>https://ld246.com/article/1787487955847</link>
-      <description><![CDATA[
-
-windows 客户端版本 3.5.8 手动重建索引直接内核错误
-
-已经不知所措了...
-
-版本：SiYuan v3.8.1 docker b3log/siyuan:latest 现象：后台索引线程 refsFromTree → GetEmbedBlockRefID 调用 vitess‑sqlparser.Parse ()，传入畸形短字符串触发 SIGSEGV segmentation violation signal 11，内核直接被操作系统杀死退出。 
-
-堆栈：
-
-github.com/88250/vitess-sqlparser/sqlparser.convertTiDBStmtToVitessShow
-github.com/88250/vitess-sqlparser/sqlparser.Parse
-github.com/siyuan-note/siyuan/kernel/treenode.GetEmbedBlockRefID
-github.com/siyuan-note/siyuan/kernel/treenode.GetEmbedBlockRef
-github.com/siyuan-note/siyuan/kernel/treenode.IsEmbedBlockRef
-github.com/siyuan-note/siyuan/kernel/sql.refsFromTree
-github.com/siyuan-note/siyuan/kernel/sql.indexTree
-github.com/siyuan-note/siyuan/kernel/sql.execOp
-github.com/siyuan-note/siyuan/kernel/sql.FlushQueue
-
-
-复现条件：AST 节点内存中存在畸形 embed 碎片，该碎片不持久化写入 sy 文档 data 字段，磁盘 grep 检索不到。 
-v3.6.5 不会调用该 sqlparser 路径，完全稳定；v3.8.1 引入该逻辑，第三方库无异常捕获，硬件级段错误 Go recover 无法捕获。 
-建议修复：在调用 sqlparser.Parse() 之前增加输入前置校验，非法 / 短畸形输入直接返回，不要下传给 vitess‑sqlparser。 
-]]></description>
-      <guid>https://ld246.com/article/1787487955847</guid>
-      <pubDate>Sun, 23 Aug 2026 12:27:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>v3.8.2 新版局部关系图首次打开不缩放、手动点击刷新后不一致等问题</title>
-      <link>https://ld246.com/article/1787458425580</link>
-      <description><![CDATA[我是从早期版本（v3.7.0）升上来的（当前版本 v3.8.2-alpha.2），新版本局部关系图显示逻辑不一样，好别扭，主要以下几点
-
-首次打开文档局部关系图不缩放自适应
-首次打开与手动刷新不一致
-无任何引用局部关系图节点过大
-
-首次打开文档局部关系图不缩放自适应
-显示如图，感觉看不到全局关系，还得手动拖动（或者手动刷新让其自适应），早期版本是整体缩放然后适应显示框显示全貌，下图看出来现在的逻辑是首次打开文档后局部关系图不缩放适应窗口，感觉最别扭的就是这个地方，早期版本那种默认打开自适应缩放应该更符合实际使用需求，现在这种想看整体关系得手动刷新一下
-
-早期版本 v3.7.0 默认首次打开文档如图
-
-早期版本 v3.7.0 默认首次打开文档即使关联关系很多也会整体缩放，保证整体关系显示完全，如下图
-
-首次打开与手动刷新不一致
-最直观的是第一次进入文档以后的局部关系图和手动点击刷新后的关系图不一致，以前版本不是这样，这个感觉就是上面第一个问题导致的，早期版本打开后默认的局部关系图和手动刷新后的差异不会很大。 
-
-无任何引用局部关系图节点过大
-文件无任何引用，局部关系图不显示，但是点击刷新后就显示了，然后还显示的特别大，如图
-
-特意回退了一下早期版本，如图
-]]></description>
-      <guid>https://ld246.com/article/1787458425580</guid>
-      <pubDate>Sun, 23 Aug 2026 10:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>大模型 providers 支持问题</title>
-      <link>https://ld246.com/article/1787478016981</link>
-      <description><![CDATA[智谱等配置，需要支持 coding plan 计划的 api 端点。 
-当前设置界面，配置为 coding plan 计划的 api 端点报错。 
-openai 端点 https://open.bigmodel.cn/api/v1
-anthropic 端点​​ https://open.bigmodel.cn/api/anthropic
-@88250 @Vanessa]]></description>
-      <guid>https://ld246.com/article/1787478016981</guid>
-      <pubDate>Sun, 23 Aug 2026 09:40:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源笔记 3.8.1 AI 唤起快捷键设置完可用，刷新页面后失效</title>
-      <link>https://ld246.com/article/1787476987740</link>
-      <description><![CDATA[
- 浏览器不支持该媒体的播放
-]]></description>
-      <guid>https://ld246.com/article/1787476987740</guid>
-      <pubDate>Sun, 23 Aug 2026 09:23:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>发现一个可用的 S3 存储桶</title>
-      <link>https://ld246.com/article/1787469419085</link>
-      <description><![CDATA[用 DS 找 S3 存储桶发现了一个 Tigris 的存储桶供应商,正在尝试使用.有 5G 免费空间,不过稳定性不是很好.
-]]></description>
-      <guid>https://ld246.com/article/1787469419085</guid>
-      <pubDate>Sun, 23 Aug 2026 07:16:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源视频下载器 VidBee 破 1 万 Star：2.0 支持在本地把视频转成文稿与 AI 提问</title>
-      <link>https://ld246.com/article/1787463621771</link>
-      <description><![CDATA[大家好，很久之前在 L 站分享过自己写的开源视频下载器 VidBee，不知不觉在 GitHub 突破了 10k Star，非常感谢大家一直以来的支持！ 
-前段时间周末断断续续的花了挺多精力重构并做新特性，今天正式把 2.0 版本发布了。 
-这次 2.0 最大的更新，是把本地语音转写与 AI 文稿处理做进去了——现在视频下载完，或者直接把本地音视频文件拖进来，就能在本地转成带时间戳和说话人的文稿，还能直接针对文稿问 AI 或生成摘要。 
-
-官网：https://vidbee.org
-GitHub：https://github.com/nexmoe/VidBee
-
-也欢迎 Follow 关注我的 GitHub（平时会持续折腾和开源一些有趣的小工具与项目）：
-
-个人主页：https://github.com/nexmoe
-
-
-本地视频转文稿：离线隐私、时间戳联动
-转写全程运行在你自己的电脑上，音视频数据完全不会上传到云端。 
-
-多模型支持：内置/支持了 Whisper、SenseVoice、Parakeet、Qwen3-ASR 等模型，软件会根据你的硬件配置给出推荐建议。中文场景推荐试试 SenseVoice 或 Qwen3-ASR，速度和准确率都很不错。如果初次下载模型较慢，可以在设置里一键切换国内镜像源。 
-定位与导出：支持说话人分离（Diarization）。在生成的文稿里搜原话，点击对应句子就能直接跳到对应视频进度播放。支持一键复制，也可导出为 TXT、Markdown 以及 SRT/VTT 字幕。 
-
-(文稿模块目前还在持续打磨中，界面上先标了 experimental，遇到问题欢迎轻喷反馈)
-
-
-文稿 AI 提问 &amp; 摘要：支持本地 LLM 与云端 API
-转写完成后，可以直接对文稿内容进行提问、提取核心观点或生成结构化摘要：
-
-隐私安全：发给 AI 的只是提取出来的文稿纯文本，不是原始庞大的音视频文件。 
-灵活接入：不仅支持标准 OpenAI 格式的云端 API，也可以直接连本地跑的 Ollama 或 LM Studio。如果你想要从「转写」到「AI 总结」全程断网离线运行，配合本地大模型即可搞定。所有 API Key 都只存放在本地。 
-
-
-
-老本行：批量下载与 RSS 追更
-底层的视频下载能力依旧稳定给力：
-
-强大的下载支持：基于成熟的 yt-dlp，YouTube、B 站等常见平台及支持的 1000+ 网站都能轻松加入队列排队批量下载。 
-
-
-
-RSS 追更订阅：内置 RSS 抓取与追更功能，订阅创作者或频道后有新更新可以自动捕获下载。 
-
-
-
-软件下载与安装
-可以到官网下载页获取 v2.0.0：https://vidbee.org/download/
-
-如果大家在转写速度、说话人识别、模型适配或者下载体验上遇到任何 bug 或问题，欢迎直接在回帖中吐槽交流，或者去 GitHub 提 Issue / PR。项目完全开源，觉得好用的话欢迎顺手点个 Star 支持一下。 ]]></description>
-      <guid>https://ld246.com/article/1787463621771</guid>
-      <pubDate>Sun, 23 Aug 2026 05:40:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>老白的故事课</title>
-      <link>https://ld246.com/article/1787459537903</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1787459537903</guid>
-      <pubDate>Sun, 23 Aug 2026 04:44:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于提示框的建议</title>
-      <link>https://ld246.com/article/1787455354548</link>
-      <description><![CDATA[当我打出这个框的时候，基本就确定我是用这个类型的框。为什么我想要更改它名字的时候，点进去还是默认更改框的类型呢？就不能让我直接改标题呢？ 
-
- 浏览器不支持该媒体的播放
-]]></description>
-      <guid>https://ld246.com/article/1787455354548</guid>
-      <pubDate>Sun, 23 Aug 2026 03:22:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>一分钟前更新了最新版，就反复提示获取社区用户账号失败 是为什么？有影响吗</title>
-      <link>https://ld246.com/article/1787454080491</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1787454080491</guid>
-      <pubDate>Sun, 23 Aug 2026 03:01:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>产品是否可以考虑下搜索打开笔记时同时进行文档列表中对应笔记选中</title>
-      <link>https://ld246.com/article/1787453842972</link>
-      <description><![CDATA[就是搜索选中打开的文章同时自动选中文档列表页对应文章
-
-这样查看同一目录相关内容时就不用再再根据文章路径一层一层的去找到对应目录！ 
-
-说到这希望还希望可以实现文章的路径的选中切换 直接选中某一层级实现目录选中，下面是有道云笔记的参考
-]]></description>
-      <guid>https://ld246.com/article/1787453842972</guid>
-      <pubDate>Sun, 23 Aug 2026 02:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>浅色主题及功能增强——易搭 0.9.5 发布</title>
-      <link>https://ld246.com/article/1787452629095</link>
-      <description><![CDATA[易搭 v0.9.5
-新增
-
-支持备注（Memo）查询与展示：新增“备注”字段，统一整合块级备注与行内划线备注（spans 表 memo / textmark 备注），支持按备注进行条件过滤、排序以及在视图中展示。 
-新增“文本长度”字段：新增“文本长度”（textLength​）系统字段，映射底层 blocks.length，支持基于文本字数的数值过滤与排序。 
-新增“字数最多的块(Top10)”预置场景：在日常管理分类下新增预置模板，一键按字数降序定位内容最长的块。 
-条件编辑器支持“小于”操作符：在过滤条件中新增“小于”（lt）操作符，完善数值与日期字段的比较筛选能力。 
-排序规则支持“随机排序” ：视图排序规则新增“随机排序”选项（底层生成 ORDER BY RANDOM()），方便快速搭建随机漫游、抽样复习等场景。 
-支持清空查询历史：侧边栏“最近运行”历史记录面板新增“清空历史记录”按钮，支持一键清空本地历史记录。 
-
-改进
-
-引入 Lucide 图标库与 UI 质感提升：集成 Lucide 线框图标，统一优化侧边栏、顶部栏和编辑器各操作按钮的视觉风格。 
-浅色主题（Light Theme）适配与优化：全面优化浅色模式下的配色对比度与界面层次，提升日间模式下的视觉体验。 
-表单与控件细节修复：修复下拉选择框（Select）箭头指示器显示异常，优化各设置面板的布局与交互细节。 
-优化嵌入块模板保存机制：插入嵌入块时不再强制自动静默保存模板，改为由用户按需手动保存，避免产生冗余的模板快照。 
-
-
-‍
-附录
-易搭——别让 SQL 成为你探索笔记的阻碍 - 链滴 *
-推荐和“属性管家”配合使用： 属性管家：自底向上的维护属性，水到渠成时构建数据库 - 链滴
-为了让思源笔记用起来更顺手，我打算开发 10 个插件，目前进度…… - 链滴 *]]></description>
-      <guid>https://ld246.com/article/1787452629095</guid>
-      <pubDate>Sun, 23 Aug 2026 02:37:08 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

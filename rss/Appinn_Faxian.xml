@@ -4,7 +4,171 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 09:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:27:54 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】妙盒笔记——深度优化的手机 Markdown 笔记应用，从写作、整理、导出、分享，到站点发布一气呵成</title>
+      <link>https://meta.appinn.net/t/topic/90591</link>
+      <description><![CDATA[软件名称
+妙盒笔记 (Abox Note)
+应用平台
+Android / iOS / MacOS
+推荐类型
+开发者自荐
+是否收费
+免费
+一句简介
+轻量级 Markdown 笔记：闪记、整理、导出 PDF、截图分享，还能把空间发布成站点。写作不断流。 
+应用简介
+妙盒笔记（Abox Note）是一款轻量级 Markdown 笔记应用，围绕一条顺畅路径设计：写作 → 整理 → 导出 → 分享 / 发布。不堆功能，不绕弯路。 
+⑴ 纯粹 Markdown 写作
+编辑区就是带行号的 Markdown 纯文本。可以先碎片记录，再慢慢重排、组合，结构边写边长。文件干净、好迁移，也方便长期保存。 
+⑵ 结构简单，少打扰
+单层「空间」划分大范围，嵌套标签做细分类（如 工作/项目、阅读/设计/灵感）。没有深层文件夹，也不逼你过度整理，把精力留给写作。 
+⑶ 为手机写作专门打磨
+优化了光标移动、选区调整和编辑节奏，闪记、补一句、改一小段都更自然。支持从其他 App 分享文字或链接建笔记，长按图标可快速新建。 
+⑷ 预览、导出与分享
+清晰的网页预览；导出 PDF（支持标题书签与版式控制）；生成整页或长图截图；通过 Youlog 进行网络分享。 
+⑸发布为站点
+把某个空间变成静态站点——博客、文档，或一本小书。发布前可先预览，可导出站点文件自行托管，也可一气呵成完成部署。读者用浏览器即可访问，无需安装妙盒笔记。 
+⑹ 少打断，好接着写
+自动保存、恢复上次编辑位置、最近笔记快速切换、查找替换（支持正则）、导入 / 导出（支持 ZIP）、回​​收站可找回。 
+妙盒笔记不追求什么都做，只把「写作 → 整理 → 导出 → 分享 / 发布」这条路，尽量做得稳、做得顺手。 
+官方网站
+abox.cc/note/
+Android 下载:
+
+Google Play
+官网下载
+
+iOS 下载:
+App Store
+视频演示
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90591</guid>
+      <pubDate>Mon, 24 Aug 2026 07:57:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orca：解决ai编程的最后一公里——可能是最好用的命令行ai辅助生态</title>
+      <link>https://meta.appinn.net/t/topic/90578</link>
+      <description><![CDATA[软件名称
+Orca
+应用平台
+
+Windows
+MacOS
+Android
+
+推荐类型
+【网上发现】
+是否收费
+开源 / 免费
+一句简介
+这是一个围绕codex、claude code等ai-cli搭建起来的辅助生态软件，帮助ai编程开发中最后一公里的痛点
+应用简介
+
+无缝支持原来的coding cli
+完善的工作树支持，你可以同时开发多个功能而不互相干扰
+与工作树匹配的工作区的概念，每一个工作区都可以开单独的ai，单独的命令行，有单独的文件空间，完善的pr机制和git支持
+完善的多ai支持，市场上有的ai cli都能无缝接入，同时提供工具在多ai之间同步信息（这个功能我还没用，现在我只有codex）
+ai会话的发现和自动恢复，不用每次rewind、resume
+无门槛的手机控制，局域网、广域网、官方登录都支持，即开即用
+随时可看的自动使用量查询
+命令行的快捷指令，重开的时候不用一直tab
+支持 Windows / MacOS 双系统
+完善的to list，自动化编排系统
+手机模拟器！ ！ ！ 
+
+
+官方网站：
+stablyai/orca: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90578</guid>
+      <pubDate>Mon, 24 Aug 2026 04:12:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开源自荐】Terma：面向桌面端和自托管 Web 的远程连接工作台</title>
+      <link>https://meta.appinn.net/t/topic/90577</link>
+      <description><![CDATA[软件名称
+Terma
+应用平台
+
+Windows
+MacOS
+Linux
+Android
+
+推荐类型
+【开发者自荐】
+是否收费
+免费
+一句简介
+Terma 是一个面向桌面端和自托管 Web 的远程连接工作台，用于集中管理 SSH、终端、SFTP、远程桌面、端口转发和批量命令。 
+应用简介
+
+一套数据同时服务 Electron 桌面端、浏览器和移动端 Web，不需要维护两份连接配置。 
+SSH 连接、终端、SFTP、隧道转发和批量运维集中在同一个多标签工作区。 
+SSH 与其他协议使用独立活动入口；RDP、VNC、XDMCP、FTP/FTPS、Telnet 和串口可单独分组、搜索和新增，也可在新增 SSH 时或其更多菜单中按协议生成单个或全部默认配置。 
+隧道转发支持本地转发 -L、远程转发 -R 和 SOCKS5 动态代理 -D。 
+
+截图预览：
+
+
+官方网站：
+
+
+github.com
+
+
+
+
+GitHub - zmide/Terma: Cross-platform SSH, terminal, SFTP, remote...
+Cross-platform SSH, terminal, SFTP, remote desktop, and port-forwarding workspace for desktop and self-hosted Web. 跨平台 SSH、终端、SFTP、远程桌面与端口转发工作台。 
+
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90577</guid>
+      <pubDate>Mon, 24 Aug 2026 04:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clip：框住就能粘贴，支持手动滚动截图的 macOS 开源工具</title>
+      <link>https://meta.appinn.net/t/topic/90571</link>
+      <description><![CDATA[大家好，我做了 Clip，一款免费开源、剪贴板优先的 macOS 截图工具。 
+一句话介绍
+普通截图只要框选并松开，图片就直接进入剪贴板；需要滚动截图时，由你自己正常滚动，Clip 负责记录并拼接。 
+普通截图
+快捷键启动后框选区域，松开鼠标即可复制。打开微信、飞书、邮件或文档，直接按 ⌘V 粘贴。需要标注时，可切换到高级模式使用马赛克、文字、箭头、线条、本地 OCR 和下载功能。 
+
+滚动截图
+框选后，选区固定在屏幕上。你用鼠标或触控板正常滚动，想截到哪里就滚到哪里，最后点击完成。 Clip 不会替你滚动，也不会生成视频文件。无法可靠证明画面连续时，会明确失败，不输出一张可能错误的长图。 
+
+我刻意保留的边界
+
+不需要账户；
+不上传截图，不依赖云端；
+不针对某个 App 编写专用适配；
+普通截图默认直接进入剪贴板；
+完全免费，采用 MIT License 开源。 
+
+兼容性
+支持 macOS 13 及以上版本，兼容 Apple 芯片与 Intel Mac。 
+项目与下载
+GitHub：GitHub - jearthliu/clip: Clipboard-first macOS screenshot utility: select, release, paste — with app-agnostic scrolling capture · GitHub
+Release：Release Clip v0.1.0 · jearthliu/clip · GitHub
+当前 v0.1.0 尚未经过 Apple 公证。如果首次打开被 macOS 拦截，请前往“系统设置 → 隐私与安全性”，选择“仍要打开”。 
+这是第一个公开版本。我尤其想了解：它在哪个 App 里不好用？滚动截图在哪类页面容易失败？哪个动作仍然显得多余？ 
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90571</guid>
+      <pubDate>Mon, 24 Aug 2026 02:14:45 GMT</pubDate>
+    </item>
     <item>
       <title>发现频道：10款大家发现的好评软件[2026年第34期]</title>
       <link>https://meta.appinn.net/t/topic/90569</link>
@@ -106,7 +270,7 @@ VideoCompress - 视频压缩全程在浏览器里跑，文件不上传
 
 
 Releases · sxzxs/Real-time-translation-typing
-1 个帖子 - 1 位参与者
+5 个帖子 - 3 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90564</guid>
       <pubDate>Mon, 24 Aug 2026 00:05:57 GMT</pubDate>
@@ -177,7 +341,7 @@ MIT 开源，是 macOS 版 KimiCodeBar（xifandev/KimiCodeBar）经原作者认�
 无论是想给家里的老设备找点用处，还是想找个清爽不打扰的极简 AI 工具，都欢迎大家体验！ 
 项目已完全开源，欢迎大家来提建议或吐槽：
 GitHub: https://github.com/anyuxurl/retro-chat
-3 个帖子 - 3 位参与者
+4 个帖子 - 3 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90542</guid>
       <pubDate>Sun, 23 Aug 2026 12:03:16 GMT</pubDate>
@@ -288,7 +452,7 @@ macOS
 
 
 
-3 个帖子 - 3 位参与者
+10 个帖子 - 4 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90482</guid>
       <pubDate>Sat, 22 Aug 2026 07:23:39 GMT</pubDate>
@@ -354,148 +518,6 @@ GitHub - foolsic/GotifyInbox
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/90452</guid>
       <pubDate>Fri, 21 Aug 2026 14:58:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic手机喜加一 《Caravan SandWitch》截止8.27</title>
-      <link>https://meta.appinn.net/t/topic/90433</link>
-      <description><![CDATA[Android &amp; iOS
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90433</guid>
-      <pubDate>Fri, 21 Aug 2026 08:42:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>IDM 智能管理器：按需控制 IDM 浏览器扩展开关的浏览器扩展</title>
-      <link>https://meta.appinn.net/t/topic/90432</link>
-      <description><![CDATA[软件名称
-IDM 智能管理器
-应用平台
-
-Windows
-
-一句话简介
-一个通过 Chrome 的 management API 按预设规则管理 IDM 扩展的开关状态的小扩展
-这个小扩展解决了什么？ 
-用 IDM（Internet Download Manager）的同学一定遇到过这个问题：
-IDM 的浏览器扩展实在太霸道了。它会在网络层监听并强行劫持 Chrome 的下载事件。如果你平时和我一样会用到其他带下载功能的扩展，比如用 SingleFile 保存网页、用油猴脚本/扩展批量抓 Pixiv 插画、推特原图或者采集图片，IDM 的扩展就跑出来横插一脚。结果就是：其他扩展设置的指定存储目录失效、自定义的文件名变成哈希乱码，最后还会全被一股脑扔进浏览器的默认下载路径。 
-这个小扩展就是实现了2个功能
-规则匹配：打开特定网站时自动关闭 IDM 扩展
-
-在选项页里可以填入由其他扩展负责批量抓取或存档的域名。如 pixiv.net、x.com （这些网站都有更专业更好用的下载扩展/脚本，没必要用 IDM 下载）。只要浏览器中有任意标签页打开了这些网址，扩展就会在后台静默禁用 IDM，保证抓图/抓视频的扩展正常走浏览器原生下载机制并保留文件名与路径。当关掉所有相关标签页后，IDM 会被自动重新开启。这功能适合固定站点——像 Pixiv、推特这种你常年要抓且你有比 IDM 更好的抓取扩展的地方，配一次规则就再也不用管了。 
-快捷键与单击切换：应对随手存网页
-
-我习惯用 SingleFile 扩展把看到的有意思的文章原样抓下来存档，因为这种抓取情况会在随机网站上发生，不适合用规则匹配。所以设计了一个手动快捷启动机制，遇到这种场景，可以直接按快捷键 Alt + Shift + D（快捷键可以在 chrome://extensions/shortcuts 里修改），或者鼠标左键直接点一下固定在工具栏的扩展图标，就能一键关闭 IDM；存档完毕再点一下就能切回去。比手动去 chrome://extensions/ 页面折腾「进入扩展页、找到 IDM 扩展、关掉、切回存档页、存档、再切回来打开」要方便不少。 
-下载与源码
-
-
-去「蓝奏云」或者「GitHub Release」下载打包好的扩展
-
-
-把文件解压放在一个本地文件夹内（比如 D:\Extensions\idm-smart-controller，这个文件夹不能删，删了扩展就无了）。 
-
-
-打开 Chrome 地址栏访问 chrome://extensions/，打开右上角 “开发者模式”。 
-
-
-点击 “加载未打包的扩展程序”，选中文件夹即可。 
-
-
-右键点击扩展图标 → “选项”，配置你的抓图/白名单域名。 
-
-
-最后的一些碎碎谈
-Chrome扩展市场里倒是也有其他能按规则启停扩展的管理器，但都是综合性的扩展管理器，功能非常多，就为了管一个 IDM 去装个大家伙，属实没必要。于是抽空写了一个没啥技术含量的超轻量级的 Chrome 扩展（Manifest V3），专门用来按需控制 IDM 的启停。 
-因为最初设计就是为了应对 IDM，所以叫「IDM 智能管理器」，但其实你也可以在设置页里选择其他扩展，让「IDM 智能管理器」根据规则管理其他扩展的开关。至于为什么不上架商店——因为要过审核还得配隐私政策、商店截图，就这么个解决小痛点的小扩展，不值得折腾。你看我连扩展的图标都没做，工具栏图标是直接用代码生成的。 
-至于为啥没Firefox版：根据Firefox的安全策略，用户安装的扩展只能控制主题的开关，不能控制其他扩展的开关。如果扩展想要这个权限， 需要被企业策略安装。被企业扩展安装的扩展需要Mozilla 官方数字签名（也就是说必须传到扩展商店被审核一次）好容易安装进去了。 Firefox有个奇怪的机制，被关闭标签页的底层对象销毁是异步延迟完成的，直到新建标签页时，旧标签页才会被实际销毁。所以扩展无法做到标签页关闭后，及时恢复IDM扩展的开启状态（如果需要即及时恢复，需要主动循环检查标签页，要么性能不友好，要么反应延迟高，除非用UC脚本实现）一句话：Firefox想要实现按规则开关扩展太费劲了，谁爱做谁做
-7 个帖子 - 5 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90432</guid>
-      <pubDate>Fri, 21 Aug 2026 08:33:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic赛博领鸡蛋，截止2026-08-27</title>
-      <link>https://meta.appinn.net/t/topic/90421</link>
-      <description><![CDATA[https://store.epicgames.com/p/cardpocalypse
-https://store.epicgames.com/p/albion-online-7eb24d
-https://store.epicgames.com/p/caravan-sandwitch-android-594db5
-https://store.epicgames.com/p/caravan-sandwitch-ios-5c5529
-2个帖子 - 2位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90421</guid>
-      <pubDate>Fri, 21 Aug 2026 03:55:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】全网热点APP</title>
-      <link>https://meta.appinn.net/t/topic/90413</link>
-      <description><![CDATA[软件名称
-全网热点
-应用平台
-Web 端/安卓
-推荐类型
-开发者自荐 / 产品推荐
-一句简介
-一个干净纯粹、极速更新的全网实时热点与资讯聚合平台，打造属于自己的信息流。 
-应用简介
-在这个信息碎片化的时代，想要了解不同圈子的实时动态，往往需要分别打开微博、知乎、B站、GitHub、V2EX、抖音等多个 App 或网页，不仅耗时而且充斥着各种算法推荐与信息流干扰。 
-做 allnet.hot 的初衷，就是想打造一个轻量、高效的一站式热点追踪工具。它将全网数百个主流平台、技术社区及资讯站点的实时热榜/趋势汇聚在同一个界面中，无需反复切换平台，即可掌握全网风向。 
-主要特点：
-
-
-多源聚合：一站式涵盖社交媒体（微博/知乎/B站/抖音）、技术社区（GitHub/掘金/V2EX/CSDN）、新闻资讯（澎湃/36氪/华尔街见闻）等全网主流榜单。 
-
-
-实时同步：高频更新各平台 Trending 与 Hot 列表，确保资讯时效性与准确度。 
-
-
-极简排版：采用卡片/多列网格布局，信息密度高，阅读视野开阔，拒绝冗余广告与算法干扰。 
-
-
-分类自由切换：支持综合、科技、开发、娱乐、财经等标签分类，轻松定位关注领域。 
-
-
-一键直达：点击任意热点条目即可直接跳转至原始平台深度阅读。 
-
-
-为什么做这个？ 
-打造属于自己的信息流工具，又有榜单又有资讯，实时监控全球发生的热点和自己感兴趣的论坛资讯以及新闻。让你吃瓜不再慢一步，打破算法的推荐陷阱。 
-适合什么场景？ 
-
-
-媒体 / 运营人员：需要第一时间捕捉全球热点、选题线索与舆情动态。 
-
-
-开发者 / 技术爱好者：追踪 GitHub Trending、V2EX、开源新趋势与技术圈热议话题。 
-
-
-金融 / 投研人士：快速获取宏观资讯、财经快讯与行业动态。 
-
-
-防信息茧房者：跳出单一平台的个性化算法推荐，全方位了解全网真实热搜。 
-
-
-摸鱼与碎片化阅读：工作学习间隙，花两三分钟快速浏览全网新鲜事。 
-
-
-官方网站：
-
-
-
-全网热点
-
-
-
-全网热点 - 汇聚全网实时热点榜单
-一站式全网热点聚合平台，汇聚微博热搜、知乎热榜、百度热点、今日头条、IT之家等各大平台实时风向标。 
-
-
-
-
-
-APP下载地址：全网热点 App 下载 - 桌面悬浮条 · 桌面小组件 · 实时更新
-6 个帖子 - 4 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90413</guid>
-      <pubDate>Fri, 21 Aug 2026 00:09:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,16 @@
     <title>异次元软件世界</title>
     <link>https://www.iplaysoft.com</link>
     <description>软件改变生活</description>
-    <lastBuildDate>Mon, 24 Aug 2026 09:30:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:28:47 GMT</lastBuildDate>
+    <item>
+      <title>Tessoa - 极致性能的 Win / Mac / Linux 跨平台文件管理器 (分栏/分屏/键盘/文件标签)</title>
+      <link>https://www.iplaysoft.com/tessoa.html</link>
+      <description><![CDATA[Windows 上有 File Pilot，macOS 上有 QSpace，都很好用，可惜各自只有一个平台。我三个系统都在用，来回换机器就得完全换一套操作习惯，非常烦！ ！所以决定自己开发 Tessoa。 
+技术上：全 Rust 开发追求性能优先！界面直接调 GPU 绘制，没有 Electron、没有 WebView、没有 Qt/GTK。单文件，解压就能跑，性能卓越。最重要的是，Tessoa 在 Win / Mac / Linux 三个平台同一套代码，操作习惯完全一致！而且在功能和追求效率上也完全不妥协……
+「 前往查看原文.... 」异次元还有这些值得一看：Directory Opus 13 - 比微软自带强大百倍！全面碾压的增强文件管理器XYplorer - 碾压微软自带资源管理器！强大好用的 Win 多窗格分栏文件管理器比 Mac 访达强太多了！ QSpace - 多窗格/多分栏的增强文件管理器 (支持连接服务器)Files UWP 文件管理器 - 更优雅好用！替代 Win11/10 自带资源管理器 (开源/多标签/分栏)异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/tessoa.html</guid>
+      <pubDate>Mon, 24 Aug 2026 05:33:54 GMT</pubDate>
+    </item>
     <item>
       <title>Mole - 在 Github 上好评如潮的 Mac 清理软件！垃圾缓存清理/卸载/优化效果出色</title>
       <link>https://www.iplaysoft.com/mole.html</link>
@@ -98,7 +107,7 @@ Eagle 是一款 Win / Mac 平台上知名的图片素材收集与管理工具，
       <pubDate>Tue, 28 Jul 2026 18:07:51 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>这香吗？ Scramble Cloud 终身永久 20TB 网盘 (支持 WebDAV / 适合长期备份)</title>
       <link>https://www.iplaysoft.com/p/scramble-cloud</link>
       <description><![CDATA[随着手机拍照、视频素材越来越多，以及众多工作文档、图片、聊天记录、以及各种资源，很多人可能都累积了数 TB 级别数据了。如果用 115、夸克、百度网盘，你每月都得交不少的钱。
 
@@ -132,13 +141,6 @@ Eagle 是一款 Win / Mac 平台上知名的图片素材收集与管理工具，
 「 前往查看原文.... 」异次元还有这些值得一看：ALT-C - 电脑手机之间跨设备跨平台同步剪贴板的实用免费工具Flix 快传 - 免费手机电脑高速 WiFi 文件传输工具！ (内网聊天 / 剪贴板同步 / 不压缩图片)Pasteasy 易贴跨平台剪贴板同步软件 - 电脑手机之间互相复制粘贴/传图的效率神器PinStack - 轻量好用的 Windows 剪贴板历史记录增强管理工具异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
       <guid>https://www.iplaysoft.com/uniclipboard.html</guid>
       <pubDate>Thu, 16 Jul 2026 19:17:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>FluentCleaner 开源垃圾清理工具 - 在 CCleaner 变味后，终于有更好的替代品了</title>
-      <link>https://www.iplaysoft.com/fluentcleaner.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.iplaysoft.com/fluentcleaner.html</guid>
-      <pubDate>Thu, 09 Jul 2026 15:47:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

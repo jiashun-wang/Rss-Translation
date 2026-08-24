@@ -4,7 +4,14 @@
     <title>Our World in Data</title>
     <link>https://ourworldindata.org</link>
     <description>Research and data to make progress against the world’s largest problems</description>
-    <lastBuildDate>Sat, 22 Aug 2026 20:03:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:13:27 GMT</lastBuildDate>
+    <item>
+      <title>选举民主的兴起</title>
+      <link>https://ourworldindata.org/the-rise-of-electoral-democracy</link>
+      <description><![CDATA[过去两个世纪，世界各地的选举如何传播、投票权如何扩大以及政治竞争如何发展。]]></description>
+      <guid>https://ourworldindata.org/the-rise-of-electoral-democracy</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>哪些国家已经过了人口峰值，其余国家什么时候会过？</title>
       <link>https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[世界上大约 30% 的排放量都有一定的碳价格，但人们要额外支付多少费用？]]></description>
       <guid>https://ourworldindata.org/how-much-are-people-across-the-world-paying-for-their-carbon-emissions</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>移民住在哪里、出生在哪里？</title>
-      <link>https://ourworldindata.org/where-do-migrants-live-and-where-were-they-born</link>
-      <description><![CDATA[一个交互式工具，可以帮助我们了解移民的出生地点以及他们现在居住的地点。]]></description>
-      <guid>https://ourworldindata.org/where-do-migrants-live-and-where-were-they-born</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
