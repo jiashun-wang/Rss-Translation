@@ -24,7 +24,7 @@ NEW_RSS_BASE = "https://jiashun-wang.github.io/Rss-Translation/"  # 部署后 RS
 #   1 = 运行所有源
 #   2 = 只抓取没有 md5 的（即新加入的 RSS）
 #   3 = 随机测试 1 个源
-MODE = 1
+MODE = 3
 # =========================================================
 
 # =========================================================
@@ -223,13 +223,6 @@ def tran(sec, max_item):
         stats["exist_fail"] += 1
         return
 
-    global links
-    links += [
-        " - [%s](%s)  ---->  source %s [%s](%s)  ---->  translation %s\n"
-        % (get_cfg(sec, "name"), parse.quote(xml_file), sec,
-           sec, url, get_cfg(sec, "name"))
-    ]
-
     # 判断 RSS 是否有更新
     try:
         r = requests.get(url, timeout=30)
@@ -425,20 +418,34 @@ def main():
 
     secs = config.sections()[1:]  # 去掉 [cfg] 段
 
-    # ---------- 提前生成两个 OPML（只依赖配置，不依赖翻译/文件是否生成） ----------
+    # ---------- 提前生成 OPML + README（都只依赖配置，不依赖翻译/文件是否生成） ----------
     old_opml_entries = []
     new_opml_entries = []
+    links = []
     for x in secs:
         try:
             url = get_cfg(x, "url")
             xml_file = os.path.join(BASE, f'{get_cfg(x, "name")}.xml')
+            name = get_cfg(x, "name")
         except Exception:
             continue
         old_opml_entries.append((x, url))
         new_opml_entries.append((x, NEW_RSS_BASE + xml_file.replace("\\", "/")))
+        links += [
+            " - %s :  source [%s](%s)  ---->  translation [%s](%s)\n"
+            % (x, x, url, name, parse.quote(xml_file))
+        ]
     write_opml_old()
     write_opml_new()
-    # --------------------------------------------------------------------------
+
+    opml_links = [
+        "## 订阅源列表\n",
+        "",
+        "- 原始 RSS：[rss-old.opml](rss-old.opml)\n",
+        "- 翻译后 RSS：[rss-new.opml](rss-new.opml)\n",
+    ]
+    update_readme(opml_links + links)
+    # ---------------------------------------------------------------------------------
 
     # ---------- 按运行方式筛选要处理的源 ----------
     if MODE == 1:
@@ -477,16 +484,6 @@ def main():
             config.write(configfile)
     except Exception as e:
         print("Failed to save config: %s" % str(e))
-
-    # ---------- README ----------
-    opml_links = [
-        "## 订阅源列表\n",
-        "",
-        "- 原始 RSS：[rss-old.opml](rss-old.opml)\n",
-        "- 翻译后 RSS：[rss-new.opml](rss-new.opml)\n",
-    ]
-    final_links = opml_links + links
-    update_readme(final_links)
 
     # ======= 运行结束统计汇总 =======
     print("\n" + "=" * 52)
