@@ -25,6 +25,9 @@ stats = {
     "exist_fail": 0,      # 已存在 RSS、处理失败的条数
 }
 
+old_opml_entries = []   # (标题, 原始 url)
+new_opml_entries = []   # (标题, 新 rss 路径)
+
 
 def get_md5_value(src):
     if isinstance(src, bytes):
@@ -117,6 +120,42 @@ def update_readme(links):
         f.writelines(tail)
 
 
+def write_opml():
+    """生成 rss-old.opml（原始订阅源）和 rss-new.opml（新翻译源）到根目录。"""
+
+    def xml_escape(s):
+        return (str(s)
+                .replace("&", "&amp;")
+                .replace("<", "&lt;")
+                .replace(">", "&gt;")
+                .replace('"', "&quot;"))
+
+    def build(entries, title):
+        lines = [
+            '<?xml version="1.0" encoding="UTF-8"?>',
+            '<opml version="1.0">',
+            "  <head>",
+            "    <title>%s</title>" % xml_escape(title),
+            "    <dateCreated>%s</dateCreated>"
+            % datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT"),
+            "  </head>",
+            "  <body>",
+        ]
+        for text, xml_url in entries:
+            lines.append(
+                '    <outline text="%s" type="rss" xmlUrl="%s"/>'
+                % (xml_escape(text), xml_escape(xml_url))
+            )
+        lines.append("  </body>")
+        lines.append("</opml>")
+        return "\n".join(lines) + "\n"
+
+    with open("rss-old.opml", "w", encoding="utf-8") as f:
+        f.write(build(old_opml_entries, "原始 RSS 订阅源"))
+    with open("rss-new.opml", "w", encoding="utf-8") as f:
+        f.write(build(new_opml_entries, "翻译后 RSS 订阅源"))
+
+
 def get_cfg(sec, name):
     return config.get(sec, name).strip('"')
 
@@ -167,7 +206,9 @@ def tran(sec, max_item):
         stats["exist_fail"] += 1
         return
 
-    global links
+    global links, old_opml_entries, new_opml_entries
+    old_opml_entries.append((sec, url))
+    new_opml_entries.append((sec, parse.quote(xml_file)))
     links += [
         " - [%s](%s) | [源: %s](%s)\n"
         % (get_cfg(sec, "name"), parse.quote(xml_file), sec, url)
@@ -345,7 +386,7 @@ def tran(sec, max_item):
 
 
 def main():
-    global config, BASE, links, stats
+    global config, BASE, links, stats, old_opml_entries, new_opml_entries
     # 关键修复：禁用插值，避免 URL 中的 % 报错
     config = configparser.ConfigParser(interpolation=None)
     config.read("test.ini", encoding="utf-8")
@@ -357,6 +398,8 @@ def main():
         pass
 
     links = []
+    old_opml_entries = []
+    new_opml_entries = []
     stats = {
         "new_total": 0,
         "new_ok": 0,
@@ -387,7 +430,16 @@ def main():
     except Exception as e:
         print("Failed to save config: %s" % str(e))
 
-    update_readme(links)
+    # 顶部区块（前20行）之后：先加二级标题，再并列所有订阅源 + OPML 链接
+    opml_links = [
+        "## 订阅源列表\n",
+        "",
+        "- 原始 RSS：[rss-old.opml](rss-old.opml)\n",
+        "- 翻译后 RSS：[rss-new.opml](rss-new.opml)\n",
+    ]
+    final_links = opml_links + links
+    update_readme(final_links)
+    write_opml()
 
     # ======= 运行结束统计汇总 =======
     print("\n" + "=" * 52)
