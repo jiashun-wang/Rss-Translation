@@ -4,7 +4,14 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Wed, 26 Aug 2026 03:14:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:14:45 GMT</lastBuildDate>
+    <item>
+      <title>textNet：从文本数据中提取定向、多重、多模式事件网络</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.07615</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.07615</guid>
+      <pubDate>Tue, 25 Aug 2026 19:53:31 GMT</pubDate>
+    </item>
     <item>
       <title>Eegle：用于脑电图数据分析和机器学习的开源 Julia 集成包</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.10388</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10580</guid>
       <pubDate>Tue, 18 Aug 2026 17:31:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>ProbINet：弥合概率网络分析中的可用性差距</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.08638</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.08638</guid>
-      <pubDate>Tue, 18 Aug 2026 15:48:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

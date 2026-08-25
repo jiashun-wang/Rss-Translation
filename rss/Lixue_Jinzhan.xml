@@ -13,7 +13,7 @@
       <pubDate>Wed, 24 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>宽速域高超声速飞行器气动布局:研究进展与未来挑战</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/lxjz202602005</link>
       <description><![CDATA[宽速域高超声速飞行器具备水平起降、可重复使用和大空域飞行能力,是未来执行空天往返与快速远程投送任务的核心平台.其气动布局设计直接决定飞行器的总体性能与技术可行性,同时也面临多物理场耦合、宽速域适应等多重基础理论与工程挑战.本文系统梳理了该领域气动布局的国内外研究进展.首先,回顾了国外典型研制项目与概念方案的演进脉络,指出气动布局已从单一速域性能优化转向全飞行包线的综合权衡.随后,从乘波体、高压捕获翼、双向飞翼以及宽速域气动布局优化设计 4 个方面,综述了固定布局的研究现状;并对变体技术的发展历程进行梳理,归纳了适用于宽速域高超声速飞行的主要变体策略.最后,从气动设计层面、多学科耦合设计层面以及应用层面深入剖析了当前宽速域高超声速气动布局设计面临的核心挑战,并给出了未来发展建议,以期为相关领域的研究与工程实践提供参考.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/lxjz202602005</guid>
@@ -105,7 +105,7 @@
       <pubDate>Tue, 24 Mar 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>基于光滑粒子法的多物理场耦合模拟研究进展</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/lxjz202504004</link>
       <description><![CDATA[工程科学众多问题涉及多物理场耦合效应,其数值模拟往往面临巨大挑战.光滑粒子法(smoothed particle hydrodynamics,SPH)是一种经典的无网格粒子方法,在模拟多物理场耦合问题方面具有明显优势,已在众多科学和工程领域取得广泛应用.本文重点介绍近期SPH算法研究概况及其在多物理场耦合模拟方面的应用进展.具体内容包括:(1)力-热耦合问题,涉及传热传质、高速撞击、铸造、增材制造等领域;(2)力-热-化学反应耦合问题,涵盖聚能射流、爆炸焊接、水下爆炸等应用;(3)力-热-电磁耦合问题,包括电磁场流场控制及&quot;X-pinch&quot;等问题.最后,对SPH方法模拟多物理场耦合问题的未来发展进行了讨论和展望.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/lxjz202504004</guid>

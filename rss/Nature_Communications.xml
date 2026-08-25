@@ -1,67 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Nature Communications</title>
-    <link>http://feeds.nature.com/ncomms/rss/current</link>
-    <description><p><em>Nature Communications</em>&nbsp;is an open access, multidisciplinary journal dedicated to publishing high-quality research in all areas of the biological, health, physical, chemical and Earth sciences. Papers published by the journal aim to represent important advances of significance to specialists within each field.</p>
-
-<p>We are committed to providing an efficient service for both authors and readers. Our&nbsp;team of independent editors make rapid and fair publication decisions. Prompt dissemination of accepted papers to a&nbsp;wide readership and beyond is achieved through a programme of continuous online publication.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p></description>
-    <lastBuildDate>Wed, 26 Aug 2026 03:10:08 GMT</lastBuildDate>
-    <item>
-      <title>Unc-51 样激酶 3 (ULK3) 有助于多发性骨髓瘤中的自噬和细胞存活</title>
-      <link>https://www.nature.com/articles/s41467-026-76711-0</link>
-      <description><![CDATA[《自然通讯》，在线发布：2026 年 8 月 25 日； doi:10.1038/s41467-026-76711-0多发性骨髓瘤 (MM) 中的自噬相关机制仍有待了解。作者在这里发现 ULK3 有助于自噬并支持 MM 细胞存活，呼吁未来开发更具选择性的 ULK3 导向疗法。]]></description>
-      <guid>https://www.nature.com/articles/s41467-026-76711-0</guid>
-      <pubDate>Wed, 26 Aug 2026 03:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>电致变色自感知废水中氨回收智能可持续生产化肥</title>
-      <link>https://www.nature.com/articles/s41467-026-76968-5</link>
-      <description><![CDATA[《自然通讯》，在线发布：2026 年 8 月 25 日； doi:10.1038/s41467-026-76968-5作者开发了一种电致变色自我感知恢复系统，该系统集成了基于电致变色的传感、预测建模和自动控制。该系统能够从废水中智能回收铵并将其转化为液体肥料。]]></description>
-      <guid>https://www.nature.com/articles/s41467-026-76968-5</guid>
-      <pubDate>Wed, 26 Aug 2026 03:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>氧化还原分层大分子降解支持寡营养克马德克海沟沉积物中微生物的生存</title>
-      <link>https://www.nature.com/articles/s41467-026-77249-x</link>
-      <description><![CDATA[《自然通讯》，在线发布：2026 年 8 月 25 日； doi:10.1038/s41467-026-77249-x了解微生物如何在最深海洋的高压和营养贫乏的条件下生存仍然是一个重大挑战。这项研究表明，克马德克海沟微生物通过回收有机物和灵活地切换能量产生途径而繁衍生息。]]></description>
-      <guid>https://www.nature.com/articles/s41467-026-77249-x</guid>
-      <pubDate>Wed, 26 Aug 2026 03:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>活化 CASPASE-8 的外泌体输出与预防 TNF 诱导的细胞毒性有关</title>
-      <link>https://www.nature.com/articles/s41467-026-75544-1</link>
-      <description><![CDATA[《自然通讯》，在线发布：2026 年 8 月 25 日； doi:10.1038/s41467-026-75544-1ESCRT 机制和伴侣 HSC70 包装激活 CASP8 进入腔内囊泡，防止 TNF 诱导的细胞凋亡。微生物效应蛋白干扰这种解毒机制并使细胞对 TNF 细胞毒性敏感。]]></description>
-      <guid>https://www.nature.com/articles/s41467-026-75544-1</guid>
-      <pubDate>Wed, 26 Aug 2026 03:09:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>跨生物应用有效扩展的组合组测试</title>
-      <link>https://www.nature.com/articles/s41467-026-77055-5</link>
-      <description><![CDATA[《自然通讯》，在线发布：2026 年 8 月 25 日； doi:10.1038/s41467-026-77055-5组合小组测试可以降低实验成本，但由于其复杂性和缺乏实施工具，应用起来仍然具有挑战性。在此，作者介绍了 PoolPy，这是一个完整的组合组测试框架，可将生物测定的成本降低高达 93%。]]></description>
-      <guid>https://www.nature.com/articles/s41467-026-77055-5</guid>
-      <pubDate>Wed, 26 Aug 2026 03:09:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过预测患者生理机能优化抗生素切换</title>
-      <link>https://www.nature.com/articles/s41467-026-76715-w</link>
-      <description><![CDATA[《自然通讯》，在线发布：2026 年 8 月 25 日； doi:10.1038/s41467-026-76715-w作者提出了一种决策支持系统，可以预测患者的生命体征，以识别那些准备从静脉注射抗生素转为口服抗生素的患者。临床标准应用于预测，对患者进行分级以进行管理审查。]]></description>
-      <guid>https://www.nature.com/articles/s41467-026-76715-w</guid>
-      <pubDate>Wed, 26 Aug 2026 03:09:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过羧酸分子改组合成酰胺</title>
-      <link>https://www.nature.com/articles/s41467-026-77092-0</link>
-      <description><![CDATA[《自然通讯》，在线发布：2026 年 8 月 25 日； doi:10.1038/s41467-026-77092-0酰胺键代表化学和生物学中最基本的官能团。在此，作者报告了一种依赖于羧酸官能团的分子改组的酰胺合成方法。]]></description>
-      <guid>https://www.nature.com/articles/s41467-026-77092-0</guid>
-      <pubDate>Wed, 26 Aug 2026 03:09:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>作者更正：cfDNA甲基化组的多模式分析用于早期检测食管鳞状细胞癌和癌前病变</title>
-      <link>https://www.nature.com/articles/s41467-026-75462-2</link>
-      <description><![CDATA[《自然通讯》，在线发布：2026 年 8 月 25 日； doi:10.1038/s41467-026-75462-2作者更正：cfDNA甲基化组的多模态分析用于早期检测食管鳞状细胞癌和癌前病变]]></description>
-      <guid>https://www.nature.com/articles/s41467-026-75462-2</guid>
-      <pubDate>Wed, 26 Aug 2026 03:09:43 GMT</pubDate>
-    </item>
+    <title></title>
+    <link></link>
+    <description></description>
+    <lastBuildDate>Tue, 25 Aug 2026 23:14:17 GMT</lastBuildDate>
     </channel>
 </rss>

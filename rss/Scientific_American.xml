@@ -4,7 +4,14 @@
     <title>Scientific American Content: Global</title>
     <link>https://www.scientificamerican.com</link>
     <description>Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 03:54:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:19:16 GMT</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://www.scientificamerican.com/article/elon-musks-spacex-to-expand-beyond-texas-starbase-with-new-louisiana-spaceport-dedicated-to-starship/</link>
+      <description><![CDATA[据 SpaceX 称，新的太空港每年将支持数千次发射]]></description>
+      <guid>https://www.scientificamerican.com/article/elon-musks-spacex-to-expand-beyond-texas-starbase-with-new-louisiana-spaceport-dedicated-to-starship/</guid>
+      <pubDate>Tue, 25 Aug 2026 20:10:00 GMT</pubDate>
+    </item>
     <item>
       <title>这些数学技巧可以让稀有的神奇宝贝突然出现</title>
       <link>https://www.scientificamerican.com/article/these-math-tricks-can-make-rare-pokemon-appear-out-of-nowhere/</link>
@@ -20,6 +27,13 @@
       <pubDate>Tue, 25 Aug 2026 16:48:00 GMT</pubDate>
     </item>
     <item>
+      <title>美国刚刚录得 2026 年首例麻疹死亡病例</title>
+      <link>https://www.scientificamerican.com/article/the-u-s-just-recorded-its-first-two-deaths-from-measles-for-2026/</link>
+      <description><![CDATA[两名死者均未接种麻疹疫苗。这些死亡是宾夕法尼亚州 35 年来首例由这种可预防疾病造成的死亡]]></description>
+      <guid>https://www.scientificamerican.com/article/the-u-s-just-recorded-its-first-two-deaths-from-measles-for-2026/</guid>
+      <pubDate>Tue, 25 Aug 2026 16:45:00 GMT</pubDate>
+    </item>
+    <item>
       <title>本周如何观看 2026 年“血月”日食</title>
       <link>https://www.scientificamerican.com/article/how-to-see-the-2026-blood-moon-eclipse-this-week/</link>
       <description><![CDATA[从美洲、非洲和欧洲都可以看到这次近乎全食的现象——以下是观看它的方法]]></description>
@@ -29,7 +43,7 @@
     <item>
       <title>科学家刚刚释放了一支由 13 万只小章鱼组成的军队来抵御蓝蟹的入侵</title>
       <link>https://www.scientificamerican.com/article/scientists-just-unleashed-an-army-of-130-000-baby-octopuses-to-fight-off-a-blue-crab-invasion/</link>
-      <description><![CDATA[完全长大后，存活下​​来的章鱼每天可以在地中海吃掉多达四只蓝蟹]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.scientificamerican.com/article/scientists-just-unleashed-an-army-of-130-000-baby-octopuses-to-fight-off-a-blue-crab-invasion/</guid>
       <pubDate>Tue, 25 Aug 2026 15:30:00 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>由于无路森林保护面临倒退，气候变化开辟了北极航线</title>
       <link>https://www.scientificamerican.com/podcast/episode/climate-change-opens-arctic-shipping-routes-as-roadless-forest-protections-face-rollback/</link>
-      <description><![CDATA[森林、极端天气和世界变暖的现实]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.scientificamerican.com/podcast/episode/climate-change-opens-arctic-shipping-routes-as-roadless-forest-protections-face-rollback/</guid>
       <pubDate>Mon, 24 Aug 2026 10:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[当能量到达地面时，其中一些能量会转化为地震波，波及下方的土壤和岩石——“雷震”]]></description>
       <guid>https://www.scientificamerican.com/article/how-thunderquakes-could-help-reveal-hidden-structures-inside-the-earth/</guid>
       <pubDate>Sun, 23 Aug 2026 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>60 年前，美国宇航局 (NASA) 从月球上拍摄了第一张地球照片，并开始了一项遗产</title>
-      <link>https://www.scientificamerican.com/article/60-years-ago-nasa-took-the-first-ever-photo-of-earth-from-the-moon-and-began-a-legacy/</link>
-      <description><![CDATA[这张照片于 1966 年 8 月 23 日由无人驾驶的月球轨道飞行器 1 号拍摄，这张照片的遗产在 Artemis II 机组人员拍摄的令人惊叹的地球照片中得以延续]]></description>
-      <guid>https://www.scientificamerican.com/article/60-years-ago-nasa-took-the-first-ever-photo-of-earth-from-the-moon-and-began-a-legacy/</guid>
-      <pubDate>Sun, 23 Aug 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么创伤会改变我们的记忆与意识体验的结合方式</title>
-      <link>https://www.scientificamerican.com/article/why-trauma-changes-how-our-memory-engages-with-our-conscious-experience/</link>
-      <description><![CDATA[创伤会扭曲大脑中记忆的存储和检索方式]]></description>
-      <guid>https://www.scientificamerican.com/article/why-trauma-changes-how-our-memory-engages-with-our-conscious-experience/</guid>
-      <pubDate>Sat, 22 Aug 2026 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

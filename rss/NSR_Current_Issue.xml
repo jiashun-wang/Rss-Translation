@@ -27,7 +27,7 @@
       <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>在 ReO3 中发现高达 17.8 K 的 5d 过渡金属氧化物的破纪录高温超导性</title>
+      <title></title>
       <link>https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwag425/8731953?rss=1</link>
       <description><![CDATA[摘要作为一种A位空位钙钛矿型氧化物，ReO3 会经历与 ReO6 八面体旋转相关的连续压力驱动结构相变。在这项工作中，我们报告了在 12–39 GPa 压力范围内发现了 ReO3 菱面体 I 相的超导 Tc(P) 圆顶。菱面体-I 相的特点是具有插入 Re 阳离子的近密堆积氧层，这让人想起超氢化物超导体。观察到的最大 Tc (∼ 17.8 K) 创下了 5d 过渡金属氧化物中高 Tc 的记录。第一性原理计算表明，Re-5d和O-2p轨道之间的强杂化显着增强了费米能级的态密度，而密排氧骨架直接增强了电子-声子耦合。我们将观察到的记录高-Tc归因于强杂化和氧亚晶格贡献的协同效应。目前的工作建立了一个罕见的案例，即轻元素氧晶格在协助高Tc超导性的出现中发挥着至关重要的作用，并为通过高压或异质结构工程进一步探索5d过渡金属氧化物中的新型超导体提供了更多线索。]]></description>
       <guid>https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwag425/8731953?rss=1</guid>
@@ -41,7 +41,7 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>克服 Dexter 距离约束：不对称光催化的中继策略</title>
+      <title></title>
       <link>https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwag410/8725478?rss=1</link>
       <description><![CDATA[]]></description>
       <guid>https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwag410/8725478?rss=1</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>通过同步原位成像和便携式尿液分析进行早期肾损伤诊断的单分子双报告探针</title>
       <link>https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwag367/8707072?rss=1</link>
-      <description><![CDATA[摘要急性肾损伤 (AKI) 的早期发现对于有效干预和提高生存率至关重要，但由于缺乏敏感捕捉细微肾功能障碍的实用工具，这一任务仍然具有挑战性。在这里，我们报告了一种单分子双报告探针，DHU-AKI-3，具有可激活的无串扰多重信号输出，通过集成原位成像和体外便携式尿液分析来精确诊断早期AKI。全身给药后，DHU-AKI-3 在受损肾脏中被选择性激活，产生长期保留的光声信号，用于在临床诊断窗口之前进行实时原位成像。同时，近红外荧光信号迅速释放并排泄到尿液中，从而实现智能手机辅助比色分析，以进行非侵入性即时检测。无串扰的原位信号和体外信号的相互验证保证了诊断的准确性。这项研究强调了单分子双报告探针在尿液中直接可视化早期 AKI 的潜力，满足 AKI 管理中即时检测的迫切需求。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwag367/8707072?rss=1</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>通过多目标学习建立统一的数据驱动的湍流模型</title>
+      <title></title>
       <link>https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwag344/8702617?rss=1</link>
       <description><![CDATA[摘要湍流仍然是经典物理学最后未解决的问题之一，也是气候、航空航天和能源系统中精确流动预测的主要瓶颈。因此，工业模拟依赖于湍流的平均表示，而湍流通常难以预测由多种相互作用机制控制的流动。我们提出了一个统一的、数据驱动的湍流建模框架，旨在从不同流态的稀疏、间接观测中稳健地学习。该框架将物理一致性嵌入到灵活的、框架不变的闭包中，根据流特征分布的相似性自动选择代表性训练案例，并通过多目标集成策略学习单个统一模型，该策略平衡跨流和感兴趣数量的竞争目标。由此产生的统一基础模型可以无缝地适应不同的制度，无需人工干预。它在广泛的规范流中优于现有的湍流模型，并在工业相关的复杂三维配置（包括燃气轮机扩压器、通用汽车和通用飞机）中保持改进的性能。当需要特定于应用程序的准确性时，该框架通过对目标流量数据集进行附加微调，进一步支持专业模型。结果证明了可部署的广义湍流建模方法的可行性，该方法将多种流动机制统一在单个架构中，适用于广泛的自然和工业流动。]]></description>
       <guid>https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwag344/8702617?rss=1</guid>
