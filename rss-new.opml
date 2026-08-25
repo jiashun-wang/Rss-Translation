@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>翻译后 RSS 订阅源</title>
-    <dateCreated>Mon, 24 Aug 2026 17:50:53 GMT</dateCreated>
+    <dateCreated>Wed, 26 Aug 2026 03:06:47 GMT</dateCreated>
   </head>
   <body>
     <outline text="J001 OS" type="rss" xmlUrl="https://jiashun-wang.github.io/Rss-Translation/rss/OceanScience_Copernicus.xml"/>

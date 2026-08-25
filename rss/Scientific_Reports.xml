@@ -1,9 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Tue, 25 Aug 2026 14:21:27 GMT</lastBuildDate>
+    <title>Scientific Reports</title>
+    <link>http://feeds.nature.com/srep/rss/current</link>
+    <description><p><em>Scientific Reports</em>&nbsp;publishes original research in&nbsp;all areas of the natural and clinical sciences. We believe that if your research is scientifically valid and technically sound then it deserves to be published and made accessible to the research community.</p>
+
+<p>By publishing with us, your research will get the coverage and attention it deserves. Open access and continuous online publication means your work will be published swiftly, ready to be accessed by anyone, anywhere, at any time. Article Level Metrics allow you to follow the conversations your work has started.</p></description>
+    <lastBuildDate>Wed, 26 Aug 2026 03:12:32 GMT</lastBuildDate>
+    <item>
+      <title>振荡载荷下磁流变弹性体隔振器响应的数值分析</title>
+      <link>https://www.nature.com/articles/s41598-026-68357-1</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 8 月 25 日； doi:10.1038/s41598-026-68357-1振荡载荷下磁流变弹性体隔离器响应的数值分析]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-68357-1</guid>
+      <pubDate>Wed, 26 Aug 2026 03:12:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>成人阅读流利度过程中主观难度和迷走神经反应的初步研究</title>
+      <link>https://www.nature.com/articles/s41598-026-68649-6</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 8 月 25 日； doi:10.1038/s41598-026-68649-6成人阅读流利度过程中主观难度和迷走神经反应的初步研究]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-68649-6</guid>
+      <pubDate>Wed, 26 Aug 2026 03:12:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>当第一次降雨事件没有叶子时，卡廷加提供结构性植被保护</title>
+      <link>https://www.nature.com/articles/s41598-026-67588-6</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 8 月 25 日； doi:10.1038/s41598-026-67588-6卡廷加在首次降雨期间无叶时提供结构性植被保护]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-67588-6</guid>
+      <pubDate>Wed, 26 Aug 2026 03:12:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>GWAO：一种用于无线传感器网络中节能集群和路由的多目标混合元启发式算法</title>
+      <link>https://www.nature.com/articles/s41598-026-68517-3</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 8 月 25 日； GWAO：一种用于无线传感器网络中节能集群和路由的多目标混合元启发式算法]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-68517-3</guid>
+      <pubDate>Wed, 26 Aug 2026 03:12:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>更正：针对 ICU 和非 ICU 患者 COVID-19 后健康相关生活质量的前瞻性单中心研究</title>
+      <link>https://www.nature.com/articles/s41598-026-64398-8</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 8 月 25 日； doi:10.1038/s41598-026-64398-8更正：针对 ICU 和非 ICU 患者的 COVID-19 后健康相关生活质量的前瞻性单中心研究]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-64398-8</guid>
+      <pubDate>Wed, 26 Aug 2026 03:12:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>一种集成小波包变换和扩散模型的卫星遥测数据异常检测方法（WPT-diffusion）</title>
+      <link>https://www.nature.com/articles/s41598-026-67107-7</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 8 月 25 日； doi:10.1038/s41598-026-67107-7一种集成小波包变换和扩散模型的卫星遥测数据异常检测方法（WPT-diffusion）]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-67107-7</guid>
+      <pubDate>Wed, 26 Aug 2026 03:12:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>菲律宾稻草管理的经济和环境影响</title>
+      <link>https://www.nature.com/articles/s41598-026-64179-3</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 8 月 25 日； doi:10.1038/s41598-026-64179-3菲律宾稻草管理的经济和环境影响]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-64179-3</guid>
+      <pubDate>Wed, 26 Aug 2026 03:12:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>稻壳生物炭作为巴斯德孢子八菌</i>载体的MICP工艺除锌效果</title>
+      <link>https://www.nature.com/articles/s41598-026-68255-6</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 8 月 25 日； doi:10.1038/s41598-026-68255-6稻壳生物炭作为巴斯德孢子八菌载体在MICP工艺除锌中的作用]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-68255-6</guid>
+      <pubDate>Wed, 26 Aug 2026 03:12:02 GMT</pubDate>
+    </item>
     </channel>
 </rss>

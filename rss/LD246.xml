@@ -4,7 +4,24 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 14:58:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:59:35 GMT</lastBuildDate>
+    <item>
+      <title>拿 codex 跑了一个插件，欢迎大佬试用</title>
+      <link>https://ld246.com/article/1787672045819</link>
+      <description><![CDATA[我以前用语雀，后面用飞书，现在折腾思源。怎么用怎么不舒服，不太适应。然后用插件做了一个飞书云文档套件，参考了飞书还有语雀的一些界面。目前还在迭代，然后大家可以试用一下然后给一下建议，也可以提一些需求。 
+]]></description>
+      <guid>https://ld246.com/article/1787672045819</guid>
+      <pubDate>Tue, 25 Aug 2026 15:34:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>左右分屏，聚焦留白</title>
+      <link>https://ld246.com/article/1787670465182</link>
+      <description><![CDATA[国际散养
+
+]]></description>
+      <guid>https://ld246.com/article/1787670465182</guid>
+      <pubDate>Tue, 25 Aug 2026 15:07:44 GMT</pubDate>
+    </item>
     <item>
       <title>REword 插件制作的感受与工作汇报</title>
       <link>https://ld246.com/article/1787669827522</link>
@@ -155,21 +172,6 @@ systemlog.zip]]></description>
       <description><![CDATA[]]></description>
       <guid>https://ld246.com/article/1787581595208</guid>
       <pubDate>Mon, 24 Aug 2026 14:26:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇怪，收集箱刷新不了了</title>
-      <link>https://ld246.com/article/1787579894580</link>
-      <description><![CDATA[今天突然发现收集箱挂了，上次打开有 67 条，最近发了一些消息，点刷新，没有反应，但删除某一条，也没反应，升级到最新版直接收集箱就是空白了，刷新也刷新不出来...]]></description>
-      <guid>https://ld246.com/article/1787579894580</guid>
-      <pubDate>Mon, 24 Aug 2026 13:58:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Misuzu2027 的 syplugin-document-search 插件，反馈和建议</title>
-      <link>https://ld246.com/article/1787574319776</link>
-      <description><![CDATA[反馈：好像排序不大对，有 bug。对于文档的排序好像没问题。对于一个文档的多个段落都有搜索文本命中时，现实搜索结果的顺序并不是被搜索文本在原文档中出现的顺序。 
-建议：扁平化文档树能否也受笔记本筛选所影响，而不是全局性的。或者把两个设置分开。扁平化文档树的笔记本范围是一个设置；搜索所使用的笔记本筛选范围是一个设置。 ]]></description>
-      <guid>https://ld246.com/article/1787574319776</guid>
-      <pubDate>Mon, 24 Aug 2026 12:25:18 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

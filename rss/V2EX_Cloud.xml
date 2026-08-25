@@ -4,7 +4,7 @@
     <title>云计算</title>
     <link>https://www.v2ex.com/</link>
     <description>way to explore</description>
-    <lastBuildDate>Tue, 25 Aug 2026 08:08:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:03:46 GMT</lastBuildDate>
     <item>
       <title>免费号蹲了三个月，东京 ARM 终于抢到了，还升到了 2C12G</title>
       <link>https://www.v2ex.com/t/1236589#reply12</link>
@@ -23,9 +23,9 @@ https://github.com/sabialab/oci-arm-hunter]]></description>
     </item>
     <item>
       <title>忽略了 Oracle 的邮件，然后 Oracle Cloud Always Free A1 实例 18 号被 disabled，无法降配，如何恢复？</title>
-      <link>https://www.v2ex.com/t/1235469#reply55</link>
+      <link>https://www.v2ex.com/t/1235469#reply56</link>
       <description><![CDATA[早上发现 Oracle 服务器 4 OCPU / 24 GB 的 A1 实例现在被停止并标记为 disabled ，启动或修改配置都会提示：Instance is disabled and will not accept any action requests. Please contact customer support to reenable.已经成功创建完整 Boot Volume Backup ，但因为免费账户的卷容量限制，无法直接恢复出新卷。 Free Tier 控制台也没有 Create Service Request ，Ask Oracle 机器人一直循环回复。 请问有人遇到并成功解决了吗？ Support Chat 能否临时解锁实例，然后降配到 2 OCPU / 12 GB ？还是只能升级 PAYG ，或者等待旧实例被释放后再从备份恢复？]]></description>
-      <guid>https://www.v2ex.com/t/1235469#reply55</guid>
+      <guid>https://www.v2ex.com/t/1235469#reply56</guid>
       <pubDate>Wed, 19 Aug 2026 01:20:11 GMT</pubDate>
     </item>
     <item>

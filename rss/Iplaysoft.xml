@@ -4,7 +4,7 @@
     <title>异次元软件世界</title>
     <link>https://www.iplaysoft.com</link>
     <description>软件改变生活</description>
-    <lastBuildDate>Tue, 25 Aug 2026 14:33:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:00:52 GMT</lastBuildDate>
     <item>
       <title>Tessoa - 极致性能的 Win / Mac / Linux 跨平台文件管理器 (分栏/分屏/键盘/文件标签)</title>
       <link>https://www.iplaysoft.com/tessoa.html</link>
@@ -24,7 +24,7 @@ Mole 是一款可靠且效果出色的开源命令行 Mac 垃圾清理工具，�
       <pubDate>Sat, 22 Aug 2026 03:54:32 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Motrix 2 Turbo - 清爽开源免费下载工具 (跨平台 Aria2 客户端 / 支持 BT / 磁力 / NAS)</title>
       <link>https://www.iplaysoft.com/motrix2.html</link>
       <description><![CDATA[用浏览器下载大文件很慢，很多人会用 IDM 能支持多线程断点续传，但遇到磁力链接、BT 种子还得找其他工具。 Motrix 就是那种干净、不打扰、且“真要下载东西时特别顺手”的工具。 
 这款老牌基于 Aria2 引擎的开源下载器沉寂了很久，大家都以为停更了，甚至出现第三方Motrix 复活版。没想到这次官方带着全新架构回归，推出 Motrix Turbo 2.0！不只是换界面，还把桌面下载、NAS 下载、远程管理、浏览器接管、命令行控制，甚至 AI Agent 自动化都打通了……
@@ -35,12 +35,14 @@ Mole 是一款可靠且效果出色的开源命令行 Mac 垃圾清理工具，�
     <item>
       <title>DeepSeek Harness 是什么？比 Codex 龙虾 Claude Code 更好玩的 AI Agent 来了</title>
       <link>https://www.iplaysoft.com/p/deepseek-harness</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[如果你用过 AI 写方案，多半有过这种体验：它回答得头头是道，最后动手的还得是你自己。文件要自己改，代码要自己跑，出问题要自己查。而 DeepSeek Harness (简称 DSH) 要解决的，正是这件事：让 AI 从只会“动嘴”直接变成会“动手”。
+
+就在昨天，「DeepSeek V4 Pro 正式版」发布的同时，顺手开源了 DeepS…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
       <guid>https://www.iplaysoft.com/p/deepseek-harness</guid>
       <pubDate>Fri, 14 Aug 2026 18:55:46 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>DeepSeek V4 Pro 正式版！国产开源 AI 战力天花板 (直逼 Fable5 / 价格便宜 30 倍)</title>
       <link>https://www.iplaysoft.com/deepseek-v4.html</link>
       <description><![CDATA[今天一大消息就是开源 AI 大模型圈的“卷王” DeepSeek，憋了好长的时间之后，终于把全新系列模型 DeepSeek-V4 Pro 正式版发布出来了，而且照惯例，同步开源！ 
 现在 DeepSeek 官网和 API 都直接能用 v4 Pro / Flash 正式版了！相信 众多第三方算力平台、WorkBuddy 也将陆续跟进上线。之前 Claude、ChatGPT、Gemini、Qwen 等行业里各家一直在疯狂迭代。而有着“国产 Ai 图腾”、价格屠夫之称的 DeepSeek 终于又出来炸一回场了……
@@ -60,7 +62,9 @@ Mole 是一款可靠且效果出色的开源命令行 Mac 垃圾清理工具，�
     <item>
       <title>陪读蛙 Read Frog - 开源免费双语翻译插件！可接入 AI 模型 API (沉浸式/划词/视频字幕)</title>
       <link>https://www.iplaysoft.com/readfrog.html</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[我们平日上网遇到一些外语网站或英文的文章，想认真阅读，但往往光是查单词就耗掉半小时，最后还是似懂非懂。而好用的翻译插件，很多又需要订阅会员，对学生党并不是太友好。 
+直到最近遇到 Read Frog (陪读蛙)！这是一款开源的浏览器“类沉浸式”的翻译插件，核心功能完全免费！还能自由配置使用第三方大模型 API，比如 DeepSeek、OpenAI，花多少自己控。不只解决网页翻译需求，更像一个陪你读外文的双语助手，让你更好地边上网边学习外语……
+「 前往查看原文.... 」异次元还有这些值得一看：简约翻译 KISS Translator - 开源免费沉浸式翻译替代品 (划词/双语对照/视频字幕)沉浸式翻译 - 好评如潮的“网页双语翻译”工具 (浏览器插件)！高效对照阅读必备会译 - 免费好用的“AI 双语对照”网页翻译插件工具 (支持PDF/视频字幕/划词翻译等)OpenAI Translator - 超强开源 AI 划词翻译工具 (基于 ChatGPT API / 跨平台 / 质量高)异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
       <guid>https://www.iplaysoft.com/readfrog.html</guid>
       <pubDate>Fri, 07 Aug 2026 17:19:21 GMT</pubDate>
     </item>
@@ -76,12 +80,14 @@ Mole 是一款可靠且效果出色的开源命令行 Mac 垃圾清理工具，�
     <item>
       <title>史低来袭！很少打折的 Eagle 降到底价了~ 超好用图片素材收集整理软件</title>
       <link>https://www.iplaysoft.com/eagle-sale-202603.html</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[相信大家都平时都会收藏一些壁纸，设计素材，摄影照片等等资源。加上现在人工智能 AI 生图的发展，图片可谓是爆发式增长，如果更好地管理图片素材也成了很多人面临的问题。 
+Eagle 是一款 Win / Mac 平台上知名的图片素材收集与管理工具，帮你轻松收集及整理「案例、灵感、图片、音视频、情绪板」等各种素材，激发更多创意灵感，让工作变得更有效率。而在过去一年仅一次打折的 Eagle，这次跟随「夏季大促」也带来 7 折优惠！绝对值得入手……
+「 前往查看原文.... 」异次元还有这些值得一看：超经典 Win XP 壁纸 2026 全新重制版！蓝天白云与 Win11 完美融合 (暗色/亮色)快到离谱！ voidImageViewer 比图片还小的免费“极速看图”神器 (出自 Everything 团队)PicView - 图片秒开！快速免费开源看图工具 (跨平台 Win+Mac / 支持漫画 / 免解压)Eagle - 专为设计师和图片达人用心打造的图片素材收藏/整理/管理工具神器异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
       <guid>https://www.iplaysoft.com/eagle-sale-202603.html</guid>
       <pubDate>Sat, 01 Aug 2026 13:30:21 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>正版软件“夏促” 6 折起：Eagle / 酷呆桌面 / DOpus / ByePhotos…</title>
       <link>https://www.iplaysoft.com/news/6580</link>
       <description><![CDATA[最近，正版软件的“夏促”终于来了，比如荔枝的给荔一夏活动正式开启，多款热门软件限时优惠，会场软件 6 折起，如果你有入手正版 APP 的需求，必须要来看看喇！
 
@@ -119,14 +125,16 @@ Mole 是一款可靠且效果出色的开源命令行 Mac 垃圾清理工具，�
       <pubDate>Sat, 25 Jul 2026 14:14:01 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Listary 7 Pro 效率神器“进化”免费升级！文件搜索定位更快更流畅，界面更优雅……</title>
       <link>https://www.iplaysoft.com/listary7.html</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[最近「文件搜索+定位神器」 Listary v7 发布了最新的 Beta 版本，于是我把它作为主力工具深度体验了一番。说实话，这次的大版本更新有不少让人眼前一亮的细节。 
+如果你每天都要在电脑办公，需要「快速查找和定位文件」，或者想要「快速启动应用」，一定要试试这款老牌的 Windows 本地文件搜索神器。新版使用 Rust 重构，性能获得成倍的提升，界面也更舒适。跟「Fences」一样，绝对能让你的操作效率和用户体验上到另一个台阶……
+「 前往查看原文.... 」异次元还有这些值得一看：Listary 6.3 Pro - 能极大提高 Windows 文件浏览与搜索速度效率的“超级神器”Fences 6 - 高效实用的桌面图标分类整理美化工具神器 (桌面图标再多也不会乱)Quicker - 让效率起飞的 Windows “超级外挂” (快速启动 / 快捷指令 / 鼠标手势)Directory Opus 13 - 比微软自带强大百倍！全面碾压的增强文件管理器异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
       <guid>https://www.iplaysoft.com/listary7.html</guid>
       <pubDate>Mon, 20 Jul 2026 16:27:57 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>UniClipboard - 告别给自己发微信！无需账号的跨设备复制粘贴开源工具 (Win/Mac/Linux/iOS/安卓)</title>
       <link>https://www.iplaysoft.com/uniclipboard.html</link>
       <description><![CDATA[我们经常在台式机电脑上复制拷贝内容，想在笔记本或手机上继续用，只能打开微信、QQ 或邮箱，把内容发给自己，然后切到另一台设备，打开微信，找到那条消息，点开，复制，再粘贴。 
 这件事我们做了好多年，虽然很烦人、效率也很慢，但因为已经习惯了，就不觉得是问题了。但其实挺离谱的。为了粘贴一段文字，结果内容绕了一大圈，还在别人服务器上留下了不可抹去的聊天记录。这不仅是效率问题，因为剪贴板里啥都会有：密码、API Key……
