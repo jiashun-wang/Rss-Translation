@@ -4,7 +4,16 @@
     <title>Student Lounge</title>
     <link>https://blogs.mathworks.com/student-lounge</link>
     <description>The student lounge blog focuses on student success stories.   Winning student teams share their knowledge and the MathWorks student programs team shares best practices and workflows using MATLAB and Simulink.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 09:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:08:53 GMT</lastBuildDate>
+    <item>
+      <title>学习 MATLAB – 学生指南</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/08/24/learn-matlab-a-students-guide/?s_tid=feedtopost</link>
+      <description><![CDATA[
+
+在今天的博客中，我们邀请了 MathWorks 学生项目团队的 Ben Pasquariello。他将引导我们了解一些有用的 MATLAB 资源和入门技巧。接下来，...阅读更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/08/24/learn-matlab-a-students-guide/?s_tid=feedtopost</guid>
+      <pubDate>Mon, 24 Aug 2026 17:49:36 GMT</pubDate>
+    </item>
     <item>
       <title>用于双电机 EV 平台的 STM32F4 上基于 Simulink 的 CAN 控制和验证</title>
       <link>https://blogs.mathworks.com/student-lounge/2026/08/12/simulink-based-can-control-and-validation-on-stm32f4-for-a-dual-motor-ev-platform/?s_tid=feedtopost</link>
@@ -59,7 +68,7 @@ MathWorks 剑桥办事处主办了 2025 年欧洲版 MathWorks 迷你无人机�
       <pubDate>Mon, 18 May 2026 12:30:46 GMT</pubDate>
     </item>
     <item>
-      <title>模拟混合 PVT-制冷系统以在约旦炎热的夏季实现最大 COP</title>
+      <title>模拟混合 PVT-制冷系统，在约旦炎热的夏季实现最大 COP</title>
       <link>https://blogs.mathworks.com/student-lounge/2026/05/04/simulating-a-hybrid-pvt-chiller-system-for-maximum-cop-in-jordans-hot-summers/?s_tid=feedtopost</link>
       <description><![CDATA[
 
@@ -84,15 +93,6 @@ MathWorks 剑桥办事处主办了 2025 年欧洲版 MathWorks 迷你无人机�
 智能印度黑客马拉松 (SIH) 是一项全国性举措，旨在让学生参与解决日常生活中一些最紧迫的挑战。成立的目的是促进...了解更多&gt;&gt;]]></description>
       <guid>https://blogs.mathworks.com/student-lounge/2026/04/06/from-real-roads-to-real-simulations-how-team-twinx-won-smart-india-hackathon-2025/?s_tid=feedtopost</guid>
       <pubDate>Mon, 06 Apr 2026 04:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>RoboSub 模拟环境</title>
-      <link>https://blogs.mathworks.com/student-lounge/2026/03/23/robosub-simulation-environment/?s_tid=feedtopost</link>
-      <description><![CDATA[
-
-在今天的博客中，MathWorks 学生项目团队的 Abhishek Shankar 介绍了新发布的水下 RoboSub 仿真环境，该环境使用 Simulink、Simulink 3D 动画和... 了解更多 &gt;&gt;]]></description>
-      <guid>https://blogs.mathworks.com/student-lounge/2026/03/23/robosub-simulation-environment/?s_tid=feedtopost</guid>
-      <pubDate>Mon, 23 Mar 2026 16:45:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

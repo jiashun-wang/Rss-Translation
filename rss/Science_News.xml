@@ -4,7 +4,14 @@
     <title>Science News</title>
     <link>https://www.sciencenews.org</link>
     <description>INDEPENDENT JOURNALISM SINCE 1921</description>
-    <lastBuildDate>Mon, 24 Aug 2026 14:58:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:04:52 GMT</lastBuildDate>
+    <item>
+      <title>对病蛙进行热疗会降低精子水平</title>
+      <link>https://www.sciencenews.org/article/infection-treatment-lowers-frog-sperm</link>
+      <description><![CDATA[科学家经常使用热处理来对抗青蛙致命的真菌感染，但这可能是有代价的。]]></description>
+      <guid>https://www.sciencenews.org/article/infection-treatment-lowers-frog-sperm</guid>
+      <pubDate>Mon, 24 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>个性化大脑刺激可以缓解慢性疼痛</title>
       <link>https://www.sciencenews.org/article/brain-stimulation-chronic-pain</link>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 21 Aug 2026 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>受到攻击的植物留下了令人惊讶的支援信号</title>
+      <title>受到攻击的植物留下了令人惊讶的后援呼声</title>
       <link>https://www.sciencenews.org/article/plants-backup-wasp-herbivore-pest</link>
       <description><![CDATA[细菌可能会在土壤中建立食草动物攻击的记忆，并诱导新植物吸引黄蜂来控制破坏性害虫。]]></description>
       <guid>https://www.sciencenews.org/article/plants-backup-wasp-herbivore-pest</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>为什么爱泼斯坦-巴尔是“万能病毒”</title>
       <link>https://www.sciencenews.org/article/epstein-barr-virus-autoimmune</link>
-      <description><![CDATA[爱泼斯坦-巴尔病毒对全球健康造成了巨大损失。了解它的工作原理可以提供对抗多发性硬化症、癌症等疾病的方法。]]></description>
+      <description><![CDATA[爱泼斯坦-巴尔病毒给全球健康造成了巨大损失。了解它的工作原理可以提供对抗多发性硬化症、癌症等疾病的方法。]]></description>
       <guid>https://www.sciencenews.org/article/epstein-barr-virus-autoimmune</guid>
       <pubDate>Thu, 20 Aug 2026 18:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[在早期试验中，一种不需要冷藏的新疫苗仍然可以预防破伤风和白喉。]]></description>
       <guid>https://www.sciencenews.org/article/experimental-vaccine-doesnt-need-fridge</guid>
       <pubDate>Wed, 19 Aug 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>冬天，鼩鼱的鼻子变长，大脑却萎缩</title>
-      <link>https://www.sciencenews.org/article/shrews-winter-organ-mass-adaptation</link>
-      <description><![CDATA[长爪鼩鼱的鼻子在冬天会暂时变大。这种头骨重塑可能是寒冷条件下的一种极端生存策略。]]></description>
-      <guid>https://www.sciencenews.org/article/shrews-winter-organ-mass-adaptation</guid>
-      <pubDate>Tue, 18 Aug 2026 23:01:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

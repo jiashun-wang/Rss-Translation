@@ -4,7 +4,204 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 15:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:06:57 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】AIClue：同时搜索文件名和文档正文的 Windows 本地文件搜索工具</title>
+      <link>https://meta.appinn.net/t/topic/90658</link>
+      <description><![CDATA[软件名称
+AIClue 智搜
+应用平台
+Windows 10/11 64 位
+推荐类型
+【开发者自荐】
+是否收费
+当前已发布功能永久免费。 
+不要求先注册就能开始使用基础功能；匿名用户默认可以试用 15 天，注册后当前版本中的主要功能可以继续使用。 
+一句简介
+只记得文件名的一部分，或者只记得 Word、PDF 等文档里的一句话时，可以从文件名、位置和正文内容一起查找本机文件。 
+为什么做这个工具
+文件多起来以后，真正麻烦的往往不是“搜索速度不够快”，而是不记得文件叫什么、放在哪，只记得里面讲过什么。 
+AIClue 想解决的就是这种情况：先输入还记得的几个字，再通过命中高亮、内容片段和打开前预览，逐步确认哪个才是要找的文件。 
+它不打算替代文件资源管理器或 Everything。 Everything 很适合按名称和路径快速定位；AIClue 更侧重文件散落在多个目录、名称记不清，但还记得正文内容或其他线索的场景。 
+目前能做什么
+
+管理由用户主动选择的文件夹；
+同时查看文件名、文件夹位置和可读取文档的正文命中；
+在结果中显示命中高亮和内容片段；
+打开文件前先预览内容；
+从一个接近的结果继续查看内容相近文件和同目录文件；
+把当前任务需要的文件加入工作区，原文件仍留在原位置。 
+
+第一次添加大量文件时，需要一些时间读取文件信息并准备搜索数据。完成后可以在已经管理的目录中继续搜索。 
+本地文件处理边界
+AIClue 只处理用户明确选择的文件夹，日常扫描、正文读取、搜索和预览默认在本机完成。它不会自动移动、改名或删除原文件；涉及整理和清理的动作需要用户自己确认。 
+搜索结果
+
+同时查看文件名、位置和正文线索。截图来自官网演示数据，当前发布版本以下载页为准。 
+打开前预览
+
+不确定是否为目标文件时，可以先预览内容。截图来自官网演示数据，当前发布版本以下载页为准。 
+继续查看相关文件
+
+从一个接近的结果继续查看内容相近文件和同目录文件。截图来自官网演示数据，当前发布版本以下载页为准。 
+官网与下载
+官网：AIClue 智搜 | 像搜网页一样找电脑里的文件
+下载：下载 AIClue | AIClue
+当前公开版本：v26.8.10
+这是我自己开发的产品。如果大家在文件扫描、正文搜索、预览或使用边界上有疑问，可以直接在帖子里问；功能不合适或遇到问题，也欢迎直接指出。 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90658</guid>
+      <pubDate>Tue, 25 Aug 2026 06:48:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】iTermate：开源的原生 macOS 终端伴侣，让 iTerm2 / Ghostty 的Agent活动状态实时可见</title>
+      <link>https://meta.appinn.net/t/topic/90657</link>
+      <description><![CDATA[【开发者自荐】iTermate：开源的原生 macOS 终端伴侣，让 iTerm2 / Ghostty 的活动状态实时可见
+
+无需离开终端，iTerm2 与 Ghostty 的每个 Session、每条命令、每个编程 Agent 的动态，都在眼前一块实时面板里。 
+
+
+为什么会有这个项目
+终端窗口开得越多，越容易失控：哪个 Tab 里的构建跑完了？哪个 Agent 正在工作、哪个在等你输入？项目又散落在哪几个窗口里？ 
+iTermate 就是为解决这个问题而生的：它像一块「状态屏」一样贴在当前前台终端窗口旁，实时汇总你所有的 Window → Tab → Session，并把普通 Shell 命令与**编程 Agent（Pi / Codex）**的运行、完成、失败、等待输入状态变成一眼可读的动画图标。 
+它完全不需要 macOS 辅助功能（Accessibility）权限——所有数据都通过 iTerm2 官方 API 与本机 Python Bridge 读取，原生 SwiftUI/AppKit 编写，全程本机通信，不采集任何云端数据。 
+那为什么不基于 tmux / Zellij，或者干脆做一个 AI 终端？ 
+这是被问得最多的问题。因为自从 AI 出现以后，终端工具已经变成了和 Todo、日历一样的新手项目——每个人都要写一个。但真正每天承载我工作、被成千上万用户打磨了十几年的，还是 iTerm2、Ghostty 这样成熟的终端，它们才是最稳定、最合适的选择。 
+所以 iTermate 的定位很克制：不重造终端，只做终端的「状态屏」——在成熟终端旁边，用官方 API 补上实时状态这一块拼图。 
+核心能力
+
+始终紧随当前工作区：跟随前台终端窗口自动出现，终端不在前台时自动隐藏，零打扰。 
+灵活组织 Session：按 Window 或 Project Path 分组，可折叠的 Tab 子分组，跨窗口聚合同一项目。 
+直接操作 Session：点击聚焦、悬停关闭，或一键关闭整个 Window / Tab / 项目分组，面板两侧可调宽度。 
+实时活动状态：区分普通 Shell 命令与编程 Agent 工作，显示运行 / 完成时间，完成时可选系统通知。 
+可配置状态视觉：Running、Success、Failed 等每种状态都可独立选择 Alien、Robot、Classic 三种点阵动画与颜色，并实时预览。 
+编程 Agent 集成：可选接入 Pi 与 Codex 生命周期状态，Agent 等待输入时显示低干扰的静止图标。 
+项目个性化：固定、收藏项目目录，并可为每个项目设置专属颜色。 
+原生 macOS 体验：登录时启动、菜单栏控制、深浅外观、模糊背景、Sparkle 自动更新。 
+Ghostty 支持：除 iTerm2 外，也支持 Ghostty 终端，同一套面板体验。 
+
+截图
+
+价格
+完全免费，代码开源。  无内购、无订阅、无云服务，所有状态读取与渲染都在本机完成。欢迎在仓库提交 Issue 与 PR。 
+仓库与下载
+
+仓库地址：https://github.com/SSBun/iTermate
+下载最新版：https://github.com/SSBun/iTermate/releases/latest
+系统要求：macOS 13 Ventura 及以上，Apple Silicon（arm64），需已安装 iTerm2（Ghostty 支持选配）
+
+
+[!important]
+当前公开构建为 ad hoc 签名、未经 Apple 公证，请核对发布页 .sha256 文件；若 macOS 拦截首次启动，Control 点击 App → 打开即可。 
+
+安装后打开 iTermate，它会自动把随 App 分发的 Bridge 安装到 iTerm2 AutoLaunch 脚本目录并管理生命周期，无需单独配置 Python；在 Settings → Agents 里启用 Pi / Codex 集成即可看到 Agent 状态。 
+写在最后
+iTermate 是我业余时间用 Swift 5 写的原生 macOS 应用，目前仍在快速迭代中（Ghostty 支持刚落地，v0.3.0 正在发布）。如果你和我一样经常开着十几个终端窗口同时跑构建和 Agent，欢迎试试它——好用的话，一个 Star 就是最大的支持 
+有问题或想法，直接来 https://github.com/SSBun/iTermate/issues 聊聊。 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90657</guid>
+      <pubDate>Tue, 25 Aug 2026 06:47:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>〖开发者自荐〗讯览：一个免费好用的微信信息情报站</title>
+      <link>https://meta.appinn.net/t/topic/90654</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90654</guid>
+      <pubDate>Tue, 25 Aug 2026 06:37:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>WindowMark – 给 Windows 窗口加上书签、边框和置顶标记</title>
+      <link>https://meta.appinn.net/t/topic/90635</link>
+      <description><![CDATA[标题：WindowMark – 给 Windows 窗口加上书签、边框和置顶标记
+软件名称
+WindowMark
+应用平台
+Windows 10 / Windows 11
+推荐类型
+〖开发者自荐〗
+是否收费
+免费，无需注册。 
+一句简介
+给 Windows 窗口加上书签、彩色边框和置顶标记，在同时打开很多窗口时，更快找到自己想要的那个。 
+应用简介
+平时同时开很多资源管理器、Chrome、VS Code、Word 或其他程序窗口时，我经常碰到一个问题：
+任务栏里知道这个程序开了很多窗口，但真正想找其中某一个时，还是要一个个点。 
+所以做了 WindowMark。 
+它目前主要有三个功能。 
+1. 窗口书签
+当同一个程序打开多个窗口时，WindowMark 会在窗口边缘显示一组小书签。 
+例如同时打开三个资源管理器窗口，可以直接点击对应书签切换，不需要再从任务栏缩略图里找。 
+书签平时保持很小，鼠标悬停后展开显示窗口名称；也可以悬停预览窗口内容。 
+窗口最大化后，书签会自动移动到底部，尽量少占屏幕空间。 
+2. 窗口边框增强
+可以给普通 Windows 窗口增加一圈彩色边框，并分别设置：
+
+
+当前活动窗口颜色
+
+
+非活动窗口颜色
+
+
+边框宽度
+
+
+自定义颜色
+
+
+主要是解决深色主题、多显示器或者同时叠放很多窗口时，不容易判断“当前到底操作的是哪个窗口”的问题。 
+这个功能和书签是独立的，不需要书签也可以单独使用。 
+3. 窗口置顶
+可以把任意普通窗口保持在最上层。 
+目前支持三种方式：
+
+
+标题栏右键 →「置于顶层」
+
+
+从托盘拖动准星到目标窗口
+
+
+自定义全局快捷键
+
+
+被置顶的窗口会同时显示一圈高亮边框，方便判断哪些窗口正处于置顶状态。 
+退出 WindowMark 后，会把这些窗口恢复到原来的状态。 
+一些设计上的考虑
+WindowMark 尽量保持成一个普通的小工具。 
+不注入 DLL，不修改 Explorer，不修改任务栏，不安装驱动，也不需要 Windows 服务，平时就是一个托盘程序。 
+书签、窗口边框和窗口置顶三个功能也可以分别开关，不需要的功能可以直接关闭。 
+目前主要针对 Windows 10 / 11 使用。 
+截图预览
+
+
+同一个程序打开多个窗口时，底部书签的实际效果
+
+
+鼠标悬停书签后的窗口预览
+
+
+窗口彩色边框效果
+
+
+
+标题栏右键「置于顶层」或准星抓取窗口的效果
+
+
+
+置顶后效果，再次右击取消勾选置于顶层即可。 
+
+官方网站 / 下载
+GitHub：WindowMark 项目主页： GitHub - yakoye/WindowMark · GitHub
+可以直接下载 Release，解压后运行，也可以使用安装程序安装。 
+目前版本：v0.4.1
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90635</guid>
+      <pubDate>Tue, 25 Aug 2026 00:22:50 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】妙盒笔记——深度优化的手机 Markdown 笔记应用，从写作、整理、导出、分享，到站点发布一气呵成</title>
       <link>https://meta.appinn.net/t/topic/90591</link>
@@ -398,126 +595,10 @@ yyzTools 是一套 Windows 桌面效率工具集，集命令面板、超级翻�
 
 yyzTools — A free Windows productivity toolkit
 yyzTools is a Windows desktop productivity toolkit: command palette, translation, OCR, file preview, clipboard history, batch processing, live wallpaper and 40+ more. Local-first, free forever.
-15 个帖子 - 4 位参与者
+19 个帖子 - 5 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90519</guid>
       <pubDate>Sun, 23 Aug 2026 03:35:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】纸间笔记：把微信读书划线做成每日抽签，高颜值读书卡片分享</title>
-      <link>https://meta.appinn.net/t/topic/90513</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90513</guid>
-      <pubDate>Sun, 23 Aug 2026 02:55:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费桌面护眼软件，蓝光过滤 + 可爱宠物久坐提醒，不锁屏不打扰</title>
-      <link>https://meta.appinn.net/t/topic/90482</link>
-      <description><![CDATA[软件名称
-护眼宝
-应用平台
-
-Windows
-macOS
-
-推荐类型
-【开发者自荐】
-是否收费
-免费
-一句简介
-蓝光过滤 + 色温调节 + 超可爱的宠物久坐提醒，给长时间盯屏的人一个不打扰的护眼搭档
-应用简介
-我自己就是长期对着屏幕工作的人，试过不少护眼软件，要么太简陋只会调色温，要么太重要强制锁屏打断状态。做不到的就自己做——护眼宝就是这么来的。 
-它做三件事：
-
- 色温 &amp; 蓝光过滤：可分别调节色温强度和蓝光过滤比例，白天傍晚夜间都能找到舒服的屏幕状态
- 定时休息提醒：按你设定的工作/休息间隔自动提醒，不强制锁屏，不弹生硬弹窗
- 宠物久坐提醒：到点会有超可爱的小动物出现在屏幕上——嘎嘎鸭、糯米猫、小虎、鹅鹅鹅，点一下就走，比闹钟友好多了
-
-常驻系统托盘，几乎感觉不到它的存在。适合写代码、做设计、长时间办公的人。 
-后续可以推出宠物自定义教程，然后就可以让自己的宠物来提醒自己该走一走扭一扭活动一下身体了啦
-无需注册，下载即用。 
-官方网站
-
-
-
-护眼宝
-
-
-
-护眼宝官网 - 专业轻量桌面护眼软件|宠物久坐提醒
-蓝光过滤、色温调节、定时休息提醒和宠物动画陪伴，让长时间使用电脑更舒服。 
-
-
-
-
-
-13 个帖子 - 4 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90482</guid>
-      <pubDate>Sat, 22 Aug 2026 07:23:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>GotifyInbox  Gotify 消息推送桌面客户端</title>
-      <link>https://meta.appinn.net/t/topic/90457</link>
-      <description><![CDATA[应用平台
-
-Windows(x64)
-
-推荐类型
-【开发者自荐】
-是否收费
-免费(开源,GPL-3.0)
-一句简介
-一个单文件、零依赖的 Gotify 消息推送桌面客户端,常驻系统托盘实时接收服务器推送,断线自动重连
-应用简介
-GotifyInbox 是使用 Win32/C++ 开发的 Gotify 消息推送客户端,无需安装 .NET 运行时,绿色便携,复制即用。 
-已实现功能:
-
-实时接收 Gotify 消息推送(wss 长连接,Schannel TLS 证书自动验证)
-启动自动连接:配置完整时直接最小化到托盘;未配置时自动弹出设置引导
-托盘常驻:左键显示主界面,右键菜单 消息 / 设置 / 退出
-新消息到达且主界面隐藏时,托盘图标闪烁提醒(6 秒)
-消息列表右键一键复制(标题 + 正文 + 时间)
-历史消息持久化(message.json),重启不丢失
-断线自动重连(指数退避 2s → 60s);令牌无效、证书校验失败等永久性错误自动停止重连,修改设置后恢复
-关闭窗口隐藏到托盘,退出仅通过托盘菜单,不占任务栏
-支持 IPv4 / IPv6,兼容 HTTP / HTTPS
-
-开发中功能：
-
-暂无明确规划,欢迎在 GitHub Issues 提出建议
-
-截图预览：
-
-
-官方网站
-
-
-github.com
-
-
-
-
-GitHub - foolsic/GotifyInbox
-通过在 GitHub 上创建帐户来为 foolsic/GotifyInbox 开发做出贡献。 
-
-
-
-
-
-
-3 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90457</guid>
-      <pubDate>Fri, 21 Aug 2026 16:07:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>DownloadIt - FlashGot 复刻版</title>
-      <link>https://meta.appinn.net/t/topic/90452</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90452</guid>
-      <pubDate>Fri, 21 Aug 2026 14:58:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

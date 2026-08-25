@@ -4,7 +4,17 @@
     <title>GMD - recent papers</title>
     <link>https://gmd.copernicus.org/articles/</link>
     <description>Combined list of the recent articles of the journal Geoscientific Model Development and the recent discussion forum Geoscientific Model Development Discussions</description>
-    <lastBuildDate>Mon, 24 Aug 2026 14:54:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:56:30 GMT</lastBuildDate>
+    <item>
+      <title>具有自适应观测误差膨胀和自适应定位的古气候数据同化</title>
+      <link>https://doi.org/10.5194/gmd-19-7893-2026</link>
+      <description><![CDATA[具有自适应观测误差膨胀和自适应定位的古气候数据同化
+                    罗格、曾悦飞、朱峰、赵久伟
+                        地理学。模型开发，19，7893–7909，https://doi.org/10.5194/gmd-19-7893-2026，2026
+                        从稀疏的珊瑚记录中重建过去的温度是具有挑战性的。我们开发了两种自适应方法来改进模型模拟与代理数据的结合方式。第一个根据模型一致性调整每个记录的信任度；第二个调整每个记录对重建的影响程度。我们的方法提高了准确性并更好地捕获了厄尔尼诺-南方涛动模式，特别是在数据匮乏的地区。这些策略使气候重建更加可靠]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-7893-2026</guid>
+      <pubDate>Tue, 25 Aug 2026 06:23:49 GMT</pubDate>
+    </item>
     <item>
       <title>LISFLOOD v4.1.1 的水文审计：模型设置对波河流域水平衡组成部分的影响</title>
       <link>https://doi.org/10.5194/gmd-19-7855-2026</link>
@@ -13,7 +23,7 @@
                         地理学。模型开发，19，7855–7892，https://doi.org/10.5194/gmd-19-7855-2026，2026
                         我们评估了大型流域模型的不同配置如何影响意大利波河流域的水流、蒸发、土壤湿度和地下水的模拟。我们测试了替代土壤深度以及包含或去除地下流动路径，并将结果与​​观测结果和已建立的长期水平衡关系进行比较。与河流流量最匹配的设置通常会低估蒸发量并高估深层地下水补给量。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7855-2026</guid>
-      <pubDate>Mon, 24 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
       <title>利用扩散模型预测风速临近预报不确定性量化的预报误差</title>
@@ -23,7 +33,7 @@
                         地理学。模型开发，19，7835–7853，https://doi.org/10.5194/gmd-19-7835-2026，2026
                         该研究提出了一种基于扩散的框架，通过学习预测误差分布来量化风速临近预报的不确定性。通过随机生成误差并将其添加到基于物理的风临近预报中，可以生成多个预报场景。结果提高了预测准确性并提供了预测不确定性的可靠估计。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7835-2026</guid>
-      <pubDate>Mon, 24 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
       <title>斯托克斯冰流模型中的接地线动力学 (Elmer/Ice v9.0)：改进的数值稳定性允许更大的时间步长</title>
@@ -33,7 +43,7 @@
                         地理学。模型开发，19，7817–7834，https://doi.org/10.5194/gmd-19-7817-2026，2026
                         为了克服时间步长限制，我们在斯托克斯冰盖模拟中的冰海界面实施了自由表面稳定算法（FSSA）。在二维实验中，10 年的时间步长通常在数值上稳定且准确，而 50 年的时间步长虽然稳定，但无法完全捕获接地线动态。在冰海界面的实施增加了斯托克斯模型的适用性，并促进了未来与自适应时间步进方案的耦合。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7817-2026</guid>
-      <pubDate>Fri, 21 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
       <title>优化高斯过程仿真和广义加法模型拟合，以进行快速、可重复的地球系统模型分析</title>
@@ -43,7 +53,7 @@
                         地理学。模型开发，19，7767–7785，https://doi.org/10.5194/gmd-19-7767-2026，2026
                         了解气候模型的哪些部分导致不确定性需要许多大型计算机实验。我们开发了一种新的工作流程，大大提高了这些研究的速度和效率。它可以以高达 25 倍的速度分析数百万个模型变化，而不会损失准确性，使科学家能够更详细地探索不确定性并使气候预测更加可靠。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7767-2026</guid>
-      <pubDate>Fri, 21 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
       <title>ISBA (SURFEX v9) 地表模型中氮循环的表示及其与碳循环的耦合：使用两个自由空气 CO2 富集实验场进行评估</title>
@@ -53,7 +63,7 @@
                         地理学。模型开发，19，7787–7815，https://doi.org/10.5194/gmd-19-7787-2026，2026
                         文章描述了氮循环在地表模型ISBA（相互作用-土壤-生物圈-大气）中的实现。该模型使用自由空气二氧化碳富集实验进行评估。与多模型分析的比较表明，氮模型版本比纯碳版本表现更好，特别是对二氧化碳升高和碳储量较小的敏感性降低。我们还对土壤中模拟的氮动态进行了详细分析。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7787-2026</guid>
-      <pubDate>Fri, 21 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
       <title>GCAM-Europe v7.2.0：通过空间和部门细节加强与政策相关的气候建模</title>
@@ -63,7 +73,7 @@
                         地理学。模型开发，19，7741–7766，https://doi.org/10.5194/gmd-19-7741-2026，2026
                         GCAM-Europe 是一种开放获取的建模工具，旨在评估欧洲国家气候和环境政策的影响。它建立在全球框架的基础上，增加了欧洲详细的区域和部门代表性，包括能源、土地利用、水和排放。这样可以分析国家内部和国家之间的政策效果以及全球溢出效应，以支持透明、基于证据的决策。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7741-2026</guid>
-      <pubDate>Thu, 20 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
       <title>耦合模型比较项目各模型阶段的代码可访问性和代码质量</title>
@@ -73,7 +83,7 @@
                         地理学。模型开发，19，7687–7704，https://doi.org/10.5194/gmd-19-7687-2026，2026
                         我们研究了随着时间的推移，主要气候模型背后的计算机代码的可访问性和可靠性。通过审查耦合模型比较项目的不同阶段，我们发现透明度和编码实践方面有所改进，但也发现了限制可重复性的差距。我们的工作提出了切实可行的步骤，使未来的气候研究对科学家和社会来说更加开放、可追溯和值得信赖。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7687-2026</guid>
-      <pubDate>Thu, 20 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
       <title>AQUA v1.0.0：适应气候变化数字孪生质量评估应用——核心引擎</title>
@@ -83,10 +93,10 @@
                         地理学。模型开发，19，7725–7740，https://doi.org/10.5194/gmd-19-7725-2026，2026
                         我们推出了一款名为 AQUA 的新型开源软件，旨在处理和评估高分辨率气候模拟产生的大量数据。随着气候模型变得更加详细，其输出对于传统分析方法来说可能变得太大和复杂。我们引入了一种新的数据访问、处理和比较框架，该框架快速、可靠且易于自动化。我们的结果表明，它可以有效地管理非常大的数据集并支持实时质量检查。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7725-2026</guid>
-      <pubDate>Thu, 20 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
-      <title>利用大气模型 ICON 提升以飓风为中心的高效模拟能力</title>
+      <title>利用大气模型 ICON 提高以飓风为中心的高效模拟能力</title>
       <link>https://doi.org/10.5194/gmd-19-7705-2026</link>
       <description><![CDATA[利用大气模型 ICON 提高以飓风为中心的高效模拟能力
                     法比安·森夫和罗克珊娜·克里默
@@ -94,9 +104,9 @@
                         
 
 
-飓风预测的计算机模型越来越详细，但需要大量的计算资源。我们开发了一种跟踪飓风的灵活方法，仅在需要时应用高分辨率模拟。与传统的有限区域相比，该方法可将计算成本降低一个数量级，同时实现低至 300 米的分辨率。该方法可以提高飓风研究的效率并提高对热带动力学的了解。]]></description>
+飓风预测的计算机模型越来越详细，但需要大量的计算资源。我们开发了一种跟踪飓风的灵活方法，仅在需要时应用高分辨率模拟。与传统的有限区域域相比，该方法可将计算成本降低一个数量级，同时实现低至 300 米的分辨率。该方法可以实现更有效的飓风研究并增进对热带动力学的了解。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7705-2026</guid>
-      <pubDate>Thu, 20 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
       <title>CMIP6 缩小规模的 CORDEX-东南亚 (SEA) 整体：SEA 大城市的评估和基准测试</title>
@@ -106,17 +116,17 @@
                         地理学。模型开发，19，7653–7685，https://doi.org/10.5194/gmd-19-7653-2026，2026
                         我们提出了东南亚（1960-2100）耦合模型比对项目第六阶段（CMIP6）缩小规模区域气候模型模拟的集合。我们（1）根据多个观测数据集评估模型性能，（2）应用标准化基准框架来识别高性能模型，以进一步对东南亚大城市进行公里级动态缩小。这项工作支持可靠的区域气候预测的开发和使用。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7653-2026</guid>
-      <pubDate>Wed, 19 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
-      <title>NEMO4.0.4-MEDUSA2.0-PDAF2.0海洋生态系统模型同化浮游植物碳的影响</title>
+      <title>NEMO4.0.4-MEDUSA2.0-PDAF2.0海洋生态系统模拟中同化浮游植物碳的影响</title>
       <link>https://doi.org/10.5194/gmd-19-7589-2026</link>
       <description><![CDATA[NEMO4.0.4-MEDUSA2.0-PDAF2.0海洋生态系统模型同化浮游植物碳的影响
                     陈雨萌、Dale Partridge、Lars Nerger
                         地理学。模型开发，19，7589–7613，https://doi.org/10.5194/gmd-19-7589-2026，2026
                         业务海洋生态系统预测传统上依赖于将浮游植物叶绿素观测与模型预测相结合。然而，使用我们新开发的集合数据同化系统，我们证明同化浮游植物碳数据可以导致更平衡的浮游植物估计并调整全球海洋碳的估计。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7589-2026</guid>
-      <pubDate>Tue, 18 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Tue, 18 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
       <title>将甲烷动力学应用到 LPJmL6 模型中</title>
@@ -126,17 +136,17 @@
                         地理学。模型开发，19，7615–7651，https://doi.org/10.5194/gmd-19-7615-2026，2026
                         甲烷是气候变化的强大驱动因素，但湿地和农业的排放仍然不确定。我们改进了全球植被模型，将水、植物和土壤与甲烷的产生和释放联系起来。该模型现在捕获了淹水地区、甲烷的产生和逸出以及耐洪植物。它更真实地再现了全球湿地模式和排放，有助于评估气候和土地利用变化如何影响未来的甲烷排放并改善气候预测。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7615-2026</guid>
-      <pubDate>Tue, 18 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Tue, 18 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
       <title>将 MyAMI 衍生的 Mg ∕ Ca 校正纳入 cGENIE.cookie 地球系统模型中的海洋碳酸盐系统 (v.0.91)</title>
       <link>https://doi.org/10.5194/gmd-19-7569-2026</link>
-      <description><![CDATA[将 MyAMI 衍生的 Mg ∕ Ca 修正纳入 cGENIE.cookie 地球系统模型中的海洋碳酸盐系统 (v.0.91)
+      <description><![CDATA[将 MyAMI 衍生的 Mg ∕ Ca 校正纳入 cGENIE.cookie 地球系统模型中的海洋碳酸盐系统 (v.0.91)
                     马库斯·阿德洛夫、泰拉·M·加尼、马西斯·P·海恩、迈克尔·J·赫内汉、莎拉·E·格林和安迪·里奇韦尔
                         地理学。模型开发，19，7569–7588，https://doi.org/10.5194/gmd-19-7569-2026，2026
                         海水成分影响海洋中的碳循环，并且在地球历史上发生了变化，在重建过去的海洋碳酸盐系统时需要进行修正。我们提出了一种基于离子相互作用模型 MyAMI 的中等复杂性地球系统模型 cGENIE 的新校正方案。我们验证了新方案，发现对默认方案的显着改进，并讨论了碳循环重建中准确且一致的主离子校正的相关性。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7569-2026</guid>
-      <pubDate>Mon, 17 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Mon, 17 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     <item>
       <title>用于跨水文气候状况超分辨率降水降尺度的生成人工智能模型的全面相互比较</title>
@@ -146,17 +156,7 @@
                         地理学。模型开发，19，7545–7567，https://doi.org/10.5194/gmd-19-7545-2026，2026
                         高分辨率降水对于水文和气候风险应用至关重要，但气候模型过于粗糙，无法解决风暴规模的极端情况。我们将确定性 U-NET 与两个生成模型（Wasserstein 生成对抗网络 (WGAN) 和扩散模型）进行比较，使用 ERA5-Land 进行 8 倍和 16 倍降水降尺度。 U-NET 很稳定，但可以平滑极端情况，而生成模型可以更好地捕获可变性和重尾，同时引入更大的不确定性。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7545-2026</guid>
-      <pubDate>Mon, 17 Aug 2026 11:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPU加速三维非结构化网格大气动力框架有限元法</title>
-      <link>https://doi.org/10.5194/gmd-19-7525-2026</link>
-      <description><![CDATA[三维非结构化网格大气动力框架GPU加速有限元法
-                    李雷生、付西蒙、郑希宇、李惠媛、李金喜
-                        地理学。模型开发，19，7525–7544，https://doi.org/10.5194/gmd-19-7525-2026，2026
-                        科学家使用不规则网格模型进行精确的天气模拟，这有助于捕获细节，但也会使传统计算机上的计算速度变慢。我们通过重新组织数据和计算来重新设计图形处理单元 (GPU) 的模型。这使得最慢的部分快了数百倍，整个模拟快了十倍以上。这允许更高分辨率的模拟。]]></description>
-      <guid>https://doi.org/10.5194/gmd-19-7525-2026</guid>
-      <pubDate>Fri, 14 Aug 2026 11:16:01 GMT</pubDate>
+      <pubDate>Mon, 17 Aug 2026 06:23:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

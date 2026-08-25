@@ -4,7 +4,77 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Mon, 24 Aug 2026 08:28:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:07:16 GMT</lastBuildDate>
+    <item>
+      <title>另类开源！ Grok Bot打包失误忘记关闭源码映射文件 现在算是半开源</title>
+      <link>https://www.landian.news/archives/126448.html</link>
+      <description><![CDATA[#人工智能 另类开源！ Cursor 团队发布 Grok Bot 时也出现打包失误忘记关闭 Runtime Source Map，已经有开发者利用 MAP 文件重建大量可读的核心源代码。借助源代码我们可以研究 Grok Bot 的运行原理，也可以切换到 Codex、Claude Code、OpenRouter 等。此前 Claude Code 也出现过类似失误，当时 A 社直接发送大量 DMCA 通知函要求下架仓库，可见 A 社有多小气。 Cursor 并未发送 DMCA 通知，所以现在源代码还是可以继续获取的。查看全文：https://ourl.co/126448]]></description>
+      <guid>https://www.landian.news/archives/126448.html</guid>
+      <pubDate>Tue, 25 Aug 2026 07:37:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果将​​在本周或下周推出新款Mac mini 可能搭载M5或M6芯片</title>
+      <link>https://www.landian.news/archives/126447.html</link>
+      <description><![CDATA[#硬件设备 苹果将在本周或下周推出新款 Mac mini，可能搭载 M5 或 M6 芯片。彭博社马克古尔曼发布的最新消息称，苹果计划在秋季发布会前推出 2026 款 Mac mini。苹果已经测试搭载 M5 和 M6 芯片的 Mac mini，但即将发布的新款搭载 M5 还是 M6 还不确定。查看全文：https://ourl.co/126447]]></description>
+      <guid>https://www.landian.news/archives/126447.html</guid>
+      <pubDate>Tue, 25 Aug 2026 06:42:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET Framework 8月更新导致Windows 11打印异常 微软已分享临时解决方案</title>
+      <link>https://www.landian.news/archives/126446.html</link>
+      <description><![CDATA[#系统资讯 安装.NET Framework 8 月更新后 Windows 11 打印出现异常，受影响的主要是 WPF 应用生成的 PDF 或 XPS 文档。这个问题与字体有关，只要更换不受影响的字体那就可以打印。微软目前也在寻找永久解决方案，初步调查显示这与微软部署的安全措施有关。解决方案：https://ourl.co/126446]]></description>
+      <guid>https://www.landian.news/archives/126446.html</guid>
+      <pubDate>Tue, 25 Aug 2026 05:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11会在某些情况下自动删除驱动程序 有用户安装的N卡驱动被悄悄卸载</title>
+      <link>https://www.landian.news/archives/126445.html</link>
+      <description><![CDATA[#系统资讯 Windows 10/11 还内置了自动清理驱动程序的机制，华硕 ROG 游戏本用户发现自己的 N 卡驱动程序被自动卸载。排查后发现在奥创软件里启用 ECO 节能模式后，独立显卡会被断电，相当于从 PCIe 总线上移除。此时系统会在后台检测，超过 15 天没有恢复连接时，系统就会直接删除独显元数据和对应的驱动。查看全文：https://ourl.co/126445]]></description>
+      <guid>https://www.landian.news/archives/126445.html</guid>
+      <pubDate>Tue, 25 Aug 2026 03:49:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>听劝：经过用户反馈后苹果不再调整iCloud+隐藏邮箱使用的域名 避免其他平台屏蔽</title>
+      <link>https://www.landian.news/archives/126443.html</link>
+      <description><![CDATA[#行业资讯 听劝：经过社区反馈后苹果决定放弃此前调整 iCloud 隐藏邮箱域名的决定，避免其他平台屏蔽用户生成的随机邮箱。此前苹果决定将隐藏电子邮件和使用 Apple 登录生成的随机邮箱都放到 private[.]icloud[.]com 域名下，这个决定遭到专业用户的反对，因为其他平台可以轻易识别并禁止用户使用隐私邮箱注册。经过反馈后，苹果决定 iCloud+ 隐藏邮箱功能继续使用 iCloud[.]com 域名，但使用 Apple 登录生成的邮箱仍然会使用新域名。查看全文：https://ourl.co/126443]]></description>
+      <guid>https://www.landian.news/archives/126443.html</guid>
+      <pubDate>Tue, 25 Aug 2026 03:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>美好时光即将过去：Codex将从明天开始恢复5小时限额(仅Plus订阅用户)</title>
+      <link>https://www.landian.news/archives/126444.html</link>
+      <description><![CDATA[#人工智能 美好时光即将过去：Codex 将从明天开始恢复 5 小时限额机制，但仅限 Plus 订阅用户。对于开通 100 或 200 美元的 Pro 用户来说暂时还是没有 5 小时限额，从某些意义上说即低价用户给高价用户让路，算力优先确保高价用户的稳定使用。查看全文：https://ourl.co/126444]]></description>
+      <guid>https://www.landian.news/archives/126444.html</guid>
+      <pubDate>Tue, 25 Aug 2026 02:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenCode已取消首月5美元优惠价 原因也是号商批量注册薅羊毛再通过API转售</title>
+      <link>https://www.landian.news/archives/126442.html</link>
+      <description><![CDATA[#人工智能 开源 AI 编码工具 OpenCode 已取消首月 5 美元优惠价，原因也是号商批量注册账号再通过 API 转售。此前 GitHub Copilot 免费试用就被取消，原因就是遭到滥用。现在 OpenCode 取消首月优惠价原因相同，大量号商注册新号薅羊毛再去通过 API 转售，这让 OpenCode 不胜其烦，所以干脆取消优惠。查看全文：https://ourl.co/126442]]></description>
+      <guid>https://www.landian.news/archives/126442.html</guid>
+      <pubDate>Tue, 25 Aug 2026 02:19:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>达到生产级可以公开发布：Mozilla Firefox v157开始将默认全平台支持JPEG XL图像</title>
+      <link>https://www.landian.news/archives/126441.html</link>
+      <description><![CDATA[#软件资讯 火狐浏览器将从 v157 版开始默认在全平台支持 JPEG XL 图像格式，即经过长时间的测试后谋智基金会工程师认为该功能已经达到生产级别。 JPEG XL 提供更优秀的压缩效率且支持有损或无损压缩，该格式此前已经被谷歌弃用，但在苹果提供支持后现在谷歌也在讨论是否要恢复支持。查看全文：https://ourl.co/126441]]></description>
+      <guid>https://www.landian.news/archives/126441.html</guid>
+      <pubDate>Tue, 25 Aug 2026 01:46:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>联想终于承认Legion Go游戏掌机更新BIOS固件后变砖 将为用户提供免费维修</title>
+      <link>https://www.landian.news/archives/126440.html</link>
+      <description><![CDATA[#游戏资讯 联想终于承认 Legion Go 游戏掌机安装固件后变砖问题，将为用户提供免费售后服务，无论是否在保。 7 月份就有玩家发帖称安装 BIOS 后掌机变砖，结果联想悄悄从下载页面删除固件就当这事儿没发生过。直到现在联想才发布声明承认问题，联想认为这可能与部分批次的产品搭载的特定硬件有关。查看全文：https://ourl.co/126440]]></description>
+      <guid>https://www.landian.news/archives/126440.html</guid>
+      <pubDate>Tue, 25 Aug 2026 01:07:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>又涨价！ YouTube Premium在欧洲和亚洲多国涨价 涨幅最高17%</title>
+      <link>https://www.landian.news/archives/126439.html</link>
+      <description><![CDATA[#网站应用 又涨价！ YouTube Premium 在欧洲和亚洲多个国家涨价，涨幅最高 17%。本轮涨价主要涉及欧洲多个国家和亚洲的新加坡，谷歌给出的理由依然是改进 Premium 并支持创作者和艺术家。近年来谷歌采取激进的反广告拦截策略刺激更多用户开通订阅，不过 Premium 订阅的价格也越来越高。查看全文：https://ourl.co/126439]]></description>
+      <guid>https://www.landian.news/archives/126439.html</guid>
+      <pubDate>Tue, 25 Aug 2026 00:50:55 GMT</pubDate>
+    </item>
     <item>
       <title>[下载] 超酷炫的全能型任务管理器/系统资源监视器TMOG 由前微软工程师开发</title>
       <link>https://www.landian.news/download/126463.html</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[#行业资讯 对象存储与 CDN 服务提供商又拍云 (UPyun) 及其法人被法院签发限高令，疑似出现经营问题。公开数据显示，7 月和 8 月又拍云被执行 3 次，合计近 900 万元。其中网鼎科技在 8 月 5 日申请的强制执行无果，执行标的 239 万元，于是杭州拱墅区法院签发限高令。另外近期又拍云稳定性也存在问题，有可能是服务器提供商通过停机向又拍云施压。建议使用又拍云的开发者，立即备份托管在又拍云上的数据，以防不测。查看全文：https://ourl.co/126435]]></description>
       <guid>https://www.landian.news/archives/126435.html</guid>
       <pubDate>Mon, 24 Aug 2026 03:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软称安装8月更新后Windows 11游戏异常原因已找到：与RGB灯效驱动程序有关</title>
-      <link>https://www.landian.news/archives/126434.html</link>
-      <description><![CDATA[#系统资讯 微软找到了安装 8 月更新后 Windows 11 玩游戏异常：与 RGB 灯效驱动程序有关。微软称，经过持续调查团队发现引起问题的是与 RGB 设备相关的 inpoutx64 驱动程序有关，目前用户需要临时禁用该驱动恢复游戏的运行。禁用后 RGB 灯光设备可能会出现异常，或 RGB 控制软件出现异常。解决方案：https://ourl.co/126434]]></description>
-      <guid>https://www.landian.news/archives/126434.html</guid>
-      <pubDate>Mon, 24 Aug 2026 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软正在推出新的OneDrive文件夹排除功能 可以将Node/PowerShell等开发路径排除备份</title>
-      <link>https://www.landian.news/archives/126433.html</link>
-      <description><![CDATA[#软件资讯 微软正在推出新的 OneDrive 文件夹排除功能，可以将 Node/PowerShell 等开发路径排除备份，避免备份海量冗余模块数据。该功能主要用来排除开发路径，IT 管理员可以根据企业环境进行排除。像是 node_modules 数据量极大且更新频繁，正常来说确实可以排除在备份外。查看全文：https://ourl.co/126433]]></description>
-      <guid>https://www.landian.news/archives/126433.html</guid>
-      <pubDate>Mon, 24 Aug 2026 02:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>离谱！ R星为追查GTA6泄密者 要求Discord交出约10万名用户的个人信息</title>
-      <link>https://www.landian.news/archives/126432.html</link>
-      <description><![CDATA[#游戏资讯 真离谱！ R 星为追查 GTA6 泄密者，要求 Discord 交出约 10 万名用户的个人信息。涉及的个人信息包括：账户 ID、注册邮箱、注册和登录 IP、电话号码、关联信息、设备标识符、这些用户的 OneDrive 账户中与 GTA/R 星 / Cyber​​Leek 相关的内容、设备记录或遥测记录。 R 星向法院提交两份 DMCA 传票申请，这两份传票分别对应微软和 Discord，其中 Discord 涉及 3 个频道，合计约 10 万人，只要 6 月 1 日后加入该频道，那就要被交出信息。查看全文：https://ourl.co/126432]]></description>
-      <guid>https://www.landian.news/archives/126432.html</guid>
-      <pubDate>Mon, 24 Aug 2026 02:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼向PS玩家发邮件强调 玩家购买的数字游戏仅为授权许可 而不是卖给玩家的</title>
-      <link>https://www.landian.news/archives/126431.html</link>
-      <description><![CDATA[#游戏资讯 索尼再次向 PS 玩家发邮件，重申玩家购买的数字游戏仅为授权许可，而不是卖给玩家的。索尼向用户授予有限的、非独占的、不可转让的个人许可。且如果玩家账号被关停、删除或暂停时，玩家将会失去游戏的访问权。查看全文：https://ourl.co/126431]]></description>
-      <guid>https://www.landian.news/archives/126431.html</guid>
-      <pubDate>Mon, 24 Aug 2026 01:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11测试新的持久化鼠标指示器 在鼠标指针显示大圆环标识指针位置</title>
-      <link>https://www.landian.news/archives/126376.html</link>
-      <description><![CDATA[#系统资讯 微软在 Windows 11 测试版中测试新的持久化鼠标指示器，在鼠标指针周围显示大圆环标识位置。这个功能与 PowerToys 里提供的查找鼠标类似，不过微软集成在 Windows 11 里的功能没那么多，目前主要是按需显示或持久化显示，也可以通过快捷键触发。查看全文：https://ourl.co/126376]]></description>
-      <guid>https://www.landian.news/archives/126376.html</guid>
-      <pubDate>Mon, 24 Aug 2026 01:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code Fable 5推理强度被悄悄降低？官方回应仅为配置测试不影响实际性能</title>
-      <link>https://www.landian.news/archives/126375.html</link>
-      <description><![CDATA[#人工智能 Claude Code Fable 5 推理强度被悄悄降低？ A 社回应称仅为配置测试不影响实际性能。有开发者发现在 Claude Code 中使用 Fable 5 且设置高努力程度时，模型表示当前努力程度为 10 分 (满分 100 分，10 分相当于低努力程度)，这可能是 Fable 5 降智的原因。不过 CC 团队成员表示，这是测试 API 服务配置，努力程度的数值映射并非 10~100，这些数值本身没有独立意义，CC 也会继续按照用户选择的努力程度进行推理。查看全文：https://ourl.co/126375]]></description>
-      <guid>https://www.landian.news/archives/126375.html</guid>
-      <pubDate>Mon, 24 Aug 2026 00:30:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Codex将在8月24日早5点重置 同时修复近期出现的用量消耗快问题</title>
-      <link>https://www.landian.news/archives/126374.html</link>
-      <description><![CDATA[#人工智能 Codex 将在明天早晨 5 点进行重置，同时将发布新版本修复近期出现的用量高问题。需要说明的是，蒂博刚刚列出的几个原因可能并不是用量高的主要原因，具体 Codex 团队还需要继续调查，但作为补偿先重置恢复用户的用量。蒂博列出的问题包括：长会话中发送图片后出现低效问题、计算机历史功能 P95 + 使用率过高 (大部分用户不使用这个功能)、用于生成对话标题的功能用量要略微超出预期。查看全文：https://ourl.co/126374]]></description>
-      <guid>https://www.landian.news/archives/126374.html</guid>
-      <pubDate>Sun, 23 Aug 2026 07:12:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Kernel CIFS/SMB2/SMB3/KSMBD 主要维护者史蒂夫·弗伦奇因病离世</title>
-      <link>https://www.landian.news/archives/126373.html</link>
-      <description><![CDATA[#行业资讯 Linux Kernel CIFS/SMB2/SMB3/KSMBD 主要维护者、微软首席软件工程师史蒂夫・弗伦奇因病离世。在最近的 Linux Kernel 7.3 代码中，有社区成员注意到 CIFS/SMB3 代码维护者发生变化，长期维护者史蒂夫因健康原因卸任，但没想到短短几天后史蒂夫家人就证实史蒂夫已经离世。现在 CIFS/SMB3 主要维护者已经变更为保罗・阿尔坎塔拉和全南宰，这两名工程师将共同维护 CIFS 和 SMB3。查看全文：https://ourl.co/126373]]></description>
-      <guid>https://www.landian.news/archives/126373.html</guid>
-      <pubDate>Sun, 23 Aug 2026 04:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>深度求索宣布即日起DS API在周六/周日全为谷时 按照更便宜的价格计价</title>
-      <link>https://www.landian.news/archives/126372.html</link>
-      <description><![CDATA[#人工智能 深度求索宣布即日起调整 DS API 在周六 / 周日全为谷时，按照更便宜的价格计价。此次调整将周六和周日全天都纳入空闲时段，因此开发者在周末调用时价格更便宜。上次涨价后 DS API 价格已经很高，而峰谷机制让工作日高峰时段价格更高。价格清单：https://ourl.co/126372]]></description>
-      <guid>https://www.landian.news/archives/126372.html</guid>
-      <pubDate>Sun, 23 Aug 2026 04:08:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[配置指南] 中国教育网联合镜像站正式上线 聚合多所高校镜像 自动访问最快节点</title>
-      <link>https://www.landian.news/archives/126371.html</link>
-      <description><![CDATA[#行业资源 全国 27 所高校联合成立教育网联合镜像站 MirrorZ，联合镜像站本身不托管文件，而是自动聚合高校现有资源为用户提供最佳镜像站。当用户实际下载时，联合镜像站将探测用户所在位置和网络并提供连接状态最佳的镜像节点。同时某个镜像站故障后，后端也会自动路由到其他正常的镜像站，确保用户下载更新不会中断。配置指南：https://ourl.co/126371]]></description>
-      <guid>https://www.landian.news/archives/126371.html</guid>
-      <pubDate>Sun, 23 Aug 2026 03:38:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

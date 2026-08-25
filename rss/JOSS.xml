@@ -4,7 +4,21 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Mon, 24 Aug 2026 08:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:52:48 GMT</lastBuildDate>
+    <item>
+      <title>Eegle：用于脑电图数据分析和机器学习的开源 Julia 集成包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10388</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10388</guid>
+      <pubDate>Tue, 25 Aug 2026 01:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>TEGAT：用于科学传感器网络的轻量级可重复使用网关</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10887</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10887</guid>
+      <pubDate>Mon, 24 Aug 2026 18:16:17 GMT</pubDate>
+    </item>
     <item>
       <title>Cont2SAS：用于计算连续纳米结构小角度散射参数的 Python 包</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.09772</link>
@@ -48,7 +62,7 @@
       <pubDate>Thu, 20 Aug 2026 13:18:49 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Ndvi2Gif：使用 Google Earth Engine 进行多季节遥感分析的 Python 包</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.10654</link>
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10654</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.08638</guid>
       <pubDate>Tue, 18 Aug 2026 15:48:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Balsa：带有命令行和 Python 界面的快速 C++ 随机森林分类器</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.08778</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.08778</guid>
-      <pubDate>Tue, 18 Aug 2026 14:48:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joule Profiler：基于相位的能量测量工具</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10575</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10575</guid>
-      <pubDate>Tue, 18 Aug 2026 11:46:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
