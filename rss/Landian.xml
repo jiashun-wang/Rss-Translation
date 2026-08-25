@@ -4,7 +4,21 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Tue, 25 Aug 2026 08:07:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:32:54 GMT</lastBuildDate>
+    <item>
+      <title>苹果发布2026款Mac mini和Mac Studio 外观不变性能暴增 起售价899美元</title>
+      <link>https://www.landian.news/archives/126450.html</link>
+      <description><![CDATA[#硬件设备 苹果推出 2026 款 Mac mini 和 Mac Studio，前者起售价 899 美元，后者起售价 2499 美元。其中 Mac mini 提供 M5 Pro 和 M6 芯片款，标配内存 16GB，但硬盘还是 256GB 起，最高可以选择 64GB 内存。 Mac Studio 主要面向专业用户，提供性能更强的芯片和 PCIe 6.0 硬盘，可以在本地运行数千亿参数规模的 AI 模型。查看全文：https://ourl.co/126450]]></description>
+      <guid>https://www.landian.news/archives/126450.html</guid>
+      <pubDate>Tue, 25 Aug 2026 13:59:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果发布基于2纳米制程的M6芯片 同时发布M5 Ultra芯片 最高80颗GPU核心</title>
+      <link>https://www.landian.news/archives/126449.html</link>
+      <description><![CDATA[#行业资讯 苹果发布 M5 Ultra 和 M6 芯片，前者最高支持 80 核心 GPU 和 512GB 内存，后者基于台积电最新的 2 纳米制程打造。这些芯片的特点都是优化 AI 性能，尤其是 M5 Ultra 搭配 512GB 内存后可以在本地运行数千亿参数的大型语言模型。搭载以上芯片的新款 Mac mini 和 Mac Studio 即将上市销售。查看全文：https://ourl.co/126449]]></description>
+      <guid>https://www.landian.news/archives/126449.html</guid>
+      <pubDate>Tue, 25 Aug 2026 13:43:14 GMT</pubDate>
+    </item>
     <item>
       <title>另类开源！ Grok Bot打包失误忘记关闭源码映射文件 现在算是半开源</title>
       <link>https://www.landian.news/archives/126448.html</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[#游戏资讯 真是杀疯了！ R 星向 X 提交多个 DMCA 通知函，要求删除各类关于 GTA6 泄露的帖子。两名 X 上的游戏博主仅仅通过文字提到 GTA6 泄露都被 R 星盯上，X 收到 DMCA 通知后直接删除了相关帖子。 R 星也在向 X 和 YouTube 发送更多通知函，要求删除特定帖子、特定账号、特定频道等。查看全文：https://ourl.co/126437]]></description>
       <guid>https://www.landian.news/archives/126437.html</guid>
       <pubDate>Mon, 24 Aug 2026 06:29:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软正在为Windows 11开发新的内存管理功能 用户可以手动分配不同任务内存量</title>
-      <link>https://www.landian.news/archives/126436.html</link>
-      <description><![CDATA[#系统资讯 微软正在为 Windows 11 开发新的内存管理功能，该功能旨在让用户根据需要分配不同用途的内存用量。例如游戏玩家可以将更多内存预留给 GPU，运行本地 AI 负载的用户则可以将更多内存预留给 NPU。当然这个功能其实主要面向使用统一内存的设备，在这类设备中 CPU/GPU/NPU 单元共享统一内存。查看全文：https://ourl.co/126436]]></description>
-      <guid>https://www.landian.news/archives/126436.html</guid>
-      <pubDate>Mon, 24 Aug 2026 06:14:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>对象存储服务提供商又拍云及其法人被签发限高令 疑似公司遇到经营问题</title>
-      <link>https://www.landian.news/archives/126435.html</link>
-      <description><![CDATA[#行业资讯 对象存储与 CDN 服务提供商又拍云 (UPyun) 及其法人被法院签发限高令，疑似出现经营问题。公开数据显示，7 月和 8 月又拍云被执行 3 次，合计近 900 万元。其中网鼎科技在 8 月 5 日申请的强制执行无果，执行标的 239 万元，于是杭州拱墅区法院签发限高令。另外近期又拍云稳定性也存在问题，有可能是服务器提供商通过停机向又拍云施压。建议使用又拍云的开发者，立即备份托管在又拍云上的数据，以防不测。查看全文：https://ourl.co/126435]]></description>
-      <guid>https://www.landian.news/archives/126435.html</guid>
-      <pubDate>Mon, 24 Aug 2026 03:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 08:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:32:34 GMT</lastBuildDate>
+    <item>
+      <title>[开发者自荐] PhotoLoci：在地图上浏览 iCloud 照片与旅行足迹</title>
+      <link>https://meta.appinn.net/t/topic/90677</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90677</guid>
+      <pubDate>Tue, 25 Aug 2026 12:39:04 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】AIClue：同时搜索文件名和文档正文的 Windows 本地文件搜索工具</title>
       <link>https://meta.appinn.net/t/topic/90658</link>
@@ -49,7 +56,7 @@ AIClue 只处理用户明确选择的文件夹，日常扫描、正文读取、�
 下载：下载 AIClue | AIClue
 当前公开版本：v26.8.10
 这是我自己开发的产品。如果大家在文件扫描、正文搜索、预览或使用边界上有疑问，可以直接在帖子里问；功能不合适或遇到问题，也欢迎直接指出。 
-1 个帖子 - 1 位参与者
+2 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90658</guid>
       <pubDate>Tue, 25 Aug 2026 06:48:13 GMT</pubDate>
@@ -361,7 +368,7 @@ GitHub：GitHub - jearthliu/clip: Clipboard-first macOS screenshot utility: sele
 Release：Release Clip v0.1.0 · jearthliu/clip · GitHub
 当前 v0.1.0 尚未经过 Apple 公证。如果首次打开被 macOS 拦截，请前往“系统设置 → 隐私与安全性”，选择“仍要打开”。 
 这是第一个公开版本。我尤其想了解：它在哪个 App 里不好用？滚动截图在哪类页面容易失败？哪个动作仍然显得多余？ 
-2 个帖子 - 2 位参与者
+3 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90571</guid>
       <pubDate>Mon, 24 Aug 2026 02:14:45 GMT</pubDate>
@@ -549,56 +556,6 @@ GitHub: https://github.com/anyuxurl/retro-chat
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/90531</guid>
       <pubDate>Sun, 23 Aug 2026 08:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>【效率工具】yyzTools – 一个 Windows 桌面效率工具集：命令面板 / 翻译 / OCR / 剪贴板 / 动态壁纸</title>
-      <link>https://meta.appinn.net/t/topic/90519</link>
-      <description><![CDATA[软件名称
-yyzTools（Yes Your Zen Tools）
-应用平台
-
-Windows
-
-推荐类型
-【开发者自荐】
-是否收费
-免费
-一句简介
-yyzTools 是一套 Windows 桌面效率工具集，集命令面板、超级翻译、OCR、剪贴板历史、动态壁纸等 363+ 个功能模块于一体，帮你一站式提升电脑操作效率。 
-应用简介
-2026年8月22日 已完成功能：
-
-支持 命令面板，拼音/跨语言搜索，一键启动应用与命令
-支持 超级翻译、OCR 文字识别、计算器等效率小工具
-支持 文件管理器，批量文件预览（视频/图片/文本等全格式）
-支持 剪贴板历史记录，随时找回复制过的内容
-支持 应用使用统计，了解各软件使用时长
-支持 多线程高速下载，支持断点续传，可以稳定满速下载
-支持 批量上传/下载文件，多文件同时传输
-支持 截图与屏幕取词
-支持 动态壁纸、桌面特效
-支持 内置无边框浏览器
-支持 键盘/鼠标按键提示与高亮，快速定位鼠标光标
-支持 363+ 可扩展命令模块（AI/应用/游戏/系统/网页），新增功能只需添加模块文件
-支持 程序坞与自定义全局快捷键
-支持 简中/繁中/英/日/韩/法/德/西/俄/阿拉伯/葡/意 12 种界面语言
-支持 Windows 系统
-
-开发中功能：
-
-插件功能
-
-截图预览：
-
-官方网站
- yyzTools
-
-yyzTools — A free Windows productivity toolkit
-yyzTools is a Windows desktop productivity toolkit: command palette, translation, OCR, file preview, clipboard history, batch processing, live wallpaper and 40+ more. Local-first, free forever.
-19 个帖子 - 5 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90519</guid>
-      <pubDate>Sun, 23 Aug 2026 03:35:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

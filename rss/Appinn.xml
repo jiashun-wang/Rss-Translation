@@ -4,7 +4,14 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Tue, 25 Aug 2026 08:07:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:33:05 GMT</lastBuildDate>
+    <item>
+      <title>电脑用久了，到底会留下多少没用的东西？</title>
+      <link>https://www.appinn.com/krokiet/</link>
+      <description><![CDATA[青小蛙看了一眼自己的硬盘，突然很好奇：那些用了几年甚至十几年的电脑，除了越来越多的照片、视频和文档，到底还悄悄留下了多少已经没什么用的东西？ 仔细想想，可能还真不少： 那么问题来了： 这些东西到底有多]]></description>
+      <guid>https://www.appinn.com/krokiet/</guid>
+      <pubDate>Tue, 25 Aug 2026 12:35:30 GMT</pubDate>
+    </item>
     <item>
       <title>发现频道：10款大家发现的好评软件[2026年第34期]</title>
       <link>https://www.appinn.com/faxian-top10-2634/</link>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 21 Aug 2026 10:48:44 GMT</pubDate>
     </item>
     <item>
-      <title>superfile – 终端也需要一个好用的文件管理器</title>
+      <title></title>
       <link>https://www.appinn.com/superfile-tui-files-explorer/</link>
       <description><![CDATA[在终端里找到一个文件，你会选择打开资源管理器，还是继续用 cd + ls 慢慢寻找？ 终端非常适合执行命令，但在浏览、查找、整理文件时，图形界面的直观依然很有吸引力。 superfile 漂亮的现代终]]></description>
       <guid>https://www.appinn.com/superfile-tui-files-explorer/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[对于有网站加速，抗攻击的需求的站长来说，CDN 是一个不错的选择。不管是音视频站的推流，下载负载的分摊，游戏服务器的抵抗攻击，CDN 都能通过缓存节点来帮助用户拥有更好的，更稳定的体验。 CDN 通常]]></description>
       <guid>https://www.appinn.com/99cdn/</guid>
       <pubDate>Thu, 20 Aug 2026 09:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>芒果磁盘清理 / MangoDisk：开源，深度磁盘清理工具，轻量高颜值[macOS/Windows]</title>
-      <link>https://www.appinn.com/mangodisk/</link>
-      <description><![CDATA[这是一款青小蛙觉得设计非常漂亮的磁盘清理工具。 开始的时候觉得名字似曾相识，感觉以前听过芒果磁盘清理…原来，听过的那个是柠檬，😂 来自发现频道，开发者 Harry 自荐：https://m]]></description>
-      <guid>https://www.appinn.com/mangodisk/</guid>
-      <pubDate>Thu, 20 Aug 2026 08:18:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>RSS</title>
     <link>https://www.v2ex.com/</link>
     <description>way to explore</description>
-    <lastBuildDate>Tue, 25 Aug 2026 08:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:34:14 GMT</lastBuildDate>
     <item>
       <title>还有哪些可以方便获取微信公众号文章的渠道？</title>
       <link>https://www.v2ex.com/t/1235531#reply21</link>
@@ -14,11 +14,9 @@
       <pubDate>Wed, 19 Aug 2026 03:10:08 GMT</pubDate>
     </item>
     <item>
-      <title>请问有没有带用 AI 全局总结 RSS feeds 的阅读器？</title>
+      <title></title>
       <link>https://www.v2ex.com/t/1229081#reply17</link>
-      <description><![CDATA[RSS 好多年了，目前为止一直用的 inoreader 免费抓取 RSS+reeder 连接 inoreader 账号做阅读器
-最近精力变得非常局限，订阅的 RSS 有些新闻也会重复，一条条看实在太耗费时间。想请问下有没有什么 workflow 可以直接把所有订阅的 RSS feeds 用 Gemini 总结一下？ 
-不是总结单篇，而是总结/分类/翻译所有 feeds ，如果能带听书功能就更好了（不强求），求推荐！ ]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.v2ex.com/t/1229081#reply17</guid>
       <pubDate>Wed, 22 Jul 2026 07:29:29 GMT</pubDate>
     </item>
@@ -76,7 +74,7 @@ V2er 特供功能，如果订阅的是 V2EX 的 RSS ，通过授权 api 支持�
       <pubDate>Mon, 08 Jun 2026 02:49:08 GMT</pubDate>
     </item>
     <item>
-      <title>clash + fluent reader 获取 rss 源跳转到 127.0.0.1:9000 的问题</title>
+      <title></title>
       <link>https://www.v2ex.com/t/1214370#reply1</link>
       <description><![CDATA[现状：fluent reader 加载 rss 正文转圈很久，最后加载失败页面跳转到 127.0.0.1:9000 + 一长串 url 。 
 服务器使用 rsshub + freshrss ，在网页上看是正常的，排除 freshrss 的问题；
@@ -193,7 +191,7 @@ services:
       <pubDate>Sat, 21 Mar 2026 01:24:20 GMT</pubDate>
     </item>
     <item>
-      <title>现在自建 RSS 体验最好的是哪个？</title>
+      <title></title>
       <link>https://www.v2ex.com/t/1192227#reply37</link>
       <description><![CDATA[FOLO 的安卓客户端体验一直很差，免费账户的 RSSHUB 的订阅数量也开始受限制至于 AI 功能我本来就很少用，更不会花 100 刀一年去使用所以就想着还是回到 NAS 自建算了，比起官方的服务还更不如容易触发反爬机制之前用的是 FreshRSS ，今天搜了下发现还有 TTRSS 、miniflux ，想问下有没有实际体验过这几款的老哥哪款体验更现代一点？]]></description>
       <guid>https://www.v2ex.com/t/1192227#reply37</guid>
