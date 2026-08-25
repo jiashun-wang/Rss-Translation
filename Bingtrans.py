@@ -212,83 +212,85 @@ def get_cfg_tra(sec, config):
         source, target = cc.split("->")
     return source, target
 
-
 def tran(sec, max_item):
-    # 读取配置；name/url 缺失则直接失败（标记为存在失败，因为未知新旧）
+    print("-" * 52)
+    print("[%s] 开始处理..." % sec)
+
+    # ===== 环节 1：读取配置 =====
+    print("[%s] 环节1：读取配置" % sec)
     try:
         xml_file = os.path.join(BASE, f'{get_cfg(sec, "name")}.xml')
         url = get_cfg(sec, "url")
+        print("[%s]   name  -> %s" % (sec, get_cfg(sec, "name")))
+        print("[%s]   url   -> %s" % (sec, url))
+        print("[%s]   xml   -> %s" % (sec, xml_file))
     except Exception as e:
-        print("Config error for %s: %s" % (sec, str(e)))
+        print("[%s] Config error: %s" % (sec, str(e)))
         stats["exist_fail"] += 1
         return
 
-    # md5 可能为空/缺失 -> 视为新增
     old_md5 = get_cfg_opt(sec, "md5")
+    print("[%s]   配置中 old_md5 -> %s" % (sec, (old_md5[:16] + "..." if old_md5 else "(空)")))
 
+    # ===== 环节 2：解析翻译参数 =====
+    print("[%s] 环节2：解析翻译参数" % sec)
     try:
         source, target = get_cfg_tra(sec, config)
+        print("[%s]   翻译方向: %s -> %s" % (sec, source, target))
     except Exception as e:
-        print("Action config error for %s: %s" % (sec, str(e)))
+        print("[%s] Action config error: %s" % (sec, str(e)))
         stats["exist_fail"] += 1
         return
 
-    # 判断 RSS 是否有更新
+    # ===== 环节 3：抓取源 + 计算新 md5 =====
+    print("[%s] 环节3：抓取源内容并计算新 md5" % sec)
     try:
         r = requests.get(url, timeout=30)
         new_md5 = get_md5_value(r.text)
+        print("[%s]   抓取成功, 内容长度=%d" % (sec, len(r.text)))
+        print("[%s]   new_md5 -> %s" % (sec, new_md5[:16] + "..."))
     except Exception as e:
-        print("Fetch error for %s: %s" % (sec, str(e)))
-        # 是否"已有"取决于文件是否存在
+        print("[%s] Fetch error: %s" % (sec, str(e)))
         if os.path.isfile(xml_file):
             stats["exist_fail"] += 1
         else:
             stats["new_fail"] += 1
-            stats["new_total"] += 1  # 首次尝试（即使没抓到也算一次新增尝试）
+            stats["new_total"] += 1
         return
 
     file_exists = os.path.isfile(xml_file)
+    print("[%s]   该源 XML 文件是否存在: %s" % (sec, file_exists))
 
-    # 判断新旧：
-    #  - old_md5 为空（首次） => 一定是新增
-    #  - old_md5 == new_md5 且文件已存在 => 已经是最新
-    #  - 否则 => 有更新
-    is_new = (old_md5 == "") or (old_md5 != new_md5 and not file_exists)
-
+    # ===== 环节 4：判断是否需要更新 =====
+    print("[%s] 环节4：判断是否需要更新" % sec)
     if old_md5 == new_md5:
-        # md5 未变
         if file_exists:
-            print("No update needed for %s" % sec)
+            print("[%s]   md5 未变且文件已存在 -> 无需更新, 跳过" % sec)
             stats["exist_latest"] += 1
             return
-        # md5 未变但文件不存在 => 仍需生成，按新增处理
-        is_new = True
+        print("[%s]   md5 未变但文件不存在 -> 仍需生成" % sec)
+    else:
+        print("[%s]   md5 有变化 -> 需要生成/更新" % sec)
 
-    if is_new:
-        stats["new_total"] += 1
-        if not file_exists:
-            # 真正意义的新增
-            pass
-        else:
-            # 老文件已存在且 md5 变了 => 视为更新，但计入已有更新
-            stats["exist_updated"] += 1
+    print("[%s] 开始生成内容..." % sec)
 
-    print("Updating %s..." % sec)
-    # set_cfg(sec, "md5", new_md5)
-
-    # 生成新内容
+    # ===== 环节 5：抓取条目并翻译 =====
+    print("[%s] 环节5：解析 RSS 条目并翻译(最多 %d 条)" % (sec, max_item))
     try:
         feed = BingTran(url, source=source, target=target).get_newcontent(
             max_item=max_item
         )
+        print("[%s]   翻译完成, 得到 %d 条条目" % (sec, len(feed.get("items", []))))
     except Exception as e:
-        print("Parse/translate error for %s: %s" % (sec, str(e)))
+        print("[%s] Parse/translate error: %s" % (sec, str(e)))
         if file_exists:
             stats["exist_fail"] += 1
         else:
             stats["new_fail"] += 1
         return
 
+    # ===== 环节 6：清洗条目字段 =====
+    print("[%s] 环节6：清洗条目字段" % sec)
     rss_items = []
     for item in feed.get("items", []):
         title = item.get("title", "")
@@ -321,7 +323,10 @@ def tran(sec, max_item):
                 pubDate=pubDate,
             )
         )
+    print("[%s]   清洗完成, 保留 %d 条" % (sec, len(rss_items)))
 
+    # ===== 环节 7：渲染模板 =====
+    print("[%s] 环节7：渲染 RSS 模板" % sec)
     rss_title = feed.get("title", "")
     rss_link = feed.get("link", "")
     rss_description = feed.get("description", "")
@@ -355,29 +360,36 @@ def tran(sec, max_item):
         rss_last_build_date=rss_last_build_date,
         rss_items=rss_items,
     )
+    print("[%s]   模板渲染完成, 生成内容长度=%d" % (sec, len(rss)))
 
+    # ===== 环节 8：确保目录存在 =====
+    print("[%s] 环节8：确保输出目录存在" % sec)
     try:
         os.makedirs(BASE, exist_ok=True)
+        print("[%s]   目录 OK: %s" % (sec, BASE))
     except Exception as e:
-        print("Failed to create dir %s: %s" % (BASE, str(e)))
+        print("[%s] Failed to create dir: %s" % (sec, str(e)))
         if file_exists:
             stats["exist_fail"] += 1
         else:
             stats["new_fail"] += 1
         return
 
+    # ===== 环节 9：对比旧文件 / 写入 =====
+    print("[%s] 环节9：写入 XML 文件" % sec)
     if os.path.isfile(xml_file):
         try:
             with open(xml_file, "r", encoding="utf-8") as f:
                 old_rss = f.read()
             if rss == old_rss:
-                print("No change in RSS content for %s" % sec)
+                print("[%s]   新内容与旧文件完全相同 -> 不写入" % sec)
                 stats["exist_latest"] += 1
                 return
             else:
                 os.remove(xml_file)
+                print("[%s]   内容有变化, 删除旧文件" % sec)
         except Exception as e:
-            print("Delete error for %s: %s" % (sec, str(e)))
+            print("[%s] Delete/read error: %s" % (sec, str(e)))
             if file_exists:
                 stats["exist_fail"] += 1
             else:
@@ -387,21 +399,23 @@ def tran(sec, max_item):
     try:
         with open(xml_file, "w", encoding="utf-8") as f:
             f.write(rss)
+        print("[%s]   ✔ 已成功写入: %s" % (sec, xml_file))
     except Exception as e:
-        print("Write error for %s: %s" % (sec, str(e)))
+        print("[%s] Write error: %s" % (sec, str(e)))
         if file_exists:
             stats["exist_fail"] += 1
         else:
             stats["new_fail"] += 1
         return
 
-    # 写入成功
+    # ===== 环节 10：写入成功，最后更新 md5 =====
     if file_exists:
         stats["exist_updated"] += 1
     else:
         stats["new_ok"] += 1
-
     set_cfg(sec, "md5", new_md5)
+    print("[%s]   ✔ md5 已更新" % sec)
+    print("[%s] 处理完成" % sec)
 
 
 def main():
