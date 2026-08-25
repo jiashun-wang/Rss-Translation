@@ -2,7 +2,7 @@
 
 ## 外文学术期刊RSS翻译转换订阅页面
 
-[![circle_translate](https://github.com/jiashun-wang/Rss-Translation/actions/workflows/circle_translate.yml/badge.svg)](https://github.com/jiashun-wang/Rss-Translation/actions/workflows/circle_translate.yml) [![Deploy](https://github.com/jiashun-wang/Rss-Translation/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/jiashun-wang/Rss-Translation/actions/workflows/jekyll-gh-pages.yml)
+[![circle_translate](https://github.com/jiashun-wang/Rss-Translation/actions/workflows/circle_translate.yml/badge.svg)](https://github.com/jiashun-wang/Rss-Translation/actions/workflows/circle_translate.yml) [![Deploy](https://github.com/jiashun-wang/Rss-Translation/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/jiashun-wang/Rss-Translation/actions/workflows/jekyll-gh-pages.yml)![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jiashun-wang.journalmetrics&left_color=6f42c1&right_color=6f42c1)
 
 每天上午7点，下午2点更新
 
