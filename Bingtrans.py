@@ -274,7 +274,7 @@ def tran(sec, max_item):
             stats["exist_updated"] += 1
 
     print("Updating %s..." % sec)
-    set_cfg(sec, "md5", new_md5)
+    # set_cfg(sec, "md5", new_md5)
 
     # 生成新内容
     try:
