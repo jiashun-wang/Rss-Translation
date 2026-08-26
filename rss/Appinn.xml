@@ -4,9 +4,9 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Tue, 25 Aug 2026 23:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:42:57 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>电脑用久了，到底会留下多少没用的东西？</title>
       <link>https://www.appinn.com/krokiet/</link>
       <description><![CDATA[青小蛙看了一眼自己的硬盘，突然很好奇：那些用了几年甚至十几年的电脑，除了越来越多的照片、视频和文档，到底还悄悄留下了多少已经没什么用的东西？ 仔细想想，可能还真不少： 那么问题来了： 这些东西到底有多]]></description>
       <guid>https://www.appinn.com/krokiet/</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>Menuist：让 Mac 右键菜单更好用</title>
       <link>https://www.appinn.com/menuist/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[新上手 Mac 的时候，你是不是也经常被右键菜单气到？是的，被气到。 这些动作单次都不费事，但架不住天天遇到，影响工作效率。 快试试本周上架的 Mac 右键菜单增强工具 Menuist。 它把新建、移]]></description>
       <guid>https://www.appinn.com/menuist/</guid>
       <pubDate>Sun, 23 Aug 2026 12:27:03 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>26/27 英超赛程日历，临时上线！</title>
       <link>https://www.appinn.com/26-27-premier-league-calendar/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Hi 各位，这是一份由青小蛙维护的2026～2027赛季英格兰足球超级联赛赛程、比分、进球日历，可订阅到手机/电脑日历应用中，会自动更新比分。 @Appinn 终于赶在英超开赛前做好啦。 比较简单，订阅]]></description>
       <guid>https://www.appinn.com/26-27-premier-league-calendar/</guid>
       <pubDate>Fri, 21 Aug 2026 12:06:05 GMT</pubDate>
     </item>
@@ -55,14 +55,14 @@
       <pubDate>Fri, 21 Aug 2026 10:48:44 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>superfile – 终端也需要一个好用的文件管理器</title>
       <link>https://www.appinn.com/superfile-tui-files-explorer/</link>
       <description><![CDATA[在终端里找到一个文件，你会选择打开资源管理器，还是继续用 cd + ls 慢慢寻找？ 终端非常适合执行命令，但在浏览、查找、整理文件时，图形界面的直观依然很有吸引力。 superfile 漂亮的现代终]]></description>
       <guid>https://www.appinn.com/superfile-tui-files-explorer/</guid>
       <pubDate>Fri, 21 Aug 2026 10:04:27 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Kan.bn – 开源看版（项目管理工具），Trello 替代方案</title>
       <link>https://www.appinn.com/kan-bn/</link>
       <description><![CDATA[Kan.bn 是一个开源的项目管理工具，用来替代 Trello，提供丰富的协作功能，可导入 Trello 看版，支持 Docker 自托管。自带 MCP 服务器，可以让 AI 控制你的看版。 @Appi]]></description>
       <guid>https://www.appinn.com/kan-bn/</guid>

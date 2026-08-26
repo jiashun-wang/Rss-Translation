@@ -4,7 +4,42 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Tue, 25 Aug 2026 14:32:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:42:44 GMT</lastBuildDate>
+    <item>
+      <title>GPT降智不是你的错觉：ChatGPT经理承认部分请求被切换到GPT-5.5-mini</title>
+      <link>https://www.landian.news/archives/126455.html</link>
+      <description><![CDATA[#人工智能 GPT 降智不是你的错觉：ChatGPT 经理承认部分请求被自动切换到 GPT-5.5-mini 模型。在回答网友提问时 ChatGPT 经理确认系统存在某个问题导致大约 3% 的 Pro 和 Thinking 请求被切换到低智模型，目前已经修复问题。不过其他网友认为问题并未彻底解决，目前仍然存在切换到低智模型的情况。查看全文：https://ourl.co/126455]]></description>
+      <guid>https://www.landian.news/archives/126455.html</guid>
+      <pubDate>Wed, 26 Aug 2026 05:30:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达宣布EA Javelin反作弊系统已支持Arm平台 为EA游戏兼容性铺平道路</title>
+      <link>https://www.landian.news/archives/126454.html</link>
+      <description><![CDATA[#游戏资讯 英伟达宣布 EA Javelin Anticheat 反作弊系统将原生支持 RTX SPARK 平台，即 EA 将提供 Arm64 兼容性。 RTX SPARK 是出色的 AI 计算设备，但英伟达也为该平台保留完整的 RTX 游戏技术，唯一问题就是 Windows on Arm 生态系统太差。现在 EA 等与英伟达合作兼容 Arm64，未来更多游戏可以在 Arm64 上运行。查看全文：https://ourl.co/126454]]></description>
+      <guid>https://www.landian.news/archives/126454.html</guid>
+      <pubDate>Wed, 26 Aug 2026 05:05:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于用户反馈微软宣布将白板数据删除时间延后1个月 但用户仍然需要尽快备份数据</title>
+      <link>https://www.landian.news/archives/126453.html</link>
+      <description><![CDATA[#软件资讯 遭到用户反对后微软略微延长 Microsoft Whiteboard 白板应用的存活时间。根据微软更新后的时间表，个人用户可以在 10 月 16 日前导出数据，之后无法再导出数据。企业用户需要在 9 月 25 日前完成迁移备份，数据也在 10 月 16 日删除。请注意：微软白板应用不再支持个人用户使用，即仅限企业使用。查看全文：https://ourl.co/126453]]></description>
+      <guid>https://www.landian.news/archives/126453.html</guid>
+      <pubDate>Wed, 26 Aug 2026 04:46:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究发现微软在画图/照片里为AI图片添加像素级盲水印 截图/裁剪也不能去除水印</title>
+      <link>https://www.landian.news/archives/126452.html</link>
+      <description><![CDATA[#软件资讯 安全研究员通过逆向分析发现微软的画图和照片 / 相册应用会给 AI 生成图片添加不可见的盲水印。这种盲水印直接嵌入在图片多个区域的像素中，通过裁剪、截图、部分遮盖等也依然可以识别图片。这种盲水印机制与 C2PA 不同，用户可以删除 C2PA 但无法彻底清除微软的像素级盲水印。查看全文：https://ourl.co/126452]]></description>
+      <guid>https://www.landian.news/archives/126452.html</guid>
+      <pubDate>Wed, 26 Aug 2026 04:12:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>悲报：开源项目Nitter收到X法律通知函 目前该项目已下线 开发者正在寻求法律咨询</title>
+      <link>https://www.landian.news/archives/126451.html</link>
+      <description><![CDATA[#行业资讯 悲报：开源项目 Nitter 收到 X/Twitter 侵权法律通知函，目前相关网站已经下线无法访问、开源项目暂停开发。 Nitter 可以绕过 X 的限制获得无广告、无追踪和干净的浏览环境，此前 X 通过多种技术手段阻止 Nitter 抓取内容，现在 X 决定直接走法律途径。 Nitter 开发者表示项目暂停开发，正在寻求法律咨询。查看全文：https://ourl.co/126451]]></description>
+      <guid>https://www.landian.news/archives/126451.html</guid>
+      <pubDate>Wed, 26 Aug 2026 03:44:28 GMT</pubDate>
+    </item>
     <item>
       <title>苹果发布2026款Mac mini和Mac Studio 外观不变性能暴增 起售价899美元</title>
       <link>https://www.landian.news/archives/126450.html</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[#软件资讯 火狐浏览器将从 v157 版开始默认在全平台支持 JPEG XL 图像格式，即经过长时间的测试后谋智基金会工程师认为该功能已经达到生产级别。 JPEG XL 提供更优秀的压缩效率且支持有损或无损压缩，该格式此前已经被谷歌弃用，但在苹果提供支持后现在谷歌也在讨论是否要恢复支持。查看全文：https://ourl.co/126441]]></description>
       <guid>https://www.landian.news/archives/126441.html</guid>
       <pubDate>Tue, 25 Aug 2026 01:46:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>联想终于承认Legion Go游戏掌机更新BIOS固件后变砖 将为用户提供免费维修</title>
-      <link>https://www.landian.news/archives/126440.html</link>
-      <description><![CDATA[#游戏资讯 联想终于承认 Legion Go 游戏掌机安装固件后变砖问题，将为用户提供免费售后服务，无论是否在保。 7 月份就有玩家发帖称安装 BIOS 后掌机变砖，结果联想悄悄从下载页面删除固件就当这事儿没发生过。直到现在联想才发布声明承认问题，联想认为这可能与部分批次的产品搭载的特定硬件有关。查看全文：https://ourl.co/126440]]></description>
-      <guid>https://www.landian.news/archives/126440.html</guid>
-      <pubDate>Tue, 25 Aug 2026 01:07:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>又涨价！ YouTube Premium在欧洲和亚洲多国涨价 涨幅最高17%</title>
-      <link>https://www.landian.news/archives/126439.html</link>
-      <description><![CDATA[#网站应用 又涨价！ YouTube Premium 在欧洲和亚洲多个国家涨价，涨幅最高 17%。本轮涨价主要涉及欧洲多个国家和亚洲的新加坡，谷歌给出的理由依然是改进 Premium 并支持创作者和艺术家。近年来谷歌采取激进的反广告拦截策略刺激更多用户开通订阅，不过 Premium 订阅的价格也越来越高。查看全文：https://ourl.co/126439]]></description>
-      <guid>https://www.landian.news/archives/126439.html</guid>
-      <pubDate>Tue, 25 Aug 2026 00:50:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[下载] 超酷炫的全能型任务管理器/系统资源监视器TMOG 由前微软工程师开发</title>
-      <link>https://www.landian.news/download/126463.html</link>
-      <description><![CDATA[#软件下载 前微软工程师开发了个非常酷炫的全能型任务管理器 / 系统资源监控器，这个新软件名为 TMOG，支持 Windows、Mac 和 Linux。 TMOG 开发者大卫也是 Windows NT 任务管理器的开发者，不过大卫早在 2003 年就已经离开微软创建自己的软件公司。查看全文：https://ourl.co/126463]]></description>
-      <guid>https://www.landian.news/download/126463.html</guid>
-      <pubDate>Mon, 24 Aug 2026 07:18:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>抱抱脸🤗Hugging Face计划以130亿美元出售 目前正在寻找感兴趣的买家</title>
-      <link>https://www.landian.news/archives/126438.html</link>
-      <description><![CDATA[#人工智能 抱抱脸🤗HuggingFace 被爆准备以 130 亿美元出售自己，目前正在寻求潜在的买家。抱抱脸并非 AI 模型训练公司，而是面向 AI 公司和开发者的服务平台，专注于构建开放 AI 生态系统。日前商业内幕网站爆料称，该平台计划以 130 亿美元的估值寻求出售，不过暂时还没有明确买家。查看全文：https://ourl.co/126438]]></description>
-      <guid>https://www.landian.news/archives/126438.html</guid>
-      <pubDate>Mon, 24 Aug 2026 06:44:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>真是杀疯了！ R星向X提交多个DMCA通知函 删除各类关于GTA6泄露的帖子</title>
-      <link>https://www.landian.news/archives/126437.html</link>
-      <description><![CDATA[#游戏资讯 真是杀疯了！ R 星向 X 提交多个 DMCA 通知函，要求删除各类关于 GTA6 泄露的帖子。两名 X 上的游戏博主仅仅通过文字提到 GTA6 泄露都被 R 星盯上，X 收到 DMCA 通知后直接删除了相关帖子。 R 星也在向 X 和 YouTube 发送更多通知函，要求删除特定帖子、特定账号、特定频道等。查看全文：https://ourl.co/126437]]></description>
-      <guid>https://www.landian.news/archives/126437.html</guid>
-      <pubDate>Mon, 24 Aug 2026 06:29:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

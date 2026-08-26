@@ -4,7 +4,14 @@
     <title>RSS</title>
     <link>https://www.v2ex.com/</link>
     <description>way to explore</description>
-    <lastBuildDate>Tue, 25 Aug 2026 14:34:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:44:04 GMT</lastBuildDate>
+    <item>
+      <title>多设备 RSS 源同步方案推荐</title>
+      <link>https://www.v2ex.com/t/1237344#reply0</link>
+      <description><![CDATA[如果你用 obsidian 的话，https://github.com/amatya-aditya/obsidian-rss-dashboard这个插件可以让订阅源和 obsidian 一起同步，省心，省钱]]></description>
+      <guid>https://www.v2ex.com/t/1237344#reply0</guid>
+      <pubDate>Wed, 26 Aug 2026 05:59:03 GMT</pubDate>
+    </item>
     <item>
       <title>还有哪些可以方便获取微信公众号文章的渠道？</title>
       <link>https://www.v2ex.com/t/1235531#reply21</link>
@@ -14,9 +21,11 @@
       <pubDate>Wed, 19 Aug 2026 03:10:08 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>请问有没有带用 AI 全局总结 RSS feeds 的阅读器？</title>
       <link>https://www.v2ex.com/t/1229081#reply17</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[RSS 好多年了，目前为止一直用的 inoreader 免费抓取 RSS+reeder 连接 inoreader 账号做阅读器
+最近精力变得非常局限，订阅的 RSS 有些新闻也会重复，一条条看实在太耗费时间。想请问下有没有什么 workflow 可以直接把所有订阅的 RSS feeds 用 Gemini 总结一下？ 
+不是总结单篇，而是总结/分类/翻译所有 feeds ，如果能带听书功能就更好了（不强求），求推荐！ ]]></description>
       <guid>https://www.v2ex.com/t/1229081#reply17</guid>
       <pubDate>Wed, 22 Jul 2026 07:29:29 GMT</pubDate>
     </item>
@@ -74,7 +83,7 @@ V2er 特供功能，如果订阅的是 V2EX 的 RSS ，通过授权 api 支持�
       <pubDate>Mon, 08 Jun 2026 02:49:08 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>clash + fluent reader 获取 rss 源跳转到 127.0.0.1:9000 的问题</title>
       <link>https://www.v2ex.com/t/1214370#reply1</link>
       <description><![CDATA[现状：fluent reader 加载 rss 正文转圈很久，最后加载失败页面跳转到 127.0.0.1:9000 + 一长串 url 。 
 服务器使用 rsshub + freshrss ，在网页上看是正常的，排除 freshrss 的问题；
@@ -191,7 +200,7 @@ services:
       <pubDate>Sat, 21 Mar 2026 01:24:20 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>现在自建 RSS 体验最好的是哪个？</title>
       <link>https://www.v2ex.com/t/1192227#reply37</link>
       <description><![CDATA[FOLO 的安卓客户端体验一直很差，免费账户的 RSSHUB 的订阅数量也开始受限制至于 AI 功能我本来就很少用，更不会花 100 刀一年去使用所以就想着还是回到 NAS 自建算了，比起官方的服务还更不如容易触发反爬机制之前用的是 FreshRSS ，今天搜了下发现还有 TTRSS 、miniflux ，想问下有没有实际体验过这几款的老哥哪款体验更现代一点？]]></description>
       <guid>https://www.v2ex.com/t/1192227#reply37</guid>
@@ -210,21 +219,6 @@ services:
       <description><![CDATA[一直用 freshrss ，使用 css selector 获取全文，但现在发现发现知乎，微信和 cloudflare 代理的网站都不能获取了，大家有什么推荐]]></description>
       <guid>https://www.v2ex.com/t/1182274#reply17</guid>
       <pubDate>Tue, 30 Dec 2025 15:07:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[分享] 我整理了 200+ 个高质量 RSS 订阅源（涵盖科技/独立博客/新媒体）</title>
-      <link>https://www.v2ex.com/t/1181613#reply17</link>
-      <description><![CDATA[体验地址：hot.uihash.com
-整理的数据源大部份都是有检验更新日期，大部份博客还是值得收藏，丰富了平台数据；（上次有小伙伴反馈要看外网新闻的，现在也是可以的，至少都是科技，开发类的 rss ），本来测试了国外很多网站，包括 youtube 都可以添加，懂的都懂，但是为了规避风险，还是禁用了，不过大家可以自行部署
-RSS： https://github.com/sundt/uihash-hotnews/blob/main/rss_feeds.csv
-gitee： https://gitee.com/david-sunny/hotnews
-github： https://github.com/sundt/uihash-hotnews
-下一步目标：
-将微信公众号纳入进来，然后 RSS 不断更新，这样你就可以选择自己想看的了，不被算法裹挟；
-
-]]></description>
-      <guid>https://www.v2ex.com/t/1181613#reply17</guid>
-      <pubDate>Sat, 27 Dec 2025 12:41:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

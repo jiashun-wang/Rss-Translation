@@ -4,7 +4,241 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 03:58:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:42:29 GMT</lastBuildDate>
+    <item>
+      <title>【自荐】-每日一照-记录自己的变化</title>
+      <link>https://meta.appinn.net/t/topic/90703</link>
+      <description><![CDATA[软件名称
+每日一照（shot a lot)
+应用平台
+
+Windows
+MacOS
+Linux
+(桌面端WEB)
+
+推荐类型
+【开发者自荐】
+是否收费
+免费
+一句简介
+每天进行拍照,制作自己的变化GF
+应用简介
+
+文件夹选择和拍照保存
+gif制作
+虚影拍照对齐功能
+
+截图预览：
+
+官方网站
+
+
+
+shot.cornradio.org
+
+
+Shot-A-Lot - 极简定格动画辅助助手
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90703</guid>
+      <pubDate>Wed, 26 Aug 2026 04:19:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】Mole：Mac 清理、App 卸载、系统维护、磁盘占用、系统状态五合一原生应用</title>
+      <link>https://meta.appinn.net/t/topic/90699</link>
+      <description><![CDATA[软件名称
+Mole
+应用平台
+
+macOS 14.0 及以上
+支持 Apple 芯片和 Intel 芯片
+
+推荐类型
+【开发者自荐】
+是否收费
+Mac 客户端付费，19 美元买断，永久更新，可用于 2 台 Mac，命令行版免费开源。 
+一句简介
+一个原生 macOS 清理与系统工具，把缓存清理、软件管理、磁盘分析和实时状态放在一个 App 里。 
+应用简介
+Mole 最早是一个免费开源的命令行工具，现在也有了原生 Mac 客户端。 Mac 版把清理、软件、优化、磁盘分析和状态监控放进一个窗口，动手前会先列出文件和大小，不确定的内容默认跳过，扫描和清理都在本机完成。 
+目前支持：
+
+查看并清理常见缓存，每一项都能选择、跳过或加入保护清单，也可以统一移到废纸篓
+卸载 App 时一起检查相关残留，移除前可以看到 App 和残留各占多少空间
+检查来自 Sparkle、App Store、Homebrew 等来源的软件更新，并管理支持的启动项和后台项
+集中维护 Quick Look、缓存、元数据和常见 macOS 服务，有风险或不适用的任务会自动跳过并说明原因
+用整盘树形图查看空间占用，逐层进入目录，也可以在 Finder 中显示文件或移到废纸篓
+实时查看 CPU、内存、GPU、磁盘、网络、温度、风扇、电池和运行中的进程
+把常用指标放进菜单栏，还带有电池养护、风扇控制、隐私提醒、屏幕常亮和擦屏幕等小工具
+所有扫描和清理都在本机进行，不会上传文件和扫描结果
+
+截图预览：
+
+
+
+
+
+
+官方网站
+https://mole.fit/
+GitHub
+免费开源的命令行版： GitHub - tw93/Mole: 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. · GitHub
+7 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90699</guid>
+      <pubDate>Wed, 26 Aug 2026 03:31:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>〖开发者自荐〗植物引力：给家里的植物做档案、贴纸和成长记录</title>
+      <link>https://meta.appinn.net/t/topic/90698</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90698</guid>
+      <pubDate>Wed, 26 Aug 2026 03:30:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】Keymap：双击 ⌘，快速查看当前 App 的所有快捷键</title>
+      <link>https://meta.appinn.net/t/topic/90697</link>
+      <description><![CDATA[软件名称
+Keymap
+应用平台
+MacOS
+推荐类型
+【开发者自荐】
+一句简介
+双击 ⌘，快速查看当前 Mac App 的所有快捷键。 
+应用简介
+最近自己做了一个 Mac 原生小工具 Keymap。 
+Mac 上其实已经有不少快捷键工具，也有很多免费的选择，所以 Keymap 并不是想重新做一个“大而全”的快捷键管理器，而是想把「查快捷键」这件事情做得更简单一点。 
+它最核心的操作只有一个：
+双击 ⌘（Command），直接查看当前正在使用的 App 的快捷键。 
+Keymap 会读取当前 App 菜单栏中的快捷键，并自动整理成一个可以搜索的面板，不需要手动配置。比如在 Safari、VS Code、Figma、Terminal 等 App 中，都可以直接查看对应的快捷键。 
+除此之外，还提供：
+
+
+搜索快捷键
+
+
+快捷键冲突检测
+
+
+自定义 / 重映射快捷键
+
+
+根据当前 App 自动显示对应快捷键
+
+
+快捷键使用统计
+
+
+我自己以前一直在用 CheatSheet，但实际使用时觉得有时候展开的内容比较多，想找某一个快捷键并不是特别方便，所以后来干脆自己做了一个。 
+Keymap 比较强调简单、原生和不打扰工作流。整个应用是原生 macOS 开发，不需要注册账号，数据全部保存在本地。 
+目前提供免费版本：
+
+
+免费：快捷键查看、搜索、冲突检测
+
+
+Premium：增加快捷键重映射、使用统计
+
+
+Premium 一次性购买 $6.99，支持最多 3 台 Mac，终身更新
+
+
+macOS 14 Sonoma 及以上可用。 
+如果你平时经常使用 VS Code、Figma、Safari、Terminal 等，对快捷键比较依赖，可以试试看。 
+当然，这个领域已经有不少成熟的工具，Keymap 也不一定适合所有人。如果你正在使用其他快捷键工具，也欢迎直接比较一下，看看 Keymap 在实际使用中还有哪些不足。 
+官方网站
+https://keymap.app
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90697</guid>
+      <pubDate>Wed, 26 Aug 2026 03:25:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】TopicConsole：轻量的 Apache Pulsar 桌面客户端</title>
+      <link>https://meta.appinn.net/t/topic/90689</link>
+      <description><![CDATA[软件名称
+TopicConsole
+应用平台
+macOS、Windows、Linux
+推荐类型
+【开发者自荐】
+一句话简介
+一个直接连接 Apache Pulsar、用于浏览主题和检查消息的跨平台桌面工具。 
+应用简介
+TopicConsole 是一个开源的 Apache Pulsar 桌面客户端，适合开发和排查消息流问题。 
+它可以连接 Pulsar 集群，浏览租户、命名空间、主题和订阅，实时查看消息，也支持搜索、过滤、导出、生产和消费消息。 
+比较特别的是 Observer Mode：使用 Pulsar Reader 观察实时消息，不创建持久订阅，适合临时检查线上流量，不会留下额外的消费游标。 
+主要特点：
+
+macOS、Windows、Linux 跨平台
+约 15 MB 的轻量桌面应用
+无需 Docker、JVM 或云端账号
+支持中文和英文界面
+凭据和配置保存在本地
+支持 JSON、Avro、字符串等消息格式
+AGPL-3.0 开源协议
+
+官方网站
+
+
+
+topicconsole.vercel.app
+
+
+
+Lightweight Apache Pulsar desktop client
+Inspect, search, and manage Apache Pulsar from a lightweight cross-platform desktop app with observer mode and direct broker connectivity.
+
+
+
+
+
+项目源码
+
+
+github.com
+
+
+
+
+GitHub - yanbo92/topicconsole: A cross-platform desktop client for Apache Pulsar...
+A cross-platform desktop client for Apache Pulsar — clarity, not complexity.
+
+
+
+
+
+
+下载地址
+
+
+
+GitHub
+
+
+
+Releases · yanbo92/topicconsole
+A cross-platform desktop client for Apache Pulsar — clarity, not complexity. - yanbo92/topicconsole
+
+
+
+
+
+界面截图
+
+欢迎大家试用，也欢迎反馈使用 Pulsar 时遇到的问题。 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90689</guid>
+      <pubDate>Wed, 26 Aug 2026 00:46:50 GMT</pubDate>
+    </item>
     <item>
       <title>[开发者自荐] PhotoLoci：在地图上浏览 iCloud 照片与旅行足迹</title>
       <link>https://meta.appinn.net/t/topic/90677</link>
@@ -56,7 +290,7 @@ AIClue 只处理用户明确选择的文件夹，日常扫描、正文读取、�
 下载：下载 AIClue | AIClue
 当前公开版本：v26.8.10
 这是我自己开发的产品。如果大家在文件扫描、正文搜索、预览或使用边界上有疑问，可以直接在帖子里问；功能不合适或遇到问题，也欢迎直接指出。 
-2 个帖子 - 2 位参与者
+3 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90658</guid>
       <pubDate>Tue, 25 Aug 2026 06:48:13 GMT</pubDate>
@@ -436,126 +670,6 @@ VideoCompress - 视频压缩全程在浏览器里跑，文件不上传
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90569</guid>
       <pubDate>Mon, 24 Aug 2026 01:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】喵呜导图：一个免费好用的思维导图软件</title>
-      <link>https://meta.appinn.net/t/topic/90567</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90567</guid>
-      <pubDate>Mon, 24 Aug 2026 00:09:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】蓄拼AI输入法</title>
-      <link>https://meta.appinn.net/t/topic/90564</link>
-      <description><![CDATA[蓄拼：先把话写好，再一次上屏的 Windows 输入法
-大家好，这是我做的 Windows 输入法「蓄拼」。 
-它和普通输入法最大的区别，是增加了一块暂存区：选好的文字不会马上发送，可以继续补充、修改、换行，确认无误后再一次上屏。写长消息、回复邮件或整理一段想法时，会轻松很多。 
-主要功能：
-
-支持全拼、双拼和形码输入
-暂存区可编辑长文本，也能查看输入历史
-可直接使用 AI 润色、改写、总结和续写
-支持实时翻译、语音输入和文字朗读
-可选 Vim 编辑，常用功能都有快捷键
-
-最简单的用法只有四步：
-
-按 F3 开启蓄拼
-输入拼音，用空格或数字键选择候选
-在暂存区继续修改文字
-按 Enter 一次上屏，按 Esc 返回或退出
-
-原项目主页与下载：https://github.com/sxzxs/Real-time-translation-typing
-新版可在release页面下载
-目前还在持续完善中，欢迎试用。如果遇到问题，或者觉得某个操作不顺手，欢迎留言反馈。 
-
-
-
-
-
-Releases · sxzxs/Real-time-translation-typing
-5 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90564</guid>
-      <pubDate>Mon, 24 Aug 2026 00:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开源自荐】KimiCodeBar Windows：托盘上的 Kimi Code 用量监控，4MB，低额度变红提醒</title>
-      <link>https://meta.appinn.net/t/topic/90562</link>
-      <description><![CDATA[软件名称：KimiCodeBar（Windows 社区版）
-一句话简介：Windows 系统托盘上的 Kimi Code 用量监控——左键看额度，快烧完图标变红提醒。 
-开源地址：GitHub - JYH1878/KimiCodeBar-Windows: Windows 托盘上的 Kimi Code 用量监控：左键看额度，低额变红提醒。 Tauri 2 + Rust，安装包仅 4 MB。 · GitHub
-下载地址：Releases · JYH1878/KimiCodeBar-Windows · GitHub （安装包 / 便携版；也支持 winget 和 Scoop）
-官网：https://jyh1878.github.io/KimiCodeBar-Windows
-主要功能
-
-常驻托盘，左键弹出用量面板：7 天 / 5 小时双窗口的已用百分比、剩余量、重置倒计时
-剩余低于阈值（默认 20%，可调）托盘图标变红 + 系统通知
-多账号最多 10 个，翻页管理；支持 Kimi、DeepSeek 余额、GLM Coding Plan 三种账号类型
-本地 token 消耗统计（扫本地会话日志，按天统计 + 近 7 天柱状图），支持 Claude Code / Codex / OpenCode 日志归属
-会员档位、加油包余额、月度总量展示；用量可导出 CSV/JSON
-离线缓存、自动更新、全局热键、中英双语、明暗主题
-
-其他信息
-
-Tauri 2 + Rust 构建，安装包不到 5 MB，运行内存约 10–20 MB
-当前用户安装免管理员；也有免安装便携版
-MIT 开源，是 macOS 版 KimiCodeBar（xifandev/KimiCodeBar）经原作者认可的 Windows 社区移植版，非 Kimi 官方出品
-系统要求：Windows 10 1809+ / Windows 11
-
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90562</guid>
-      <pubDate>Mon, 24 Aug 2026 00:04:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开源自荐】RetroChat： 让 10 年前的老设备也能流畅用 AI，一款极简复古的 AI 对话客户端</title>
-      <link>https://meta.appinn.net/t/topic/90542</link>
-      <description><![CDATA[适用平台：Web / PWA（兼容现代浏览器，以及 10 年前的老旧 Safari / iOS 12+）
-项目地址：https://github.com/anyuxurl/retro-chat
-在线体验：https://retro.134687.xyz
-
-做这个小工具，其实就两个很单纯的目的：
-
-让老设备也能流畅聊天：现在的 AI 网页动辄几兆依赖，随便打开就卡死闪退。我想让抽屉里吃灰的 iPhone 5s、老 iPad 或者低配旧电脑，也能毫无压力地与现代大模型流畅对话，真正把“电子垃圾”利用起来。 
-给喜欢极简、复古风的人一个纯粹的选择：受够了现代软件花哨复杂的界面，如果你只想要一个安静、纯粹、打字机式流式输出的复古聊天窗口，它会很适合你。 
-
-
-核心特点
-
-极致轻量，老设备秒开：
-没有任何臃肿的现代前端框架包袱，连 10 年前的老设备（如 iOS 12 的 Safari）都能丝滑流式打字输出，不白屏、不卡顿。 
-经典复古双主题：
-内置 CRT 绿屏终端 与 老 Mac 经典灰白 两套极简主题，低像素、纯文字，回归早期计算机的纯粹感。 
-自由接入任意大模型：
-支持自定义接入任何兼容 OpenAI 格式的接口，包括 DeepSeek、Qwen、Kimi以及本地运行的 Ollama。 
-纯本地存储，尊重隐私：
-对话记录和你的 API Key 仅保存在当前浏览器的本地存储中，不设云端数据库，支持一键导出/导入 JSON 备份。 
-支持 PWA“安装”到主屏幕：
-可以像原生 App 一样添加到手机桌面，离线资源缓存，二次打开几乎秒进。 
-（即将）支持 Vercel 一键免费部署：
-自带轻量后端代理与防刷限流机制
-
-
-截图预览
-
-
-
-欢迎体验与交流
-无论是想给家里的老设备找点用处，还是想找个清爽不打扰的极简 AI 工具，都欢迎大家体验！ 
-项目已完全开源，欢迎大家来提建议或吐槽：
-GitHub: https://github.com/anyuxurl/retro-chat
-4 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90542</guid>
-      <pubDate>Sun, 23 Aug 2026 12:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[开发者自荐] Velastar-星空探索与登陆异星世界，这是我做程序员以来开发的最有成就感的 App</title>
-      <link>https://meta.appinn.net/t/topic/90531</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90531</guid>
-      <pubDate>Sun, 23 Aug 2026 08:27:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

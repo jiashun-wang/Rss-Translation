@@ -6,9 +6,9 @@
     <description>力学学报</description>
     <lastBuildDate>Sun, 19 Jul 2026 16:00:00 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>基于高阶通量重构的二维不稳定性流动模拟</title>
       <link>https://d.wanfangdata.com.cn/periodical/lxxb202606011</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[为精准捕捉复杂流动失稳与多尺度湍流结构,求解 Navier-Stokes 方程的高精度算法近年来得到了广泛研究.基于非结构网格的通量重构(flux reconstruction,FR)格式是一类易于实现的高阶格式框架,在模板紧致的同时能够实现高阶收敛与高分辨率捕捉.Kelvin-Helmholtz(K-H)不稳定性问题是一种典型的流体界面剪切不稳定性现象,作为复杂流动的简化模型常被用于评估数值格式的分辨率特性.通过二维等熵涡问题验证了FR 格式的收敛性,并采用可压缩 K-H 不稳定性问题作为测试算例,在不同的分辨率与雷诺数下进行了直接数值模拟,通过对比不同条件下的流场统计量(如平均动能、数值熵)与流动快照,展示了 FR 格式计算精度高、数值分辨率强等优势.在相同自由度下,提升阶数相较于加密网格可得到更高的分辨率,但数值稳定性降低.随着雷诺数增加,流动多尺度特征更加突出,高阶格式较小数值耗散的特性使其能够捕捉到剪切流失稳问题中的多尺度复杂流动结构.研究表明FR格式对开展复杂多尺度流动失稳现象模拟具有很好的应用前景.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/lxxb202606011</guid>
       <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
     </item>
@@ -22,7 +22,7 @@
     <item>
       <title>基于数据同化的高速风洞自由流修正算法及验证</title>
       <link>https://d.wanfangdata.com.cn/periodical/lxxb202606009</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[高超声速风洞的自由来流参数面临着准确测量难度大的挑战,并且其准确度会制约对来流敏感的数值流场计算精度.基于传统集合卡尔曼滤波(ensemble Kalman filter,EnKF)数据同化算法,以风洞自由来流参数为研究对象,提出了面向高速风洞的热力学正则集合卡尔曼滤波(thermodynamics-regularized ensemble Kalman filter,TEnKF)数据同化算法.利用高超声速风洞中实验测量的稀疏壁面物理量和先验样本数值流场,TEnKF 在目标函数和更新步中额外引入来流滞止参数作为正则项,约束后验样本来流参数可张成的物理子空间,以应对EnKF 存在的不适定性问题.通过在不同类型的高超声速风洞中开展的案例修正表明,TEnKF 的性能优于EnKF,对应重构流场与实验误差更小,修正来流结果保证了与先验滞止参数的相容性.通过敏感性和修正过程分析,发现热力学正则改善了来流-壁面敏感性不均衡对修正结果的影响,同时为卡尔曼滤波器间接引入了阻尼项,修正过程更加稳定且利于收敛,同时避免来流参数之间的修正独立问题.因此,TEnKF 能够为高速风洞来流提供更加可靠的修正算法,提高数值预测的精度并降低不确定性.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/lxxb202606009</guid>
       <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>一种星间链路动力学的轻量化贝叶斯修正方法</title>
       <link>https://d.wanfangdata.com.cn/periodical/lxxb202606018</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[在巨型星座激光星间链路任务中,轨道动力学、姿态动力学、空间环境干扰以及激光终端误差等不确定性因素难以避免,常导致捕获困难且难以长时间稳定维持.因此,亟需对星间链路动力学指向误差进行系统识别与有效修正.为此,本文提出一种基于贝叶斯推断的轻量化、自适应且鲁棒的误差参数辨识与修正框架,兼具高效前向仿真能力与自适应精准采样的特点.首先,基于在轨遥测统计数据与地面仿真实验结果,系统梳理并量化了主要误差源.其次,提出状态空间高斯过程回归(state-space Gaussian process regression,SS-GPR)方法构建代理模型(surrogate model),并设计了一种物理信息驱动的时空核函数,以表征误差动力学特性;相较于高保真仿真模型,该代理模型将单次预测耗时由秒级降至毫秒级,在测试集上的平均相对误差小于 1%.进一步地,本文提出一种自适应的鲁棒退火马尔科夫链蒙特卡罗算法(adaptive robust tempered Markov chain Monte Carlo,ART-MCMC),可快速收敛完成误差参数的后验推断,其平均归一化标定偏差低于 5%,有效缓解了传统马尔科夫链蒙特卡罗方法在高维参数空间中采样效率低、收敛缓慢及调参困难等问题.最后,利用所辨识的参数标定结果对动力学模型进行校准,实验数据表明,修正后高低角与方位角的平均误差分别从0.000 27°与0.001 48°降低至 0.000 006°与 0.000 034°,残差分布收敛为零均值的窄带冲击分布.仿真结果验证了本文所提出的基于贝叶斯推断的轻量化辨识与修正框架,能够有效应对多源不确定性引起的星间链路动力学指向误差.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/lxxb202606018</guid>
       <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>低落压比超音速分离线喷管推力矢量特性研究</title>
       <link>https://d.wanfangdata.com.cn/periodical/lxxb202606008</link>
       <description><![CDATA[对超音速分离线喷管在过膨胀状态下的流动与推力特性开展数值研究,揭示喷管在不同摆角下的典型流动特征与工作模态,探讨工作模态与推力矢量性能之间的内在联系.研究发现,喷管在过膨胀状态下的推力矢量效果取决于流动分离与几何偏转的共同作用,根据分离线下游的大尺度分离区是否存在,喷管表现出&quot;开放&quot;与&quot;闭合&quot;两种典型工作模态.开放模态下的大尺度分离区对喷管主流偏转产生抑制作用,对喷管推力矢量性能造成损失.当喷管由开放模态进入闭合模态后,喷管内的全局马赫反射(oMR)波系和分离流动向全局规则反射(oRR)波系和附着流动转变,侧向推力随喷管落压比(NPR)增大而单调增长,推力矢量效率趋于稳定.由于喷管侧向推力对工作模态高度敏感,因此喷管推力矢量性能随 NPR 增大而呈现分段变化特征.在传统喷管理论基础上,结合出口截面流动参数对喷管侧向推力进行量化,从而实现对侧向推力较为准确的公式化表述,为喷管推力矢量性能提供物理意义清晰的评估方法.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/lxxb202606008</guid>
@@ -104,9 +104,9 @@
       <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>不同扰动对高速激波/转捩边界层干扰的影响</title>
       <link>https://d.wanfangdata.com.cn/periodical/lxxb202606001</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[激波/转捩边界层干扰因其流动复杂性和严重的力热危害是高速飞行中备受关注的难题.采用壁面解析的隐式大涡模拟计算了 Ma=6 的激波/转捩边界层干扰过程,考虑了两种不同的转捩机制,分析了干扰系统的力热特性,揭示了不稳定模态的演化规律及力热特性差异的原因.当前算例结果表明:激波/转捩边界层干扰会显着放大转捩初期的小扰动,加速转捩过程,但并未改变边界层转捩的主导机制,动态模态分解的结果也支持了这一结论.此外,相比常规转捩,干扰会显着抬高边界层摩擦阻力和热流峰值.对于第二模态主导的激波/转捩边界层干扰,涡结构和扰动演化分析表明转捩仍为基频共振机制主导,但壁面摩擦阻力和热流因边界层再附和涡破碎过程经历两次增长,达到更高的水平.对于一对最优扰动主导的干扰过程,转捩仍为第二模态斜波共振机制主导,但由于干扰区转捩仍在弱非线性阶段,下游涡破碎程度不完全,壁面摩擦阻力和热流仅经历了一次增长,整体水平也相对较小.边界层的主导转捩机制及转捩程度是导致激波/转捩边界层干扰过程摩擦阻力和热流峰值差异的原因,这一发现可为飞行器气动外形和热防护系统设计提供参考.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/lxxb202606001</guid>
       <pubDate>Wed, 17 Jun 2026 16:00:00 GMT</pubDate>
     </item>

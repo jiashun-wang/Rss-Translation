@@ -4,7 +4,7 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Aug 2026 23:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:33:30 GMT</lastBuildDate>
     <item>
       <title>textNet：从文本数据中提取定向、多重、多模式事件网络</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.07615</link>
@@ -104,7 +104,7 @@
       <pubDate>Tue, 18 Aug 2026 19:05:30 GMT</pubDate>
     </item>
     <item>
-      <title>pharmsol：用于药代动力学和药效建模与模拟的高性能 Rust 库</title>
+      <title>pharmsol：用于药代动力学和药效学建模和模拟的高性能 Rust 库</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.10580</link>
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10580</guid>

@@ -13,30 +13,30 @@
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>基于机器学习的海上风电场声学地层勘探技术原位试验研究</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyjs202603009</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[在海上风电快速发展的背景下,准确、高效的工程地质勘探对保障项目安全具有重要意义.本文以福建某海上风电场为例,开展原位声学地层勘探,结合深度学习与无监督聚类的智能解译方法对勘探数据进行分层,并与原位钻探揭示的实际地层信息进行对比.结果表明:声学地层勘探技术可较清晰、连续地揭示海底主要地层结构.在 25 个对比数据点中,绝对误差小于 1.0 m 的有 12 个,占比为 48.0%;绝对误差小于 4.0 m 的有 19 个,占比为 76.0%,表明该方法在多数测点的宏观地层划分中具有一定可靠性,同时可识别局部地质异常区域.研究成果可为声学地层勘探技术在海上风电项目中的应用提供参考,并为福建海域风机基础选型提供基础数据.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyjs202603009</guid>
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>面向DVL缺失工况的水下导航观测补偿方法</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyjs202603001</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[在水下自主航行器(Autonomous Underwater Vehicle,AUV)导航过程中,通常依赖惯性导航系统(Inertial Navigation System,INS)和多普勒测速计(Doppler Velocity Log,DVL)融合定位.受水声环境复杂性和设备工作状态影响,DVL易出现数据缺失.针对 DVL缺失条件下传统融合方法鲁棒性不足的问题,本文提出了一种数据驱动观测补偿与统一因子图融合的系统性思路,通过训练随机森林回归模型,学习航行器局部运动状态与 DVL速度观测之间的非线性映射关系,进而预测得到&quot;虚拟 DVL 观测&quot;,并将其作为速度先验输入统一的因子图优化(Factor Graph Optimization,FGO).在不改变因子图后端结构的前提下,通过提升软约束的观测质量改善导航系统在DVL缺失工况下的稳定性与精度.基于真实水下试验数据验证,在缺失后外部观测极为稀疏的最不利工况下,随机森林方法将终点误差从千米级缩小至百米量级,相较于不补偿方案,终点误差降低约 98%.同时,随机森林在终点误差、全程均方根误差(Root Mean Squared Error,RMSE)和航程归一漂移率上较线性插值分别进一步降低约 29%、14%和30%,表明其在抑制误差累积和保持全航程轨迹一致性方面具有更强的鲁棒性.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyjs202603001</guid>
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>海上酸化解堵技术研究与应用</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyjs202603011</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[海上某油气田 A7 井完井后,间歇排液,地层连通性较差,产量较低,本文对其低产原因展开了分析.针对堵塞特征,本文通过文献调研和大量现场实践,分析多氢酸解堵机理及特性,选用以多氢酸为主体的解堵液体系进行酸化解堵作业,有机解堵剂为 100%重垢清洗剂,前置液为 50%淡水+50%多氢酸 1,无机处理液为 50%淡水+50%多氢酸 2,顶替液为 2.5%黏土稳定剂垣1.25%助排剂+过滤海水,并对其综合性能进行了室内实验评价.结果表明:多氢酸酸化体系各项性能指标均能满足储层酸化解堵施工的要求.进一步现场应用结果表明,利用多氢酸体系进行酸化解堵作业,现场施工顺利,有效期较长,效果明显,解堵后该井日产液 48 m3,含水率 10%,生产稳定.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyjs202603011</guid>
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>苏北侵蚀性海岸防护措施与效果评估研究——以射阳海岸带为例</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyjs202603007</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[我国海岸侵蚀问题较为普遍,射阳海岸带生态安全正面临持续威胁.本文基于 2014 年与2021 年两期实地勘测资料分析得出,研究区岸线平均后退速率约为 30 m/a;0 m 等深线后退距离北区 300～750 m,南区约 500 m,5 m 等深线后退距离为 400～800 m,10 m 等深线冲淤交替.其中,岸线后退反映岸线位置变化特征,而等深线迁移主要反映近岸剖面整体调整及沉积物再分布过程.针对射阳海岸防护与生态修复需求,本文提出并实施离岸潜堤工程方案.水动力对比分析结果表明:潜堤后掩护区流速总体低于邻近近岸区域,形成弱流态.依据海堤设计规范,潜堤按极端高水位与 50 年一遇波浪组合条件进行设计,透射系数为 0.73.工程实施后,堤内向岸水动力作用明显减弱,近岸冲刷强度降低,研究区南、北段向岸平均侵蚀深度分别降至 0.03 m、0.02 m.研究成果可为其他侵蚀性海岸防护工程及相关生态修复措施的实施提供实践参考.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyjs202603007</guid>
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>内波对水下浮体运动的影响研究</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyjs202603002</link>
       <description><![CDATA[潜航器等水下浮体已成为深海探测的重要设备平台,如遇海洋内波将对水下浮体的安全性构成巨大威胁.本文以南海区域内孤立波的实际观测值为参数,选取两层流体产生的内孤立波 KdV(Korteweg-de Vries)方程的理论解,建立内波流场数值环境,应用 Morison 公式求解水下浮体在内孤立波作用下的垂向受力情况时域模型和垂向运动响应的时域模型.结果表明:结构物受到的垂向力瞬时峰值最高可达104 N,在水体中的垂直下沉深度最高可达200​​ m.浮体在内孤立波的作用下,会受到短时间内剧烈变化的垂向作用力的影响,浮体也会因此发生剧烈的下沉或上浮,威胁其结构安全.本文可为水下浮体及潜航器在复杂内波环境下的设计、控制与防护提供理论依据,对保障深海装备的运行安全与提升抗内波扰动性能具有重要工程意义.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyjs202603002</guid>
@@ -92,21 +92,21 @@
     <item>
       <title>深海溶解氧传感器结构设计与仿真分析</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyjs202603004</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[为满足 4 000 m级深海溶解氧(Dissolved Oxygen,DO)的高精度原位测量需求,本文提出一种基于荧光猝灭法的深海溶解氧传感器集成结构,围绕光路系统优化与耐压壳体强度设计开展了系统研究.光学系统采用背向反射式布局,通过多物理约束耦合优化将双光源夹角确定为 64°,在提升信号信噪比与抗干扰能力的同时,实现了狭小空间内的结构紧凑化设计.基于基尔霍夫薄板理论与短圆筒外压屈曲模型,完成了蓝宝石窗口与钛合金壳体的强度理论计算.进一步引入考虑密封配合间隙内液体压力的精细化有限元仿真方法,系统分析了壳体在深海高压环境下的应力分布与变形行为,识别出由&quot;杠杆效应&quot;引发的壳体端部翘曲变形机制,以及端盖法兰根部的应力集中与数值奇异问题.经圆角过渡结构优化后,关键区域平均应力降幅超50%,满足强度设计要求.最终通过 50 MPa 水静压力试验,验证了传感器结构的完整性与密封可靠性.结合海试比对试验结果,验证了高压环境下光路性能的稳定性与测量准确性.研究成果可为深海荧光溶解氧传感器的工程化设计提供理论支撑与技术参考.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyjs202603004</guid>
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>温州南部近岸海域营养盐分布及富营养化分析</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyjs202602007</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[为探究温州南部近岸海域富营养化的时空分布特征及其驱动因子,本文对温州南部近岸海域 26 个站位的 2023 年春季(5 月)和秋季(10 月)的水质调查结果进行了统计分析.结果表明:空间分布上,研究海域营养盐和富营养化指数(Eutrophication Index,EI)均呈近岸向外海递减的规律,氮磷原子比(Nitrogen Phosphorus Ratio,N/P)呈近岸向外海递增的规律;研究海域春季和秋季表层水体均呈磷限制,且秋季磷限制程度更高.陆源输入和养殖活动是富营养化的主要驱动因素,春季农业径流携带大量氮肥导致近岸富营养化加剧,秋季养殖残饵和船舶排放则促进&quot;油类-悬浮物(Suspended Solids,SS)-营养盐&quot;复合污染形成.相关性分析表明:在秋季,可溶性无机氮(Dissolved Inorganic Nitrogen,DIN)和可溶性无机磷(Dissolved In-organic Phosphorus,DIP)均与油类极显着正相关(p&lt;0.01),与化学需氧量(Chemical Oxygen Demand,COD)、SS 显着正相关(p&lt;0.05),凸显了人类活动对富营养化的影响.本文可为缓解温州南部近岸海域富营养化,制定分季节差异化管控策略提供科学依据.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyjs202602007</guid>
       <pubDate>Wed, 29 Apr 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>基于熵权法的汕尾田尾山海域水质分析</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyjs202602008</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[近岸海域良好的生态环境是海洋经济高质量发展的重要基础,科学开展水质评价对近岸海域环境风险防范具有重要意义.本文以单因子污染指数为基础,引入熵权赋权水质指标,构建熵权综合指数,并以汕尾田尾山海域为例,选取 2021-2022 年不同水期水质监测数据,使用综合污染指数和熵权综合指数评估水质状况,验证改进综合污染指数的科学性.结果表明:该海域水质符合我国第三类海水水质标准,水体的污染风险较低,随着季节推移,该海域水质总体呈轻微下降趋势.受粤东上升流的多形态动力机制与季风、地形等叠加影响,环境质量高负荷区主要出现在离岸一段距离的海域中.该海域环境质量的主要影响因子为悬浮物(Sus-pended Solids,SS)、溶解氧(Dissolved Oxygen,DO)、可溶性无机氮(Dissolved Inorganic Ni-trogen,DIN)和油类,环境风险物质为铅(Pb);与邻近海域相比,春季铜(Cu)、锌(Zn)含量偏高.相比于综合污染指数法,熵权法全面考虑研究海区水质特征及不同环境因子对近岸海域水环境的影响程度,评价结果更为合理,且更具区分度.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyjs202602008</guid>
       <pubDate>Wed, 29 Apr 2026 16:00:00 GMT</pubDate>
     </item>

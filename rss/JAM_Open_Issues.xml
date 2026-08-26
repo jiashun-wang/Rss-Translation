@@ -4,20 +4,13 @@
     <title>Journal of Applied Mechanics Open Issues</title>
     <link>https://asmedigitalcollection.asme.org/appliedmechanics</link>
     <description></description>
-    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 GMT</lastBuildDate>
     <item>
-      <title>使用超粘弹性角膜模型的孤立波眼压计的有限元实现、验证和解释</title>
-      <link>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/10/101010/1234368/Finite-Element-Implementation-Validation-and</link>
-      <description><![CDATA[摘要青光眼是一种与年龄相关的疾病，通过控制眼压 (IOP) 可以减缓其进展。虽然戈德曼压平法仍然是眼压测量的黄金标准，但它仅提供单点读数，可能无法捕捉昼夜节律波动和偶发的压力波动。这种限制可以通过患者操作的设备来解决，该设备能够随时随地进行连续监测或频繁测量。我们的小组最近提出了一种基于粒子链内高度非线性孤立波传播的新型眼压计。在链的一端感应出入射孤立波 (ISW)。一旦 ISW 到达另一端，与待评估的眼睛进行干接触，初级和次级孤立波（PSW 和 SSW）就会反弹。这些波由链条上的传感线圈检测到。所提出的解决方案背后的假设是，波的传播时间单调依赖于眼压，并且已经在代理角膜和离体角膜上进行了实验证明。本文利用先进的有限元分析和人工角膜的超粘弹性模型，研究了眼压和中央角膜厚度 (CCT) 对传播波的影响。这些数值模拟验证了之前的实验结果，同时证明，与该小组开发的早期线性模型相比，超粘弹性模型在捕获飞行时间、眼压和色温之间的关系方面提供了更高的准确性。这些结果为可改善青光眼护理的新型便携式设备奠定了理论基础。]]></description>
-      <guid>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/10/101010/1234368/Finite-Element-Implementation-Validation-and</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一类拉格朗日框架内离散数据的拉格朗日辨识和响应预测</title>
-      <link>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/10/101009/1234149/Lagrangian-Identification-and-Response-Prediction</link>
-      <description><![CDATA[摘要从动力系统离散状态数据中识别显式拉格朗日量既具有科学意义又具有实用价值。现有方法主要建立在第二类拉格朗日框架内，其中广义坐标的使用以增加功能复杂性为代价降低了系统维数。相比之下，在物理坐标中制定的第一类拉格朗日框架涉及更高的维度，但具有更简单的功能结构。本质上的简单性使其特别适合数据驱动的识别。这项工作通过开发一种数据驱动的方法来解决这个问题，该方法用于根据物理坐标识别显式拉格朗日量。我们首先将第一类拉格朗日框架嵌入到关注的动力系统中，消除所有拉格朗日乘子，将拉格朗日扩展到一组预先指定的基函数上，并通过稀疏优化识别显式拉格朗日。然后，通过将识别的拉格朗日量与全套约束方程和初始条件相结合来构造适定问题，从而能够预测训练数据之外的状态响应。提供了四个代表性例子来证明该方法的应用、有效性和准确性。此外，我们还与现有方法进行了比较，讨论了其对数据噪声的鲁棒性以及所识别的拉格朗日量的非唯一性和等价性。]]></description>
-      <guid>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/10/101009/1234149/Lagrangian-Identification-and-Response-Prediction</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <title>双稳态曲梁动力学的屈曲或振动伽辽金模式：哪个产生可接受的收敛？</title>
+      <link>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/10/101011/1234784/Buckling-or-Vibration-Galerkin-Modes-for-Bistable</link>
+      <description><![CDATA[摘要动态激励使得双稳态梁能够在小力幅下快速状态切换，而可控切换策略依赖于梁动力学的准确预测。伽辽金方法提供了一种可靠且高效的方法，但试验函数的选择因研究而异，导致效率和准确性的最佳选择尚未解决。本文研究了双稳态曲梁的三种最常用模态组：直梁屈曲模式、直梁振动模式和曲梁振动模式。将这些试验函数代入截断阶数递增的控制方程中，我们对动态响应模式进行数值计算和比较。一模和二模截断在三组中产生相似的模式，但无法完全捕获主谐振和主谐波区域。然而，三模态截断揭示了屈曲模式和两种振动模式之间的次谐波井间区域存在显着差异。这些差异是由屈曲问题中包含的轴向力效应引起的，但在振动问题中被忽略了，这是通过轴向与弯曲能量比分析证实的机制。这表明屈曲模式的收敛速度更快，五模式结果证实了这一点，其中所有预测都收敛并与三模式屈曲预测定性一致。有限元模拟和参数研究进一步验证了这些发现。研究表明，屈曲模态表现出优异的收敛性，并且通常需要五模态截断来捕获完整的动力学，为选择双稳态曲梁的试验函数和截断阶数提供了清晰合理的基础。]]></description>
+      <guid>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/10/101011/1234784/Buckling-or-Vibration-Galerkin-Modes-for-Bistable</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

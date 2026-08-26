@@ -4,23 +4,23 @@
     <title>老苏的blog</title>
     <link>https://laosu.tech/</link>
     <description>聚沙成塔，集腋成裘</description>
-    <lastBuildDate>Tue, 25 Aug 2026 23:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:41:48 GMT</lastBuildDate>
     <item>
       <title>一键把 SMB 共享变成网页文件管理器，手机也能直接使用</title>
       <link>https://laosu.tech/2026/08/24/%E4%B8%80%E9%94%AE%E6%8A%8A%20SMB%20%E5%85%B1%E4%BA%AB%E5%8F%98%E6%88%90%E7%BD%91%E9%A1%B5%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E6%89%8B%E6%9C%BA%E4%B9%9F%E8%83%BD%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Sambee 是一个浏览器端的文件查看与管理工具，支持 SMB 共享和本地磁盘的快速预览与 Markdown 编辑。]]></description>
       <guid>https://laosu.tech/2026/08/24/%E4%B8%80%E9%94%AE%E6%8A%8A%20SMB%20%E5%85%B1%E4%BA%AB%E5%8F%98%E6%88%90%E7%BD%91%E9%A1%B5%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E6%89%8B%E6%9C%BA%E4%B9%9F%E8%83%BD%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8/</guid>
       <pubDate>Mon, 24 Aug 2026 03:30:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>多个大模型API管理太乱？这个开源网关帮你一键聚合</title>
       <link>https://laosu.tech/2026/08/23/%E5%A4%9A%E4%B8%AA%E5%A4%A7%E6%A8%A1%E5%9E%8BAPI%E7%AE%A1%E7%90%86%E5%A4%AA%E4%B9%B1%EF%BC%9F%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E7%BD%91%E5%85%B3%E5%B8%AE%E4%BD%A0%E4%B8%80%E9%94%AE%E8%81%9A%E5%90%88/</link>
       <description><![CDATA[Octopus 是一个为个人打造的 LLM API 聚合服务，支持多渠道管理和协议互转。]]></description>
       <guid>https://laosu.tech/2026/08/23/%E5%A4%9A%E4%B8%AA%E5%A4%A7%E6%A8%A1%E5%9E%8BAPI%E7%AE%A1%E7%90%86%E5%A4%AA%E4%B9%B1%EF%BC%9F%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E7%BD%91%E5%85%B3%E5%B8%AE%E4%BD%A0%E4%B8%80%E9%94%AE%E8%81%9A%E5%90%88/</guid>
       <pubDate>Sun, 23 Aug 2026 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>端口又冲突了？装上这个红绿灯看板，群晖端口一目了然</title>
       <link>https://laosu.tech/2026/08/22/%E7%AB%AF%E5%8F%A3%E5%8F%88%E5%86%B2%E7%AA%81%E4%BA%86%EF%BC%9F%E8%A3%85%E4%B8%8A%E8%BF%99%E4%B8%AA%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9C%8B%E6%9D%BF%EF%BC%8C%E7%BE%A4%E6%99%96%E7%AB%AF%E5%8F%A3%E4%B8%80%E7%9B%AE%E4%BA%86%E7%84%B6/</link>
       <description><![CDATA[Port-Light 是一个本地 Web 看板，用红绿灯网格展示服务器端口占用情况，适合管理大量 Docker Compose 栈。]]></description>
       <guid>https://laosu.tech/2026/08/22/%E7%AB%AF%E5%8F%A3%E5%8F%88%E5%86%B2%E7%AA%81%E4%BA%86%EF%BC%9F%E8%A3%85%E4%B8%8A%E8%BF%99%E4%B8%AA%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9C%8B%E6%9D%BF%EF%BC%8C%E7%BE%A4%E6%99%96%E7%AB%AF%E5%8F%A3%E4%B8%80%E7%9B%AE%E4%BA%86%E7%84%B6/</guid>
@@ -34,9 +34,9 @@
       <pubDate>Fri, 21 Aug 2026 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>NAS 里堆了几千本漫画？ NowenReader 一键变成私人图书馆</title>
       <link>https://laosu.tech/2026/08/19/NAS%20%E9%87%8C%E5%A0%86%E4%BA%86%E5%87%A0%E5%8D%83%E6%9C%AC%E6%BC%AB%E7%94%BB%EF%BC%9FNowenReader%20%E4%B8%80%E9%94%AE%E5%8F%98%E6%88%90%E7%A7%81%E4%BA%BA%E5%9B%BE%E4%B9%A6%E9%A6%86/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[NowenReader 是一款轻量开源的漫画与小说管理阅读平台，专为 NAS 场景优化。]]></description>
       <guid>https://laosu.tech/2026/08/19/NAS%20%E9%87%8C%E5%A0%86%E4%BA%86%E5%87%A0%E5%8D%83%E6%9C%AC%E6%BC%AB%E7%94%BB%EF%BC%9FNowenReader%20%E4%B8%80%E9%94%AE%E5%8F%98%E6%88%90%E7%A7%81%E4%BA%BA%E5%9B%BE%E4%B9%A6%E9%A6%86/</guid>
       <pubDate>Wed, 19 Aug 2026 09:30:00 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>自托管经期追踪工具 Ovumcy：数据不上云，完全自主掌控</title>
       <link>https://laosu.tech/2026/07/27/%E8%87%AA%E6%89%98%E7%AE%A1%E7%BB%8F%E6%9C%9F%E8%BF%BD%E8%B8%AA%E5%B7%A5%E5%85%B7%20Ovumcy%EF%BC%9A%E6%95%B0%E6%8D%AE%E4%B8%8D%E4%B8%8A%E4%BA%91%EF%BC%8C%E5%AE%8C%E5%85%A8%E8%87%AA%E4%B8%BB%E6%8E%8C%E6%8E%A7/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Ovumcy 是一个隐私优先的自托管经期追踪工具，支持周期预测和多语言界面。]]></description>
       <guid>https://laosu.tech/2026/07/27/%E8%87%AA%E6%89%98%E7%AE%A1%E7%BB%8F%E6%9C%9F%E8%BF%BD%E8%B8%AA%E5%B7%A5%E5%85%B7%20Ovumcy%EF%BC%9A%E6%95%B0%E6%8D%AE%E4%B8%8D%E4%B8%8A%E4%BA%91%EF%BC%8C%E5%AE%8C%E5%85%A8%E8%87%AA%E4%B8%BB%E6%8E%8C%E6%8E%A7/</guid>
       <pubDate>Mon, 27 Jul 2026 02:00:00 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>把唐诗宋词元曲全装进Docker，一键部署自己的诗词API</title>
       <link>https://laosu.tech/2026/07/21/%E6%8A%8A%E5%94%90%E8%AF%97%E5%AE%8B%E8%AF%8D%E5%85%83%E6%9B%B2%E5%85%A8%E8%A3%85%E8%BF%9BDocker%EF%BC%8C%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AF%97%E8%AF%8DAPI/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[诗泉 (chinese-poetry-api) 是一个基于 Go 语言的高性能中国古诗词 API 服务，支持 REST 和 GraphQL 接口，收录近 40 万首诗词。]]></description>
       <guid>https://laosu.tech/2026/07/21/%E6%8A%8A%E5%94%90%E8%AF%97%E5%AE%8B%E8%AF%8D%E5%85%83%E6%9B%B2%E5%85%A8%E8%A3%85%E8%BF%9BDocker%EF%BC%8C%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AF%97%E8%AF%8DAPI/</guid>
       <pubDate>Tue, 21 Jul 2026 09:30:00 GMT</pubDate>
     </item>
