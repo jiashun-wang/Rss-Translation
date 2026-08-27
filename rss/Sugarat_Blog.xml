@@ -4,7 +4,7 @@
     <title>粥里有勺糖</title>
     <link>https://sugarat.top</link>
     <description>你的指尖,拥有改变世界的力量（大前端相关技术分享）</description>
-    <lastBuildDate>Mon, 24 Aug 2026 08:27:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:29:29 GMT</lastBuildDate>
     <item>
       <title>视野修炼第130期 | 光影效果</title>
       <link>https://sugarat.top/weekly/2026-08-23.html</link>
@@ -67,13 +67,6 @@
       <pubDate>Wed, 06 May 2026 09:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>🚀 VitePress 插件开发计划</title>
-      <link>https://sugarat.top/essay/dev/vitepress-plugins.html</link>
-      <description><![CDATA[主题在近几年里集成了非常的多功能了，接下来计划将这些能力拆分成组件，以便于更方便的与其它主题集成。]]></description>
-      <guid>https://sugarat.top/essay/dev/vitepress-plugins.html</guid>
-      <pubDate>Sat, 18 Apr 2026 07:50:17 GMT</pubDate>
-    </item>
-    <item>
       <title>视野修炼第129期 | 上一次古法编程是什么时候</title>
       <link>https://sugarat.top/weekly/2026-04-11.html</link>
       <description><![CDATA[① 杀死那个写代码的人 ② 插件离线安装包获取 ③ Harness Engineering是什么？ ④ SSGOI - Native 过度效果 ⑤ boneyard-js - 自动骨架屏 ⑥ gitlogue - 动画展示 Git 提交历史 ⑦ gh-space-shooter - 贡献图转为射击小游戏 ⑧ Tunelo - 穿透工具 ⑨ 图解演示 CC 工作流程 ⑩ Open Agent SDK]]></description>
@@ -125,6 +118,13 @@
       <description><![CDATA[25年12月25日进行的胸腹主替换手术，时长约6小时，由心外顶尖医生&quot;孙立忠&quot;主刀，顺利拿下；近期状态恢复得还行，在这里记录分享一下相关细节。]]></description>
       <guid>https://sugarat.top/essay/life/sbzy-26-1-5.html</guid>
       <pubDate>Wed, 07 Jan 2026 07:05:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>又双叒住院了</title>
+      <link>https://sugarat.top/essay/life/sbzy-12.html</link>
+      <description><![CDATA[今年第七次住院了；不过这次手术处理完，就没有隐患了。]]></description>
+      <guid>https://sugarat.top/essay/life/sbzy-12.html</guid>
+      <pubDate>Tue, 23 Dec 2025 04:13:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

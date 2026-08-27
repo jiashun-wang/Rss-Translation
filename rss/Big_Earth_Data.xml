@@ -1,9 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:33:22 GMT</lastBuildDate>
+    <title>tandf: Big Earth Data: Table of Contents</title>
+    <link>https://www.tandfonline.com/loi/tbed20?af=R</link>
+    <description>Table of Contents for Big Earth Data. List of articles from both the latest and ahead of print issues.</description>
+    <lastBuildDate>Thu, 27 Aug 2026 04:09:24 GMT</lastBuildDate>
+    <item>
+      <title>大数据、可靠科学、持久影响：被动声学监测框架</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2583505?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 728-762 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2583505?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>一种用于静止环境监测光谱仪（GEMS）仪器的新型气溶胶类型识别算法</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2654984?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 957-981 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2654984?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Sentinel-2 图像估算巴西中西部的大豆产量</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2631900?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 872-896 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2631900?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于SDGSAT-1夜间灯光和多源地理空间数据的建筑级城市人口测绘</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2622833?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 1064-1103 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2622833?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于深度学习算法和叶绿素a数据的全球亚尺度涡识别和数据集构建</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2608466?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 1038-1063 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2608466?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能驱动的极端阵风集合预报：随机森林建模和西地中海案例研究</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2593745?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 897-916 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2593745?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于参考站的迁移学习从中国两次地震相关的钻孔应变数据中提取地震异常</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2581423?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 1201-1226 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2581423?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>CA-MTransUNet：使用 Sentinel-1 和 Sentinel-2 图像进行森林烧毁区域 (FBA) 映射的云感知专家混合线性变压器 U-Net</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2598994?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 763-792 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2598994?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用变分自动编码器和 MLP-Mixer 网络对 Sentinel-1/2 图像的多特征融合进行建筑损伤检测：来自积石山地震的见解</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2597590?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 1133-1172 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2597590?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于位置的增强现实中的情境感知地标识别：具有 MobileNet 主干的文化遗产参与交换框架</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2649432?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 917-956 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2649432?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用地球观测大数据进行作物物候指标分析的工具</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2641272?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 793-816 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2641272?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>FAHM：一种使用轻量级深度表示学习网络进行遥感图像检索的快速非对称哈希方法</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2641265?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 1104-1132 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2641265?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>干湿季节性对尼罗河流域卫星土地覆盖类型识别的影响</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2603812?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 844-871 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2603812?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>安山岩构造环境识别的双轨机器学习框架：集成学习和小样本学习</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2603810?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 1173-1200 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2603810?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>弥合洋流建模的差距：混合物理驱动的深度学习方法</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2603809?af=R</link>
+      <description><![CDATA[第 10 卷第 2 期，2026 年 6 月，第 1007-1037 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2603809?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:09:08 GMT</pubDate>
+    </item>
     </channel>
 </rss>

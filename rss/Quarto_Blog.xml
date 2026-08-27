@@ -4,7 +4,14 @@
     <title>Blog on Posit Open Source</title>
     <link>https://opensource.posit.co/blog/</link>
     <description>Recent content in Blog on Posit Open Source</description>
-    <lastBuildDate>Mon, 24 Aug 2026 09:32:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:30:51 GMT</lastBuildDate>
+    <item>
+      <title>食谱1.4.0</title>
+      <link>https://opensource.posit.co/blog/2026-08-26_recipes-1-4-0/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-08-26_recipes-1-4-0/</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>cuda.ml 0.4.0：R 中的 GPU 加速机器学习</title>
       <link>https://opensource.posit.co/blog/2026-08-21_cuda-ml-0-4-0/</link>
@@ -122,13 +129,6 @@ Posit 和 Polars, Inc. 是不同的公司，但我们的工具有重叠。 Great
       <description><![CDATA[]]></description>
       <guid>https://opensource.posit.co/blog/2026-07-28_lorax/</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ir 0.1.0：自描述 R 脚本和 Quarto 文档</title>
-      <link>https://opensource.posit.co/blog/2026-07-23_ir-0-1-0/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://opensource.posit.co/blog/2026-07-23_ir-0-1-0/</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

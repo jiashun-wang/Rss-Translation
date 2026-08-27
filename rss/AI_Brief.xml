@@ -4,7 +4,56 @@
     <title>AI论文简报</title>
     <link>https://ai-brief.liziran.com</link>
     <description>每天3分钟，从源头论文把握AI前沿。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 09:40:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:32:33 GMT</lastBuildDate>
+    <item>
+      <title>语音RAG的F1跌幅扩大67%</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-27-voice-rag-error-amplification.html</link>
+      <description><![CDATA[Agent能力开始以持续交付衡量：Apodex 1.1将状态保持、失败恢复、多Agent协作和结果验证纳入完整工作轨迹。 复杂检索会放大语音识别错误，实体图与多轮改写使F1跌幅扩大36%–67%，错误实体是主要退化来源。 环境侧正则化释放策略探索预算。 ERPO用Query-KL约束查询分布，让PPO、GRPO能分别调节训练稳定性与回答探索。 少量全局注意力头即可承担长期记忆：ReWorld以局部头维持实时控制，并用固定KV缓存和地标库保存长期空间状态。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-27-voice-rag-error-amplification.html</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>可执行rubric延迟最多降至1/320</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-26-executable-rubrics-runtime-routing.html</link>
+      <description><![CDATA[可执行rubric让长文本评测更快、更可审计：ExecRubrics将质量标准编译为Python评分函数，偏好判断准确率最高达92%，延迟最多降至原来的1/320。 LoRA组合成为逐输入决策，LiST按当前样本检索、融合适配器，并通过安全接受规则决定启用或回退。 复杂RAG开始训练检索轨迹。 GTA-RAG结合证据图与强化学习，让模型根据已有证据判断下一步去哪里找。 安全对齐成本需要按语言核算：全局效用指标可能掩盖保护强度与可用性损失的语言差异，上线前应进行分组审计。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-26-executable-rubrics-runtime-routing.html</guid>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>部署闭环加速6.98倍，改计划提13.3点</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-25-deployment-planning-visual-risk.html</link>
+      <description><![CDATA[Kernel必须回到真实推理链路验收，LLM4LLM用部署反馈筛选候选实现，在H100上实现6.98倍几何平均端到端加速。 组合图像生成的瓶颈更常出在规划阶段：解码器有94%的概率忠实执行空间计划，替换计划可将表现提升13.3个百分点。 多模态推理应删除未利用图像的token。 VIG以视觉信息增益作为奖励，在6个基准及Qwen3-VL-Thinking的2B、4B、8B模型上改善准确率与效率的权衡。 多Agent风险会沿消息依赖传播，PropUQ-MAS通过同时追踪本地与上游不确定性，将风险排序指标平均相对提升47.58%。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-25-deployment-planning-visual-risk.html</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放流视频编辑，VLM压至2.7比特</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-24-streaming-video-agent-graphs-vlm-quantization.html</link>
+      <description><![CDATA[InfinityEdit让视频编辑覆盖尚未抵达的未来帧，轻量适配器按需处理持续流，为直播重绘和互动视频提供新路径，但延迟与长期漂移仍待验证。 Graph Engineering把多Agent协作建模为动态图：它提供了组织任务、角色和状态的系统语言，实际性能收益尚缺少对照实验支持。 Llama-Mobile将11B视觉模型压缩至3.7GB。其量化流程由模型自行生成训练数据，无需原始训练环境，并以面向Arm CPU的2.7比特格式完成压缩；速度、功耗及跨架构复用能力仍需真机测试。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-24-streaming-video-agent-graphs-vlm-quantization.html</guid>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent经营20赛季，C3LM用4560万条反应训练</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-22-agent-training-long-horizon-decisions.html</link>
+      <description><![CDATA[Agent任务合成要保证意图与执行状态一致：FACET让任务目标、初始环境、参考解法和验证器共享同一容器状态，并通过执行验证和定向修复提高任务有效性。 长期决策能力需要在累积后果中检验，FM-Bench让Agent经营俱乐部20个赛季，模型排名直到后期才趋于稳定。 仓库适配可以前置为技能蒸馏。 SkillForge从合成issue的修复轨迹中提炼项目技能，价值取决于跨缺陷迁移率。 逆合成评测应承认一题多解：C3LM基于约4560万条反应训练，将候选多样性与化学合理性同时纳入Top-K范式。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-22-agent-training-long-horizon-decisions.html</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>27B全参微调压至推理级显存</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-21-agent-training-diffusion-scaling-vision-moe.html</link>
+      <description><![CDATA[27B模型全参微调可压至推理级显存，Agentic ESOpt绕过反向传播和长轨迹逐步归因，WebArena-Lite提升6.69%，但完整轨迹的采样成本仍需等算力核对。 扩散训练的计算最优点约为每参数200个图像token：Abra在三个数量级的计算预算中得到可预测曲线，为模型规模、数据量和训练时长提供配置依据。 稀疏专家让视觉编码器扩容不必激活全部参数；MoE-ViE以76%的延迟匹配体量大1.7倍的编码器，实际收益仍取决于路由、算子和硬件。 市场需求导出的Agent任务暴露了交付断点。 StartupBench中最强模型也只能完整完成约30%的任务，局部进展尚不能转化为可靠交付。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-21-agent-training-diffusion-scaling-vision-moe.html</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>3D世界构建成功率不足60%</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-18-3d-agent-world-building.html</link>
+      <description><![CDATA[前沿Agent成功率仍不到60%，VibeWorlding用2,616个3D资产和6,828条查询测试完整建造闭环，精确编辑成为主要瓶颈。 认知风险框架应先充当排查地图：它按认知范围梳理评测、权限与治理责任，但因果关系和量化指标仍待实证。 9种persona取代单一驾驶风格轴。 PersonaDrive组合紧迫度与舒适度，使轨迹预测能够按场景控制行为分布。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-18-3d-agent-world-building.html</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>学习工作流让设计Agent从54.99升至67.39</title>
       <link>https://ai-brief.liziran.com/zh/daily/2026-08-16-learning-workflows-for-design-agents.html</link>
@@ -43,7 +92,7 @@
     <item>
       <title>技能熵让Qwen3-4B升至68.4%</title>
       <link>https://ai-brief.liziran.com/zh/daily/2026-08-09-skill-entropy-multimodal-user-profiling.html</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[技能熵让Qwen3-4B得分从34.4%升至68.4%：长链任务的瓶颈不仅是单项技能，还包括技能切换时能否正确传递中间结果。 多模态统一越早启动越有效，受控实验显示延迟融合可能造成「视觉惰性」，训练决策需要从经验配方转向可验证证据。 用户画像中35%—49%的陈述属于过度推断。模型自我监控也可能失灵，个性化产品应将记忆内容与证据来源分开验收。]]></description>
       <guid>https://ai-brief.liziran.com/zh/daily/2026-08-09-skill-entropy-multimodal-user-profiling.html</guid>
       <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[特权信息可能让自蒸馏性能下降：DAPD用双路径与双来源锚定限制不可复现的教师行为，在Qwen3-4B多项任务上平均提升2.00分。 提前暴露未来轨迹会污染驾驶推理监督，Deferred Exposure先让模型选择候选轨迹，再用真实轨迹验证，避免教师为既成结果补写理由。 成熟自回归模型可低成本迁移到扩散解码。 DiffusionGemma使用不到原模型10%的训练token预算，单张H100吞吐约1500token/s。 语义RGBA图层让生成结果可以继续编辑；UniWorld-Design将对象作为独立资产交付，在Crello基准上降低37%的逐图层RGB误差。]]></description>
       <guid>https://ai-brief.liziran.com/zh/daily/2026-08-07-dapd-diffusion-layered-design.html</guid>
       <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户改代码让Agent成功率降7.7个百分点</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-06-coding-agents-user-edits.html</link>
-      <description><![CDATA[用户中途改代码，Agent平均解决率下降7.7个百分点，SWE-Touch显示9个编码模型常会保留冲突或覆盖用户成果，协作评测必须纳入变更检测、归属判断和回归验证。 GradCuit把隐状态更新连上可追踪的梯度路径：5个模型、3类推理基准上平均准确率达64.5%，较思维链高6.6个百分点，但梯度可归因不等于推理已被解释。 UEmbed用单个9B模型统一稀疏、稠密和多模态检索。 它在MMEB-v2上取得稠密71.8、稀疏71.0，实际价值仍取决于延迟、索引成本和部署复杂度能否同步下降。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-06-coding-agents-user-edits.html</guid>
-      <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>128个token保住94.7%性能</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-05-token-budgets-silent-failures.html</link>
-      <description><![CDATA[3DZip把场景压至128个token仍保留94.7%性能，通过特征多样性与空间约束减少三维场景冗余，并将推理速度提升至1.92倍。 临床多模态评测必须识别「静默失败」：逐样本、逐模态分析显示，模态缺失不仅降低准确率，还可能让错误预测显得更加可靠。 频繁重规划会让恢复机制成为瓶颈。 BRACE与E-RECAP按决策价值分配预算、裁剪上下文，单次重规划token数减少62%至92%。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-05-token-budgets-silent-failures.html</guid>
-      <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CADENA逐步验形，MoE失衡超5倍</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-04-cadena-stepwise-cad-moe-routing.html</link>
-      <description><![CDATA[CADENA把CAD逆向工程变成逐步闭环：每次参数化操作后检查中间几何，并将差异反馈给后续建模。 视觉语言MoE的总账平衡可能掩盖五倍以上失衡，ReBA按模态约束负载，以适应分辨率和图像数量变化。 Poplar把人像合成变成可审计流水线。 它从11,765个候选中保留9,401组数据，同时记录配置与审核结果。 DreamTraj直接从未渲染潜变量预测六自由度轨迹；它绕过完整视频生成和事后视觉解析，为规划控制提供新接口。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-04-cadena-stepwise-cad-moe-routing.html</guid>
-      <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>VideoCoCo将VBench提至77.88</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-03-executable-code-video-control.html</link>
-      <description><![CDATA[可执行代码成为视频生成控制面：VideoCoCo让Blender程序负责物理与时序推演，再由生成引擎完成视觉写实，将VBench-2.0得分从52.18提升至77.88。 视觉工具调用需要衡量净收益，Beacon学习判断何时调用工具以及调用后能否改善答案，以减少简单任务中的错误、延迟和额外成本。 多人编辑的高语义分可能掩盖结构错误。 MPIE-Bench中常规视觉语言模型评分普遍超过0.95，但解剖与互动指标最高仅为0.65和0.72。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-03-executable-code-video-control.html</guid>
-      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI4AI升至71.21%，AskChem索引240万论断</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-02-physical-language-claim-search-ai4ai.html</link>
-      <description><![CDATA[PhiZero把物理变化变成离散语言：世界模型先推理状态变化、再渲染视频，让动力学有望成为可检查、可组合的中间表示。 AskChem交付带出处的论断，而非论文列表，已从14.7万篇论文中索引240万条论断，试图压缩科研中的检索、核验与综合链路。 Metis把Agent记忆推进模型内部。它通过可演化记忆状态与记忆注意力实现无梯度在线更新，但是否优于外部模块仍需按任务验证。 Frontis-MA1拆分AI4AI的两笔增益：在单张RTX 4090、每项任务12小时的条件下，模型训练与搜索框架将MLE-Bench Lite成绩从39.39%分阶段提升至71.21%。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-02-physical-language-claim-search-ai4ai.html</guid>
-      <pubDate>Sun, 02 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TurboVLA以0.9GB显存跑到32Hz</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-01-turbovla-real-time-robot-control.html</link>
-      <description><![CDATA[TurboVLA在消费级显卡上实现实时控制，通过重构视觉、语言与动作的计算路径，以0.2B参数达到32Hz、0.9GB显存和97.7%的LIBERO平均成功率。 HumanCLAW将决策错误与执行失误拆账：9个先进模型均未通过1,218个长程任务，最好成功率仅16.8%，身体状态追踪成为突出短板。 OmegaUse-OfficeVal把经济价值纳入办公Agent评测。 100项长流程任务显示，前沿模型虽比人工更快、更便宜，但交付质量仍明显落后。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-01-turbovla-real-time-robot-control.html</guid>
-      <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>无机器人数据追平遥操作，插入成功率85%</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-07-31-robot-free-data-editable-designs.html</link>
-      <description><![CDATA[高保真人类示范可替代真实机器人锚点：HiFi-UMI仅用便携设备采集的数据完成后训练，在三种架构上与遥操作基线的成功率差距控制在-2.5至+3.1个百分点，精密插入成功率达到85%。 Decoder-only模型也能统一多模态输入输出，MODUS通过复用成熟预训练模型的先验，将增加新模态从重造架构转向扩展接口，但各模态生成质量尚未全面领先。 设计恢复的关键指标是能否继续编辑。 ReDesign从截图重建设计图层树，并以14,796条编辑指令检验布局、颜色和文本能否再次修改。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-07-31-robot-free-data-editable-designs.html</guid>
-      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

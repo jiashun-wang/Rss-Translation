@@ -4,7 +4,14 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:42:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:30:28 GMT</lastBuildDate>
+    <item>
+      <title>PowerToys 0.101 发布：Windows 向 macOS 看齐，新增同应用多窗口间快速切换</title>
+      <link>https://www.appinn.com/powertoys-0-101/</link>
+      <description><![CDATA[PowerToys 0.101 发布，新增了一个非常实用的功能：Window Hopper，可以通过快捷键在同一个应用的多个窗口之间快速切换。比如同时打开了 5 个文件夹窗口，按下快捷键 alt +]]></description>
+      <guid>https://www.appinn.com/powertoys-0-101/</guid>
+      <pubDate>Wed, 26 Aug 2026 09:32:48 GMT</pubDate>
+    </item>
     <item>
       <title>电脑用久了，到底会留下多少没用的东西？</title>
       <link>https://www.appinn.com/krokiet/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Kan.bn 是一个开源的项目管理工具，用来替代 Trello，提供丰富的协作功能，可导入 Trello 看版，支持 Docker 自托管。自带 MCP 服务器，可以让 AI 控制你的看版。 @Appi]]></description>
       <guid>https://www.appinn.com/kan-bn/</guid>
       <pubDate>Fri, 21 Aug 2026 02:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>99CDN：自建 CDN、智能调度与商业化运营的边缘加速平台</title>
-      <link>https://www.appinn.com/99cdn/</link>
-      <description><![CDATA[对于有网站加速，抗攻击的需求的站长来说，CDN 是一个不错的选择。不管是音视频站的推流，下载负载的分摊，游戏服务器的抵抗攻击，CDN 都能通过缓存节点来帮助用户拥有更好的，更稳定的体验。 CDN 通常]]></description>
-      <guid>https://www.appinn.com/99cdn/</guid>
-      <pubDate>Thu, 20 Aug 2026 09:33:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,143 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:30:20 GMT</lastBuildDate>
+    <item>
+      <title>加密挂件丢失内容</title>
+      <link>https://ld246.com/article/1787801620244</link>
+      <description><![CDATA[因为重要，所以要加密，因为加密所以丢失内容！怎么找回？ 
+
+每个文档最开始的加密框都无法识别！ 
+
+]]></description>
+      <guid>https://ld246.com/article/1787801620244</guid>
+      <pubDate>Thu, 27 Aug 2026 03:33:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源 AI 接口能不能并发</title>
+      <link>https://ld246.com/article/1787798525593</link>
+      <description><![CDATA[在做一个插件需要用到内置的 AI 功能，目前思源有两个 AI 接口，
+一个是走智能体的接口，这个是不支持并发，但是这个支持指定模型
+比如说用户配置了 ABCD 四个，这个可以让用户配置用 A 或 B 或 C
+一个是之前的 AI 编辑的接口，这个支持并发但是开发者是无法指定用户配置的模型的
+这个无法让用户配置用哪个，只能是默认的
+我现在想既要并发，又要能让用户配置每个场景下该用哪个模型
+有什么好的解决办法吗]]></description>
+      <guid>https://ld246.com/article/1787798525593</guid>
+      <pubDate>Thu, 27 Aug 2026 02:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>超级块中再合并超级块, 左边不能实现, 右边可以</title>
+      <link>https://ld246.com/article/1787798042488</link>
+      <description><![CDATA[1.先正常合并两个段落成为一个水平超级块,这步没有问题
+
+2.在两个超级块中再合并一个水平超级块
+右边:
+
+右边:右键可以看到合并超级块,同时选择的是两行,且成功合并成一个水平超级块
+
+左边:
+左边选择两行,然后鼠标滑动到菜单栏,直接将整个区域选中了,不同于右边只选择两行
+
+点击左上角的菜单栏按钮,直接选择了整个超级快
+
+然后左边的点击水平合并超级块效果如下,没有变化:
+
+反馈怎样才能让左右两边都能合成水平超级块,为什么左边不能正常合成呢?]]></description>
+      <guid>https://ld246.com/article/1787798042488</guid>
+      <pubDate>Thu, 27 Aug 2026 02:35:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>v3.8.1 微软商店版打不开了：提示指定的用户没有一个有效的配置文件</title>
+      <link>https://ld246.com/article/1787793207116</link>
+      <description><![CDATA[昨天关机前还好好的。今天开机后，出现提示：指定的用户没有一个有效的配置文件。 
+卸载重新安装，出错提示相同。 
+
+急]]></description>
+      <guid>https://ld246.com/article/1787793207116</guid>
+      <pubDate>Thu, 27 Aug 2026 01:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS v3.8.1 思源 app 更新的内容不能同步</title>
+      <link>https://ld246.com/article/1787786058576</link>
+      <description><![CDATA[iOS 3.8.1 思源 app 更新的内容，点击立即同步或退出应用后，电脑版 3.8.1 思源点同步后也看不到更新的内容。 
+反过来，电脑版 3.8.1 思源更新内容点同步后，iOS 3.8.1 思源 app 可以看的 iOS 3.8.1 思源 app 更新的内容。 
+用的是局域网群晖 Docker 中 Minio S3 存储。 
+iOS 系统不管是连局域网无线还是外网，结果一样。 
+以前没这个问题，好像就是最近更新 app 后才出现这个问题。 ]]></description>
+      <guid>https://ld246.com/article/1787786058576</guid>
+      <pubDate>Wed, 26 Aug 2026 23:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个大版本后边是不是可以沉淀个问题少的稳定版本？</title>
+      <link>https://ld246.com/article/1787766047960</link>
+      <description><![CDATA[随着 AI 能力的提升，思源的开发明显变快了。 
+但每次发新版本论坛里总会有各种各样的问题。虽然有些帖子是误报，但还是比较担心数据的丢失。 
+特别是现在更新了很多新功能特性，出现 bug 的概率更是增加。 
+受过影响的一次就是 3.5.5 和 3.5.6 的，编辑表格会丢失超链接。那次恰好编辑了表格、没留意，看了论坛才发现丢了几条超链接、不过这个影响倒还好、就几条手动补上了。 
+看着现在都到 3.8 了、3.7 刚出的时候看论坛帖子也是很多报 BUG 的😂导致一直停在 3.6.5 没升级，现在是不是升级到 3.7 的最后一个版本比较好。 
+
+小小讨论一下：
+单看 siyuan 的仓库，只有一个 master 分支。 
+后续是不是可以区分出来，大版本的功能更新先提到 dev 分支，照常发 beta 版。 
+master 分支暂停新功能、只从 dev 拉一些 bug 修复，等待一段时间后，发布一个最终的没有已知问题的小版本？ 
+只是讨论哈，毕竟和现在的开发流程差很多。大家是追新功能还是保持稳定呢？ ]]></description>
+      <guid>https://ld246.com/article/1787766047960</guid>
+      <pubDate>Wed, 26 Aug 2026 17:40:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>鼠标拖动选择文本块时为什么不能选择整个块了？</title>
+      <link>https://ld246.com/article/1787744811225</link>
+      <description><![CDATA[我似乎在更新公告中看到了这是特意更新的功能。 
+但我已经习惯了鼠标拖动全选范围内的所有块，结果现在成选中对应范围的文本了，能不能改回来？ ]]></description>
+      <guid>https://ld246.com/article/1787744811225</guid>
+      <pubDate>Wed, 26 Aug 2026 11:46:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>链滴登录滑块问题</title>
+      <link>https://ld246.com/article/1787739942188</link>
+      <description><![CDATA[我在链滴进行签到或者其他一些操作时，经常出现滑块验证，且手动拖动后很容易出现失败（报错：验证失败，请刷新），在无痕模式下滑块就能很丝滑的成功，非无痕模式下就大概率失败，成功的概率很低，是有什么特定条件触发了风控吗？ 
+Request ID：791d680717877396454287260e
+{
+    &quot;RequestId&quot;: &quot;EB35374E-FE0E-4843-9EBF-B598D3E58116&quot;,
+    &quot;Message&quot;: &quot;success&quot;,
+    &quot;HttpStatusCode&quot;: 200,
+    &quot;Code&quot;: &quot;Success&quot;,
+    &quot;Success&quot;: true,
+    &quot;Result&quot;: {
+        &quot;VerifyCode&quot;: &quot;F001&quot;,
+        &quot;VerifyResult&quot;: false,
+        &quot;certifyId&quot;: &quot;791d680717877396454287260e-c1b12&quot;
+    }
+}
+
+
+
+]]></description>
+      <guid>https://ld246.com/article/1787739942188</guid>
+      <pubDate>Wed, 26 Aug 2026 10:25:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户信息已过期问题</title>
+      <link>https://ld246.com/article/1787739556566</link>
+      <description><![CDATA[近期多端均出现“用户信息已过期，请重新登录账号 v3.8.1”的提示，安卓客户端、docker 部署版、Linux 版均有出现，版本为 3.8.0 和 3.8.1 不等，想问下是什么情况
+]]></description>
+      <guid>https://ld246.com/article/1787739556566</guid>
+      <pubDate>Wed, 26 Aug 2026 10:19:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>SiYuan v3.8.1 设置 - 人工智能 配置有进步，但还不够清晰</title>
+      <link>https://ld246.com/article/1787735052049</link>
+      <description><![CDATA[1.情况：智能体-能力里的 web_search，看描述是调用 exa 来完成。 
+需求：是否可以提供选项，在智能体与模型 API 交互时调用 API 提供方支持的 web_search 工具？ 
+理由：① 联网搜索工具返回的结果对回答质量影响应该不小；虽然模型 API 提供的 web_search 单独计费，我也希望得到不同的搜索结果。 ②exa_ai 显然是境外服务，未必在所有场景下都最优。 
+2.情况：“图片生成”（包括设置中“人工智能”下的其他配置项）没有文档，出错不容易排查
+  ① 让智能体操作图片生成，配置为阿里云百炼托管的 wan2.7-image、qwen-image-3.0，应该是传入参数不完整兼容，报错“generate image failed: error, status code: 404, status: 404 Not Found, message: unexpected end of JSON input, body:”
+② 再配置为百度千帆托管的 qwen-image，但报错“generate image failed: generated image URL must use HTTPS”，不知道是解析错误还是真的返回非 https 地址，但这样报错完全无法排查
+需求：暴露更详细的错误日志，或者能返回 http 地址我复制到浏览器也行。不然就白生成了]]></description>
+      <guid>https://ld246.com/article/1787735052049</guid>
+      <pubDate>Wed, 26 Aug 2026 09:04:11 GMT</pubDate>
+    </item>
     <item>
       <title>同步时会将设置同步吗？</title>
       <link>https://ld246.com/article/1787725485968</link>
@@ -39,152 +175,6 @@
 ]]></description>
       <guid>https://ld246.com/article/1787720060905</guid>
       <pubDate>Wed, 26 Aug 2026 04:54:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 设备谷歌浏览器适配问题</title>
-      <link>https://ld246.com/article/1787715678425</link>
-      <description><![CDATA[通过 iPhone 14（iOS 16.6.1）、iPad mini 5（iOS 16.6）安装的谷歌浏览器访问思源网页端，会提示“仅支持在 Chrome 浏览器中使用，使用其他浏览器会遇到无法解决的兼容性问题 v3.8.1”，报错截图如下：
-
-请问是设计如此（本身就不支持 iOS 设备的谷歌浏览器使用思源），还是误报呢（感觉和 iOS 设备下的谷歌浏览器 UA 与其他设备的谷歌浏览器 UA 不同有关系）？ 
-谷歌版本如下：
-]]></description>
-      <guid>https://ld246.com/article/1787715678425</guid>
-      <pubDate>Wed, 26 Aug 2026 03:41:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>飞牛商店的思源笔记很久没更新了</title>
-      <link>https://ld246.com/article/1787712070014</link>
-      <description><![CDATA[目前还是 3.1.5 版本，这个版本目前已经无法使用同步功能了，请尽快更新
-]]></description>
-      <guid>https://ld246.com/article/1787712070014</guid>
-      <pubDate>Wed, 26 Aug 2026 02:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>请问 S3 服务商都有哪些，小白还有两个月到期了，准备尝试一下 s3 同步</title>
-      <link>https://ld246.com/article/1787705790364</link>
-      <description><![CDATA[谢谢大佬们]]></description>
-      <guid>https://ld246.com/article/1787705790364</guid>
-      <pubDate>Wed, 26 Aug 2026 00:56:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>拿 codex 跑了一个插件，欢迎大佬试用</title>
-      <link>https://ld246.com/article/1787672045819</link>
-      <description><![CDATA[我以前用语雀，后面用飞书，现在折腾思源。怎么用怎么不舒服，不太适应。然后用插件做了一个飞书云文档套件，参考了飞书还有语雀的一些界面。目前还在迭代，然后大家可以试用一下然后给一下建议，也可以提一些需求。 
-]]></description>
-      <guid>https://ld246.com/article/1787672045819</guid>
-      <pubDate>Tue, 25 Aug 2026 15:34:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>左右分屏，聚焦留白</title>
-      <link>https://ld246.com/article/1787670465182</link>
-      <description><![CDATA[国际散养
-
-]]></description>
-      <guid>https://ld246.com/article/1787670465182</guid>
-      <pubDate>Tue, 25 Aug 2026 15:07:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>REword 插件制作的感受与工作汇报</title>
-      <link>https://ld246.com/article/1787669827522</link>
-      <description><![CDATA[感慨
-我的 REword 插件主干终于快要做完了（之后就是打磨细节，优化流程了）。一路走来坎坷不断，好在有 achuan-2 大佬出手相助，真心感谢！ 
-说实话，我本身是个如假包换的编程小白，这款插件完全是靠「鞭策 AI」才一点点做出来的。真正上手自己编程之后才体会到其中的不易——尤其是像我这样依赖 AI 助力的，更是深感痛苦。 
-每次添加一个新功能，就会冒出一堆 bug；有些 bug 光看界面根本发现不了，必须钻进底层代码里排查才能找到问题所在。 
-还有一个特别深刻的体会：「人的使用直觉」和「代码设计」很多时候并不一致。你必须把用户的使用直觉考虑进去，但一旦这么想，代码工作量就会成倍增加，实在让人头疼。 
-就拿最近做的阅读器来说吧：选中文本后，工具栏会弹出来，里面有两个功能——「标注」和「批注」。这两个功能非常相似，区别在于：标注偏重「标记」，也就是高亮、画线；而批注则偏向「文字内容」，要附上一段说明文字。 
-但要实现这个功能，光知道区别还不够，还得把整个使用流程梳理清楚，否则根本无从下手：
-
-选中文本后，工具栏弹出，用户需要在「标注」和「批注」之间二选一；
-假如选了「标注」，就添上高亮或画线，再挑个颜色——这才算完成；
-期间工具栏的 UI 变化、相应的代码修改都要一并跟上；
-如果用户想修改样式，就得再次选中已标注的文本，这时还要增加两方面的处理：一是删除样式，二是提供修改样式的选项，等用户选好才算完事。 
-
-「批注」功能也得一模一样地把这套流程重新设计一遍。 
-真的非常痛苦……想想思源笔记官方，越发觉得他们太不容易了——要知道思源笔记有多少种按钮功能，要设计多少条流程路线啊！ 
-这么一想，更疼了 😣
-
-REword 插件功能介绍
-REword 插件「专注英语学习」
-
-词库 
-  
-内置离线词典「词典管理（Dictionary Manager · MDX）」
-
-查单词（有朗读功能）
-微阅批注「思源正文零污染（删除插件后无残留）」
-
-实现机制：
-
-块级标记：&lt;div class=&quot;hiword-ann-block&quot;&gt;
-行内包裹：&lt;span class=&quot;hiword-ann-inline&quot;&gt;（纯包裹，不改文本）
-思源正文文本节点不变，只挂 class
-
-批注样式：
-
-7 色 × 5 线型 = 35 组合 + 6 预设
-level-1 / level-2 标签（高亮 / 线段 / 标签）
-
-
-ai 精读
-复习（还没完全做好，感觉还是有点太过于简单了） 
-  
-与词库联动
-自研 SM-2 简化算法（还没完全做好） + 优先级合成 + 历史校准
-
-阅读「阅读器（ EPUB 基于 foliate-js 内核）/ PDF）」 
-  
-内置：阅读器与微阅批注联动，将批注的文本整理在微阅侧边栏中，点击批注，即可跳转到对应书籍中或者对应思源笔记文档中
-
-
-]]></description>
-      <guid>https://ld246.com/article/1787669827522</guid>
-      <pubDate>Tue, 25 Aug 2026 14:57:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用思源笔记桌面端 v3.8.1 使用智能体创建数据库遇到问题（不停地循环调用）</title>
-      <link>https://ld246.com/article/1787669808101</link>
-      <description><![CDATA[现象：调用 database.create（创建属性视图/数据库）时反复失败，报错：
-
-invalid capability arguments: validating root: required: missing properties: [&quot;action&quot;]
-
-偶发另一种报错：
-
-keys has type &quot;string&quot;, want &quot;array&quot;
-
-影响范围：
-
-失败的：database.create、todo_write（任务清单）、question（提问）——这些都需要传数组/对象类型的复杂参数
-正常的：notebook.list、document.list、document.create/delete——这些参数都是简单字符串
-]]></description>
-      <guid>https://ld246.com/article/1787669808101</guid>
-      <pubDate>Tue, 25 Aug 2026 14:56:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>上传的 PDF 在资源里找不到</title>
-      <link>https://ld246.com/article/1787662876470</link>
-      <description><![CDATA[我的笔记里添加了，并且能看到路径信息
-
-当我使用添加资源(在数据库里)，当然在随便一个位置，使用“/”命令打开资源面板后
-
-不管通过名字搜索，还是通过 PDF 搜索，都找不到
-]]></description>
-      <guid>https://ld246.com/article/1787662876470</guid>
-      <pubDate>Tue, 25 Aug 2026 13:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>吐槽一下会员到期就删除云端笔记</title>
-      <link>https://ld246.com/article/1787648469436</link>
-      <description><![CDATA[会员过期就删除云端数据，有点不合适了吧，非会员云端笔记就不能多保存一段时间么？好歹也是开了几年会员的了。 
-比如我暂时没有笔记需求，暂时不续费。我还得做好本地备份，不然等我再需要使用时候数据都没有了。 ]]></description>
-      <guid>https://ld246.com/article/1787648469436</guid>
-      <pubDate>Tue, 25 Aug 2026 09:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>请问关于订阅“功能特性 ¥80 / 终身”同步范围的问题</title>
-      <link>https://ld246.com/article/1787643645704</link>
-      <description><![CDATA[请问一下，同步是否只同步笔记，系统设置，以及插件、插件配置等，是否有办法走这个同步？这块是否有个详细的说明文档？ ]]></description>
-      <guid>https://ld246.com/article/1787643645704</guid>
-      <pubDate>Tue, 25 Aug 2026 07:40:44 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

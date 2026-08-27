@@ -1,9 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:35:22 GMT</lastBuildDate>
+    <title>tandf: Geophysical & Astrophysical Fluid Dynamics: Table of Contents</title>
+    <link>https://www.tandfonline.com/loi/ggaf20?af=R</link>
+    <description>Table of Contents for Geophysical & Astrophysical Fluid Dynamics. List of articles from both the latest and ahead of print issues.</description>
+    <lastBuildDate>Thu, 27 Aug 2026 04:12:36 GMT</lastBuildDate>
+    <item>
+      <title>金星大气中的自发重力波辐射</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2676413?af=R</link>
+      <description><![CDATA[。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2676413?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:12:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>准地转实验室涡旋中的垂直速度</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2664364?af=R</link>
+      <description><![CDATA[。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2664364?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>相互作用和孤立原型对流引发环流的平流和扩散动力学的数值评估</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2677430?af=R</link>
+      <description><![CDATA[。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2677430?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>准地转模型中的三维模子</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2660263?af=R</link>
+      <description><![CDATA[。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2660263?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:12:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>热带对流和哈德利环流的垂直结构：分析见解</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2709224?af=R</link>
+      <description><![CDATA[第 120 卷，第 3 期，2026 年 6 月，第 227-237 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2709224?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:12:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>无粘性非均匀不可压缩流体的螺旋流</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2687333?af=R</link>
+      <description><![CDATA[第 120 卷，第 3 期，2026 年 6 月，第 207-226 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2687333?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:12:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>理想化的积云云尺度运动以及孤立流和耦合流的动力学</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2682659?af=R</link>
+      <description><![CDATA[第 120 卷，第 3 期，2026 年 6 月，第 165-206 页。 ]]></description>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2682659?af=R</guid>
+      <pubDate>Thu, 27 Aug 2026 04:12:31 GMT</pubDate>
+    </item>
     </channel>
 </rss>

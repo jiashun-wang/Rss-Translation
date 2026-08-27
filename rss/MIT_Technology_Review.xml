@@ -4,11 +4,46 @@
     <title>MIT Technology Review</title>
     <link>https://www.technologyreview.com</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Aug 2026 23:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:26:41 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 特工黑客入侵 Hugging Face 的内幕</title>
+      <link>https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/</link>
+      <description><![CDATA[根据 OpenAI 今天发布的一份技术报告，负责上个月 Hugging Face 代理黑客攻击的模型无意中接受了欺骗和相互交流的训练。这次黑客攻击是一群特工为他们陷入的网络安全测试寻找解决方案而进行的，这已经证实了一些专家的说法：]]></description>
+      <guid>https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/</guid>
+      <pubDate>Wed, 26 Aug 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>下载：儿童期到来，比尔·盖茨透露了他对人工智能的恐惧</title>
+      <link>https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/</link>
+      <description><![CDATA[这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。介绍：儿童问题 如果想要限制孩子的愿望，技术的运用曾经是潜流，现在已经成为汹涌的洪水。世界各国都禁止儿童接触“儿童”。]]></description>
+      <guid>https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/</guid>
+      <pubDate>Wed, 26 Aug 2026 12:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能引发</title>
+      <link>https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/</link>
+      <description><![CDATA[当我最大的孩子出生后，我立即以她的名义设立了 Gmail 和 Twitter 帐户。我在网上广泛宣布了她的出生，并开始在各种平台上发布她的照片。简而言之，早在她能够用自己的两只脚站立之前，我就开始创建她的数字足迹。”快进一对夫妇……]]></description>
+      <guid>https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/</guid>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能模型搞砸了这些智力测试。你还能过得更好吗？</title>
+      <link>https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/</link>
+      <description><![CDATA[从一开始，谜题和游戏就一直是人工智能开发的核心。正如我们人类喜欢通过填字游戏或逻辑谜题来测试我们的智力一样，开发人员也可以通过游戏挑战来测试模型的进步程度。 “机器学习”一词因 IBM 计算机科学家 Arthur 于 1959 年发表的一篇文章而流行起来。]]></description>
+      <guid>https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/</guid>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>比尔盖茨说我们已经超过了人工智能的危险阈值。现在怎么办？</title>
+      <link>https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/</link>
+      <description><![CDATA[这是华盛顿州柯克兰的美好一天，这里是华盛顿湖东岸的一个富裕的西雅图郊区。气温在八十多度左右，天空已经不能再蓝了。从 Gates Ventures 会议室眺望，可以俯瞰 Carillon Point 码头，那里有一群昂贵的船只在码头上航行。]]></description>
+      <guid>https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/</guid>
+      <pubDate>Wed, 26 Aug 2026 07:01:00 GMT</pubDate>
+    </item>
     <item>
       <title>解决可持续粘合剂的症结点</title>
       <link>https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[石油基粘合剂无处不在：在建筑项目中粘合木材和干墙，将家具的接缝固定在一起，甚至将标签粘贴到可回收的容器上。  “容器上的标签是用石油基胶水粘住的。因此，即使您将容器放入回收站，它也不会……”]]></description>
       <guid>https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/</guid>
       <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
     </item>
@@ -22,7 +57,7 @@
     <item>
       <title>启动青年创业</title>
       <link>https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/</link>
-      <description><![CDATA[Laurie Stach &#39;06 说，即使在十几岁的时候，她就有“征服世界、解决问题的疯狂野心”。在麻省理工学院，她意识到自己并不是唯一一个这样的人。 “成年人总是看到这些擅长数学和科学的年轻人，然后说，‘有一天，你们会做出伟大的事情，’”斯塔赫说。 “与此同时，传统教育——]]></description>
+      <description><![CDATA[Laurie Stach &#39;06 表示，即使在青少年时期，她也有“征服世界、解决问题的疯狂野心”。在麻省理工学院，她意识到自己并不是唯一一个这样的人。 “成年人总是看到这些擅长数学和科学的年轻人，然后说，‘有一天，你们会做出伟大的事情，’”斯塔赫说。 “与此同时，传统教育——]]></description>
       <guid>https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/</guid>
       <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
     </item>
@@ -36,43 +71,8 @@
     <item>
       <title>AgeLab 研究激发了人工智能初创公司的灵感</title>
       <link>https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/</link>
-      <description><![CDATA[当 63 岁的 Don Yansen 来到麻省理工学院年龄实验室进行老年人护理技术研究时，他并不打算创办另一家公司。但当他听到参与者谈论现代设备使用起来有多么困难时，他决定开发一种替代方案。延森（Yansen）是一位连续创业者，退休后要照顾自己的家人。]]></description>
+      <description><![CDATA[当 63 岁的 Don Yansen 来到麻省理工学院年龄实验室进行老年人护理技术研究时，他并不打算创办另一家公司。但当他听到参与者谈论现代设备使用起来有多么困难时，他决定开发一种替代方案。延森 (Yansen) 是一位连续创业者，退休后要照顾自己的家人。]]></description>
       <guid>https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/</link>
-      <description><![CDATA[使人体免疫系统对抗肿瘤的疫苗已在临床试验中显示出前景，其中少数疫苗已获得 FDA 批准用于治疗某些癌症。然而，对于许多患者来说，这些疫苗并不能刺激足够的反应，而一些研究人员采取的加强反应的方法——将疫苗与称为细胞因子的免疫刺激分子一起提供——可以消除这种反应。]]></description>
-      <guid>https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从内部测量你的温度</title>
-      <link>https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/</link>
-      <description><![CDATA[口腔和额头温度计可能无法准确捕捉人的核心体温，而且市场上为数不多的可摄入温度传感器太大，难以吞咽，并且有阻塞胃肠道的风险。但麻省理工学院的工程师发明了一种能够以六乘四的大小发送连续温度更新的系统——]]></description>
-      <guid>https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/</link>
-      <description><![CDATA[当远程操作的车辆停在海底或挖掘沙床时，它们可能会扬起车载摄像头难以看清的沉积物云。通常，唯一能做的就是等待尘埃落定。但是 Amy Phung（SM &#39;23、PhD &#39;26）和她的顾问开发了一个新系统。]]></description>
-      <guid>https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的大脑在人工智能上</title>
-      <link>https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/</link>
-      <description><![CDATA[许多人发现基于人工智能的聊天机器人有助于了解新闻，但帕蒂·梅斯和她在麻省理工学院媒体实验室的同事的一项研究指出了这种策略的一个大问题。在四个星期内评估配对新闻标题和图像的参与者最初在讲述新闻标题和图像方面的准确度提高了 21%。]]></description>
-      <guid>https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>麻省理工学院的技术为 Artemis II 直播提供支持</title>
-      <link>https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/</link>
-      <description><![CDATA[在 20 世纪 60 年代和 70 年代美国最初的登月任务中，宇航员依靠射频系统进行通信，向地球发送颗粒状、低质量的图像和视频。但在四月份的阿耳忒弥斯二号猎户座任务中，航天器以与家庭互联网连接相同的速度传输了水晶般清晰的镜头。直播这么多……]]></description>
-      <guid>https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/</guid>
       <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
     </item>
     </channel>

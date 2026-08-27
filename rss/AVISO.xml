@@ -4,7 +4,14 @@
     <title>AVISO: Rss Feeds</title>
     <link>https://www.aviso.altimetry.fr/</link>
     <description>Live from Aviso Website</description>
-    <lastBuildDate>Mon, 24 Aug 2026 08:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:24:05 GMT</lastBuildDate>
+    <item>
+      <title>AVISO 上的 Polar Oceans 产品有哪些新变化？</title>
+      <link>https://www.aviso.altimetry.fr//en/services/rss-feeds.html?no_cache=1&amp;tx_ttnews%5Btt_news%5D=3239&amp;cHash=4df3a8381ffc0da9eccd9c678994cccf</link>
+      <description><![CDATA[这包括 1/ 发布新数据集：多任务网格化海平面高度和...]]></description>
+      <guid>https://www.aviso.altimetry.fr//en/services/rss-feeds.html?no_cache=1&amp;tx_ttnews%5Btt_news%5D=3239&amp;cHash=4df3a8381ffc0da9eccd9c678994cccf</guid>
+      <pubDate>Wed, 26 Aug 2026 10:12:55 GMT</pubDate>
+    </item>
     <item>
       <title>中尺度涡流轨迹图集 4.0 版</title>
       <link>https://www.aviso.altimetry.fr//en/data/products/value-added-products/global-mesoscale-eddy-trajectory-product/meta4-0-dt.html</link>
@@ -99,16 +106,9 @@
     <item>
       <title>2026 年 6 月：FSLE 帮助模拟海洋漂浮碎片堆积</title>
       <link>https://www.aviso.altimetry.fr//en/news/idm/2026/jun-2026-fsles-help-in-modelling-marine-floating-debris-accumulation.html</link>
-      <description><![CDATA[测高计算的有限尺寸李亚普诺夫指数可以与其他数据一起使用来预测区域......]]></description>
+      <description><![CDATA[测高计算的有限尺寸李亚普诺夫指数可以与其他数据一起使用来预测区域...]]></description>
       <guid>https://www.aviso.altimetry.fr//en/news/idm/2026/jun-2026-fsles-help-in-modelling-marine-floating-debris-accumulation.html</guid>
       <pubDate>Thu, 04 Jun 2026 08:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SWOT 引导采样揭示了精细尺度锋面内独特的浮游植物群落</title>
-      <link>https://www.aviso.altimetry.fr//en/missions/current-missions/swot/portfolio-of-swot-first-results/swot-guided-sampling-reveals-distinct-phytoplankton-communities-within-a-fine-scale-front.html</link>
-      <description><![CDATA[在北巴利阿里海的细尺度前沿上，以 SWOT 为指导的采样策略...]]></description>
-      <guid>https://www.aviso.altimetry.fr//en/missions/current-missions/swot/portfolio-of-swot-first-results/swot-guided-sampling-reveals-distinct-phytoplankton-communities-within-a-fine-scale-front.html</guid>
-      <pubDate>Mon, 01 Jun 2026 09:02:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

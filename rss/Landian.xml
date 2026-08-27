@@ -4,7 +4,63 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:42:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:30:13 GMT</lastBuildDate>
+    <item>
+      <title>美国蓝鸟公司复活推特上线Twitter.now 认为马斯克已经放弃推特相关名称和品牌</title>
+      <link>https://www.landian.news/archives/126492.html</link>
+      <description><![CDATA[#行业资讯 贴脸开大：美国蓝鸟公司复活推特上线 Twitter.now 社交网站，该公司认为既然埃隆马斯克已经将原推特更名为 X，那就是自愿放弃推特相关商标。目前 X 已经起诉蓝鸟公司，蓝鸟公司也向美国专利商标局提出申请，请求撤销 X 持有的相关商标。查看全文：https://ourl.co/126492]]></description>
+      <guid>https://www.landian.news/archives/126492.html</guid>
+      <pubDate>Thu, 27 Aug 2026 03:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>智谱开源发布GLM-5.3-Flash模型 编程和智能体能力接近Claude Opus 4.8</title>
+      <link>https://www.landian.news/archives/126491.html</link>
+      <description><![CDATA[#人工智能 智谱开源发布 GLM-5.3-Flash 模型，总参数规模和激活参数规模缩小提升响应速度，编程和智能体能力接近 Claude Opus 4.8。 GLM-5.3-Flash 就是近期在 OpenRouter 上屠榜的 ox-alpha 模型，在正式发布前智谱将其部署到 OpenRouter 上免费使用以收集真实用户反馈。查看全文：https://ourl.co/126491]]></description>
+      <guid>https://www.landian.news/archives/126491.html</guid>
+      <pubDate>Thu, 27 Aug 2026 03:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌发布Gemini 3.5 Transcribe语音转文字模型 提升实时转写准确率和多语言能力</title>
+      <link>https://www.landian.news/archives/126490.html</link>
+      <description><![CDATA[#人工智能 谷歌发布 Gemini 3.5 Transcribe 语音转文本模型，重点提升实时转写准确率、降低延迟和提高多语言能力等。该模型不仅可以将语音转为文本，还会理解说话者的意图并对结果进行自动整理和格式化。目前该模型已经通过 Gemini API 进行公共预览，开发者可以在控制台进行调用。查看全文：https://ourl.co/126490]]></description>
+      <guid>https://www.landian.news/archives/126490.html</guid>
+      <pubDate>Thu, 27 Aug 2026 03:16:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软Xbox团队宣布推出实体光盘数字化功能 插入光盘即可生成数字游戏授权</title>
+      <link>https://www.landian.news/archives/126489.html</link>
+      <description><![CDATA[#游戏资讯 微软宣布为 Xbox 推出实体游戏光盘转数字授权，只需要将光盘插入到 Xbox 主机即可自动获得数字授权。获得数字授权后，玩家可以在 Windows PC 等其他设备下载游戏，这样整个游戏就不会因为实体光盘被束缚在 Xbox 主机上。查看全文：https://ourl.co/126489]]></description>
+      <guid>https://www.landian.news/archives/126489.html</guid>
+      <pubDate>Thu, 27 Aug 2026 03:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软将允许用户通过安卓设备远程控制Windows 11 包括远程关机/重启/进入睡眠</title>
+      <link>https://www.landian.news/archives/126488.html</link>
+      <description><![CDATA[#系统资讯 微软将允许用户通过安卓设备远程控制 Windows 11，包括远程关机、重启、进入睡眠状态等，但目前不支持 WOL 唤醒开机。正在开发中的 Phone Link 字符串显示，微软即将提供远程控制能力，让用户可以在配套应用中直接操作关机 / 重启和睡眠，无需通过远程桌面操作。查看全文：https://ourl.co/126488]]></description>
+      <guid>https://www.landian.news/archives/126488.html</guid>
+      <pubDate>Thu, 27 Aug 2026 02:40:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达计划以129亿美元收购🤗抱抱脸 不过目前还未公布官方消息</title>
+      <link>https://www.landian.news/archives/126487.html</link>
+      <description><![CDATA[#人工智能 英伟达计划以 129 亿美元收购人工智能基础设施平台 Hugging Face，不过目前英伟达尚未宣布官方消息。微软也曾参与谈判希望收购抱抱脸，不过现在微软已经退出谈判，尚不清楚这起收购案中是否还有其他参与者被英伟达击败。查看全文：https://ourl.co/126487]]></description>
+      <guid>https://www.landian.news/archives/126487.html</guid>
+      <pubDate>Thu, 27 Aug 2026 02:26:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Cowork新增内置浏览器 可以直接打开网页/读取内容/点击链接/填写表单</title>
+      <link>https://www.landian.news/archives/126486.html</link>
+      <description><![CDATA[#人工智能 A 社宣布 Claude Cowork 新增内置浏览器，可以直接通过内置浏览器打开网页、读取内容、点击点击和填写表单等。内置浏览器与 Claude in Chrome 扩展程序相互隔离，相当于安装了个新的隔离浏览器用于处理任务。不过 A 社也提醒，内置浏览器也存在提示词注入攻击风险，用户应当仅在可信网站上使用浏览器智能体。查看全文：https://ourl.co/126486]]></description>
+      <guid>https://www.landian.news/archives/126486.html</guid>
+      <pubDate>Thu, 27 Aug 2026 02:12:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI发布其内部AI智能体入侵🤗抱抱脸的新技术报告 认为根本原因不只是沙箱漏洞</title>
+      <link>https://www.landian.news/archives/126485.html</link>
+      <description><![CDATA[#人工智能 OpenAI 发布抱抱脸攻击事件的详细技术报告，认为攻击的根本原因不只是沙箱环境存在漏洞。 OpenAI 称此次失控由多种因素叠加引起，包括奖励作弊、面对无解任务时过度坚持、绕过限制建立非授权通信、不同智能体相互接受目标。 OpenAI 强调若部署 ChatGPT 正式环境中的系统提示和生产安全机制，可以大幅度降低模型攻击基础设施的概率。查看全文：https://ourl.co/126485]]></description>
+      <guid>https://www.landian.news/archives/126485.html</guid>
+      <pubDate>Thu, 27 Aug 2026 01:50:54 GMT</pubDate>
+    </item>
     <item>
       <title>GPT降智不是你的错觉：ChatGPT经理承认部分请求被切换到GPT-5.5-mini</title>
       <link>https://www.landian.news/archives/126455.html</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[#行业资讯 苹果发布 M5 Ultra 和 M6 芯片，前者最高支持 80 核心 GPU 和 512GB 内存，后者基于台积电最新的 2 纳米制程打造。这些芯片的特点都是优化 AI 性能，尤其是 M5 Ultra 搭配 512GB 内存后可以在本地运行数千亿参数的大型语言模型。搭载以上芯片的新款 Mac mini 和 Mac Studio 即将上市销售。查看全文：https://ourl.co/126449]]></description>
       <guid>https://www.landian.news/archives/126449.html</guid>
       <pubDate>Tue, 25 Aug 2026 13:43:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>另类开源！ Grok Bot打包失误忘记关闭源码映射文件 现在算是半开源</title>
-      <link>https://www.landian.news/archives/126448.html</link>
-      <description><![CDATA[#人工智能 另类开源！ Cursor 团队发布 Grok Bot 时也出现打包失误忘记关闭 Runtime Source Map，已经有开发者利用 MAP 文件重建大量可读的核心源代码。借助源代码我们可以研究 Grok Bot 的运行原理，也可以切换到 Codex、Claude Code、OpenRouter 等。此前 Claude Code 也出现过类似失误，当时 A 社直接发送大量 DMCA 通知函要求下架仓库，可见 A 社有多小气。 Cursor 并未发送 DMCA 通知，所以现在源代码还是可以继续获取的。查看全文：https://ourl.co/126448]]></description>
-      <guid>https://www.landian.news/archives/126448.html</guid>
-      <pubDate>Tue, 25 Aug 2026 07:37:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果将​​在本周或下周推出新款Mac mini 可能搭载M5或M6芯片</title>
-      <link>https://www.landian.news/archives/126447.html</link>
-      <description><![CDATA[#硬件设备 苹果将在本周或下周推出新款 Mac mini，可能搭载 M5 或 M6 芯片。彭博社马克古尔曼发布的最新消息称，苹果计划在秋季发布会前推出 2026 款 Mac mini。苹果已经测试搭载 M5 和 M6 芯片的 Mac mini，但即将发布的新款搭载 M5 还是 M6 还不确定。查看全文：https://ourl.co/126447]]></description>
-      <guid>https://www.landian.news/archives/126447.html</guid>
-      <pubDate>Tue, 25 Aug 2026 06:42:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>.NET Framework 8月更新导致Windows 11打印异常 微软已分享临时解决方案</title>
-      <link>https://www.landian.news/archives/126446.html</link>
-      <description><![CDATA[#系统资讯 安装.NET Framework 8 月更新后 Windows 11 打印出现异常，受影响的主要是 WPF 应用生成的 PDF 或 XPS 文档。这个问题与字体有关，只要更换不受影响的字体那就可以打印。微软目前也在寻找永久解决方案，初步调查显示这与微软部署的安全措施有关。解决方案：https://ourl.co/126446]]></description>
-      <guid>https://www.landian.news/archives/126446.html</guid>
-      <pubDate>Tue, 25 Aug 2026 05:05:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11会在某些情况下自动删除驱动程序 有用户安装的N卡驱动被悄悄卸载</title>
-      <link>https://www.landian.news/archives/126445.html</link>
-      <description><![CDATA[#系统资讯 Windows 10/11 还内置了自动清理驱动程序的机制，华硕 ROG 游戏本用户发现自己的 N 卡驱动程序被自动卸载。排查后发现在奥创软件里启用 ECO 节能模式后，独立显卡会被断电，相当于从 PCIe 总线上移除。此时系统会在后台检测，超过 15 天没有恢复连接时，系统就会直接删除独显元数据和对应的驱动。查看全文：https://ourl.co/126445]]></description>
-      <guid>https://www.landian.news/archives/126445.html</guid>
-      <pubDate>Tue, 25 Aug 2026 03:49:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>听劝：经过用户反馈后苹果不再调整iCloud+隐藏邮箱使用的域名 避免其他平台屏蔽</title>
-      <link>https://www.landian.news/archives/126443.html</link>
-      <description><![CDATA[#行业资讯 听劝：经过社区反馈后苹果决定放弃此前调整 iCloud 隐藏邮箱域名的决定，避免其他平台屏蔽用户生成的随机邮箱。此前苹果决定将隐藏电子邮件和使用 Apple 登录生成的随机邮箱都放到 private[.]icloud[.]com 域名下，这个决定遭到专业用户的反对，因为其他平台可以轻易识别并禁止用户使用隐私邮箱注册。经过反馈后，苹果决定 iCloud+ 隐藏邮箱功能继续使用 iCloud[.]com 域名，但使用 Apple 登录生成的邮箱仍然会使用新域名。查看全文：https://ourl.co/126443]]></description>
-      <guid>https://www.landian.news/archives/126443.html</guid>
-      <pubDate>Tue, 25 Aug 2026 03:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>美好时光即将过去：Codex将从明天开始恢复5小时限额(仅Plus订阅用户)</title>
-      <link>https://www.landian.news/archives/126444.html</link>
-      <description><![CDATA[#人工智能 美好时光即将过去：Codex 将从明天开始恢复 5 小时限额机制，但仅限 Plus 订阅用户。对于开通 100 或 200 美元的 Pro 用户来说暂时还是没有 5 小时限额，从某些意义上说即低价用户给高价用户让路，算力优先确保高价用户的稳定使用。查看全文：https://ourl.co/126444]]></description>
-      <guid>https://www.landian.news/archives/126444.html</guid>
-      <pubDate>Tue, 25 Aug 2026 02:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenCode已取消首月5美元优惠价 原因也是号商批量注册薅羊毛再通过API转售</title>
-      <link>https://www.landian.news/archives/126442.html</link>
-      <description><![CDATA[#人工智能 开源 AI 编码工具 OpenCode 已取消首月 5 美元优惠价，原因也是号商批量注册账号再通过 API 转售。此前 GitHub Copilot 免费试用就被取消，原因就是遭到滥用。现在 OpenCode 取消首月优惠价原因相同，大量号商注册新号薅羊毛再去通过 API 转售，这让 OpenCode 不胜其烦，所以干脆取消优惠。查看全文：https://ourl.co/126442]]></description>
-      <guid>https://www.landian.news/archives/126442.html</guid>
-      <pubDate>Tue, 25 Aug 2026 02:19:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>达到生产级可以公开发布：Mozilla Firefox v157开始将默认全平台支持JPEG XL图像</title>
-      <link>https://www.landian.news/archives/126441.html</link>
-      <description><![CDATA[#软件资讯 火狐浏览器将从 v157 版开始默认在全平台支持 JPEG XL 图像格式，即经过长时间的测试后谋智基金会工程师认为该功能已经达到生产级别。 JPEG XL 提供更优秀的压缩效率且支持有损或无损压缩，该格式此前已经被谷歌弃用，但在苹果提供支持后现在谷歌也在讨论是否要恢复支持。查看全文：https://ourl.co/126441]]></description>
-      <guid>https://www.landian.news/archives/126441.html</guid>
-      <pubDate>Tue, 25 Aug 2026 01:46:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

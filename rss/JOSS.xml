@@ -4,7 +4,28 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:33:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:09:30 GMT</lastBuildDate>
+    <item>
+      <title>MeshFL：用于 3D 脑 MRI 分割的联合 MeshNet 框架</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.09357</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.09357</guid>
+      <pubDate>Wed, 26 Aug 2026 20:08:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>AutoEmulate：用于端到端仿真工作流程的 PyTorch 工具</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10087</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10087</guid>
+      <pubDate>Wed, 26 Aug 2026 17:49:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>类别编码器：用于编码分类数据的 scikit-learn-contrib 转换器包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10645</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10645</guid>
+      <pubDate>Wed, 26 Aug 2026 17:46:40 GMT</pubDate>
+    </item>
     <item>
       <title>textNet：从文本数据中提取定向、多重、多模式事件网络</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.07615</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10777</guid>
       <pubDate>Wed, 19 Aug 2026 18:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>JupyterGIS：JupyterLab 的协作 GIS 环境</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10383</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10383</guid>
-      <pubDate>Wed, 19 Aug 2026 17:57:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>FIRECODE：计算化学工作流程驱动程序和模块化集线器</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10698</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10698</guid>
-      <pubDate>Tue, 18 Aug 2026 19:05:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>pharmsol：用于药代动力学和药效学建模和模拟的高性能 Rust 库</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10580</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10580</guid>
-      <pubDate>Tue, 18 Aug 2026 17:31:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

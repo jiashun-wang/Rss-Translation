@@ -4,83 +4,111 @@
     <title>Journal of Fluid Mechanics</title>
     <link>https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/latest-issue</link>
     <description>&lt;i&gt;Journal of Fluid Mechanics&lt;/i&gt; is the leading international journal in the field and is essential reading for all those concerned with developments in fluid mechanics. It publishes authoritative articles covering theoretical, computational and experimental investigations of all aspects of the mechanics of fluids. Each issue contains papers on the fundamental aspects of fluid mechanics and its applications to other fields such as aeronautics, astrophysics, biology, chemical and mechanical engineering, hydraulics, materials, meteorology, oceanography, geology, acoustics and combustion.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:34:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:11:04 GMT</lastBuildDate>
+    <item>
+      <title>沿旋转有限长度圆柱体轴移动的球体的瞬态动力学</title>
+      <link>https://dx.doi.org/10.1017/jfm.2026.11927?rft_dat=source%3Ddrss</link>
+      <description><![CDATA[正文的翻译沿旋转流体轴线的流动是旋转流中的一个经典问题，其中实验、理论和数值模拟之间的差异，特别是关于泰勒柱形成和前向影响的差异，仍未得到解决。理论和许多数值研究都依赖于各种假设，包括流动是无粘性的、线性的或无界域中的，限制了它们与实验室配置的相关性。这里通过纳维-斯托克斯方程的数值解来研究沿着填充有粘性流体的有限旋转圆柱体的轴以恒定速度行进的球体的流动，该方程在同向旋转球体和圆柱体壁上均具有无滑移边界条件。使用 Pritchard 的实验几何学探索了各种罗斯比数和泰勒数，这些参数给出了与背景旋转速率、粘性耗散速率和球体运动速度相关的三个时间尺度的比率（J. Fluid Mech., 39, 1969, pp. 443–464）。通过明确保留轴向和径向约束效应，结果表明了粘性、非稳态、地转和非线性效应显着的参数空间区域，解决了稳态、线性和准地转假设的限制。]]></description>
+      <guid>https://dx.doi.org/10.1017/jfm.2026.11927?rft_dat=source%3Ddrss</guid>
+      <pubDate>Thu, 27 Aug 2026 04:11:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用多维状态空间序列模型进行亚网格应力建模</title>
+      <link>https://dx.doi.org/10.1017/jfm.2026.11929?rft_dat=source%3Ddrss</link>
+      <description><![CDATA[由于过去几十年计算能力的增长，大涡模拟 (LES) 变得越来越可行，而亚网格应力建模在 LES 的准确性方面发挥着重要作用。一类新的神经网络模型，S4 和 S4ND 模型，允许学习离散数据集的连续表示，这有助于采用原则性方法将网格依赖性纳入神经网络子网格应力建模中。提出了 S4ND U-Net 神经网络架构，并针对强制均匀各向同性湍流 (HIT) 和通道流进行了训练。 先验，该架构能够推断出比训练集网格间距更粗的网格间距，而更简单的人工神经网络 (ANN) 模型则失败。对强制 HIT 和通道流的后验测试表明，S4ND 模型在训练集中的网格大小方面比传统模型和基于 ANN 的模型更准确。 S4ND 模型还能够稳健地推断出比训练集后验更粗糙的网格大小，并且比许多传统的子网格应力模型更准确。最后，我们还在雷诺数增加的情况下对所提出的模型进行了评估，可以看出，即使雷诺数比训练集中的值大 500 000 倍，所提出的神经网络仍然保持稳定。]]></description>
+      <guid>https://dx.doi.org/10.1017/jfm.2026.11929?rft_dat=source%3Ddrss</guid>
+      <pubDate>Thu, 27 Aug 2026 04:11:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过连续数据同化从壁压足迹调制涡流通量</title>
+      <link>https://dx.doi.org/10.1017/jfm.2026.11922?rft_dat=source%3Ddrss</link>
+      <description><![CDATA[这项研究对壁压“足迹”对涡量通量的调制做出了双重贡献。首先，我们提出了一个连续数据同化（DA）框架，通过将伴随导出的标量源嵌入到压力泊松方程中，从壁压力观测值重建流场。通过利用椭圆压力-速度耦合，该方法在整个域中传播壁驱动校正，并避免四维变分 DA 的昂贵的全局向后积分，同时保留对涡度产生和模态能量的相位感知控制。其次，我们在 NACA0012 机翼上的三维湍流上验证框架 ，使用来自高保真大涡模拟 (LES) 的合成壁压数据。 DA 策略通过抑制过早分离、恢复附着以及恢复接近 LES 保真度的关键流量指标，缓解了粗模拟中未解决的过渡物理问题。谱和小波分析进一步表明，重建捕获了尺度相关的能量分布和主要结构的空间相干性。确定了两种互补机制：（i）类振荡器机制，其中锁相切向压力梯度与法向涡度梯度耦合，通过线性和非线性相互作用调节近壁涡度； (ii) 类似放大器的机制，其中后沿输入通过尺度相关的椭圆耦合向上游传播，激发接收模式，并通过 Orr 机制和解析匹配的不稳定性触发转换级联。传感器覆盖范围研究揭示了与尺度相关的灵敏度：流向伸长运动在稀疏阵列下保持稳健，而展向主导结构需要近壁传感。这些发现拓宽了壁界流重建的连续 DA 范围，提供了一种计算有效的方法，可以将壁压力观测结果合并到现有求解器中，以提高精度。]]></description>
+      <guid>https://dx.doi.org/10.1017/jfm.2026.11922?rft_dat=source%3Ddrss</guid>
+      <pubDate>Thu, 27 Aug 2026 04:11:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>被动旋转圆盘改变湍流边界层</title>
+      <link>https://dx.doi.org/10.1017/jfm.2026.11917?rft_dat=source%3Ddrss</link>
+      <description><![CDATA[以摩擦雷诺数为特征的湍流边界层  以及流过齐平安装的被动旋转盘的情况，目的是减少表面摩擦阻力。测试表面由三十二个交错排列的旋转盘组成，并由安装在圆柱形空腔中的轴承支撑。由于圆盘被薄刚性板半覆盖，因此通过壁湍流对圆盘暴露的半部施加的壁剪切应力的不对称分布来维持圆盘的稳定旋转。直接力测量表明，由于与盘壳体和盖板的流动相互作用，阻力相对于平板情况有所增加。圆盘运动的影响被隔离，并且测量到相对于固定圆盘上的流动，阻力减少了 3%。 Elnahhas &amp; Johnson 的皮肤摩擦特性 (2022) J. Fluid Mech.940 在本文中扩展为包括盘流效应，首次用于分析实验数据。通过使用 Elnahhas-Johnson 恒等式中测量的圆盘角速度进行量化，这种直接滑移效应可以忽略不计。通过粒子图像测速获得的测量表明，由于圆盘周围的间隙，相邻圆盘之间会出现粗糙度平均流量效应，并且覆盖板附近存在下洗二次流，类似于流向细长的矩形粗糙度元件上的流动。由于展向圆盘运动，该下洗速度被顺流调节，并改变了 Elnahhas-Johnson 恒等式中的壁面法线传输项，从而减少了局部阻力。速度协方差在邻近圆盘附近增强，与该区域的粗糙度效应一致。 Elnahhas-Johnson 恒等式中的雷诺剪切应力项因此得到了全局增强。尽管如此，速度波动和雷诺剪应力的近壁单点和两点协方差在幅度和空间相干性方面均有所减小。这一结果是第一个实验证据，证实雷诺剪应力的衰减是旋转盘流背后的核心减阻机制。]]></description>
+      <guid>https://dx.doi.org/10.1017/jfm.2026.11917?rft_dat=source%3Ddrss</guid>
+      <pubDate>Thu, 27 Aug 2026 04:10:59 GMT</pubDate>
+    </item>
     <item>
       <title>超音速喷射器的阻塞机制：雷诺平均纳维-斯托克斯模拟的一维分析</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11894?rft_dat=source%3Ddrss</link>
       <description><![CDATA[喷射器是制冷、推进和加工业中使用的无源设备，通过利用另一股流膨胀过程中释放的能量来压缩一股流，而无需移动部件。这些设备中的窒息工程模型仍然是一个悬而未决的问题，文献中提出了两种机制——Fabri 和复合窒息。这项工作开发了一个基于常见控制方程的准一维框架，可以使用轴对称雷诺平均纳维斯托克斯（RANS）模拟作为参考来直接比较两者。该复合配方结合了壁和流间摩擦力以及局部压力均衡程序，可实现通过声波点的稳定积分，以及正常冲击重建。 Fabri 公式通过施加从 RANS 中提取的划分流线来评估，隔离声波条件，同时避免额外的建模假设。校准后的复合模型预测设计的二次质量流量通常在 RANS 模拟的 2% 范围内，对于由于等压约束而严重膨胀不足的主射流，该预测值上升至 5%。 Fabri 分析在设计夹带方面的误差小于 1%，但对划分流线和闭合表现出高度敏感性，这限制了设计之外的预测使用。总体而言，结果表明 Fabri 和复合机制可以在同一设备和操作图中共存，各自捕获物理的不同方面并提供互补的建模价值。然而，复合阻塞成为控制流速阻塞的更普遍的机制，亚音速二次流的阻塞流就证明了这一点。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11894?rft_dat=source%3Ddrss</guid>
-      <pubDate>Wed, 26 Aug 2026 06:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>边缘冰区任意平面形式的浮冰盖内的波浪强度</title>
-      <link>https://dx.doi.org/10.1017/jfm.2026.11907?rft_dat=source%3Ddrss</link>
-      <description><![CDATA[我们得出的理论结果表明，边缘冰区（MIZ）内浮冰盖中的波浪强度可以通过冰覆盖区域和开放水域中波数的比率与周围开放水域中的波浪强度相关，而与冰平面形状几何形状无关。在各向同性入射波的假设下，我们首先推导出对冰波长有效的短波长渐近（SWA）结果  与冰原尺寸相比较小 。 SWA 结果表明，由于一定入射角范围内的全反射，与开放水域相比，冰盖中的强度有所降低。然后，我们使用冰盖格林函数得出更一般的结果。远离冰边缘，任意平面形状的冰盖的格林函数可以局部近似于无限范围的冰盖的格林函数。通过这种近似，我们获得了一个更通用的结果，该结果恢复了  但在弯曲重力长度比例  与 ，无论 。我们通过直接计算各向同性窄带波场中冰盖的偏转来阐明这些理论结果的有效性范围。我们发现，当 ;当 （对于任何 ）。这项工作对于确定 MIZ 中的冰破裂和参数化波耗散具有直接意义。]]></description>
-      <guid>https://dx.doi.org/10.1017/jfm.2026.11907?rft_dat=source%3Ddrss</guid>
-      <pubDate>Wed, 26 Aug 2026 06:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>浅顺应性微通道中膨胀引起的流动演化</title>
-      <link>https://dx.doi.org/10.1017/jfm.2026.11866?rft_dat=source%3Ddrss</link>
-      <description><![CDATA[在天然和工程系统中都广泛观察到通过顺应性微通道的流体输送，包括通过木质部、机械化学敏感阀、基于水凝胶的药物输送系统和基于滤纸的诊断套件的营养物输送。在这种流动中，流体应力和边界壁柔量之间的双向耦合相互作用产生了丰富的流动动力学。这些柔软的固体壁可以吸收流体并膨胀，膨胀动力学和壁柔顺性之间的耦合使流动演变进一步复杂化，这可以在水流过水凝胶微通道或甲苯流过聚二甲基硅氧烷微通道中观察到。在这里，我们开发了一个数学框架来研究牛顿流体流过由柔软、膨胀的壁界定的浅矩形微通道的时空演化。使用润滑近似，我们推导了流体压力和通道高度的非线性扩散方程，该方程揭示了由于膨胀引起的塌陷和流体压力引起的约束之间的竞争而产生的非单调流动动力学。非线性扩散方程的简化解析解通过全耦合数值模拟进行验证，识别了不同的流动演化模式，并捕获了从膨胀主导到流体压力主导行为的转变，该转变由膨胀比和壁柔度之间的相互作用控制。这些结果阐明了膨胀、顺应通道中非直观但基本的流动响应，并强调了它们对通过机械化学相互作用进行被动流动生成和流动控制的影响。]]></description>
-      <guid>https://dx.doi.org/10.1017/jfm.2026.11866?rft_dat=source%3Ddrss</guid>
-      <pubDate>Wed, 26 Aug 2026 06:34:05 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 04:10:57 GMT</pubDate>
     </item>
     <item>
       <title>碰撞刚性和软质基材引起的聚焦液体射流的速度</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11851?rft_dat=source%3Ddrss</link>
       <description><![CDATA[当充满液体的试管撞击基材时，管内的凹形气液界面会变形并发射出聚焦的液体射流。这种配置被称为波克罗夫斯基实验，在这里进行了研究，重点是基材弹性如何影响喷射速度。通过改变基材弹性模量  到  MPa，我们发现喷射速度随着基材变软而降低。结果使用柯西数 ，表示容器-液体系统的惯性与基材弹性恢复力的比值。对于 ，而 。为了解释这种减少，我们引入部分脉冲的概念。当容器和​​基材保持接触的冲击间隔超过界面形成射流的聚焦间隔时，射流在总脉冲被传递之前形成。因此，只有在射流形成的有效时间窗口内累积的脉冲才对界面运动做出贡献。通过对接触力进行建模并将其积分到有效脉冲窗口上，我们定量地再现了实验趋势。这种部分脉冲框架提供了对刚性和软质基材上冲击引起的聚焦喷射的统一描述。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11851?rft_dat=source%3Ddrss</guid>
-      <pubDate>Wed, 26 Aug 2026 06:34:03 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 04:10:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>浅顺应性微通道中膨胀引起的流动演化</title>
+      <link>https://dx.doi.org/10.1017/jfm.2026.11866?rft_dat=source%3Ddrss</link>
+      <description><![CDATA[在天然和工程系统中都广泛观察到通过顺应性微通道的流体输送，包括通过木质部、机械化学敏感阀、基于水凝胶的药物输送系统和基于滤纸的诊断套件的营养物输送。在这种流动中，流体应力和边界壁柔量之间的双向耦合相互作用产生了丰富的流动动力学。这些柔软的固体壁可以吸收流体并膨胀，膨胀动力学和壁柔顺性之间的耦合使流动演变进一步复杂化，这可以在水流过水凝胶微通道或甲苯流过聚二甲基硅氧烷微通道中观察到。在这里，我们开发了一个数学框架来研究牛顿流体流过由柔软、膨胀的壁界定的浅矩形微通道的时空演化。使用润滑近似，我们推导了流体压力和通道高度的非线性扩散方程，该方程揭示了由于膨胀引起的塌陷和流体压力引起的约束之间的竞争而产生的非单调流动动力学。非线性扩散方程的简化解析解通过全耦合数值模拟进行验证，识别了不同的流动演化模式，并捕获了从膨胀主导到流体压力主导行为的转变，该转变由膨胀比和壁柔度之间的相互作用控制。这些结果阐明了膨胀、顺应通道中非直观但基本的流动响应，并强调了它们对通过机械化学相互作用进行被动流动生成和流动控制的影响。]]></description>
+      <guid>https://dx.doi.org/10.1017/jfm.2026.11866?rft_dat=source%3Ddrss</guid>
+      <pubDate>Thu, 27 Aug 2026 04:10:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>边缘冰区任意平面形式的浮冰盖内的波浪强度</title>
+      <link>https://dx.doi.org/10.1017/jfm.2026.11907?rft_dat=source%3Ddrss</link>
+      <description><![CDATA[我们得出的理论结果表明，边缘冰区（MIZ）内浮冰盖中的波浪强度可以通过冰覆盖区域和开放水域中波数的比率与周围开放水域中的波浪强度相关，而与冰平面形状几何形状无关。在各向同性入射波的假设下，我们首先推导出对冰波长有效的短波长渐近（SWA）结果  与冰原尺寸相比较小 。 SWA 结果表明，由于一定入射角范围内的全反射，与开放水域相比，冰盖中的强度有所降低。然后，我们使用冰盖格林函数得出更一般的结果。远离冰边缘，任意平面形状的冰盖的格林函数可以局部近似于无限范围的冰盖的格林函数。通过这种近似，我们获得了一个更通用的结果，该结果恢复了  但在弯曲重力长度比例  与 ，无论 。我们通过直接计算各向同性窄带波场中冰盖的偏转来阐明这些理论结果的有效性范围。我们发现，当 ;当 （对于任何 ）。这项工作对于确定 MIZ 中的冰破裂和参数化波耗散具有直接意义。]]></description>
+      <guid>https://dx.doi.org/10.1017/jfm.2026.11907?rft_dat=source%3Ddrss</guid>
+      <pubDate>Thu, 27 Aug 2026 04:10:56 GMT</pubDate>
     </item>
     <item>
       <title>拉格朗日数据流场与颗粒性质的联合估计</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11913?rft_dat=source%3Ddrss</link>
       <description><![CDATA[我们通过数值研究了根据拉格朗日粒子跟踪数据联合估计流场和未知粒子属性（例如位置、大小和密度）的可行性和局限性。拉格朗日粒子跟踪提供粒子轨迹的时间分辨体积测量，这是载液运动的标记。然而，实验轨迹在空间上稀疏且可能存在噪声，并且惯性粒子输运可能使重建流场的问题进一步复杂化，因此必须确定粒子滑移速度才能访问载液的速度场。为了解决这个问题，我们开发了一个数据同化框架，将流动的欧拉表示与拉格朗日粒子模型结合起来，从而能够在分散多相流的控制方程下同时推断载流子场和粒子特性。我们表明，流场和粒子属性可以在三种代表性的情况下联合估计：（i）在带有噪声示踪轨迹的湍流边界层中（），联合估计流场和真实粒子位置，这相当于一个基于物理的粒子跟踪问题； (ii) 在均匀各向同性湍流中注入惯性粒子 (），我们演示了流动状态和颗粒直径的同步恢复，展示了隐式颗粒表征的可行性； (iii)在可压缩、激波主导的流动中，我们报告了速度、压力、密度和惯性粒子属性（直径和密度）的首次联合重建，强调了超音速状态下联合估计的潜力和某些局限性。系统的敏感性研究揭示了播种密度、噪声水平和斯托克斯数如何控制我们方法的重建精度。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11913?rft_dat=source%3Ddrss</guid>
-      <pubDate>Wed, 26 Aug 2026 06:34:02 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 04:10:55 GMT</pubDate>
     </item>
     <item>
       <title>三层逆行 QG 流中涡流浮力通量的选择性地形抑制和垂直结构 – ERRATUM</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11979?rft_dat=source%3Ddrss</link>
       <description><![CDATA[]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11979?rft_dat=source%3Ddrss</guid>
-      <pubDate>Wed, 26 Aug 2026 06:34:02 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 04:10:55 GMT</pubDate>
     </item>
     <item>
       <title>蒸发固着液滴之间的平方反比力</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11903?rft_dat=source%3Ddrss</link>
       <description><![CDATA[在这项研究中，我们发现了蒸发固着液滴之间的平方反比力。我们发现，一个蒸发的固着液滴对另一个液滴施加驱动力，力的大小与它们中心之间的距离的平方成反比衰减。源液滴产生的蒸气浓度的反距离衰减是导致力的平方反比形式的关键因素。开发了一个将连续流体动力学与有效的毛细管线力表示相结合的理论框架，以使这种力合理化。平方反比形式在液滴尺寸、成分和环境湿度的范围内都是稳健的。我们对之前发表的纯液体固着液滴和热毛细管浮动液滴运动学数据的分析进一步支持了其更广泛的适用性。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11903?rft_dat=source%3Ddrss</guid>
-      <pubDate>Wed, 26 Aug 2026 06:34:01 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 04:10:54 GMT</pubDate>
     </item>
     <item>
       <title>受迫升沉运动中半浸球体的三次谐波辐射</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11904?rft_dat=source%3Ddrss</link>
       <description><![CDATA[非线性流体动力效应会影响谐振波能量转换器 (WEC) 的功率捕获，特别是在这些设备设计运行的频段内。在这项研究中，波槽实验是在具有规定升沉运动的半浸式球形模型上进行的，模拟对入射宽带波群的响应。在不同的峰值频率下测试了几种身体运动幅度（最大位移大于半径的一半），结果表明，随着运动幅度的增加，每单位运动幅度的一次谐波辐射力和辐射波高度逐渐减小。一个简单的部分非线性势流模型结合了瞬时“体积流量”校正，显示出与测量的辐射波非常一致，捕获了主要的非线性趋势。基于线性理论，同时考虑线性粘性耗散，还对辐射场进行了实验分解为通道模式。然后将其用于计算辐射场中的功率与感兴趣频带上移动体的输入功率的比较。模型和实验表明，随着身体运动幅度的增加，归一化辐射功率会一致、单调下降。总体而言，研究结果表明，即使对于相当大的身体运动，线性理论也非常准确。一次谐波频率范围内最重要的非线性校正来自三阶势流相互作用，从根本上来说是由球形几何引起的，并证明了体积流模型在评估 WEC 辐射方面的潜在效用。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11904?rft_dat=source%3Ddrss</guid>
-      <pubDate>Wed, 26 Aug 2026 06:34:01 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 04:10:54 GMT</pubDate>
     </item>
     <item>
       <title>轴对称自由剪切流中相互作用的发夹涡的重新连接</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11877?rft_dat=source%3Ddrss</link>
       <description><![CDATA[直接数值模拟（DNS）用于研究发夹涡的演化，以了解涡环的后期湍流破裂。具有雷诺数的几种发夹初始配置  被考虑，既是孤立的又是多重的。孤立的发夹在静态流中演化，展示了阶段性的重新连接事件（桥接、切割和重新连接、两部分快速分离、残余螺纹），类似于先前在反平行涡流中的观察结果。接下来，模拟圆形阵列中六个发夹涡的多种配置，并从经历方位不稳定的涡环近尾迹的 DNS 中提取背景流。在这里，发现尖端处的涡度与背景流涡度的方位角分量的对齐是一个重要参数。当涡量分量相反时，发夹尖端向内偏转，使得邻近的发夹也参与重新连接事件，产生一组复杂的重新连接，对于交错的发夹进一步放大。否则，发夹尖端会向外偏转，并像孤立的发夹一样演化。而较高的 使得起始和重新连接更快，特定背景流中涡旋拉伸相对于粘性耗散的程度决定了总熵的时间演化。它在重连接事件之前急剧上升，之后迅速下降，而对于 DNS 提取的环尾流，最大熵与更简单的剪切流相比更高。重新连接事件将能量分布在更广泛的频谱上，尤其是更高的波数。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11877?rft_dat=source%3Ddrss</guid>
-      <pubDate>Wed, 26 Aug 2026 06:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>不溶性表面活性剂对碎波的影响：规则和溢出状态</title>
-      <link>https://dx.doi.org/10.1017/jfm.2026.11870?rft_dat=source%3Ddrss</link>
-      <description><![CDATA[我们调查了不溶性表面活性剂对破碎波时空演化的影响，重点关注规则和溢出两种情况。使用界面跟踪/水平设置方法进行三维直接数值模拟，该方法结合了表面活性剂引起的马兰戈尼应力。模拟表明，表面活性剂梯度通过马兰戈尼应力显着改变了波浪动力学。虽然常规破碎锤在存在表面活性剂的情况下仅表现出微小的变化，但在溢出破碎锤中增加表面活性剂引起的马兰戈尼应力会导致波峰演化和涡度产生的变化。表面活性剂增强了溢出破坏剂，主要是由马兰戈尼应力驱动，而不是表面张力降低。为了量化这些影响，我们还扩展了基于循环的理论框架来解释表面活性剂的贡献。]]></description>
-      <guid>https://dx.doi.org/10.1017/jfm.2026.11870?rft_dat=source%3Ddrss</guid>
-      <pubDate>Wed, 26 Aug 2026 06:33:59 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 04:10:53 GMT</pubDate>
     </item>
     <item>
       <title>有限重力下悬滴非自相似区域的收缩尺度定律</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11931?rft_dat=source%3Ddrss</link>
       <description><![CDATA[]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11931?rft_dat=source%3Ddrss</guid>
-      <pubDate>Wed, 26 Aug 2026 06:33:58 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 04:10:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>不溶性表面活性剂对碎波的影响：规则和溢出状态</title>
+      <link>https://dx.doi.org/10.1017/jfm.2026.11870?rft_dat=source%3Ddrss</link>
+      <description><![CDATA[我们调查了不溶性表面活性剂对破碎波时空演化的影响，重点关注规则和溢出两种情况。使用界面跟踪/水平设置方法进行三维直接数值模拟，该方法结合了表面活性剂引起的马兰戈尼应力。模拟表明，表面活性剂梯度通过马兰戈尼应力显着改变了波浪动力学。虽然常规破碎锤在存在表面活性剂的情况下仅表现出微小的变化，但在溢出破碎锤中增加表面活性剂引起的马兰戈尼应力会导致波峰演化和涡度产生的变化。表面活性剂增强了溢出破坏剂，主要是由马兰戈尼应力驱动，而不是表面张力降低。为了量化这些影响，我们还扩展了基于循环的理论框架来解释表面活性剂的贡献。]]></description>
+      <guid>https://dx.doi.org/10.1017/jfm.2026.11870?rft_dat=source%3Ddrss</guid>
+      <pubDate>Thu, 27 Aug 2026 04:10:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
