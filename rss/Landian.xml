@@ -4,7 +4,35 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Thu, 27 Aug 2026 04:30:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:22:46 GMT</lastBuildDate>
+    <item>
+      <title>知名广告拦截程序uBlock Origin发布适用于谷歌浏览器的最终版 月底将被谷歌下架</title>
+      <link>https://www.landian.news/archives/126495.html</link>
+      <description><![CDATA[#软件资讯 知名广告拦截程序 uBlock Origin 发布适用于谷歌浏览器的最终版，因为到 8 月 31 日该扩展将被谷歌从商店里删除。新版本为 v1.74.0 版，算是提交到 Chrome 商店的最终版本，后续谷歌下架后开发者将无法发布更新。未来用户想要安装也只能自己下载离线安装包手动安装，而且新版 Chrome 也无法使用 MV2 扩展。注意：不会停止开发，因为其他浏览器还继续支持基于 MV2 的 uBlock Origin。查看全文：https://ourl.co/126495]]></description>
+      <guid>https://www.landian.news/archives/126495.html</guid>
+      <pubDate>Thu, 27 Aug 2026 05:57:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技在于更名：微软将Microsoft 365路线图网站更名为AI at Work Roadmap</title>
+      <link>https://www.landian.news/archives/126494.html</link>
+      <description><![CDATA[#人工智能 科技在于更名：微软宣布将 Microsoft 365 路线图网站更名为 AI at Work Roadmap，新增大量与 AI 相关的产品开发状态。甚至从 9 月份开始，诸如 Dynamics 365 和 Power Platform 平台的 AI 相关更新也会塞进来。对于只想查看办公软件更新的用户来说，以后得频繁使用筛选功能。查看全文：https://ourl.co/126494]]></description>
+      <guid>https://www.landian.news/archives/126494.html</guid>
+      <pubDate>Thu, 27 Aug 2026 05:45:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿里云下调Qwen3.8-Flash调用价格 调整后比智谱GLM-5.3-Flash便宜1毛钱</title>
+      <link>https://www.landian.news/archives/126493.html</link>
+      <description><![CDATA[#人工智能 阿里云下调 Qwen3.8-Flash 调用价格，调整后比智谱刚刚发布的 GLM-5.3-Flash 便宜 1 毛钱。此次阿里云百炼调价似乎就是对标智谱 GLM-5.3-Flash 原价的，不过智谱当前开启两周限时 5 折，与 5 折价格相比阿里云还是没有优势。查看全文：https://ourl.co/126493]]></description>
+      <guid>https://www.landian.news/archives/126493.html</guid>
+      <pubDate>Thu, 27 Aug 2026 05:28:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[下载] ChatGPT&Codex 历史版本下载 含Windows/macOS/Linux最近15个版本</title>
+      <link>https://www.landian.news/download/126522.html</link>
+      <description><![CDATA[#Codex 历史版本 ChatGPT&amp;Codex 历史版本下载，含 Windows、macOS、Linux 最近 15 个版本的离线安装文件。 Codex 有时候发布的新版本有问题，开发者可能需要回滚到旧版本，但 OpenAI 本身未提供旧版本下载。所以蓝点网下载服务器有个脚本用来定时拉取 Codex 安装包，其中 macOS 和 Linux 版均从 OpenAI 服务器拉取，Windows 版因为是发布到微软商店的，所以是从微软商店解析的地址下载的。下载地址：https://ourl.co/126522]]></description>
+      <guid>https://www.landian.news/download/126522.html</guid>
+      <pubDate>Thu, 27 Aug 2026 04:43:12 GMT</pubDate>
+    </item>
     <item>
       <title>美国蓝鸟公司复活推特上线Twitter.now 认为马斯克已经放弃推特相关名称和品牌</title>
       <link>https://www.landian.news/archives/126492.html</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[#软件资讯 遭到用户反对后微软略微延长 Microsoft Whiteboard 白板应用的存活时间。根据微软更新后的时间表，个人用户可以在 10 月 16 日前导出数据，之后无法再导出数据。企业用户需要在 9 月 25 日前完成迁移备份，数据也在 10 月 16 日删除。请注意：微软白板应用不再支持个人用户使用，即仅限企业使用。查看全文：https://ourl.co/126453]]></description>
       <guid>https://www.landian.news/archives/126453.html</guid>
       <pubDate>Wed, 26 Aug 2026 04:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究发现微软在画图/照片里为AI图片添加像素级盲水印 截图/裁剪也不能去除水印</title>
-      <link>https://www.landian.news/archives/126452.html</link>
-      <description><![CDATA[#软件资讯 安全研究员通过逆向分析发现微软的画图和照片 / 相册应用会给 AI 生成图片添加不可见的盲水印。这种盲水印直接嵌入在图片多个区域的像素中，通过裁剪、截图、部分遮盖等也依然可以识别图片。这种盲水印机制与 C2PA 不同，用户可以删除 C2PA 但无法彻底清除微软的像素级盲水印。查看全文：https://ourl.co/126452]]></description>
-      <guid>https://www.landian.news/archives/126452.html</guid>
-      <pubDate>Wed, 26 Aug 2026 04:12:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>悲报：开源项目Nitter收到X法律通知函 目前该项目已下线 开发者正在寻求法律咨询</title>
-      <link>https://www.landian.news/archives/126451.html</link>
-      <description><![CDATA[#行业资讯 悲报：开源项目 Nitter 收到 X/Twitter 侵权法律通知函，目前相关网站已经下线无法访问、开源项目暂停开发。 Nitter 可以绕过 X 的限制获得无广告、无追踪和干净的浏览环境，此前 X 通过多种技术手段阻止 Nitter 抓取内容，现在 X 决定直接走法律途径。 Nitter 开发者表示项目暂停开发，正在寻求法律咨询。查看全文：https://ourl.co/126451]]></description>
-      <guid>https://www.landian.news/archives/126451.html</guid>
-      <pubDate>Wed, 26 Aug 2026 03:44:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果发布2026款Mac mini和Mac Studio 外观不变性能暴增 起售价899美元</title>
-      <link>https://www.landian.news/archives/126450.html</link>
-      <description><![CDATA[#硬件设备 苹果推出 2026 款 Mac mini 和 Mac Studio，前者起售价 899 美元，后者起售价 2499 美元。其中 Mac mini 提供 M5 Pro 和 M6 芯片款，标配内存 16GB，但硬盘还是 256GB 起，最高可以选择 64GB 内存。 Mac Studio 主要面向专业用户，提供性能更强的芯片和 PCIe 6.0 硬盘，可以在本地运行数千亿参数规模的 AI 模型。查看全文：https://ourl.co/126450]]></description>
-      <guid>https://www.landian.news/archives/126450.html</guid>
-      <pubDate>Tue, 25 Aug 2026 13:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果发布基于2纳米制程的M6芯片 同时发布M5 Ultra芯片 最高80颗GPU核心</title>
-      <link>https://www.landian.news/archives/126449.html</link>
-      <description><![CDATA[#行业资讯 苹果发布 M5 Ultra 和 M6 芯片，前者最高支持 80 核心 GPU 和 512GB 内存，后者基于台积电最新的 2 纳米制程打造。这些芯片的特点都是优化 AI 性能，尤其是 M5 Ultra 搭配 512GB 内存后可以在本地运行数千亿参数的大型语言模型。搭载以上芯片的新款 Mac mini 和 Mac Studio 即将上市销售。查看全文：https://ourl.co/126449]]></description>
-      <guid>https://www.landian.news/archives/126449.html</guid>
-      <pubDate>Tue, 25 Aug 2026 13:43:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

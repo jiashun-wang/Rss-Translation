@@ -1,9 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Thu, 27 Aug 2026 04:09:57 GMT</lastBuildDate>
+    <title>Scientific Data</title>
+    <link>http://feeds.nature.com/sdata/rss/current</link>
+    <description><p><em>Scientific Data</em>&nbsp;is an open access journal dedicated to data, publishing descriptions of research datasets and articles on research data sharing from all areas of natural sciences, medicine, engineering and social sciences. It aims to&nbsp;advance&nbsp;the sharing and reuse of scientific data, promote wider data sharing and reuse, and to credit those that share.</p>
+
+<p>Find out more about the key principles that drive&nbsp;<em>Scientific Data</em></p>
+
+<p><em>Scientific Data</em>&nbsp;primarily publishes Data Descriptors. These provide&nbsp;detailed descriptions of research datasets, including the methods used to collect the data and technical analyses supporting the quality of the measurements. Data Descriptors focus on helping others reuse data, rather than testing hypotheses, or presenting new interpretations, methods or in-depth analyses.</p>
+
+<p><em>Scientific Data</em>&nbsp;also welcomes submissions describing analyses or meta-analyses of existing data, and original articles on systems, technologies and techniques that advance data sharing and reuse to support reproducible research.</p>
+
+<p><em>Scientific Data</em>&nbsp;uses a thorough peer-review process that evaluates the rigour and quality of the experiments used to generate the data and the completeness of the description of the data. The actual data are stored in one or more public, community-recognized repositories, and release of the data is verified as a condition of publication.</p>
+
+<p>Data Descriptors may describe data from new or published studies, and can be published alongside traditional research works. Data Descriptors that describe previously published datasets should&nbsp;provide new content sufficient to merit further publication: for example, updates to important datasets, fuller release of a dataset, or additional information that aids reuse. Please see our policies on&nbsp;complementary&nbsp;and&nbsp;prior&nbsp;publication.</p></description>
+    <lastBuildDate>Thu, 27 Aug 2026 17:09:02 GMT</lastBuildDate>
+    <item>
+      <title>GaitVibe：用于日常生活中无障碍步态分析的地板振动数据集</title>
+      <link>https://www.nature.com/articles/s41597-026-07907-8</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 8 月 26 日； doi:10.1038/s41597-026-07907-8GaitVibe：用于日常生活中无障碍步态分析的地板振动数据集]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-07907-8</guid>
+      <pubDate>Thu, 27 Aug 2026 17:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>浪漫爱情相关关系图片数据集&#xa0;(Love_Pic Dataset)</title>
+      <link>https://www.nature.com/articles/s41597-026-08141-y</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 8 月 26 日； doi:10.1038/s41597-026-08141-y浪漫爱情相关关系图片数据集 (Love_Pic Dataset)]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08141-y</guid>
+      <pubDate>Thu, 27 Aug 2026 17:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有专家难度和布鲁姆分类注释的多模态多项选择题数据集</title>
+      <link>https://www.nature.com/articles/s41597-026-07584-7</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 8 月 26 日； doi:10.1038/s41597-026-07584-7具有专家难度和布鲁姆分类注释的多模态多项选择题数据集]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-07584-7</guid>
+      <pubDate>Thu, 27 Aug 2026 17:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于风力涡轮机结构涂层缺陷检测的高分辨率图像</title>
+      <link>https://www.nature.com/articles/s41597-026-08176-1</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 8 月 26 日； doi:10.1038/s41597-026-08176-1用于风力涡轮机结构涂层缺陷检测的高分辨率图像]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08176-1</guid>
+      <pubDate>Thu, 27 Aug 2026 17:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有专家注释的放射学结果的体积轨道计算机断层扫描数据集</title>
+      <link>https://www.nature.com/articles/s41597-026-08161-8</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 8 月 26 日； doi:10.1038/s41597-026-08161-8体积轨道计算机断层扫描数据集，包含专家注释的放射学结果]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08161-8</guid>
+      <pubDate>Thu, 27 Aug 2026 17:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>生物分子多尺度模拟 (BMS25) 数据集，用于通过静电嵌入训练 QM/MM 设置的神经网络潜力</title>
+      <link>https://www.nature.com/articles/s41597-026-08138-7</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 8 月 26 日； doi:10.1038/s41597-026-08138-7生物分子多尺度模拟 (BMS25) 数据集，用于通过静电嵌入训练 QM/MM 设置的神经网络潜力]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08138-7</guid>
+      <pubDate>Thu, 27 Aug 2026 17:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于路边交通目标检测的空间对齐 RGB 事件模态数据集</title>
+      <link>https://www.nature.com/articles/s41597-026-08131-0</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 8 月 27 日； doi:10.1038/s41597-026-08131-0用于路边交通对象检测的空间对齐 RGB 事件模态数据集]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08131-0</guid>
+      <pubDate>Thu, 27 Aug 2026 17:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>公元1000-2000年黄河流域网格化人口分布数据</title>
+      <link>https://www.nature.com/articles/s41597-026-08178-z</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 8 月 26 日； doi:10.1038/s41597-026-08178-z公元1000-2000年黄河流域人口网格分布数据]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08178-z</guid>
+      <pubDate>Thu, 27 Aug 2026 17:08:58 GMT</pubDate>
+    </item>
     </channel>
 </rss>

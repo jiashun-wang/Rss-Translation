@@ -4,7 +4,21 @@
     <title>阿里云公告</title>
     <link>https://www.aliyun.com/notice/list</link>
     <description>阿里云公告</description>
-    <lastBuildDate>Thu, 27 Aug 2026 03:48:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:48:46 GMT</lastBuildDate>
+    <item>
+      <title>【产品变更】容器服务 Edge 版 ACK Edge变更通知</title>
+      <link>https://www.aliyun.com/notice/118592</link>
+      <description><![CDATA[影响时间2026-09-03, 变更变更内容和影响  感谢您对阿里云的支持，为获得更完整的能力演进，针对混合云和边缘计算场景，我们推荐使用ACK托管集群Pro版的混合云节点池和边缘节点池。 ACK Edge 将于北京时间2026年09月03日10:00:00关闭新建集群功能，存量ACK Edge集群的功能与支持不受影响。    应对建议存量ACK Edge集群的功能与支持不受影响。新建集群请使用ACK托管集群Pro版的混合云节点池和边缘节点池方案。   如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
+      <guid>https://www.aliyun.com/notice/118592</guid>
+      <pubDate>Thu, 27 Aug 2026 07:37:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAPI 互联网 Endpoint VIP 下线通知（涉及云监控、实人认证、CDN、移动推送、数字证书管理服务等）</title>
+      <link>https://www.aliyun.com/notice/118589</link>
+      <description><![CDATA[影响时间北京时间 2026-09-07 00:00:00 ~ 2026-09-11 23:59:59尊敬的 OpenAPI 产品用户（包括云监控、实人认证、CDN、移动推送、数字证书管理服务等）：为持续优化 OpenAPI 网络接入架构、提升网络服务能力，我们计划下线部分 OpenAPI 互联网 Endpoint VIP。请您提前核查业务配置，并在计划下线前完成相应调整，避免影响业务访问。 变更内容下线时间：2026 年 9 月 7 日 9:30（UTC+8）。 计划下线的互联网 VIP 如下：140.205.61.35140.205.155.65106.11.172.2106.11.172.8建议使用以下 Endpoint 域名替代上述 VIP：产品推荐 Endpoint 域名云监控metrics.aliyuncs.com实人认证cloudauth.aliyuncs.comCDNcdn.aliyuncs.com移动推送cloudpush.aliyuncs.com数字证书管理cas.aliyuncs.com变更影响如您的业务仍直接访问上述 VIP，在 VIP 下线后，将出现 OpenAPI 连接失败、读写请求失败或访问超时等问题。 建议重点检查以下配置：应用配置、脚本或作业参数中，是否硬编码了上述 VIP；安全组、云防火墙、VPC 网络 ACL 等策略中，出方向是否仅针对上述 VIP 配置了放行规则（未放行对应域名或新 IP 段）；自建网络设备、代理服务器或其他 IP 白名单策略中，是否直接引用了上述 VIP；若存在通过 hosts 文件或自建 DNS 强制解析指向上述 VIP 的情况，也请一并排查。 建议操作请在计划下线窗口前完成以下操作：去除应用配置、脚本或作业参数中硬编码的 VIP。 优先使用上表中的 OpenAPI Endpoint 域名，避免固化 IP。 同步更新安全组、防火墙、ACL 及 IP 白名单等策略，确保对应 Endpoint 域名或新 IP 段可正常访问。 完成调整后，请在业务侧验证 OpenAPI 的连接、读写和异常重试链路。 若因特殊原因无法在计划窗口前完成调整，请提前通过工单联系我们，说明情况并申请协助。 咨询与支持如有问题，请通过【工单入口】提交工单，或拨打服务热线 95187 联系技术支持，并提供以下信息以便快速协助排查：OpenAPI Endpoint 域名报错时间业务所在地域（Region）感谢您的理解与配合。 ]]></description>
+      <guid>https://www.aliyun.com/notice/118589</guid>
+      <pubDate>Thu, 27 Aug 2026 07:37:08 GMT</pubDate>
+    </item>
     <item>
       <title>【大模型服务平台百炼】Qwen3.8-Flash 模型降价通知</title>
       <link>https://www.aliyun.com/notice/118600</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[影响时间2026-09-01, 商业化变更内容和影响尊敬的阿里云用户，AI 网关 Serverless 新版公测将于 8 月 31 日结束，并自 9 月 1 日起正式商业化。届时，存量公测实例将默认保留并自动转为商业化实例，实例配置和业务数据无需迁移。如您不再需要继续使用相关实例，请在 9 月 1 日正式商业化前提前删除，避免商业化后产生费用。公测详情请参考《AI 网关 Serverless 新版公测公告》。 应对建议本次升级对新用户无影响，公测用户需评估是否继续使用，如不使用请及时删除，以免商业化后产生账单。 如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
       <guid>https://www.aliyun.com/notice/118580</guid>
       <pubDate>Mon, 24 Aug 2026 03:36:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据总线 DataHub VPC Endpoint 旧 VIP 下线通知</title>
-      <link>https://www.aliyun.com/notice/118581</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.aliyun.com/notice/118581</guid>
-      <pubDate>Mon, 24 Aug 2026 01:48:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>【网络优化】2026年8月28日变更通告</title>
-      <link>https://www.aliyun.com/notice/118584</link>
-      <description><![CDATA[影响时间北京时间 2026-08-28 00:00:00 ~ 2026-08-28 07:15:00为了提升服务质量与系统稳定性，基础网络团队计划在2026-08-28（北京时间）进行网络设备升级和优化工作，本通告共计包含5次变更，详情如下。 1、变更时间：2026-08-28 00:00:00 - 2026-08-28 06:00:00（UTC+08）变更内容：软件维护/升级、冷补丁影响范围：张家口  可用区C/B杭州  可用区K杭州独立建站预发环境 2  可用区A华东1 金融云  可用区K呼和浩特（联通云）  可用区A曼谷  可用区A影响说明：预计部分会导致2次短暂的网络抖动/延迟/丢包，每次大约3秒钟。请您在此期间尽量避免进行操作，若有业务操作，请避开变更窗口进行。给您带来的不便敬请谅解。 2、变更时间：2026-08-28 00:15:00 - 2026-08-28 06:15:00（UTC+08）变更内容：软件维护/升级、冷补丁影响范围：上海  可用区F华东2 金融云  可用区F影响说明：预计部分会导致2次短暂的网络抖动/延迟/丢包，每次大约3秒钟。请您在此期间尽量避免进行操作，若有业务操作，请避开变更窗口进行。给您带来的不便敬请谅解。 3、变更时间：2026-08-28 00:30:00 - 2026-08-28 06:30:00（UTC+08）变更内容：软件维护/升级、冷补丁影响范围：乌兰察布专属云HDG  可用区A乌兰察布云石中心POC  可用区A乌兰察布专属云 POC  可用区A乌兰察布  可用区A乌兰察布专属云CCC  可用区A影响说明：预计部分会导致2次短暂的网络抖动/延迟/丢包，每次大约3秒钟。请您在此期间尽量避免进行操作，若有业务操作，请避开变更窗口进行。给您带来的不便敬请谅解。 4、变更时间：2026-08-28 00:45:00 - 2026-08-28 06:45:00（UTC+08）变更内容：软件维护/升级、冷补丁影响范围：深圳  可用区C影响说明：预计部分会导致2次短暂的网络抖动/延迟/丢包，每次大约3秒钟。请您在此期间尽量避免进行操作，若有业务操作，请避开变更窗口进行。给您带来的不便敬请谅解。 5、变更时间：2026-08-28 01:15:00 - 2026-08-28 07:15:00（UTC+08）变更内容：软件维护/升级、冷补丁影响范围：北京  可用区D影响说明：预计部分会导致2次短暂的网络抖动/延迟/丢包，每次大约3秒钟。请您在此期间尽量避免进行操作，若有业务操作，请避开变更窗口进行。给您带来的不便敬请谅解。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118584</guid>
-      <pubDate>Sat, 22 Aug 2026 15:13:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

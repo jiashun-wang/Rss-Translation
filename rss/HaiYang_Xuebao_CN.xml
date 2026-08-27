@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>海洋学报（中文版）</title>
+    <title>海洋学报</title>
     <link>https://sns.wanfangdata.com.cn/perio/hyxb</link>
-    <description>海洋学报（中文版）</description>
-    <lastBuildDate>Wed, 12 Aug 2026 16:00:00 GMT</lastBuildDate>
+    <description>海洋学报</description>
+    <lastBuildDate>Thu, 27 Aug 2026 17:15:29 GMT</lastBuildDate>
+    <item>
+      <title>台湾海峡海面风场对海温锋面响应的季节差异性研究</title>
+      <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-wanghong</link>
+      <description><![CDATA[台湾海峡海面风场精细结构对区域气候及海上风能开发具有重要意义。受观测资料限制，复杂地形影响下台湾海峡海温锋面强度与海面风场响应之间的季节差异仍有待进一步认识。本文利用2004−2022年高分辨率天气研究与预报（Weather Research and Forcasting, WRF）模式数值模拟结果与多源观测资料，分析海温锋面与海面风场的季节变化特征，并通过改变海温锋面强度的敏感性试验评估局地风速响应。奇异值分解（singular value decomposition, SVD）结果表明，夏季海表温度（sea surface temperature, SST）异常与风场异常的时间协同变化最为突出，第一模态平方协方差贡献率为82.09%，两者第一模态时间系数相关系数为0.69。海温锋面强度与风场异常时间系数在夏季表现为同相变化，在冬季表现为反相变化，说明台湾海峡海温锋面与海面风场异常耦合具有季节差异，夏季局地热力作用更明显，冬季背景动力调制更突出。敏感性试验表明，相较于仅削弱海温锋面强度，完全去除海温锋面引起的局地风速响应更明显。去除海温锋面后，冬、夏季风速响应中位数分别约为0.45 m/s和0.26 m/s，且夏季风速响应主要集中在海温锋面附近，集中度约为冬季的1.5倍。结果揭示了台湾海峡海温锋面对海面风场影响的季节依赖性，可为复杂海峡区域精细化风场模拟和海上风能资源评估提供参考。]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-wanghong</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>南海西北部海洋热浪年代际强化特征及其时空演变机制</title>
+      <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-liujingui</link>
+      <description><![CDATA[基于1982–2024年OISSTV2逐日海表温度数据，本文系统刻画了南海西北部海洋热浪（marine heatwaves, MHWs）的年代际强化特征，并结合功率谱分析、经验正交函数（Empirical Orthogonal Function，EOF）分析等，探讨其时空模态与主要物理调控机制。结果表明：该时段南海西北部MHWs的发生频次、强度、持续时间及累积天数均呈现显着的年代际强化趋势，2014–2024年各项指标达历史峰值，其中2016年累积天数最多，2019年则强度最强；EOF分析揭示，全时段MHWs年累积天数第一模态均呈一致性增强格局，第一主成分（Principal Component 1, PC1）自2014年系统性抬升；峰值时段第一模态呈现“东高西低”，累积天数高值区集中于110°E以东外海，而强度高值中心则锁定于海南岛东部近岸及粤西沿岸；强厄尔尼诺事件对MHWs强度具有滞后约1～2 a的调控效应，但2003–2013年间ENSO信号的作用明显受抑，说明年代际背景场是2014年后MHWs峰值的不可或缺前提。本研究定量刻画了南海西北部 MHWs年代际强化的时空规律，所得结论可为该区域珊瑚礁生态系统风险评估、渔业资源管理及海洋极端事件预测提供科学支撑。]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-liujingui</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于多源卫星遥感风场的全球平均海杂波近实时估算研究</title>
+      <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-linwenming</link>
+      <description><![CDATA[海杂波是雷达探测海面目标的重要背景干扰，其强度和统计特性受海况和雷达参数的共同制约。本文针对海杂波强度（即海面均值散射系数），将多源卫星遥感海面风场和微波散射计常用的地球物理模式函数相结合，提出一种全球平均海杂波近实时估计框架模型，旨在“近实时”和“全球尺度”上实现较高精度的平均海杂波估计。以Ku波段及中等入射角为例，利用 HY-2系列卫星与 CFOSAT 卫星散射计实测数据对估计结果进行检验，并系统分析了平均海杂波估计相对误差的时空分布特征及影响因素。结果表明，VV和HH极化的估计结果均与实测数据具有良好的一致性，相对误差分别为1.5～1.8 dB、2.1～2.4 dB。夏季相对误差较小，冬季相对误差偏大；低纬度海域相对误差较大，中高纬度海域相对误差则随季节变化。此外，风速与相对风向是调制平均海杂波估计相对误差的主要因素。本文提出的模型方法可拓展至其他微波波段和入射角，为全球平均海杂波近实时估计提供了一种可靠的实践参考。]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-linwenming</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于U-Net模型重构热带不稳定波引发的海表风应力的响应</title>
+      <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-liuyi</link>
+      <description><![CDATA[热带不稳定波（tropical instability waves, TIWs）是出现在赤道中东太平洋冷舌区域的西传波动现象，反映在海表温度（sea surface temperature, SST）锋面活动及对大气的强迫作用。其对气候平均态和厄尔尼诺−南方涛动（El Niño-Southern Oscillation, ENSO）有调制作用，能否合理地表征与TIWs相关的大气海表风场对SST的响应及反馈过程，对于准确模拟和预测ENSO至关重要。以往统计大气模式中常采用奇异值分解（singular value decomposition, SVD）等线性方法描述风应力对TIWs引起的海温扰动的响应，但存在振幅低估问题。本研究基于U-Net深度学习模型，构建了热带东太平洋TIWs相关的海温扰动（SSTTIW）与风应力响应（τTIW）之间的非线性关系模型。研究表明，U-Net模型重构结果的相关系数普遍大于0.8，非线性决定系数（R2）比SVD方法平均提升0.45，这说明U-Net模型不仅能准确再现TIWs事件的时空分布特征，且重构的风应力振幅更接近于观测值。研究结果证实了U-Net模型能够表征由TIWs引发的大气海表风应力对海温响应的非线性耦合关系，在一定程度上解决了线性方法存在的振幅低估问题，从而更真实地模拟由TIWs引发的中小尺度海气相互作用强度。本研究提出的基于深度学习方法有效重构海表风应力对SSTTIW的响应模型，为表征热带东太平洋海区TIWs本身的海气相互作用过程及其与大尺度海气相互作用过程提供了一个模拟工具，对于更好地表征调制ENSO影响因子，进而提高对ENSO多样性和复杂性的模拟与预测具有重要的指导意义。]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-liuyi</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>20世纪末以来两次三重拉尼娜事件期间台风活动差异特征及其可能成因</title>
+      <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-xuyouran</link>
+      <description><![CDATA[1998−2000年与2020−2022年是近30年间两次典型的三重拉尼娜事件。两次事件期间，大气环流响应与海洋动力过程存在差异，进而对西北太平洋台风活动产生不同影响。基于中国气象局热带气旋最佳路径数据集及多源再分析资料，分析发现，相较于1998−2000年，2020−2022年台风生成频数更多且强台风及以上等级台风比例明显上升。诊断表明，海洋热力状况是主导两次典型三重拉尼娜事件期间台风强度差异的关键。 1998−2000年三重拉尼娜事件前期受强厄尔尼诺影响，赤道太平洋热量大量释放，但赤道东风异常衰减较早，西北太平洋海洋热量缺乏持续的动力维持，导致热带气旋热含量在后期快速衰减；而2020−2022年三重拉尼娜事件发生初期强度虽相对较弱，但持续的赤道东风异常通过纬向平流效应，配合下沉异常导致的增温，促进了西北太平洋热量的持续累积，为台风增强提供了更优越的海洋热力条件。]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-xuyouran</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>粤西近海海表温度对夏秋两季台风响应的对比分析</title>
+      <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-xuchenlin</link>
+      <description><![CDATA[基于1982−2023年中国气象局热带气旋最佳路径数据集和海表温度（SST）数据，通过统计与合成分析，系统探究了粤西近海夏秋两季台风特征及其引发的海表温度响应的时空差异，并结合热收支诊断揭示其物理机制。结果表明，夏季台风频次高（48个），以热带风暴（TS）为主；秋季台风频次低（18个），以强热带风暴（STS）为主。夏季台风平均移速18.5 km/h略高于秋季台风平均移速16.8 km/h。夏季台风路径以西北向为主，秋季以西北向和西向为主。台风过境后，夏季海表温度（SST）表现为剧烈降温后快速恢复，强降温中心位于雷州半岛东侧外海，并逐步向近岸扩展，琼东北部的升温速度高于周围海域；秋季SST表现为一次降温后持续冷却状态，进而发生大幅二次降温现象，强降温中心位于粤西近海。 SST响应差异由海表热量交换（\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}）、水平热量交换（\begin{document}$ {Q}_{{\mathrm{h}}} $\end{document}）和垂向热量交换（\begin{document}$ {Q}_{{\mathrm{v}}} $\end{document}）三者共同决定。夏季，\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}和\begin{document}$ {Q}_{{\mathrm{v}}} $\end{document}引起的热损失远大于\begin{document}$ {Q}_{{\mathrm{h}}} $\end{document}，造成台风过境期间的剧烈降温，之后在\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}增大与\begin{document}$ {Q}_{{\mathrm{v}}} $\end{document}减小下快速回升。 \begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}主导了琼东北部的快速升温现象。秋季，\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}和\begin{document}$ {Q}_{{\mathrm{v}}} $\end{document}共同主导了台风期间的一次降温，\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}主导了后续大幅二次降温现象。持续的海表热损失\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}、沿岸向西输运的冷平流\begin{document}$ {Q}_{{\mathrm{hadv}}} $\end{document}和季风背景下增强的风速与下降流导致的垂向热损失\begin{document}$ {Q}_{{\mathrm{v}}} $\end{document}，共同维持了近岸持久的海表冷却状态。]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-xuchenlin</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>台湾岛海域波高的半日潮调制与波−流相互作用</title>
+      <link>https://d.wanfangdata.com.cn/periodical/hyxb_8-yanglei</link>
+      <description><![CDATA[近海有效波高在潮汐频率处存在显着调制，其强度取决于波−流相互作用的局地条件。本文利用台湾岛周边15个浮标站25 a（2000–2024年）逐时波浪数据和10个共址ADCP（Acoustic Doppler Current Profiler）海流数据，系统分析了有效波高（Hs）在半日潮和全日潮频率处的调制特征及其物理机制。功率谱分析表明，所有15站的Hs在M2、S2、K1和O1四个主要潮汐频率处均存在显着的谱能量峰，全部通过95%显着性检验。 M2调制幅度呈现显着的空间异质性：台湾海峡站和北部站的平均调制幅度（8.6%～9.0%）约为太平洋侧东部站（4.2%）的2倍。 10个共址海流站的数据表明，M2调制幅度与M2潮流振幅呈高度正相关（r = 0.84），而与水深无显着相关，确认波−流相互作用是主导调制机制。波作用量守恒理论的逐站预测与观测保持良好的线性关系，但多站观测调制幅度系统高于理论预测，残差可能与非线性波−流相互作用和局地流场结构有关。本研究基于多站浮标网络给出了波浪潮汐调制强度的空间分布，并通过调制振幅与潮流振幅的定量回归直接验证了波−流相互作用机制。]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/hyxb_8-yanglei</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>三种声速算法在北冰洋门捷列夫海岭海域的适用性比较——基于中国第九次北极科学考察原位数据</title>
+      <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-chenhongxia</link>
+      <description><![CDATA[声速是海洋声学探测与应用的核心物理参数，其精度直接决定水声通信、海底地形测绘及声层析成像等技术的可靠性。目前声速剖面主要通过温盐深（CTD）数据借助经验公式间接计算获得，其中Chen-Millero (1977)、Del Grosso (1974)和Wilson (1960)公式是全球最常用的3种声速算法。然而，这些公式多基于中低纬度海洋数据构建，在具有低温、强层化、淡水输入显着的北极海域的适用性尚未得到充分验证。本研究基于中国第九次北极科学考察（2018年）在门捷列夫海岭以东172°W经向断面获取的高精度CTD与声速剖面仪（SVP）同步观测数据，系统比较了上述3种算法在北极典型环境下的计算精度。结果表明，在这一断面上，Del Grosso经验公式综合性能最优，在整个断面和全水深范围内表现出最高的准确性（平均偏差0.62 m/s）与最佳稳定性（偏差标准差0.23 m/s），是区域声速计算的首选算法。 Wilson公式存在显着深度依赖性系统高估，500 m以深平均偏差达1.17 m/s，不适用于北极深层计算。 Chen-Millero公式表现居中，但对表层极端水文条件敏感，深层也存在系统性高估。算法误差具有明显的空间与垂向异质性，与水文环境复杂程度密切相关，北极特殊的水文过程显着加大了现有经验公式的计算不确定性。]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-chenhongxia</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>近岸次重力波波高经验公式评估与改进研究</title>
+      <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-guolidian</link>
+      <description><![CDATA[次重力波波高的快速估计在近岸工程设计及船舶运动评估中具有重要作用。然而，现有近岸次重力波波高的经验公式形式多样，且在复杂波况下的预测性能优劣未知。为提升次重力波波高经验公式在工程实际中的应用效果，本文基于北印度洋近岸两个测点的实测数据，系统评估了现有代表性经验公式的性能，并分析了公式中各关键参数的作用及其对拟合效果的影响。研究结果表明，现有公式在复杂波况下的预测精度差异显着。平均周期Tm0,−2相较于谱峰周期TP更稳定，且相较于其他周期参数与次重力波的相关性更强，因此更适合作为经验公式中的短波周期参数。基于研究结果，本文在现有经验公式框架基础上，通过优化短波周期参数提出了一种改进经验公式。该经验公式在北印度洋近岸环境中表现出良好的适用性，预测精度和稳定性显着提升，能够为近岸工程应用提供参考。]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-guolidian</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:49 GMT</pubDate>
+    </item>
     <item>
       <title>闽江河口短叶茳芏盐沼CH4排放部分抵消生态系统净CO2吸收</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb202605003</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[海平面上升引起的海水浸没可显着改变沿海土壤氧化还原环境,并影响铁、硫地球化学过程.为探明渐进式海水浸没过程中土壤中铁、硫的地球化学响应,本文以活性铁和有机碳含量不同的土壤开展 160 d的室内土柱培养实验,通过渐进式抬升海水水位模拟海平面上升,揭示孔隙水溶解铁(DFe)、溶解硫化物及固相活性铁、硫化物形态变化.结果表明,海水浸没后,各处理土壤孔隙水DFe浓度均明显升高,而溶解硫化物整体维持在较低水平;活性铁含量低的土壤仅在底部出现少量总还原无机硫(TRIS)积累,活性铁含量高的红壤中 DFe积累更快、更高,并表现出 TRIS更明显的积累;有机碳含量升高进一步促进铁异化还原和硫酸盐还原,并缩短硫酸盐还原响应的启动时间.不同深度间 DFe和 TRIS分布差异明显,其中,中层 DFe浓度普遍高于底层和上层,各处理中 TRIS均以单质硫(S0)和酸挥发性硫化物(AVS)为主,黄铁矿形成有限.铁异化还原和硫酸盐还原对海水浸没不同的响应时间、活性铁和有机碳含量共同影响土壤中铁、硫转化及其垂向分异.长期渐进式海水浸没不仅使硫化物积累垂直上移,还可能减弱活性铁对有机碳保护的&quot;锈汇&quot;效应,同时影响地下水和地表水化学.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605002</guid>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>南海珊瑚砂中黑碳的赋存特征与碳封存意义——以涠洲岛和永乐环礁为例</title>
-      <link>https://d.wanfangdata.com.cn/periodical/hyxb202605004</link>
-      <description><![CDATA[黑碳(BC)主要是化石燃料或生物质不完全燃烧产生的惰性有机碳,其在海洋沉积物中的埋藏构成了重要的稳定碳汇.目前对海洋沉积 BC的研究多集中于泥质或砂质沉积物,而高钙质珊瑚砂关注较少.本研究采用盐酸预处理去除碳酸盐干扰后,基于苯多羧酸分子标记物法(BPCA),系统分析了南海近岸涠洲岛及远岸永乐环礁珊瑚砂中 BC的赋存特征.结果表明,BC在珊瑚砂中普遍存在,其中涠洲岛珊瑚砂 BC含量显着高于永乐环礁,呈现&quot;近岸高、远岸低&quot;的空间分异,指示陆源输入是涠洲岛 BC的主要来源.BPCA组成表明,生物质燃烧是影响两区域的区域性背景来源;但涠洲岛受近岸人类活动影响,叠加了强烈的化石燃料等高温燃烧源输入,呈现出更高的芳环缩合度.粒径分析表明,BC在珊瑚砂破碎过程中存在&quot;先释放、后吸附&quot;的动态行为.本研究表明珊瑚砂是 BC的有效埋藏载体,初步估算显示其具备可观的黑碳封存通量,这对于全面评估珊瑚礁生态系统的碳汇功能具有重要意义.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605004</guid>
-      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>东海不同地理来源野生大黄鱼(Larimichthys crocea)群体间形态学及生化组成的比较</title>
-      <link>https://d.wanfangdata.com.cn/periodical/hyxb202605008</link>
-      <description><![CDATA[探讨东海不同地理来源野生大黄鱼(Larimichthys crocea)群体在形态特征和营养品质等方面差异,对于大黄鱼种质资源评价和优质种质开发利用具有重要意义.本研究在东海海区自北向南共采集 6个海域(南通、舟山、宁波、台州、温州和宁德)的野生大黄鱼样本,通过形态学测量和生化分析方法,对各群体形态比例指标、肌肉常规营养成分、氨基酸和脂肪酸组成及抗氧化能力等维度进行测定和比较分析.结果表明,6个地理群体大黄鱼 8项形态比例指标均表现显着差异,差异系数在0.046～0.312之间,表明不同地理来源群体之间形态学关键指标上存在种内形态分化,但尚不足以支持更高分类层级的判断.其中,头部、尾柄和躯干比例是不同群体间形态差异的主要表型特征.其中,舟山与台州群体分别在头部和尾部形态特征上具有显着特异性,对应的判别方程判别准确率分别为 90%和 92.5%.南通与宁德群体在形态学上具有较高相似性,群体判别准确率相对较低.此外,不同群体间肌肉氨基酸组成整体相似,但常规营养成分以及脂肪酸组成存在差异,舟山群体肌肉中多不饱和脂肪酸及二十碳五烯酸+二十二碳六烯酸含量均为最高.另外,不同群体肌肉抗氧化能力同样存在显着差异,舟山群体肌肉中过氧化氢酶活力和总抗氧化能力均显着高于其他群体且超氧化物歧化酶同样维持在较高水平.结合大黄鱼品质评价体系对本研究采集的指标进行评分,舟山群体综合品质评分最高.上述结果表明东海不同地理来源野生大黄鱼在形态特征和肌肉营养品质方面存在明显区域差异,可为野生资源评价、种质保护及优良种质开发利用提供参考依据.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605008</guid>
-      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>钢-混立方体人工藻礁附着生物的定殖效果及其群落演替特征研究</title>
-      <link>https://d.wanfangdata.com.cn/periodical/hyxb202605005</link>
-      <description><![CDATA[针对海藻场修复中人工藻礁单一材料生境异质性不足、生物附着效果较差的问题,本研究设计了一种钢材-混凝土异质型复合材料藻礁,制作礁体 12个并于 2021年 8月投放至荣成马山里海域,于 2021年 11月、2022年 6月和 9月及 2023年 5月和 8月,分别对钢材和混凝土大型附着藻类和附着动物以及投礁区关键环境因子进行了跟踪监测.结果显示:(1)两种材料对大型藻类的建植效果存在显着不同,其中混凝土的大型藻类生物量显着高于钢材,整个监测周期平均达到钢材的 1.7倍(p&lt;0.05);(2)大型附着藻类群落结构主要受季节和礁龄的双重驱动,呈现出由绿藻门向褐藻门的演替规律,红藻门主要出现在演替的过渡期但未形成稳定的优势阶段,在投礁后 20个月形成了以裙带菜(Undaria pinnatifida)为绝对优势种(Y=0.99)的稳定顶级群落;(3)不同材料对附着动物的定殖效果存在显着差异,钢材的附着动物生物量显着高于混凝土,平均是其 8.3倍(p&lt;0.05).结果表明,在同一礁体单元内,混凝土更有利于大型藻类建植,钢材则更有利于附着动物定殖,二者组合使用不仅能够同步促进大型藻类和附着动物定殖的双效提升,从而实现了材料的功能互补,还可显着提高附着生物的生物量与多样性水平,为人工藻礁建礁材料筛选提供了新思路.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605005</guid>
-      <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>波流共同作用下浮式OWC型防波堤的水动力性能研究</title>
-      <link>https://d.wanfangdata.com.cn/periodical/hyxb202604007</link>
-      <description><![CDATA[针对波流共同作用下 OWC型防波堤的水动力特性,建立了波流共同作用下浮式 OWC型防波堤的二维时域完全非线性数值模型,并利用物理模型试验数据验证了该模型的可靠性.在此基础上,系统研究了水流流速、后墙吃水深度和厚度变化对 OWC型防波堤透射系数、反射系数及水动力效率的影响规律.研究结果表明,顺流条件下装置的透射系数、反射系数和水动力效率均呈现降低的趋势;而逆流条件下,则呈现出相反的变化趋势.增大后墙吃水深度可降低透射系数并提高水动力效率,对反射系数影响较为有限;此外,增大后墙厚度可降低透射系数并提升水动力效率,对反射系数影响亦不显着.研究结果为OWC型防波堤的结构优化及工程设计提供了重要的参考依据.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/hyxb202604007</guid>
-      <pubDate>Wed, 29 Apr 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于退化类型感知的异质性水下图像质量增强策略</title>
-      <link>https://d.wanfangdata.com.cn/periodical/hyxb202604009</link>
-      <description><![CDATA[高质量的水下光学影像是海底场景数字孪生、底栖生境保护、海底矿产资源探测和海底未知现象理解等任务的重要依托.然而,受复杂水体环境、光照条件等因素的影响,水下光学影像存在颜色失真、细节模糊、对比度低等退化问题.现有水下图像增强方法多聚焦于增强算法本身的优化,缺乏对不同退化类型图像的溯源、分类与分级等系统性分析机制.为此,针对水下光学图像成像环境的复杂性和异质性,本文提出一种顾及退化类型的图像质量增强策略.首先,构建了水下图像退化类型感知网络用于识别水下雾化模糊图像,准确率达到 97%,对光照退化类型亦具有较高的区分能力.其次,针对识别出的水下雾化图像,基于真实水下图像色偏值的分布统计,设计自适应颜色校正方法,有效恢复不同程度的颜色衰减.最后,引入分块索引策略来获取更加精确的背景光估计值,并结合水下暗通道先验进一步解决水下图像的雾化模糊问题.在 UIEB、RUIE等多个真实水下图像数据集上的实验结果表明,与具有代表性的水下图像增强方法相比,PSNR、SSIM指标分别提升22.17%、4.5%.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/hyxb202604009</guid>
-      <pubDate>Wed, 29 Apr 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>征稿启事</title>
-      <link>https://d.wanfangdata.com.cn/periodical/hyxb202604011</link>
-      <description><![CDATA[]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/hyxb202604011</guid>
-      <pubDate>Wed, 29 Apr 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>规则波作用下双桩基础周围海床超孔隙水压力智能预测</title>
-      <link>https://d.wanfangdata.com.cn/periodical/hyxb202604008</link>
-      <description><![CDATA[本研究针对波浪作用下双桩基础周围海床超孔隙水压力预测问题,开展了多目标智能预测研究.首先,通过波浪水槽试验,分析了不同波高条件下双桩基础周围海床超孔隙水压力时程演化和空间分布规律.其次,采用相位滞后检测与动态对齐方法对数据进行预处理,并分别利用门控循环单元(gated recurrent unit,GRU)和极限学习机(extreme learning machine,ELM)神经网络进行训练预测.最后,采用动态误差择优融合方法对两项模型的输出进行融合.结果表明:在当前试验条件下,随着波高增加,双桩基础周围海床超孔隙水压力幅值显着增大,沿深度方向呈现出明显的幅值衰减和相位滞后现象,且双桩基础周围超孔隙水压力最大幅值存在明显的空间差异.此外,构建的融合模型相较于原始模型或单一模型评估指标表现最优,其中皮尔逊相关系数(Pearson correlation coefficient,PCC)为0.982 7,纳什效率系数(Nash-sutcliffe efficiency,NSE)为0.921 8,均方根误差(root mean square error,RMSE)为 0.003 305,平均绝对误差(mean absolute error,MAE)为 0.002 559.研究成果为波浪作用下桩基周围海床多目标孔压智能预测提供了一种有效途径.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/hyxb202604008</guid>
-      <pubDate>Wed, 29 Apr 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>海州湾中型潮汐海湾岸滩横向输沙闭合水深研究</title>
-      <link>https://d.wanfangdata.com.cn/periodical/hyxb202604006</link>
-      <description><![CDATA[闭合水深作为泥沙收支平衡和形态动力学研究中的重要参数,在海岸侵蚀相关工程问题中具有重要的研究价值.传统计算方法多基于波浪主导型海岸,忽略了潮流作用的影响,难以准确反映中型潮汐海湾的实际情况.以连云港海域所处的海州湾为研究对象,结合实地勘测、数值模拟与理论分析,系统探讨了潮流对闭合水深的影响机制.数值模拟结果表明,海州湾潮流作用由北向南逐渐减弱的趋势,潮流显着增强了近岸区域的泥沙扰动能力,闭合水深范围为 8～10.1 m,较纯波浪作用下的结果水深增加 0.4～1.3 m.历史海图水深对比显示海州湾实际闭合水深范围为 8.9～9.8 m,本文计算结果与实测值高度吻合,进一步说明了方法的可靠性.新方法强调了中型潮汐海湾中潮流对于底部切应力的增加,考虑了潮流对闭合水深的影响,为相关海岸工程问题提供了科学依据和技术支持.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/hyxb202604006</guid>
-      <pubDate>Wed, 29 Apr 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于实测数据的再分析数据和CMIP6模式数据在白令海中上层海温的数据质量评估</title>
-      <link>https://d.wanfangdata.com.cn/periodical/hyxb202604010</link>
-      <description><![CDATA[基于 2012年(冷年)和 2014年(暖年)7月白令海 B断面 4个典型站点的观测数据,结合多套再分析数据和气候模式结果,采用相关系数、中心均方根误差和标准差等指标,系统评估了不同数据在 0～1 000 m海温结构中的再现能力及其多时间尺度表现.结果表明,白令海中上层(0～200 m)海温变率显着高于深层(200 m以深),再分析数据在各水层的平均温差整体小于模式数据;其中 2012年中上层误差为 0.3～0.5℃,模式误差约为 2℃,深层误差分别约为 0.1℃和 1℃.2014年多数模式误差较 2012年有所降低,显示模式表现具有一定的气候背景依赖性.长时间序列分析表明,各数据均能再现&quot;冬冷夏暖&quot;的季节循环特征,但模式在中层温度上存在约 1℃的系统性偏差;在年代际尺度上,海表温度异常变化较为一致,而中层异常在极值时间上存在数年尺度的偏移.研究量化了不同数据在白令海中上层海温再现中的误差幅度及不确定性特征,为区域海温变化分析及多源数据应用提供了定量参考.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/hyxb202604010</guid>
-      <pubDate>Wed, 29 Apr 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

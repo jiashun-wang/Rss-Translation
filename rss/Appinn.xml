@@ -4,7 +4,14 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Thu, 27 Aug 2026 04:30:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:23:00 GMT</lastBuildDate>
+    <item>
+      <title>CompactGUI：用 Windows 原生压缩功能，为程序和游戏文件夹瘦身</title>
+      <link>https://www.appinn.com/compactgui-4/</link>
+      <description><![CDATA[如果你的硬盘不太够用了，又不想换硬盘，那么可以试试用 CompactGUI 来救急，它可以帮你压缩现有文件。比如青小蛙用它压缩了 Epic 游戏文件夹，立省11GB空间。 @Appinn 但问题也来了：]]></description>
+      <guid>https://www.appinn.com/compactgui-4/</guid>
+      <pubDate>Thu, 27 Aug 2026 07:54:28 GMT</pubDate>
+    </item>
     <item>
       <title>PowerToys 0.101 发布：Windows 向 macOS 看齐，新增同应用多窗口间快速切换</title>
       <link>https://www.appinn.com/powertoys-0-101/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在终端里找到一个文件，你会选择打开资源管理器，还是继续用 cd + ls 慢慢寻找？ 终端非常适合执行命令，但在浏览、查找、整理文件时，图形界面的直观依然很有吸引力。 superfile 漂亮的现代终]]></description>
       <guid>https://www.appinn.com/superfile-tui-files-explorer/</guid>
       <pubDate>Fri, 21 Aug 2026 10:04:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kan.bn – 开源看版（项目管理工具），Trello 替代方案</title>
-      <link>https://www.appinn.com/kan-bn/</link>
-      <description><![CDATA[Kan.bn 是一个开源的项目管理工具，用来替代 Trello，提供丰富的协作功能，可导入 Trello 看版，支持 Docker 自托管。自带 MCP 服务器，可以让 AI 控制你的看版。 @Appi]]></description>
-      <guid>https://www.appinn.com/kan-bn/</guid>
-      <pubDate>Fri, 21 Aug 2026 02:19:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,35 @@
     <title>National Science Review Advance Access</title>
     <link>http://academic.oup.com/nsr</link>
     <description></description>
-    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>用于生物共轭的硫代碳酰氟连接</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag537/8771876?rss=1</link>
+      <description><![CDATA[摘要点击化学已成为分子连接的革命性技术，能够简化生命科学和药物发现所必需的功能化学结构的构建。通过两代点击化学、铜(I)催化叠氮化物-炔环加成(CuAAC)三唑环化和硫(VI)氟化物交换(SuFEx)，取得了突破性的成就。近乎完美的反应总是对“反应性-可用性-功能性”三部曲有着巨大的需求。在此，我们开发了用于硫代羰基功能化生物共轭的硫代羰基氟化物交换方案。 Pivotal CF2= S 衍生的连接枢纽是通过元素硫 (S8) 和原位生成的二氟卡宾之间的轻松耦合进行战略设计的。这种双边中继氟化物交换使得不同的S- N-和O-亲核试剂之间的连接具有精确的化学和区域选择性，促进药物、肽和蛋白质支架的模块化组装。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag537/8771876?rss=1</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>光纤电子学：在单根光纤上集成逻辑、光电检测和无线通信</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag550/8771875?rss=1</link>
+      <description><![CDATA[Abstract光纤支撑着全球信息基础设施，但它们的作用在很大程度上仍然是被动的——仅限于引导光而不是处理光。信号调制、检测和逻辑操作仍然由外部芯片执行，由于光电转换损耗、耦合复杂性和互连功率开销而施加了基本限制。在这里，我们提出了一种集成光纤电子架构，将有源光电功能直接集成到光纤上。我们展示了在 D 形光纤的侧面抛光表面上实现的多功能电子光子系统，该系统结合了碳基逻辑电路、光电探测器、光控逆变器和无线接口模块。该单片平台可实现光纤逻辑操作、传感以及与周围环境的交互。集成器件表现出出色的性能：增益为 32 的数字逆变器、工作频率为千赫兹的五级环形振荡器以及探测灵敏度为 3.82 × 1016 琼斯的光电探测器。此外，还实现了光控逻辑响应、温度传感、亚米级无线电力和射频信号传输。这些结果为光纤内的有源电子和光电集成建立了概念验证，代表着超越无源传输介质向能够传输、传感、计算和自主能源操作的智能分布式光纤网络迈出的重要一步。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag550/8771875?rss=1</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>硬件实现的自适应剪枝神经网络</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag547/8771873?rss=1</link>
+      <description><![CDATA[Abstract随着人工智能（AI）应用的快速增长，对低延迟、高能效的边缘计算硬件有着迫切的需求。人脑是一种高度并行且稀疏连接的架构，能够以极低的功耗高效处理复杂的任务，这种能力严重依赖于神经发育过程中的突触修剪。然而，当前的神经形态硬件尽管能够模拟人脑执行人工智能任务，但缺乏评估突触连接重要性的固有机制，因此无法实现类脑自适应突触修剪。在这里，我们演示了一种基于硅基铁电双极场效应晶体管（Fe-AmFET）交叉阵列的自适应修剪卷积神经网络（APCNN）。 Si Fe-AmFET 存储器中的可重构双极传输使单个器件能够实现正和负突触权重，同时本质上评估连接重要性，从而使交叉开关阵列能够执行乘法累加 (MAC) 操作、非易失性权重存储和网络内的原位内核修剪。我们的研究表明，该网络在 Fashion-MNIST 数据集上实现了 89.58% 的超高内核剪枝率，精度下降可以忽略不计，同时推理参数、MAC 操作和核心功耗（包括阵列和读出电路）分别减少了 92.2%、97.5% 和 92.4%。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag547/8771873?rss=1</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索植入式脑机接口的医疗之路</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag543/8771871?rss=1</link>
+      <description><![CDATA[本文探讨了优先考虑神经恢复的医疗植入式脑机接口，并以功能替代作为解决潜在功能障碍和功能缺陷的补充策略。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag543/8771871?rss=1</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>通过堆垛层错工程实现金刚石的协同硬化和增韧</title>
       <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag546/8771009?rss=1</link>
@@ -22,21 +50,21 @@
     <item>
       <title>用于时空控制癌症光免疫治疗的原位益生菌到后生元转化</title>
       <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag545/8771004?rss=1</link>
-      <description><![CDATA[Abstract当前的癌症光疗常常受到免疫原性欠佳和不可避免的免疫逃逸的阻碍。在此，通过在天然兼性厌氧益生菌上化学接枝载药光疗纳米模块开发了可编程生物杂交光疗平台。该平台利用益生菌固有的缺氧运动，在肿瘤组织内实现强大的活性积累。在第一次近红外（NIR）激光刺激下，该平台进行原位益生菌到后生元的转化和光疗纳米模块的分离，通过暴露的病原体相关分子模式激活Toll样受体，促进免疫细胞的瘤内浸润和增殖。随后，分离的纳米模块在第二次近红外照射下实现深度肿瘤穿透和精确的线粒体干预光疗。这种级联策略与吲哚胺 2,3-双加氧酶 (IDO) 抑制协同作用以阻止免疫逃避，成功地将原发肿瘤转化为自体“肿瘤疫苗库”。与传统的光治疗剂相比，所提出的益生菌平台可以显着增加关键免疫细胞的全身比例，如成熟的树突状细胞（〜296.35％）和细胞毒性T细胞（〜173.33％），引起全身免疫刺激，有效抑制远处和转移的肿瘤结节。总体而言，生物杂交益生菌平台代表了时空控制的癌症光免疫疗法的广谱范例。]]></description>
+      <description><![CDATA[Abstract当前的癌症光疗常常受到免疫原性欠佳和不可避免的免疫逃逸的阻碍。在此，通过在天然兼性厌氧益生菌上化学接枝载药光疗纳米模块开发了可编程生物杂交光疗平台。该平台利用益生菌固有的缺氧运动性，在肿瘤组织内实现强劲的活性积累。在第一次近红外（NIR）激光刺激下，该平台进行原位益生菌到后生元的转化和光疗纳米模块的分离，通过暴露的病原体相关分子模式激活Toll样受体，促进免疫细胞的瘤内浸润和增殖。随后，分离的纳米模块在第二次近红外照射下实现深度肿瘤穿透和精确的线粒体干预光疗。这种级联策略与吲哚胺 2,3-双加氧酶 (IDO) 抑制协同作用以阻止免疫逃避，成功地将原发肿瘤转化为自体“肿瘤疫苗库”。与传统的光治疗剂相比，所提出的益生菌平台可以显着增加关键免疫细胞的全身比例，如成熟的树突状细胞（〜296.35％）和细胞毒性T细胞（〜173.33％），引起全身免疫刺激，有效抑制远处和转移的肿瘤结节。总体而言，生物杂交益生菌平台代表了时空控制的癌症光免疫疗法的广谱范例。]]></description>
       <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag545/8771004?rss=1</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>面向长循环高能量密度钠金属电池的智能MOF隔膜</title>
       <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag542/8771002?rss=1</link>
-      <description><![CDATA[Abstract钠金属电池（SMB）的实际发展受到不稳定的阳极/阴极界面和次优离子传输动力学的阻碍。传统隔膜作为被动元件，无法有效调节离子通量和界面化学，导致Na+迁移数低、浓差极化明显和电极界面不稳定。本研究介绍了一种基于中熵金属有机框架（EMOF）的新型智能分离器。通过将离子限制机制纳入亚纳米通道内，它可以协同调节 Na+ 传输和界面反应动力学。 EMOF分离器建立了分层毛细管系统：宏观通道确保电解质快速润湿，而纳米限制通道引导均匀的Na+通量分布。其多组分中熵结构赋予通道表面特定的静电环境，有效锚定PF6−阴离子，将Na+迁移数提升至0.81。值得注意的是，这种配置进一步促进 PF6− 分解，促进原位形成富含无机物且稳定的电极-电解质界面层。利用这些协同机制，在Na3V2(PO4)2O2F系统中采用EMOF隔膜的SMB基于电极材料的质量实现了296.5 Wh kg−1的超高能量密度，以及出色的快速充电能力，即使在在10C倍率下，展现出优越的综合性能。这项工作超越了将分离器作为惰性屏障的传统范例，为高性能中小企业建立了新的设计框架。]]></description>
+      <description><![CDATA[Abstract钠金属电池（SMB）的实际发展受到不稳定的阳极/阴极界面和次优离子传输动力学的阻碍。传统隔膜作为被动元件，无法有效调节离子通量和界面化学，导致Na+迁移数低、浓差极化明显和电极界面不稳定。本研究介绍了一种基于中熵金属有机框架（EMOF）的新型智能分离器。通过将离子限制机制纳入亚纳米通道内，它可以协同调节Na+传输和界面反应动力学。 EMOF分离器建立了分层毛细管系统：宏观通道确保电解质快速润湿，而纳米限制通道引导均匀的Na+通量分布。其多组分中熵结构赋予通道表面特定的静电环境，有效锚定PF6−阴离子，将Na+迁移数提升至0.81。值得注意的是，这种配置进一步促进 PF6− 分解，促进原位形成富含无机且稳定的电极-电解质界面层。利用这些协同机制，在Na3V2(PO4)2O2F系统中采用EMOF隔膜的SMB基于电极材料的质量实现了296.5 Wh kg−1的超高能量密度，以及出色的快速充电能力，即使在在10C倍率下，展现出优越的综合性能。这项工作超越了将分离器作为惰性屏障的传统范例，为高性能中小企业建立了新的设计框架。]]></description>
       <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag542/8771002?rss=1</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>迈向可持续的跨时间情感脑机接口：时间变异性的显式建模和结构校准</title>
       <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag544/8771001?rss=1</link>
-      <description><![CDATA[摘要时间变异性限制了跨时间情感脑机接口（aBCI）的实际应用。现有的静态特征到情绪映射方法无法捕获大脑状态的动态变化。在这里，我们提出了一种多级动态集成感知网络算法（MDIN），它通过三层框架显式地模拟时间变化：时空谱联合感知模块、用于特征捕获的自适应动态感知矩阵以及用于跨域一致性保持的判别对齐策略。这种结构不仅减轻了时间变化对情感识别的影响，而且还抑制了弱监督学习场景中的噪声积累。 ECPL 和 SEED 数据集上的实验表明，MDIN 实现了最高的跨时间识别准确率，分别为 96.97% 和 94.21%，优于最先进的方法。值得注意的是，作为情感神经工程中时间变异性建模的一种新颖的结构解决方案，它为开发用于心理健康监测和人机交互的自适应、长期稳定的aBCI系统提供了理论和技术基础。]]></description>
+      <description><![CDATA[摘要时间变异性限制了跨时间情感脑机接口（aBCI）的实际应用。现有的静态特征到情绪映射方法无法捕获大脑状态的动态变化。在这里，我们提出了一种多级动态集成感知网络算法（MDIN），它通过三层框架对时间变化进行显式建模：时空谱联合感知模块、用于特征捕获的自适应动态感知矩阵以及用于跨域一致性保持的判别对齐策略。这种结构不仅减轻了时间变化对情感识别的影响，而且还抑制了弱监督学习场景中的噪声积累。 ECPL 和 SEED 数据集上的实验表明，MDIN 实现了最高的跨时间识别准确率，分别为 96.97% 和 94.21%，优于最先进的方法。值得注意的是，作为情感神经工程中时间变异性建模的一种新颖的结构解决方案，它为开发用于心理健康监测和人机交互的自适应、长期稳定的aBCI系统提供了理论和技术基础。]]></description>
       <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag544/8771001?rss=1</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
     </item>
@@ -46,69 +74,6 @@
       <description><![CDATA[]]></description>
       <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag540/8771000?rss=1</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>超导 (La,Pr)3Ni2O7 − δ 薄膜中的 3dz2 轨道离域和磁塌陷</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag518/8770740?rss=1</link>
-      <description><![CDATA[摘要最近发现的 Ruddlesden-Popper (RP) 镍酸盐薄膜超导体开辟了非常规超导的新领域。它的实现需要压缩外延应变和高度氧化的生长条件，但从母相到超导相的微观路径仍然难以捉摸。在这里，X射线吸收光谱和共振非弹性X射线散射被用来通过独立调节(La,Pr)3Ni2O7 - δ薄膜中的应变和氧含量来跟踪这种演化。我们发现了一个非凡的两步叙述。首先，出现离域特征：光谱权重从“上哈伯德”峰转移到与 O 2pz 态相关的孔状峰，同时，最初局域的 Ni $3d_{z^2}$ 轨道变得更加流动，随后 dd 变宽和减弱轨道激发。其次，随着行程的增加，长程自旋密度波（SDW）阶数在强度和相关长度上都受到抑制，表明与超导性的直接竞争。然而，短程磁振子仍然存在：它们会受到阻尼，但其带宽保持不变。我们的结果描绘了一幅连贯的图景，即应变和氧合驱动 RP 双层镍酸盐走向超导不稳定性，其中 O 2pz 和 Ni $3d_{z^2}$ 轨道变得离域。与此同时，长程磁序失去相干性并受到抑制。这些发现建立了RP镍酸盐超导的轨道选择性路线，其中层间$3d_{z^2}$-2pz-$3d_{z^2}$通道的出现和逐步离域以及SDW序熔化时强大的短程磁振子是先决条件，为镍酸盐的设计提供了强有力的理论约束和路线图超导体。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag518/8770740?rss=1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>生理条件下酰胺键形成的循环方案</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag522/8770405?rss=1</link>
-      <description><![CDATA[摘要在生理相关条件下酰胺键的形成仍然是化学合成中的一个核心挑战，特别是对于肽修饰和生物共轭，其中生物相容性、化学选择性和立体化学完整性至关重要。传统方法依赖于化学计量的活化试剂，产生废物并损害与复杂生物分子的相容性。在这里，我们报道了一种有机膦控制的方法，该方法选择性地将容易获得的羧酸和炔酮转化为几何定义的烯醇酯，其在生理条件下作为酰胺键形成的酰基供体，涵盖广泛的胺，包括小分子、药物衍生物、氨基酸、肽和蛋白质。此外，代表性的氨基酸酯和二肽进行立体保留酰胺化，而肽和蛋白质的后期修饰在生理条件下有效进行。值得注意的是，在酰胺键构建过程中产生的二酮副产物可以回收并转化为相应的炔酮，从而建立循环方案。通过将烯醇酯重新定义为生理条件下实用的酰基供体，该策略提供了传统偶联技术的替代方案，并扩大了复杂生物环境中酰胺键形成的范围。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag522/8770405?rss=1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于节律神经调节的光热纳米电机</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag538/8770403?rss=1</link>
-      <description><![CDATA[光驱动纳米电机可提供有节奏的热脉冲，使神经元钙和放电模式同步，在修复阿尔茨海默氏症斑马鱼的大脑回路和恢复运动方面优于持续刺激。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag538/8770403?rss=1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于实用固态锂金属电池的具有高熵界面的 5 µm 厚电解质</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag511/8770402?rss=1</link>
-      <description><![CDATA[Abstract具有超薄轻质电解质的固态锂金属电池有望用于高能量密度存储，但在实际电流密度下容易出现枝晶穿透。这种限制主要源于不受控制且化学异质的固体电解质界面（SEI），导致明显的界面不稳定性并导致界面处的Li+通量不均匀且缓慢。在这里，我们设计了一种具有高构型熵的均匀界面，其优化的成分通过机器学习筛选，通过稳定SEI结构和促进高效的Li+传输来提供双重功能。该界面相的高熵特性得到实验支持，可促进均匀且快速的界面 Li+ 通量，使 5 µm 厚的电解质能够维持 5.2 mA cm−2 的临界电流密度，并在 3 mA cm−2 下保持稳定的长期锂沉积/剥离 850 小时。采用这种超薄轻质电解质的Li||LiNi0.8Co0.1Mn0.1O2软包电池的面积容量为5.4 mAh cm−2，能量密度为573Whkg−1，在实用固态锂金属电池方面显示出巨大的潜力。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag511/8770402?rss=1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过热应变域工程实现具有大数字机电响应的硅兼容理想反铁电性</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag521/8770401?rss=1</link>
-      <description><![CDATA[摘要反铁电体表现出可逆的反极-极性转变，为现代纳米电子学中的多种功能提供了一个引人注目的平台，但反铁电域和开关路径的确定性控制仍然难以捉摸。此外，它们与无处不在的硅基电子器件的集成受到传统氧化物平台的结构和化学不相容性的限制。在这里，我们将热失配的传统缺点转化为功能优势，并通过热拉伸应变工程在硅上外延 PbZrO3 薄膜中实现理想的反铁电性，这是传统钙钛矿氧化物基板上无法实现的应变状态。理论和实验相结合的研究表明，拉伸应变稳定了 (004)o 域，从而实现了直接的一步切换，而压缩应变稳定的 (240)o 域则通过中间亚铁电态进行切换。所得薄膜表现出近零剩余极化（∼0.5 μC/cm2）、平方双磁滞、纳秒切换（∼75 ns）、大可逆静电应变（∼0.6%）和稳健的操作窗口。这些发现为硅上的领域工程理想反铁电性提供了重要见解，为高性能反铁电纳米电子器件开辟了一条可行的途径。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag521/8770401?rss=1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>固溶体诱导晶格硬化增强了稳定太阳能电池的钙钛矿刚度</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag484/8770400?rss=1</link>
-      <description><![CDATA[Abstract钙钛矿光伏电池的运行不稳定性主要归因于其晶格的柔软离子性质。然而，钙钛矿晶格刚度的量化和内在调节策略及其与器件性能和稳定性的相关性尚未得到很好的探索。在这里，我们提出了一种固溶诱导晶格硬化（SSILH）策略，通过用镧离子部分取代铅离子来增强钙钛矿的刚度。增强机制源于具有较小离子半径和较强化学相互作用的镧掺杂剂引起的有益晶格收缩和键强化，共同产生更致密和更刚性的框架。因此，该策略明显提高了钙钛矿的刚度，杨氏模量从 27.96 GPa 增加到 35.71 GPa。增强的晶格刚度降低了热膨胀系数，抑制了缺陷形成和离子迁移，从而减轻了外部应力下的非辐射复合和结构退化。通过采用 4-异丙基-4&#39;-甲基二苯基碘鎓四（五氟苯基）硼酸盐作为空穴传输层的稳定 p 掺杂剂，所得器件实现了 26.54% 的冠军功率转换效率 (PCE) 和 26.03% 的认证稳态效率。经过优化的器件在 65°C 和湿热条件下连续 1-sun 照射 1000 小时后，分别保持了超过 95% 和超过 90% 的初始效率。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag484/8770400?rss=1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>天然海水弱界面能抗镁盐安培级制氢</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag535/8770399?rss=1</link>
-      <description><![CDATA[摘要天然海水制氢是目前解决工业制氢依赖淡水资源问题的重要途径之一。然而，高电流密度下Mg(OH)2在阴极表面的沉积严重阻碍了其实际发展。在此，我们将富含氧空位（Ov）的NiO@MoO2（NMO）纳米片催化剂负载到3D打印的Ni-C（3DP NiC）上，有效降低了Mg(OH)2与电极之间的界面能，同时能够在高电流密度下连续去除Mg(OH)2沉淀物。因此，富含 Ov 的 3DP NiC/NMO 表现出出色的耐用性，在 500 mA cm−2 下可持续长达 668 小时，在 1000 mA cm−2 下可持续长达 200 小时，分别是泡沫镍/NiO@MoO2 寿命的 39.3 倍和 16.7 倍（NiF/NMO），分别。此外，它还可以实现长达 20 天的太阳能海水电解，将制氢成本降低至每公斤 0.24 美元，低于美国能源部 2025 年和 2030 年的目标（每公斤 H2 分别为 1.40 美元和 1.00 美元）。该工作提出了一种通过降低界面能来防止沉积的策略，促进直接从天然海水中制氢，打破淡水资源的限制，为全球能源转型开辟可持续的道路。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag535/8770399?rss=1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>岩浆作为连接地球内部和大气层的非化学计量氧气载体</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag539/8770398?rss=1</link>
-      <description><![CDATA[摘要岩浆的生成和输送控制着行星的演化。尽管氧是地球硅酸盐内部最丰富的阴离子，但它在岩浆中的作用通常被忽略，岩浆氧含量被认为是通过阳离子化学计量简单固定的。在这里，我们通过分子动力学模拟支持的高压和高温实验表明，硅酸盐岩浆可以吸收比传统价态限制所允许的更多的氧气。过量的氧气作为一种以前未被识别的挥发性成分，其浓度从 1 个大气压下的接近零增加到 5 GPa 以上的 ∼5 wt.%，是地球固体地幔中通过铁氧化还原变化可达到的最大氧气增加量的五倍多。随着富氧岩浆上升和减压，它们保留过量氧气的能力下降，从而驱动 O2 的释放。这种行为提供了一种直接机制，有可能将地幔熔化与地球浅层内部和大气的氧化联系起来，并将岩浆识别为行星氧循环中的动态储库。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag539/8770398?rss=1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在沸石晶体内挖掘高速分级孔进行深度脱硫</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag536/8770397?rss=1</link>
-      <description><![CDATA[Abstract环境可持续性面临燃料中难熔硫污染物（尤其是位阻苯并噻吩）的严重损害。目前的技术远远不够，传统的钛硅沸石-1（C-TS-1）微孔催化剂由于分子扩散受限而快速堵塞和失活，使得深度脱硫成为尚未解决的技术瓶颈。我们通过在 TS-1 沸石单晶 (OMMS-TS-1s) 内创建分层有序的大介孔，开创了分子高速通道的概念，其中战略性定位的活性 Ti 位点驱动前所未有的超深度氧化脱硫 (ODS)。这一突破性设计可实现完全分子渗透，表面渗透性比传统 TS-1 沸石提高 10 倍，有效消除扩散限制。这种显着的高速分级通道有效减少了扩散势垒，使大分子ODS具有优异的催化性能，OMMS-TS-1的4,6-二甲基二苯并噻吩（4,6-DMDBT）氧化表观速率常数比C-TS-1提高了16倍，并且在1.5小时内完成4,6-DMDBT转化，比C-TS-1快8.3倍。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag536/8770397?rss=1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

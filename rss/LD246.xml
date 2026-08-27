@@ -4,7 +4,42 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Thu, 27 Aug 2026 04:30:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:22:52 GMT</lastBuildDate>
+    <item>
+      <title>AI 伴学</title>
+      <link>https://ld246.com/article/1787823503202</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1787823503202</guid>
+      <pubDate>Thu, 27 Aug 2026 09:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>这种情况下会思源笔记编辑会卡死</title>
+      <link>https://ld246.com/article/1787821070611</link>
+      <description><![CDATA[在看 hermes 官方文档的时候，复制了文档到思源笔记内。以方便编辑。 
+发现，似乎复制的源页面有视频链接框之类的东西，思源笔记的编辑会被卡死
+这个是 hermes 官方文档的源头页面，
+
+复制页面的时候，把【视频教程】这部分也复制进思源笔记的编辑页面了。这种情况下，视频教程这部分往上很多就卡死无法编辑。 
+虽然删掉【视频教程】那一块，就没什么问题了，但是，在没发现解决办法之前，很是懵逼了很久。 
+似乎是有某些问题存在的，视频的链接或者是无法打开的链接会锁死某些东西？ 
+]]></description>
+      <guid>https://ld246.com/article/1787821070611</guid>
+      <pubDate>Thu, 27 Aug 2026 08:57:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>场景的写法</title>
+      <link>https://ld246.com/article/1787810412000</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1787810412000</guid>
+      <pubDate>Thu, 27 Aug 2026 06:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>十步雪花写作法</title>
+      <link>https://ld246.com/article/1787810437707</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1787810437707</guid>
+      <pubDate>Thu, 27 Aug 2026 06:06:50 GMT</pubDate>
+    </item>
     <item>
       <title>加密挂件丢失内容</title>
       <link>https://ld246.com/article/1787801620244</link>
@@ -15,19 +50,6 @@
 ]]></description>
       <guid>https://ld246.com/article/1787801620244</guid>
       <pubDate>Thu, 27 Aug 2026 03:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源 AI 接口能不能并发</title>
-      <link>https://ld246.com/article/1787798525593</link>
-      <description><![CDATA[在做一个插件需要用到内置的 AI 功能，目前思源有两个 AI 接口，
-一个是走智能体的接口，这个是不支持并发，但是这个支持指定模型
-比如说用户配置了 ABCD 四个，这个可以让用户配置用 A 或 B 或 C
-一个是之前的 AI 编辑的接口，这个支持并发但是开发者是无法指定用户配置的模型的
-这个无法让用户配置用哪个，只能是默认的
-我现在想既要并发，又要能让用户配置每个场景下该用哪个模型
-有什么好的解决办法吗]]></description>
-      <guid>https://ld246.com/article/1787798525593</guid>
-      <pubDate>Thu, 27 Aug 2026 02:42:04 GMT</pubDate>
     </item>
     <item>
       <title>超级块中再合并超级块, 左边不能实现, 右边可以</title>
@@ -140,41 +162,6 @@ Request ID：791d680717877396454287260e
 需求：暴露更详细的错误日志，或者能返回 http 地址我复制到浏览器也行。不然就白生成了]]></description>
       <guid>https://ld246.com/article/1787735052049</guid>
       <pubDate>Wed, 26 Aug 2026 09:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>同步时会将设置同步吗？</title>
-      <link>https://ld246.com/article/1787725485968</link>
-      <description><![CDATA[昨晚重置了笔记本电脑 B，主电脑台式机 A 打开了区域网同步加速啥的，然后在 B 上通过登录账号 + 绑定密钥等，从云端全量同步下来。 
-数据同步完成后，准​​备在 B 上修改思源的设置，结果发现 A 上的插件都被关了，但有几个插件我是常年开着的，于是我就怀疑同步把我 B 电脑思源的设置也同步过去了。 
-我想问同步会同步设置吗？ 
-以及同步除了数据外，还同步哪些内容？ 
-我在 B 想要和 A 一样的，还需要注意什么？ 
-导出设置 功能导出来的设置，快捷键有没有一起导出？ ]]></description>
-      <guid>https://ld246.com/article/1787725485968</guid>
-      <pubDate>Wed, 26 Aug 2026 06:24:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>kimi-k3 API 要求不传 temperature，但智能体请求会带 temperature</title>
-      <link>https://ld246.com/article/1787721726167</link>
-      <description><![CDATA[使用的阿里云百炼，其余模型例如 qwen3.8-max 使用正常，但 kimi-k3 报错。 
-如何解决这个问题呢？ 
-
-]]></description>
-      <guid>https://ld246.com/article/1787721726167</guid>
-      <pubDate>Wed, 26 Aug 2026 05:22:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于轻语是否加入 memos 同步讨论</title>
-      <link>https://ld246.com/article/1787720060905</link>
-      <description><![CDATA[
-之前是有做过相关同步的 ，但是重构之后给去除了
-如果加回来 Memos 同步，是否采取之前的方式
-我没有 Memos 账号 ，基本是闭门造车的一个困境
-关于其相关的 API 从哪里去进行获取 ，以及最新的更新 API
-欢迎提出你宝贵的建议 ，谢谢
-]]></description>
-      <guid>https://ld246.com/article/1787720060905</guid>
-      <pubDate>Wed, 26 Aug 2026 04:54:20 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>
