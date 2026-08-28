@@ -4,7 +4,41 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 06:43:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:13:10 GMT</lastBuildDate>
+    <item>
+      <title>智谱（GLM） 3 亿 token 领取指南</title>
+      <link>https://meta.appinn.net/t/topic/90849</link>
+      <description><![CDATA[不止 3 亿。 
+
+智谱丨BigModel 平台 注册并实名认证（说是新用户得两千万 token 【适用于glm-4.5-air模型的推理】）
+GLM Coding Plan·7天体验卡  得到 2000 积分（狂蹬之后在 ZCode 中可能送一次额度重置机会，相当于双倍虽然显示重置，但我一直重置失败，难过）
+进入资源包管理，切换到“我的资源包”，这里的重点是：“【新用户专享】200万通…”因为这是“适用于所有按tokens计费的基础模型推理”，这个是新用户自动获得的。 
+安装 ZCode，登录以后左下角领 3 亿 token。 （使用方法：在 ZCode 设置——模型设置——BigModel——右上角“连接方式”中切换套餐到“体验套餐”即可）
+
+
+说不上太多，但能够快乐一周末~
+
+有一些会限定模型，甚至限定的是 4.x 的模型，应该是早期政策然后一直没动。后面几项理论限定的是 GLM5.3-flash，就是最新上架的那个模型，但我测试下似乎 GLM-5.3 也可以，就没那么严苛。可以在使用时注意观察一下额度消耗。总之，三亿多最新模型的额度还是比较香的，写一两个小工具应该是够了。 
+其他旧款模型可以接入到各种工具中用吧，比如网页翻译什么的
+7 个帖子 - 5 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90849</guid>
+      <pubDate>Fri, 28 Aug 2026 11:25:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开源自荐】Ophel Atlas 1.2 重构：AI 对话大纲导航 + 插件式热插拔适配，支持任意 AI 站点与自建 WebUI</title>
+      <link>https://meta.appinn.net/t/topic/90844</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90844</guid>
+      <pubDate>Fri, 28 Aug 2026 08:52:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自推荐】PetOS 可以将任意形象养成的，一个会陪你、会聊天、会记住你的 AI 桌面伙伴</title>
+      <link>https://meta.appinn.net/t/topic/90841</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90841</guid>
+      <pubDate>Fri, 28 Aug 2026 08:04:45 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】心率监控器 – 双平台开源 BLE 心率监测应用</title>
       <link>https://meta.appinn.net/t/topic/90830</link>
@@ -66,7 +100,7 @@ GitHub - XiaochangXu/HeartRateMonitor-composeui: 这是一款心率监测应用�
 
 
 
-2 个帖子 - 2 位参与者
+8 个帖子 - 3 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90830</guid>
       <pubDate>Fri, 28 Aug 2026 06:34:19 GMT</pubDate>
@@ -113,13 +147,15 @@ AI软着在打开指定的项目文件夹后，自动提取软着申请相关基
 
 
 
+官方网站
+https://ai-reader.cn
 1 个帖子 - 1 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90829</guid>
       <pubDate>Fri, 28 Aug 2026 06:34:10 GMT</pubDate>
     </item>
     <item>
-      <title>【开发者自荐】沙雕智能体</title>
+      <title>【开发者自荐】沙雕智能体 -- 喜欢沙雕动画的别错过</title>
       <link>https://meta.appinn.net/t/topic/90828</link>
       <description><![CDATA[软件名称
 沙雕智能体 – 帮助小白低门槛入门 AI 智能体
@@ -133,7 +169,7 @@ MacOS
 是否收费
 付费
 一句简介
-帮助非重度 ai 用户，低门槛地体验 ai 智能体的魅力。主打 agent + 沙雕陪伴。以沙雕人物为引子，让人觉得更多地是在和某个沙雕人物在做交流，而不是偏 “办公”，“冰冷” 的大模型。底层本还是一个智能体，通过开盲盒，人物升级，换皮肤，等要素，打开更大的智能体用户人群。 
+帮助非重度 ai 用户，低门槛地体验 ai 智能体的魅力。主打 agent + 沙雕陪伴。以沙雕人物为引子，让人觉得更多地是在和某个沙雕人物在做交流，而不是偏 “办公”，“冰冷” 的大模型。底层本体还是一个智能体，通过开盲盒，人物升级，换皮肤，等要素，打开更大的智能体用户人群。 
 应用简介
 2026年8月28日 已完成功能：
 
@@ -175,7 +211,7 @@ https://store.epicgames.com/zh-CN/p/down-in-bermuda-ios-f0d77a Down in Bermuda (
       <title>Epic手机喜加一 《Down in Bermuda (逃出百慕大)》截止9.3</title>
       <link>https://meta.appinn.net/t/topic/90800</link>
       <description><![CDATA[Android &amp; iOS
-2 个帖子 - 2 位参与者
+3 个帖子 - 3 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90800</guid>
       <pubDate>Thu, 27 Aug 2026 17:52:15 GMT</pubDate>
@@ -327,7 +363,7 @@ AI Story 是一款面向 Windows 与 macOS 的本地 AI 短视频创作工作台
 
 
 
-13 个帖子 - 5 位参与者
+12 个帖子 - 5 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90727</guid>
       <pubDate>Wed, 26 Aug 2026 09:57:45 GMT</pubDate>
@@ -478,151 +514,6 @@ GitHub
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90699</guid>
       <pubDate>Wed, 26 Aug 2026 03:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>〖开发者自荐〗植物引力：给家里的植物做档案、贴纸和成长记录</title>
-      <link>https://meta.appinn.net/t/topic/90698</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90698</guid>
-      <pubDate>Wed, 26 Aug 2026 03:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】Keymap：双击 ⌘，快速查看当前 App 的所有快捷键</title>
-      <link>https://meta.appinn.net/t/topic/90697</link>
-      <description><![CDATA[软件名称
-Keymap
-应用平台
-MacOS
-推荐类型
-【开发者自荐】
-一句简介
-双击 ⌘，快速查看当前 Mac App 的所有快捷键。 
-应用简介
-最近自己做了一个 Mac 原生小工具 Keymap。 
-Mac 上其实已经有不少快捷键工具，也有很多免费的选择，所以 Keymap 并不是想重新做一个“大而全”的快捷键管理器，而是想把「查快捷键」这件事情做得更简单一点。 
-它最核心的操作只有一个：
-双击 ⌘（Command），直接查看当前正在使用的 App 的快捷键。 
-Keymap 会读取当前 App 菜单栏中的快捷键，并自动整理成一个可以搜索的面板，不需要手动配置。比如在 Safari、VS Code、Figma、Terminal 等 App 中，都可以直接查看对应的快捷键。 
-除此之外，还提供：
-
-
-搜索快捷键
-
-
-快捷键冲突检测
-
-
-自定义 / 重映射快捷键
-
-
-根据当前 App 自动显示对应快捷键
-
-
-快捷键使用统计
-
-
-我自己以前一直在用 CheatSheet，但实际使用时觉得有时候展开的内容比较多，想找某一个快捷键并不是特别方便，所以后来干脆自己做了一个。 
-Keymap 比较强调简单、原生和不打扰工作流。整个应用是原生 macOS 开发，不需要注册账号，数据全部保存在本地。 
-目前提供免费版本：
-
-
-免费：快捷键查看、搜索、冲突检测
-
-
-Premium：增加快捷键重映射、使用统计
-
-
-Premium 一次性购买 $6.99，支持最多 3 台 Mac，终身更新
-
-
-macOS 14 Sonoma 及以上可用。 
-如果你平时经常使用 VS Code、Figma、Safari、Terminal 等，对快捷键比较依赖，可以试试看。 
-当然，这个领域已经有不少成熟的工具，Keymap 也不一定适合所有人。如果你正在使用其他快捷键工具，也欢迎直接比较一下，看看 Keymap 在实际使用中还有哪些不足。 
-官方网站
-https://keymap.app
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90697</guid>
-      <pubDate>Wed, 26 Aug 2026 03:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】TopicConsole：轻量的 Apache Pulsar 桌面客户端</title>
-      <link>https://meta.appinn.net/t/topic/90689</link>
-      <description><![CDATA[软件名称
-TopicConsole
-应用平台
-macOS、Windows、Linux
-推荐类型
-【开发者自荐】
-一句话简介
-一个直接连接 Apache Pulsar、用于浏览主题和检查消息的跨平台桌面工具。 
-应用简介
-TopicConsole 是一个开源的 Apache Pulsar 桌面客户端，适合开发和排查消息流问题。 
-它可以连接 Pulsar 集群，浏览租户、命名空间、主题和订阅，实时查看消息，也支持搜索、过滤、导出、生产和消费消息。 
-比较特别的是 Observer Mode：使用 Pulsar Reader 观察实时消息，不创建持久订阅，适合临时检查线上流量，不会留下额外的消费游标。 
-主要特点：
-
-macOS、Windows、Linux 跨平台
-约 15 MB 的轻量桌面应用
-无需 Docker、JVM 或云端账号
-支持中文和英文界面
-凭据和配置保存在本地
-支持 JSON、Avro、字符串等消息格式
-AGPL-3.0 开源协议
-
-官方网站
-
-
-
-topicconsole.vercel.app
-
-
-
-Lightweight Apache Pulsar desktop client
-Inspect, search, and manage Apache Pulsar from a lightweight cross-platform desktop app with observer mode and direct broker connectivity.
-
-
-
-
-
-项目源码
-
-
-github.com
-
-
-
-
-GitHub - yanbo92/topicconsole: A cross-platform desktop client for Apache Pulsar...
-A cross-platform desktop client for Apache Pulsar — clarity, not complexity.
-
-
-
-
-
-
-下载地址
-
-
-
-GitHub
-
-
-
-Releases · yanbo92/topicconsole
-A cross-platform desktop client for Apache Pulsar — clarity, not complexity. - yanbo92/topicconsole
-
-
-
-
-
-界面截图
-
-欢迎大家试用，也欢迎反馈使用 Pulsar 时遇到的问题。 
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90689</guid>
-      <pubDate>Wed, 26 Aug 2026 00:46:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

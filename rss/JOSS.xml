@@ -4,7 +4,14 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Aug 2026 06:26:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:56:43 GMT</lastBuildDate>
+    <item>
+      <title>fwb：用于分数加权引导程序的 R 包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.08880</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.08880</guid>
+      <pubDate>Fri, 28 Aug 2026 16:04:21 GMT</pubDate>
+    </item>
     <item>
       <title>EBRAINS 上的虚拟大脑推理 (VBI) 工具包</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.10612</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10669</guid>
       <pubDate>Thu, 20 Aug 2026 14:29:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROMS-Tools：使用 ROMS 进行区域海洋建模的可重复预处理和分析</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10234</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10234</guid>
-      <pubDate>Thu, 20 Aug 2026 13:18:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

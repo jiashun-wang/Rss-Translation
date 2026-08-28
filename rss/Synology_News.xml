@@ -4,7 +4,14 @@
     <title>Synology News</title>
     <link>https://www.synology.cn/zh-cn/company/news</link>
     <description>Synology News Feed.</description>
-    <lastBuildDate>Tue, 04 Aug 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Synology® PB 级存储解决方案 RS11626xs+ 发布，满足企业持续增长的容量与效能需求</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/RS11626xsp</link>
+      <description><![CDATA[中国台湾台北 — 2026 年 8 月 26 日 — Synology 群晖科技今日推出 RS11626xs+，这款 3U 高效能存储设备配备了 20 个硬盘插槽，专为需要管理快速成长且数据量达到 PB 级的企业打造，适用于关键任务环境。 Synology NAS 事业群执行副总经理朱百一表示：“如今]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/RS11626xsp</guid>
+      <pubDate>Tue, 25 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Synology® 推出 DiskStation neo+ Series，内存按需灵活升级</title>
       <link>https://www.synology.cn/zh-cn/company/news/article/dsneoplus</link>
@@ -48,10 +55,10 @@
       <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Synology 发布 ActiveProtect Manager 2.0，提升企业安全韧性</title>
-      <link>https://www.synology.cn/zh-cn/company/news/article/apm20</link>
-      <description><![CDATA[中国台湾，2026年6月3日，Synology 今日宣布推出 ActiveProtect Manager 2.0，这是 ActiveProtect 数据保护平台的升级版本。此次升级扩展了在主流 IaaS 平台与虚拟化环境中的备份和恢复能力，并引入 AI 驱动的威胁检测，构建主动式网络韧性。 &quot;AI 加]]></description>
-      <guid>https://www.synology.cn/zh-cn/company/news/article/apm20</guid>
+      <title>Synology 亮相 COMPUTEX 2026，展示新一代 DSM 系统，将 AI 转化为企业生产力</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/computex2026</link>
+      <description><![CDATA[中国台湾 – 2026 年 6 月 4 日 – 在 2026 台北国际电脑展（COMPUTEX 2026）上，群晖集中展示了企业级数据管理、数据保护、AI 智能办公与 AI 影像监控的全新解决方案，涵盖新一代 DSM 操作系统、数据保护硬件与管理平台，以及本地化 AI 办公套件。新一代 D]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/computex2026</guid>
       <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
@@ -62,10 +69,10 @@
       <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Synology 亮相 COMPUTEX 2026，展示新一代 DSM 系统，将 AI 转化为企业生产力</title>
-      <link>https://www.synology.cn/zh-cn/company/news/article/computex2026</link>
-      <description><![CDATA[中国台湾 – 2026 年 6 月 4 日 – 在 2026 台北国际电脑展（COMPUTEX 2026）上，群晖集中展示了企业级数据管理、数据保护、AI 智能办公与 AI 影像监控的全新解决方案，涵盖新一代 DSM 操作系统、数据保护硬件与管理平台，以及本地化 AI 办公套件。新一代 D]]></description>
-      <guid>https://www.synology.cn/zh-cn/company/news/article/computex2026</guid>
+      <title>Synology 发布 ActiveProtect Manager 2.0，提升企业安全韧性</title>
+      <link>https://www.synology.cn/zh-cn/company/news/article/apm20</link>
+      <description><![CDATA[中国台湾，2026年6月3日，Synology 今日宣布推出 ActiveProtect Manager 2.0，这是 ActiveProtect 数据保护平台的升级版本。此次升级扩展了在主流 IaaS 平台与虚拟化环境中的备份和恢复能力，并引入 AI 驱动的威胁检测，构建主动式网络韧性。 &quot;AI 加]]></description>
+      <guid>https://www.synology.cn/zh-cn/company/news/article/apm20</guid>
       <pubDate>Wed, 03 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
@@ -92,7 +99,7 @@
     <item>
       <title>Synology 推出全新 RackStation 系列：RS6426xs+、RS4826xs+ 和 RS3626xs</title>
       <link>https://www.synology.cn/zh-cn/company/news/article/RS6426xsp_RS4826xsp_RS3626xs</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[中国台湾台北——2026 年 5 月 6 日——Synology 群晖科技今天宣布发布 RS6426xs+、RS4826xs+ 和 RS3626xs。这些新一代机型可满足企业级备份、数据管理和虚拟化存储所需的高性能与高可靠性，满足大规模应用需求。 “随着 IT 环境日益复杂，企业对可靠、灵活且多元的基]]></description>
       <guid>https://www.synology.cn/zh-cn/company/news/article/RS6426xsp_RS4826xsp_RS3626xs</guid>
       <pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[中国台湾台北 — 2026 年 5 月 6 日 — Synology 群晖科技今天推出新一代全闪机型 FS6420 和 FS3420，专为对延迟敏感的企业工作负载打造。并在虚拟化、数据库和企业应用的 IOPS 和吞吐性能均有大幅提升。 “越来越多的企业在本地执行高负载工作，对于存储空间的需求也持续扩大]]></description>
       <guid>https://www.synology.cn/zh-cn/company/news/article/FS6420_FS3420</guid>
       <pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Synology 发布 ActiveProtect Manager 1.2，进一步提升企业数据韧性</title>
-      <link>https://www.synology.cn/zh-cn/company/news/article/apm12</link>
-      <description><![CDATA[中国台北 — 2026 年 4 月 6 日 — Synology 群晖科技今日推出 ActiveProtect Manager（APM）最新 1.2 版本，本次更新大幅提升了集中管理能力并扩展了支持的平台，协助企业在复杂的 IT 环境中提升数据韧性。 “ActiveProtect 备份专用一体机自发布]]></description>
-      <guid>https://www.synology.cn/zh-cn/company/news/article/apm12</guid>
-      <pubDate>Sun, 05 Apr 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

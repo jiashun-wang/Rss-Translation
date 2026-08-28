@@ -4,7 +4,14 @@
     <title>selfh.st</title>
     <link>https://selfh.st</link>
     <description>Self-hosted news, content, updates, launches, events, and more</description>
-    <lastBuildDate>Fri, 28 Aug 2026 06:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:14:37 GMT</lastBuildDate>
+    <item>
+      <title>自主持周刊（2026 年 8 月 28 日）</title>
+      <link>https://selfh.st/weekly/2026-08-28/</link>
+      <description><![CDATA[我会把“没人要的东西”拿走500 美元，亚历克斯]]></description>
+      <guid>https://selfh.st/weekly/2026-08-28/</guid>
+      <pubDate>Fri, 28 Aug 2026 12:10:11 GMT</pubDate>
+    </item>
     <item>
       <title>自主办每周（2026 年 8 月 21 日）</title>
       <link>https://selfh.st/weekly/2026-08-21/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我们已经正式进入人工智能辩论的教皇阶段]]></description>
       <guid>https://selfh.st/weekly/2026-05-29/</guid>
       <pubDate>Fri, 29 May 2026 11:54:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>自主办每周（2026 年 5 月 22 日）</title>
-      <link>https://selfh.st/weekly/2026-05-22/</link>
-      <description><![CDATA[750 个不和你的前任复合的理由]]></description>
-      <guid>https://selfh.st/weekly/2026-05-22/</guid>
-      <pubDate>Fri, 22 May 2026 12:08:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

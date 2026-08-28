@@ -4,7 +4,14 @@
     <title>存储在线-存储专业媒体</title>
     <link>https://www.dostor.com</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Aug 2026 06:45:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:15:18 GMT</lastBuildDate>
+    <item>
+      <title>铁威马Photos升级，赋能家庭照片管理</title>
+      <link>https://www.dostor.com/p/100948.html</link>
+      <description><![CDATA[随着手机、相机拍摄设备普及，家庭与创意从业者的照片数量飞速增长。大量影像分散在多部手机、平板、相机当中，就算统一备份至NAS之后，海量照片依然会杂乱堆积、而手动分类整理费时费力、重复照片占用宝贵存储空间，这些成为不少用户管理影像资料的一大痛...]]></description>
+      <guid>https://www.dostor.com/p/100948.html</guid>
+      <pubDate>Fri, 28 Aug 2026 14:13:37 GMT</pubDate>
+    </item>
     <item>
       <title>PFS L3 技术架构解析：为 AI 生产负载全新设计的并行文件存储</title>
       <link>https://www.dostor.com/p/100914.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[传统安全行业有一句流传多年的老话：“我们只需要比攻击者跑得快。”但当攻击者本身就是一个不知疲倦、每秒迭代一次的AI时，这句话的前提已经不存在了。 近日，瑞数信息发布《2026 Bots &amp; Agents自动化威胁报告》。报告显示：2...]]></description>
       <guid>https://www.dostor.com/p/100866.html</guid>
       <pubDate>Mon, 24 Aug 2026 10:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gartner发布2026年企业存储魔力象限：六家厂商继续位居领导者象限</title>
-      <link>https://www.dostor.com/p/100858.html</link>
-      <description><![CDATA[Gartner近日发布《2026年企业存储平台魔力象限》。与去年相比，今年领导者厂商格局基本没有发生变化，Everpure（原来的Pure）、华为、HPE、NetApp、戴尔科技和IBM六家厂商继续守在这里。 其中，Everpure连续第二...]]></description>
-      <guid>https://www.dostor.com/p/100858.html</guid>
-      <pubDate>Mon, 24 Aug 2026 02:14:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

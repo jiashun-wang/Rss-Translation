@@ -1,9 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Fri, 28 Aug 2026 06:43:43 GMT</lastBuildDate>
+    <title>链滴</title>
+    <link>https://ld246.com</link>
+    <description>记录生活，连接点滴。</description>
+    <lastBuildDate>Fri, 28 Aug 2026 18:13:33 GMT</lastBuildDate>
+    <item>
+      <title>Flexnote 居然支持导入思源了</title>
+      <link>https://ld246.com/article/1787932093683</link>
+      <description><![CDATA[之前一直用 Flexnote 白板 挺顺手
+没想到最近支持导入思源笔记了
+很六
+
+]]></description>
+      <guid>https://ld246.com/article/1787932093683</guid>
+      <pubDate>Fri, 28 Aug 2026 15:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPad 版本奔溃了，电脑版文档打不开</title>
+      <link>https://ld246.com/article/1787926058275</link>
+      <description><![CDATA[
+今天出现的，问题越来也多了啊。 
+现在常常提示账号登陆问题，但又显示登录上了，为何要提示这个啊。 
+现在跨行复制好反人性啊，没法选中，还没以前的好用。 
+iPad 版软打不开，黑屏状态。这可咋弄
+能不能把基础体验弄好，一步一步来呢？加很多新功能但有了基础使用问题，得不偿失的。 
+]]></description>
+      <guid>https://ld246.com/article/1787926058275</guid>
+      <pubDate>Fri, 28 Aug 2026 14:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>天塌了，新版本在“人工智能”编写的时候，无法识别 markdown 语法了</title>
+      <link>https://ld246.com/article/1787924451839</link>
+      <description><![CDATA[
+更新前在人工智能编写的时候，思源笔记会自动复制一份带 markdown 语法格式的内容给 AI，从而完美地生成内容。 
+p.s. 我的提示词是：“翻译选中的单词，选中指的是 markdown 语法中的高亮”。 
+
+3.8.1 后，再进行人工智能编写，已经无法识别 markdown 语法了，AI 思考过程中显示为纯文本了。 。求恢复啊！ ！ ！ ！ ]]></description>
+      <guid>https://ld246.com/article/1787924451839</guid>
+      <pubDate>Fri, 28 Aug 2026 13:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源 ai 老是出错</title>
+      <link>https://ld246.com/article/1787921801274</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1787921801274</guid>
+      <pubDate>Fri, 28 Aug 2026 12:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>请教有没有办法实现盖住 win11 底层任务栏的窗口最大化</title>
+      <link>https://ld246.com/article/1787917015332</link>
+      <description><![CDATA[最近思源更新后，颜值提高了，各种主题也更紧致了。自己略加调适后，感到真是赏心悦目
+然而，底部总是有一个丑陋的任务栏，破坏美观界面的完整性。 
+请问坛友，有没有办法，让底层任务栏不显示。 ]]></description>
+      <guid>https://ld246.com/article/1787917015332</guid>
+      <pubDate>Fri, 28 Aug 2026 11:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>为了让大家更好使用 REw​​ord 插件，准备词典包</title>
+      <link>https://ld246.com/article/1787911845417</link>
+      <description><![CDATA[通过网盘分享的文件：新世纪英汉大词典_atauzki_191008 改版[全量提取词组版]
+  链接: https://pan.baidu.com/s/15WGkKiolkDaqJJuwUPEbiA?pwd=2sag 提取码: 2sag
+通过网盘分享的文件：英汉大词典（第 2 版）等 3 个文件
+  链接: https://pan.baidu.com/s/1toZp1xr_uwZGbgjsbqCkaw?pwd=wcy3 提取码: wcy3
+新世纪英汉大词典与英汉大词典（第 2 版）做过优化适配建议使用这个
+中文使用： 现代汉语词典就行]]></description>
+      <guid>https://ld246.com/article/1787911845417</guid>
+      <pubDate>Fri, 28 Aug 2026 10:10:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>局域网加速云端同步到底如何生效？</title>
+      <link>https://ld246.com/article/1787910231045</link>
+      <description><![CDATA[大佬们，我手机端也打开了
+
+但是设备一直是 0，也没有发现设备的提示，是还有哪里要设置吗？ ]]></description>
+      <guid>https://ld246.com/article/1787910231045</guid>
+      <pubDate>Fri, 28 Aug 2026 09:43:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>鸿蒙版本的关闭按钮有问题</title>
+      <link>https://ld246.com/article/1787887892626</link>
+      <description><![CDATA[1、关闭是直接关闭软件，就算设置了最小化到系统托盘也没有。 
+最重要的是，按退出还可以同步后退出。 
+按关闭，直接不同步就退出。 
+设备：鸿蒙平板 6 版本
+2、搜索，不能搜索文档。手机可以，但是平板不行]]></description>
+      <guid>https://ld246.com/article/1787887892626</guid>
+      <pubDate>Fri, 28 Aug 2026 03:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 伴学</title>
+      <link>https://ld246.com/article/1787823503202</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1787823503202</guid>
+      <pubDate>Thu, 27 Aug 2026 09:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>这种情况下会思源笔记编辑会卡死</title>
+      <link>https://ld246.com/article/1787821070611</link>
+      <description><![CDATA[在看 hermes 官方文档的时候，复制了文档到思源笔记内。以方便编辑。 
+发现，似乎复制的源页面有视频链接框之类的东西，思源笔记的编辑会被卡死
+这个是 hermes 官方文档的源头页面，
+
+复制页面的时候，把【视频教程】这部分也复制进思源笔记的编辑页面了。这种情况下，视频教程这部分往上很多就卡死无法编辑。 
+虽然删掉【视频教程】那一块，就没什么问题了，但是，在没发现解决办法之前，很是懵逼了很久。 
+似乎是有某些问题存在的，视频的链接或者是无法打开的链接会锁死某些东西？ 
+]]></description>
+      <guid>https://ld246.com/article/1787821070611</guid>
+      <pubDate>Thu, 27 Aug 2026 08:57:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>场景的写法</title>
+      <link>https://ld246.com/article/1787810412000</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1787810412000</guid>
+      <pubDate>Thu, 27 Aug 2026 06:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>十步雪花写作法</title>
+      <link>https://ld246.com/article/1787810437707</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1787810437707</guid>
+      <pubDate>Thu, 27 Aug 2026 06:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密挂件丢失内容</title>
+      <link>https://ld246.com/article/1787801620244</link>
+      <description><![CDATA[因为重要，所以要加密，因为加密所以丢失内容！怎么找回？ 
+
+每个文档最开始的加密框都无法识别！ 
+
+]]></description>
+      <guid>https://ld246.com/article/1787801620244</guid>
+      <pubDate>Thu, 27 Aug 2026 03:33:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>
+      <link>https://ld246.com/article/1787204819965</link>
+      <description><![CDATA[思源即将在下个版本的移动端提供集市功能。为避免未适配移动端界面的桌面主题破坏布局、导致无法操作，主题须在 theme.json 中增加 frontends 字段并且显式声明支持移动端。 
+v3.8.0 已支持主题清单中的 frontends，当时缺失该字段会被视为支持所有前端。自移动端支持集市功能起，这条默认规则只对桌面端保留。 
+主题作者需要做什么
+若希望主题出现在移动端集市、并能在移动端被选择和加载，请在 theme.json 中显式声明 frontends。 
+已适配各前端、希望全平台可用时，与内置主题 daylight / midnight 一样写：
+{
+  &quot;name&quot;: &quot;example-theme&quot;,
+  &quot;author&quot;: &quot;example&quot;,
+  &quot;url&quot;: &quot;https://github.com/example/example-theme&quot;,
+  &quot;version&quot;: &quot;1.0.0&quot;,
+  &quot;frontends&quot;: [
+    &quot;all&quot;
+  ],
+  &quot;modes&quot;: [
+    &quot;light&quot;,
+    &quot;dark&quot;
+  ]
+}
+
+只支持部分前端时，列出具体取值。匹配是精确匹配，写 &quot;desktop&quot; 不会自动覆盖 desktop-window 或 browser-desktop。 
+可用取值：
+
+
+
+取值
+含义
+
+
+
+
+all
+所有前端
+
+
+desktop
+桌面端主窗口
+
+
+desktop-window
+桌面端独立窗口
+
+
+mobile
+移动端 App
+
+
+browser-desktop
+浏览器桌面端
+
+
+browser-mobile
+浏览器移动端
+
+
+
+请先确认主题在移动端可用，再声明 mobile、browser-mobile 或 all。未适配时可以不声明。 
+集市包请发新版本（提高 version 并发布 GitHub Release），索引更新后才会生效。本地主题改完 theme.json 后重启思源即可。 
+兼容性规则
+
+
+
+frontends
+桌面端（desktop / desktop-window / browser-desktop）
+移动端（mobile / browser-mobile）
+
+
+
+
+缺失或空数组
+兼容（与现在相同）
+不兼容
+
+
+包含 all
+兼容
+兼容
+
+
+包含当前前端取值
+兼容
+兼容
+
+
+有字段但不包含当前前端
+不兼容
+不兼容
+
+
+
+另外，插件清单里的 frontends 不变：缺失仍视为全平台。本次只收紧主题在移动端的默认行为。 
+不声明时，移动端会怎样
+桌面端继续能搜到、安装、切换这些主题，无需为「只在桌面使用」而改清单。 
+在 mobile 和 browser-mobile 上：
+
+集市会标为不兼容，不能安装或更新
+设置 - 外观 的主题下拉列表不会列出
+若移动端已经使用该主题，新版本不会加载该主题的 CSS 和 JS，界面回退到内置 daylight / midnight
+
+常见写法
+希望全平台可用（含移动端）：
+&quot;frontends&quot;: [&quot;all&quot;]
+
+只做桌面、明确不支持移动端：可以不写 frontends，也可以显式列出桌面相关前端，例如：
+&quot;frontends&quot;: [&quot;desktop&quot;, &quot;desktop-window&quot;, &quot;browser-desktop&quot;]
+
+仅支持移动端界面时：
+&quot;frontends&quot;: [&quot;mobile&quot;, &quot;browser-mobile&quot;]
+
+注意：上面这种写法在桌面端会显示为不兼容。 
+相关议题：Issue #17151 · siyuan-note/siyuan]]></description>
+      <guid>https://ld246.com/article/1787204819965</guid>
+      <pubDate>Thu, 20 Aug 2026 05:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>演示一下 3.8 版本如何划选块</title>
+      <link>https://ld246.com/article/1786962474568</link>
+      <description><![CDATA[3.8 支持了跨块划选文本，改变了原来划选块的行为，我演示一下 3.8.1 划选块的几种方式：
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1786962474568</guid>
+      <pubDate>Mon, 17 Aug 2026 10:27:53 GMT</pubDate>
+    </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>Science News</title>
     <link>https://www.sciencenews.org</link>
     <description>INDEPENDENT JOURNALISM SINCE 1921</description>
-    <lastBuildDate>Fri, 28 Aug 2026 06:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:10:55 GMT</lastBuildDate>
+    <item>
+      <title>太空中自由落体的原子给伽利略的重力测试带来了新的转折</title>
+      <link>https://www.sciencenews.org/article/atoms-gravity-space-galileo-einstein</link>
+      <description><![CDATA[中国天宫空间站上的铷原子以同样的加速度下落，支撑着爱因斯坦广义相对论的基石。]]></description>
+      <guid>https://www.sciencenews.org/article/atoms-gravity-space-galileo-einstein</guid>
+      <pubDate>Fri, 28 Aug 2026 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的皮肤化学成分可能会影响哪些蚊子最想咬您</title>
+      <link>https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite</link>
+      <description><![CDATA[三个物种根据皮肤气味和细菌偏好不同的人。这些发现可能有助于制造新的基于微生物的驱虫剂。]]></description>
+      <guid>https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite</guid>
+      <pubDate>Fri, 28 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国宇航局的新太空望远镜将以前所未有的方式揭示宇宙</title>
+      <link>https://www.sciencenews.org/article/nasa-nancy-roman-space-telescope</link>
+      <description><![CDATA[美国宇航局的新型南希·格蕾丝·罗曼太空望远镜将解决天体物理学的几乎所有方面，包括暗物质、暗能量和外星行星。]]></description>
+      <guid>https://www.sciencenews.org/article/nasa-nancy-roman-space-telescope</guid>
+      <pubDate>Fri, 28 Aug 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>微小的震动并不总能警告水力压裂何时会引发更大的地震</title>
       <link>https://www.sciencenews.org/article/tremors-warn-fracking-bigger-earthquake</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[一项果蝇研究表明，运动神经元的作用不仅仅是传递命令：它们将信号发送回大脑并组织运动序列。]]></description>
       <guid>https://www.sciencenews.org/article/motor-neurons-muscles-motion</guid>
       <pubDate>Mon, 24 Aug 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>平凡中的奥秘</title>
-      <link>https://www.sciencenews.org/article/ed-note-september-2026</link>
-      <description><![CDATA[主编南希·舒特 (Nancy Shute) 在我们的九月杂志中回顾了静电的新研究和其他科学启示。]]></description>
-      <guid>https://www.sciencenews.org/article/ed-note-september-2026</guid>
-      <pubDate>Sat, 22 Aug 2026 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“雷震”不只是让地面震动——他们还绘制了地震图</title>
-      <link>https://www.sciencenews.org/article/thunderquakes-shake-ground-map-it</link>
-      <description><![CDATA[科学家利用光纤电缆将“雷震”转化为地下地图，有助于揭示城市地下隐藏的危险。]]></description>
-      <guid>https://www.sciencenews.org/article/thunderquakes-shake-ground-map-it</guid>
-      <pubDate>Fri, 21 Aug 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>受到攻击的植物留下了令人惊讶的支援信号</title>
-      <link>https://www.sciencenews.org/article/plants-backup-wasp-herbivore-pest</link>
-      <description><![CDATA[细菌可能会在土壤中建立食草动物攻击的记忆，并诱导新植物吸引黄蜂来控制破坏性害虫。]]></description>
-      <guid>https://www.sciencenews.org/article/plants-backup-wasp-herbivore-pest</guid>
-      <pubDate>Fri, 21 Aug 2026 15:01:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

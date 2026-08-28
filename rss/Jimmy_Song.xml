@@ -4,7 +4,14 @@
     <title>Jimmy Song – 博客</title>
     <link>https://jimmysong.io/zh/blog/</link>
     <description>Recent content in 博客 on Jimmy Song</description>
-    <lastBuildDate>Mon, 24 Aug 2026 09:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:12:47 GMT</lastBuildDate>
+    <item>
+      <title>为什么要做 GPU 调度：从调度全景到 HAMi mutex 的语义验证</title>
+      <link>https://jimmysong.io/zh/blog/hami-mutex-scheduling-kind-verification/</link>
+      <description><![CDATA[从「为什么要做 GPU 调度」讲起：默认调度器的三个盲区，节点、卡、拓扑三个调度维度，HAMi v2.10 如何用一条策略链覆盖它们；最后用 kind 上可复现的判决性实验裁决 mutex 的真实语义：它要的是一张零租户的卡。]]></description>
+      <guid>https://jimmysong.io/zh/blog/hami-mutex-scheduling-kind-verification/</guid>
+      <pubDate>Fri, 28 Aug 2026 06:56:28 GMT</pubDate>
+    </item>
     <item>
       <title>HAMi-core 与 KAI Scheduler：GPU 共享从可分配走向可治理</title>
       <link>https://jimmysong.io/zh/blog/hami-core-kai-scheduler-retrospective/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在 KubeCon EU 2026 中，我感受到 Kubernetes 与 AI 浪潮的焦虑与变化。这篇文章深入探讨了 Kubernetes 在 AI 时代的挑战与未来发展机遇。]]></description>
       <guid>https://jimmysong.io/zh/blog/kubernetes-in-ai-wave-anxiety-and-rebirth/</guid>
       <pubDate>Fri, 03 Apr 2026 05:20:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Token 该怎么翻译？这场争论背后，是语言、技术与标准化的三重冲突</title>
-      <link>https://jimmysong.io/zh/blog/token-translation-debate/</link>
-      <description><![CDATA[从词元、智元到 Token 本身，这场翻译之争背后，其实是语言系统、工程抽象与产业标准之间的深层冲突。]]></description>
-      <guid>https://jimmysong.io/zh/blog/token-translation-debate/</guid>
-      <pubDate>Tue, 24 Mar 2026 21:53:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

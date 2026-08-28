@@ -4,7 +4,21 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Fri, 28 Aug 2026 06:44:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:13:42 GMT</lastBuildDate>
+    <item>
+      <title>本周赛博领鸡蛋（8.28~9.3）：《呼吸边缘》《家族传奇：桌面版》《逃出百慕大》</title>
+      <link>https://www.appinn.com/eggs-26828/</link>
+      <description><![CDATA[本周可以领的 Epic 鸡蛋有：2 款电脑游戏和 1 款手机游戏，分别是《呼吸边缘 / Breathedge》《家族传奇：桌面版 / Rival Stars Horse Racing: Desktop]]></description>
+      <guid>https://www.appinn.com/eggs-26828/</guid>
+      <pubDate>Fri, 28 Aug 2026 08:05:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 一口气更新21项新增功能，但一定先别着急更新</title>
+      <link>https://www.appinn.com/windows-11-kb5120998/</link>
+      <description><![CDATA[微软刚刚发布了最新的 Windows 11 8月份可选更新 KB5120998，在发布日志中自带了非常多的新增标识，青小蛙数了下大概21个！ 但一定先别着急更新，这个版本，它有问题。 😂 KB51209]]></description>
+      <guid>https://www.appinn.com/windows-11-kb5120998/</guid>
+      <pubDate>Fri, 28 Aug 2026 07:14:26 GMT</pubDate>
+    </item>
     <item>
       <title>CompactGUI：用 Windows 原生压缩功能，为程序和游戏文件夹瘦身</title>
       <link>https://www.appinn.com/compactgui-4/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[Hi 各位，这是一份由青小蛙维护的2026～2027赛季英格兰足球超级联赛赛程、比分、进球日历，可订阅到手机/电脑日历应用中，会自动更新比分。 @Appinn 终于赶在英超开赛前做好啦。 比较简单，订阅]]></description>
       <guid>https://www.appinn.com/26-27-premier-league-calendar/</guid>
       <pubDate>Fri, 21 Aug 2026 12:06:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周赛博领鸡蛋（8.21~8.27）：《卡牌末日》《阿尔比恩在线》《沙漠房车漫游》</title>
-      <link>https://www.appinn.com/eggs-26821/</link>
-      <description><![CDATA[本周赛博领鸡蛋，Epic Games 共送出 2 款电脑游戏、1 款手机游戏。电脑游戏为《卡牌末日》《阿尔比恩在线》，手机游戏为《沙漠房车漫游》。 《卡牌末日》/ Cardpocalypse 《卡牌末]]></description>
-      <guid>https://www.appinn.com/eggs-26821/</guid>
-      <pubDate>Fri, 21 Aug 2026 10:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>superfile – 终端也需要一个好用的文件管理器</title>
-      <link>https://www.appinn.com/superfile-tui-files-explorer/</link>
-      <description><![CDATA[在终端里找到一个文件，你会选择打开资源管理器，还是继续用 cd + ls 慢慢寻找？ 终端非常适合执行命令，但在浏览、查找、整理文件时，图形界面的直观依然很有吸引力。 superfile 漂亮的现代终]]></description>
-      <guid>https://www.appinn.com/superfile-tui-files-explorer/</guid>
-      <pubDate>Fri, 21 Aug 2026 10:04:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
