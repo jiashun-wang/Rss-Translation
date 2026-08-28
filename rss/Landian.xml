@@ -4,7 +4,28 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Thu, 27 Aug 2026 17:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:43:41 GMT</lastBuildDate>
+    <item>
+      <title>Ubuntu 26.04.1 LTS版现已发布 集成2024年4月以来的所有补丁和软件更新</title>
+      <link>https://www.landian.news/archives/126498.html</link>
+      <description><![CDATA[#系统资讯 Ubuntu 26.04.1 LTS 镜像正式版，集成 2024 年 4 月以来的所有补丁和软件更新，用户通过新镜像部署后无需再重复更新。新版本还集中修复多个桌面环境问题和安装问题，也包含多个驱动程序更新，尤其是无线网卡驱动更新。另请注意：Ubuntu 24.04 版暂时无法升级，预计数周后等某个组件完成移植后才可以升级。查看全文：https://ourl.co/126498]]></description>
+      <guid>https://www.landian.news/archives/126498.html</guid>
+      <pubDate>Fri, 28 Aug 2026 04:33:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>高调作死的下场：澳洲警方逮捕TeamPCP两名核心成员 其开源供应链攻击震惊全球</title>
+      <link>https://www.landian.news/archives/126497.html</link>
+      <description><![CDATA[#安全资讯 高调作死的下场：澳洲警方联合 FBI 逮捕 TeamPCP 两名核心成员，其迷你沙虫供应链攻击震惊全球。 TeamPCP 就是今年 NPM 生态系统供应链攻击的主要推手，不过澳洲警方与 FBI 追查到两名核心成员的真实身份。日前执法机构逮捕 21 岁的汤姆森和 23 岁的盖布勒，两人合计面临 14 项指控。查看全文：https://ourl.co/126497]]></description>
+      <guid>https://www.landian.news/archives/126497.html</guid>
+      <pubDate>Fri, 28 Aug 2026 04:08:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软发布Windows 11 26H2首个正式的预览版 坏消息是没什么新功能</title>
+      <link>https://www.landian.news/archives/126496.html</link>
+      <description><![CDATA[#系统资讯 微软发布 Windows 11 26H2 首个正式的预览版，通过 eKB 启用包下载安装即可。所谓正式的预览版指的是推送到发布预览频道中的版本，当前距离 26H2 发布已经很近，所以微软开始推送到发布预览频道进行最终测试。坏消息是 26H2 仍然是次要更新，所以并没有带来独特的新功能。说起来现在微软开发的新功能都是直接推送，不会积累起来等到下个版本再发布，所以每年的功能更新其实意义不大。查看全文：https://ourl.co/126496]]></description>
+      <guid>https://www.landian.news/archives/126496.html</guid>
+      <pubDate>Fri, 28 Aug 2026 03:35:17 GMT</pubDate>
+    </item>
     <item>
       <title>知名广告拦截程序uBlock Origin发布适用于谷歌浏览器的最终版 月底将被谷歌下架</title>
       <link>https://www.landian.news/archives/126495.html</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[#人工智能 OpenAI 发布抱抱脸攻击事件的详细技术报告，认为攻击的根本原因不只是沙箱环境存在漏洞。 OpenAI 称此次失控由多种因素叠加引起，包括奖励作弊、面对无解任务时过度坚持、绕过限制建立非授权通信、不同智能体相互接受目标。 OpenAI 强调若部署 ChatGPT 正式环境中的系统提示和生产安全机制，可以大幅度降低模型攻击基础设施的概率。查看全文：https://ourl.co/126485]]></description>
       <guid>https://www.landian.news/archives/126485.html</guid>
       <pubDate>Thu, 27 Aug 2026 01:50:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT降智不是你的错觉：ChatGPT经理承认部分请求被切换到GPT-5.5-mini</title>
-      <link>https://www.landian.news/archives/126455.html</link>
-      <description><![CDATA[#人工智能 GPT 降智不是你的错觉：ChatGPT 经理承认部分请求被自动切换到 GPT-5.5-mini 模型。在回答网友提问时 ChatGPT 经理确认系统存在某个问题导致大约 3% 的 Pro 和 Thinking 请求被切换到低智模型，目前已经修复问题。不过其他网友认为问题并未彻底解决，目前仍然存在切换到低智模型的情况。查看全文：https://ourl.co/126455]]></description>
-      <guid>https://www.landian.news/archives/126455.html</guid>
-      <pubDate>Wed, 26 Aug 2026 05:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达宣布EA Javelin反作弊系统已支持Arm平台 为EA游戏兼容性铺平道路</title>
-      <link>https://www.landian.news/archives/126454.html</link>
-      <description><![CDATA[#游戏资讯 英伟达宣布 EA Javelin Anticheat 反作弊系统将原生支持 RTX SPARK 平台，即 EA 将提供 Arm64 兼容性。 RTX SPARK 是出色的 AI 计算设备，但英伟达也为该平台保留完整的 RTX 游戏技术，唯一问题就是 Windows on Arm 生态系统太差。现在 EA 等与英伟达合作兼容 Arm64，未来更多游戏可以在 Arm64 上运行。查看全文：https://ourl.co/126454]]></description>
-      <guid>https://www.landian.news/archives/126454.html</guid>
-      <pubDate>Wed, 26 Aug 2026 05:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于用户反馈微软宣布将白板数据删除时间延后1个月 但用户仍然需要尽快备份数据</title>
-      <link>https://www.landian.news/archives/126453.html</link>
-      <description><![CDATA[#软件资讯 遭到用户反对后微软略微延长 Microsoft Whiteboard 白板应用的存活时间。根据微软更新后的时间表，个人用户可以在 10 月 16 日前导出数据，之后无法再导出数据。企业用户需要在 9 月 25 日前完成迁移备份，数据也在 10 月 16 日删除。请注意：微软白板应用不再支持个人用户使用，即仅限企业使用。查看全文：https://ourl.co/126453]]></description>
-      <guid>https://www.landian.news/archives/126453.html</guid>
-      <pubDate>Wed, 26 Aug 2026 04:46:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

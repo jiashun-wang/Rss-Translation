@@ -4,7 +4,14 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Aug 2026 17:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:26:35 GMT</lastBuildDate>
+    <item>
+      <title>EBRAINS 上的虚拟大脑推理 (VBI) 工具包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10612</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10612</guid>
+      <pubDate>Thu, 27 Aug 2026 21:07:41 GMT</pubDate>
+    </item>
     <item>
       <title>PyMC-Marketing：Python 中的贝叶斯营销组合模型和客户分析</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.10805</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10234</guid>
       <pubDate>Thu, 20 Aug 2026 13:18:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ndvi2Gif：使用 Google Earth Engine 进行多季节遥感分析的 Python 包</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10654</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10654</guid>
-      <pubDate>Thu, 20 Aug 2026 00:23:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

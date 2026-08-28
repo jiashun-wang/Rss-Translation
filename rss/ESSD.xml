@@ -4,7 +4,7 @@
     <title>ESSD - recent papers</title>
     <link>https://essd.copernicus.org/articles/</link>
     <description>Combined list of the recent articles of the journal Earth System Science Data and the recent discussion forum Earth System Science Data Discussions</description>
-    <lastBuildDate>Thu, 27 Aug 2026 17:09:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:27:10 GMT</lastBuildDate>
     <item>
       <title>GOSAT 和 GOSAT-2 任务的大气甲烷气候数据记录一致</title>
       <link>https://doi.org/10.5194/essd-2026-625</link>
@@ -14,7 +14,7 @@
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         甲烷是一种强大的温室气体，其在大气中的浓度正在迅速上升。我们提出了日本 GOSAT-2 卫星从太空测量的大气甲烷的新记录，涵盖 2019 年至 2019 年，两颗卫星共同提供了 17 年的连续记录，有助于追踪甲烷的来源及其变化速度。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-625</guid>
-      <pubDate>Thu, 27 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>用于气候应用的综合全球海洋放射性碳数据集（1700-2024）</title>
@@ -23,9 +23,9 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                     纳比尔·马姆努、布兰文·威廉姆斯、雷纳·慕克吉、罗伯塔·汉斯曼、罗尔夫·索纳鲁普、尼基塔·图尔内比斯、蒂姆·德弗里斯和希瑟·格雷文
                         地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-691,2026
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
-                        海洋中的放射性碳揭示了海水如何混合和储存大气碳，但测量结果分散在许多单独的研究中。我们将 1700 年至 2024 年的近 70,000 份船载海水和海洋档案记录汇编成统一的全球数据集，并进行质量检查和开放存档。该产品捕捉了工业化前的条件、核武器试验的变化以及近几十年来的情况，支持气候和海洋模型评估。]]></description>
+                        海洋中的放射性碳揭示了海水如何混合和储存大气碳，但测量结果分散在许多单独的研究中。我们将 1700 年至 2024 年的近 70,000 份船载海水和海洋档案记录编译成统一的全球数据集，并进行质量检查和开放存档。该产品捕捉了工业化前的条件、核武器试验的变化以及近几十年来的情况，支持气候和海洋模型评估。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-691</guid>
-      <pubDate>Thu, 27 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>华沙维斯瓦河225年（1799-2024）均一日水位系列</title>
@@ -35,7 +35,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6101–6118，https://doi.org/10.5194/essd-18-6101-2026, 2026
                         我们提供了华沙维斯瓦河 225 年（1799-2024）的均一日水位记录，包括 82 453 个观测值。对仪表重新定位、零移、单位差异和儒略-格里高利差异进行了调整。使用长短期记忆（LSTM）方法重建缺失数据，应用于与下游站的阶段-阶段关系。该数据集为长期水文、气候和社会环境研究提供了坚实的基础。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6101-2026</guid>
-      <pubDate>Wed, 26 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>TCOM-CFC11 和 TCOM-CFC12：平流层 CFC-11 和 CFC-12 剖面无间隙、观测受限的全球数据集 (v2.0)</title>
@@ -45,7 +45,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6171–6189，https://doi.org/10.5194/essd-18-6171-2026, 2026
                         我们开发了一种创新方法，通过卫星数据作为指导，利用机器学习来纠正化学模型中的错误。在本次最新更新中，我们详细介绍了对两种主要臭氧消耗物质（CFC-11 和 CFC-12）创建无间隙数据的流程的改进。通过结合化学模型和卫星的优势，我们生成了可靠的全球数据集，使研究人员能够跟踪长期趋势并更好地评估化学模型。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6171-2026</guid>
-      <pubDate>Wed, 26 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>基于官方 FY-4A 数据集生成 2018 年至 2023 年角度归一化、充满云、缩小 0.01° 的地表温度</title>
@@ -55,7 +55,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6139–6169，https://doi.org/10.5194/essd-18-6139-2026, 2026
                         卫星地表温度（LST）数据对于地球系统研究至关重要，但目前的LST产品面临着局限性：角度效应的影响、缺乏云层覆盖以及分辨率较低。本研究利用FY-4A官方数据，创新性地生成了2018年至2023年每小时、角度归一化、全天候、高分辨率（0.01°）的LST数据，为更好地支持地球系统科学的LST相关研究提供支持。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6139-2026</guid>
-      <pubDate>Wed, 26 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>CAMS-REG-UNC-v8.1：网格 CAMS-REG-v8.1 排放清单的详细不确定性产品</title>
@@ -65,7 +65,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6119–6137，https://doi.org/10.5194/essd-18-6119-2026, 2026
                         我们提出了排放不确定性估计，以支持利用观测对温室气体和空气污染物排放进行大气监测。我们发现国家总排放量和排放量的空间分布存在显着的不确定性，这在很大程度上取决于所考虑的污染物。提供的数据集列出了最先进的欧洲排放清单的排放不确定性。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6119-2026</guid>
-      <pubDate>Wed, 26 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>PhaFoS：显生宙有孔虫大小的全球数据库</title>
@@ -76,7 +76,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         体型大小是了解生物体如何变化以及它们如何响应环境的一个重要特征。有孔虫是一种微小的单细胞生物，拥有丰富的化石记录，为了解这些长期变化提供了宝贵的窗口。我们创建了全球显生宙有孔虫大小数据库，汇集了超过 118,000 条记录。该数据库将帮助研究人员研究有孔虫大小在地球历史中是如何演变的，以及它告诉我们关于古环境的信息。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-458</guid>
-      <pubDate>Wed, 26 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>Lightning2EarthCARE：对电活动风暴的同步同步闪电和 EarthCARE 观测</title>
@@ -87,7 +87,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         这项研究介绍了Lightning2EarthCARE，这是一个开放数据集，将卫星闪电观测与来自地球云、气溶胶和辐射探索者任务的风暴的狭窄垂直切片联系起来。它涵盖 2024 年 8 月至 2026 年 1 月，包括 6000 多个风暴，可用于案例研究和更广泛的分析。该数据集可以帮助揭示闪电与云粒子、降水和风暴运动的关系，支持更好的天气和气候模型。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-470</guid>
-      <pubDate>Wed, 26 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>NOAA 气球基线平流层气溶胶剖面 (B2SAP) 项目的全球系统平流层气溶胶数量和尺寸分布</title>
@@ -98,7 +98,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         对平流层气溶胶的直接测量很少，但它通过散射入射的太阳辐射在地球气候中发挥着重要作用。 B2SAP 网络通过定期从 8 个纬度不同的站点发射携带便携式光学粒子光谱仪 (POPS) 的气球来解决这一差距。该数据集提供了从地面到 28 公里的气溶胶丰度和尺寸分布的垂直剖面，有助于表征全球平流层气溶胶丰度和变化性。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-644</guid>
-      <pubDate>Wed, 26 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>使用机器学习和公共数据对 129 个全球南方国家的贫民窟人口进行地理空间微观估计</title>
@@ -108,17 +108,17 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 5969–5993，https://doi.org/10.5194/essd-18-5969-2026, 2026
                         我们开发了一个通用的自下而上的框架，用于在数据稀疏的环境中对贫民窟人口进行空间明确的估计。由此产生的数据集提供了第一个全面的清单，空间分辨率约为 6.72 公里，涵盖 129 个南半球国家。它解决了先前研究中的低估问题，并支持对城市可持续性和弱势群体进行国家和区域规模的评估，并具有改善人类福祉的潜在应用。]]></description>
       <guid>https://doi.org/10.5194/essd-18-5969-2026</guid>
-      <pubDate>Tue, 25 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>加拿大各地火灾天气指数的每日网格数据集，并根据太阳高度进行计算</title>
       <link>https://doi.org/10.5194/essd-18-5995-2026</link>
       <description><![CDATA[加拿大各地火灾天气指数的每日网格数据集，并根据太阳高度进行计算
-                    克莱门斯·伯努瓦、乔纳森·杜兰德、菲利普·加雄、乔纳森·鲍彻和颜·布朗格
+                    克莱门斯·伯努瓦、乔纳森·杜兰德、菲利普·加琼、乔纳森·鲍彻和颜·布朗格
                         地球系统。科学。数据，18，5995–6015，https://doi.org/10.5194/essd-18-5995-2026，2026
                         在本数据描述论文中，我们介绍了 ERA5-FWI-SN 数据集，该数据集包含加拿大各地每日森林火灾天气系统 (FWI) 组件的网格数据集，源自每小时的 ERA5 再分析产品。 FWI 计算首次使用当地太阳正午时获取的地表天气读数。这种新方法使得 FWI 分量值在单个时区的东西方向上的空间分布更加真实。]]></description>
       <guid>https://doi.org/10.5194/essd-18-5995-2026</guid>
-      <pubDate>Tue, 25 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>SO_SLICE：开放和冰雪覆盖的南大洋 19 年网格化海平面异常数据集（2003-2021）</title>
@@ -128,7 +128,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18，6043–6064，https://doi.org/10.5194/essd-18-6043-2026，2026
                         海平面是海洋变化的一个关键指标，但在南极洲周围很难测量，因为那里的海冰使卫星无法看到海洋。然而，飞越冰层的卫星仍然可以从冰层的开口处接收到清晰的回波，那里的水暴露在外。我们重新处理了四次卫星任务的这些回波，并将其与开放水域数据相结合，建立了整个南大洋最长的海平面记录（2003 年至 2021 年）。它提供了一种跟踪这个快速变化的地区如何演变的新方法。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6043-2026</guid>
-      <pubDate>Tue, 25 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>南极洲周围的接地冰山：来自深度学习和 Sentinel-1 合成孔径雷达的高分辨率数据集</title>
@@ -138,17 +138,17 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6017–6041，https://doi.org/10.5194/essd-18-6017-2026, 2026
                         搁浅的冰山锚定了南极海冰并支持海洋生态系统，但它们在整个大陆的分布此前尚不清楚。利用卫星雷达图像和自动化人工智能工具，我们绘制了近 40000 个静止冰山的地图。我们发现，经常被忽视的微小冰山实际上在总数和面积上都占主导地位。该公共数据集为模拟沿海冰稳定性和了解更广泛的环境变化提供了重要的新基线。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6017-2026</guid>
-      <pubDate>Tue, 25 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
-      <title>NortheastChinaMaizeYield10m：通过机械可解释、无现场标签的框架生成的中国东北地区（2019-2024）10米分辨率玉米产量数据集</title>
+      <title>NortheastChinaMaizeYield10m：通过机械可解释、无现场标签的框架生成中国东北地区（2019-2024）10米分辨率的玉米产量数据集</title>
       <link>https://doi.org/10.5194/essd-18-6065-2026</link>
       <description><![CDATA[NortheastChinaMaizeYield10m：通过机械可解释、无现场标签的框架生成的中国东北地区（2019-2024）10米分辨率玉米产量数据集
-                    胡静波、杜鑫、李强子、张远、王红岩、罗建松、徐静远、赵亚超、张兆明、董勇、沉云奇
+                    胡静波、杜鑫、李强子、张远、王红艳、罗建松、徐静远、赵亚超、张兆明、董勇、沉云奇
                         地球系统。科学。数据，18, 6065–6100，https://doi.org/10.5194/essd-18-6065-2026, 2026
                         我们通过将基于过程的作物模拟与深度学习相结合，生成了涵盖 2019-2024 年中国东北地区 10 m 玉米产量数据集。该框架避免了训练期间对现场产量标签的需要，同时保持了独立观察的良好准确性。该数据集捕获区域产量模式和精细尺度的田间变异，支持农业监测和管理。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6065-2026</guid>
-      <pubDate>Tue, 25 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>全球每日卫星湖泊地表水质数据集（2002-2022）</title>
@@ -157,9 +157,9 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                     Ali Reza Shahvaran、Roohollah Noori、Mohammed Basheer、Kaveh Madani、Chenxi Mi、Kun Shi、Yong Zhuang Zhou、R. Iestyn Woolway、Yun Lin 张、Boqiang Qing、Amir AghaKouchak 和 Michelle T. H. van Vliet
                         地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-528,2026
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
-                        我们构建了第一个全球数据集，用于跟踪二十年来 5000 多个湖泊的每日水质。通过将复杂的卫星图像转化为简单、随时可用的表格，我们使湖泊状况易于探索。我们的新质量检查可帮助用户发现异常或不确定的数据。该资源为更好地研究湖泊在变暖的世界中如何变化以及做出更明智的决策打开了大门。]]></description>
+                        我们建立了第一个全球数据集，用于跟踪二十年来五千多个湖泊的每日水质。通过将复杂的卫星图像转化为简单、随时可用的表格，我们使湖泊状况易于探索。我们的新质量检查可帮助用户发现异常或不确定的数据。该资源为更好地研究和做出更明智的决策打开了大门，以了解湖泊在变暖的世界中如何变化。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-528</guid>
-      <pubDate>Tue, 25 Aug 2026 16:26:18 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 03:45:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

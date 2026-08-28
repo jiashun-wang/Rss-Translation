@@ -4,7 +4,14 @@
     <title>AI论文简报</title>
     <link>https://ai-brief.liziran.com</link>
     <description>每天3分钟，从源头论文把握AI前沿。</description>
-    <lastBuildDate>Thu, 27 Aug 2026 17:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:45:53 GMT</lastBuildDate>
+    <item>
+      <title>扩散对齐19项居首，记忆引用仅7.9%</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-28-on-policy-feedback-memory-gpu-pipelines.html</link>
+      <description><![CDATA[DiffusionOPSD在20种设置中19种居首：它把图像终点奖励转成当前策略轨迹上的逐步去噪目标，最高领先最强对手44.0%，训练GPU时长减少40%和63%。 记忆问答提分未换来满意度提升，直接问答准确率从19.7%升至70.1%，但真实对话能否适时、自然地引用记忆才与体验相关。 OPDVR让逐token建议服从任务级验收。在线蒸馏提供密集指导，可验证奖励守住正确性，两类信号在当前策略轨迹上协调。 TorchMorph补上GPU流水线的形态学断点：22个批量算子支持多达八个空间维度，避免CPU往返悄悄抵消端到端加速收益。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-28-on-policy-feedback-memory-gpu-pipelines.html</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>语音RAG的F1跌幅扩大67%</title>
       <link>https://ai-brief.liziran.com/zh/daily/2026-08-27-voice-rag-error-amplification.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[KGD把知识更新与任务适配分开，在8个公开基准上较强基线提升4%—12%，并在90天数据流和Shopee线上测试中保持收益。 持久记忆不等于持续改进：PAST-Bench用26个场景、204个任务回合，检验经验是否通过保存、检索和更新真正改善后续行为。 Hunyuan3D-Buffalo统一3D理解、生成与编辑。其8700万规模多模态语料包含1200万编辑样本，重点推进几何一致的局部修改与工作流整合。]]></description>
       <guid>https://ai-brief.liziran.com/zh/daily/2026-08-08-knowledge-refresh-agent-memory-3d.html</guid>
       <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DAPD提升2分，扩散解码达1500token/s</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-07-dapd-diffusion-layered-design.html</link>
-      <description><![CDATA[特权信息可能让自蒸馏性能下降：DAPD用双路径与双来源锚定限制不可复现的教师行为，在Qwen3-4B多项任务上平均提升2.00分。 提前暴露未来轨迹会污染驾驶推理监督，Deferred Exposure先让模型选择候选轨迹，再用真实轨迹验证，避免教师为既成结果补写理由。 成熟自回归模型可低成本迁移到扩散解码。 DiffusionGemma使用不到原模型10%的训练token预算，单张H100吞吐约1500token/s。 语义RGBA图层让生成结果可以继续编辑；UniWorld-Design将对象作为独立资产交付，在Crello基准上降低37%的逐图层RGB误差。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-07-dapd-diffusion-layered-design.html</guid>
-      <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

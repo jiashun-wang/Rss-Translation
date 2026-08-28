@@ -4,7 +4,182 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Thu, 27 Aug 2026 17:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:43:18 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】心率监控器 – 双平台开源 BLE 心率监测应用</title>
+      <link>https://meta.appinn.net/t/topic/90830</link>
+      <description><![CDATA[软件名称
+心率监控器 HeartRateMonitor
+应用平台
+
+Android
+Windows
+
+推荐类型
+【开发者自荐】
+是否收费
+免费（MIT开源）
+一句简介
+这是一款心率监测应用，支持Android和Windows，基于蓝牙心率广播实时显示心率，支持悬浮窗、状态栏显示、触摸穿透、局域网传输
+应用简介
+2026 年 8 月 28 日 已完成功能：
+1.全屏模式：沉浸式显示心率数据，让手机成为健康监护仪
+2.蓝牙连接：扫描并连接支持心率广播服务的 BLE 设备
+3.设备管理：收藏常用设备，支持自动连接与断开重连
+4.心跳动画：根据心率跳动频率动态变化
+5.心率历史与图表：自动记录、历史列表、批量管理、图表分析、横屏查看
+6.个性化设置：功能开关、悬浮窗样式自定义
+7.数据接口：HTTP 服务器、WebSocket 服务器、Webhook 推送
+8.OBS 浏览器源心率显示：内置 HTML 页面，OBS 添加浏览器源填入服务器地址即可实时显示心率，支持自定义颜色、大小、字体等样式参数
+9.悬浮窗显示心率：在手机屏幕上显示心率，不受到应用内容的影响
+10.状态栏常驻心率：状态栏显示实时心率
+11.心率预警：结合姿态检测，心率超限自动通知与震动
+12.公平运行内存：适配国产厂商内存管理机制
+13.颜色选择器：自绘 HSV 色轮，支持自定义应用主题色
+14.液态玻璃效果 实现底部导航栏的液态玻璃效果
+15.局域网传输 通过 WebSocket 服务器实现 PC 端与手机的通信
+16.Material 3 动态取色
+
+开发中功能：
+
+导出历史记录
+
+截图预览：
+
+
+
+
+
+官方网站
+
+
+github.com
+
+
+
+
+GitHub - XiaochangXu/HeartRateMonitor-composeui: 这是一款心率监测应用，支持Android和Windows，基于蓝牙心率广播实时显示心率，支持悬浮窗、...
+这是一款心率监测应用，支持Android和Windows，基于蓝牙心率广播实时显示心率，支持悬浮窗、状态栏显示、触摸穿透、网络传输
+
+
+
+
+
+
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90830</guid>
+      <pubDate>Fri, 28 Aug 2026 06:34:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】AI软着申请助手</title>
+      <link>https://meta.appinn.net/t/topic/90829</link>
+      <description><![CDATA[软件名称
+AI软着助手
+应用平台
+
+Windows
+MacOS
+Linux
+
+推荐类型
+开发者自荐
+是否收费
+免费
+一句简介
+AI软着在打开指定的项目文件夹后，自动提取软着申请相关基本信息，自动提取项目源码并生成符合格式要求的pdf文档，根据项目文件自动生成操作手册（内置简单截图工具，截图结果自动插入到操作手册中，简化操作步骤）。 
+软件特色
+以前在线申请软着时，每一项信息都要手工提取并填写，耗时耗力，程序员最不愿干的事儿。请第三方代理至少得花500元，基础材料还得自己准备，功夫没少花，钱也没少花。现在AI编写的软件爆发式增长，软着申请的效率也得跟着提升了。本软件重心于在线申请软着，所以每个文本信息条目都带复制按钮，然后将复制的内容手工粘贴到软着申请网站的对应输入框。源代码和操作手册pdf文件需要手工上传至版权登记网站。如果觉得自带的操作手册导出pdf文件效果不好，可以复制操作手册至第三方支持md格式软件（如Obsidian），利用第三方软件导出操作手册的pdf文件。目前还不支持自动提交内容至版权登记网站。 
+应用简介
+
+
+打开软件后，选择项目文件夹，AI助手（需要自行注册大模型的API Key，否则无法使用）自动扫描项目信息，提取申请软着所需的内容；
+
+
+在申请表页面，根据项目情况手工调整不准确的信息内容；
+
+
+在软件信息页面，根据项目情况手工调整内容；
+
+
+在源代码页面，点击生成源代码按钮即可，基本不用手工调整；
+
+
+在操作手册页面，AI生成内容最好手工调整，并使用截图丰富内容，以提升通过率；
+
+
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90829</guid>
+      <pubDate>Fri, 28 Aug 2026 06:34:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】沙雕智能体</title>
+      <link>https://meta.appinn.net/t/topic/90828</link>
+      <description><![CDATA[软件名称
+沙雕智能体 – 帮助小白低门槛入门 AI 智能体
+应用平台
+
+Windows
+MacOS
+
+推荐类型
+【开发者自荐】
+是否收费
+付费
+一句简介
+帮助非重度 ai 用户，低门槛地体验 ai 智能体的魅力。主打 agent + 沙雕陪伴。以沙雕人物为引子，让人觉得更多地是在和某个沙雕人物在做交流，而不是偏 “办公”，“冰冷” 的大模型。底层本还是一个智能体，通过开盲盒，人物升级，换皮肤，等要素，打开更大的智能体用户人群。 
+应用简介
+2026年8月28日 已完成功能：
+
+支持 沙雕人物陪伴
+支持 盲盒式收集不同的沙雕人物
+支持 claude agent sdk 编排能力
+支持 多个国内主流大模型一键切换
+
+开发中功能：
+
+沙雕人物可以参与的 PvE，PvP 相关功能
+
+截图预览：
+
+
+
+官方网站
+ shadiao.online
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90828</guid>
+      <pubDate>Fri, 28 Aug 2026 06:34:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic 免费游戏 2026-8-28</title>
+      <link>https://meta.appinn.net/t/topic/90820</link>
+      <description><![CDATA[电脑游戏：
+https://store.epicgames.com/zh-CN/p/breathedge 《Breathedge》
+https://store.epicgames.com/zh-CN/p/rival-stars-horse-racing-dd09de Rival Stars Horse Racing: Desktop Edition
+手机游戏：
+https://store.epicgames.com/zh-CN/p/down-in-bermuda-android-91daeb Down in Bermuda (逃出百慕大)
+https://store.epicgames.com/zh-CN/p/down-in-bermuda-ios-f0d77a Down in Bermuda (逃出百慕大)
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90820</guid>
+      <pubDate>Fri, 28 Aug 2026 04:04:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic手机喜加一 《Down in Bermuda (逃出百慕大)》截止9.3</title>
+      <link>https://meta.appinn.net/t/topic/90800</link>
+      <description><![CDATA[Android &amp; iOS
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90800</guid>
+      <pubDate>Thu, 27 Aug 2026 17:52:15 GMT</pubDate>
+    </item>
     <item>
       <title>Agentero: Agent友好的文献管理与阅读器，Agent时代的Zotero</title>
       <link>https://meta.appinn.net/t/topic/90769</link>
@@ -448,217 +623,6 @@ A cross-platform desktop client for Apache Pulsar — clarity, not complexity. -
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90689</guid>
       <pubDate>Wed, 26 Aug 2026 00:46:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[开发者自荐] PhotoLoci：在地图上浏览 iCloud 照片与旅行足迹</title>
-      <link>https://meta.appinn.net/t/topic/90677</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90677</guid>
-      <pubDate>Tue, 25 Aug 2026 12:39:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】AIClue 智搜：文件名忘了，也能从 Word / PDF 正文里找文件</title>
-      <link>https://meta.appinn.net/t/topic/90658</link>
-      <description><![CDATA[软件名称
-AIClue 智搜
-应用平台
-Windows 10/11 64 位
-推荐类型
-【开发者自荐】
-是否收费
-当前已发布版本可免费使用。 
-不注册也可以直接体验 15 天；注册后可继续免费使用当前版本提供的免费功能。后续如增加收费能力，会单独说明。 
-一句话简介
-文件名忘了、放哪也忘了，只记得 Word、PDF 里的一句话，也可以把文件找回来。 
-AIClue 是我自己做的一款 Windows 本地文件搜索工具。它会同时从文件名、文件夹位置和可读取文档的正文里查找，再通过命中高亮、内容片段和打开前预览，帮你一步步确认哪个才是目标文件。 
-
-同时查看文件名、位置和正文命中。图片使用演示数据。 
-为什么做这个工具
-我做它，主要是因为自己经常遇到一种情况：我知道电脑里肯定有这个文件，但已经完全不记得它叫什么。 
-比如只记得某份合同里出现过“履约保证金”，文件却可能放在桌面、下载、微信文件或以前的项目目录里；又或者几年前的报告只记得一个术语，目录和文件名都已经忘了。 
-这种时候，麻烦的不是搜索速度，而是根本不知道应该搜什么文件名。 AIClue 主要就是为这种“还记得一点正文线索”的情况做的。 
-它主要解决什么
-
-在用户主动选择的多个目录里一起查找；
-同时搜索文件名、路径和可读取的文档正文；
-在结果中显示命中高亮和正文片段；
-不必挨个打开文件，可以先在侧边区域预览。 
-
-第一次添加大量文件时，需要一些时间建立索引并读取可搜索的正文；之后新增和变化的文件会继续更新。 
-哪些文件可以搜索正文
-正文搜索覆盖 Word、Excel、PPT、PDF、TXT、Markdown、CSV、RTF、EPUB，以及常见代码、配置和网页文本格式。 
-对扫描版 PDF、加密或损坏文件等无法读取文字的文件，仍可以通过文件名和路径查找，但正文关键词可能无法命中。 
-打开文件前先确认内容
-
-搜到几个看起来都比较接近的结果时，可以先看预览，再决定打开哪个，不必挨个打开文件确认。 
-和 Everything 有什么区别
-Everything 在按文件名和路径快速找文件方面非常强，我自己也一直认为这是它最擅长的地方。 
-AIClue 想解决的是另一种情况：文件名已经想不起来了，只记得正文中的几个词；或者资料散在多个目录里，需要边搜、边看内容、边确认哪个才是目标文件。 
-找到文件以后还能做什么
-找到一份接近的资料后，可以继续查看内容相近文件和同目录文件。 
-如果一个项目的资料散在不同目录，也可以加入工作区集中查看，不需要复制或移动原文件。另外还有重复文件查找功能，会按内容一致的文件分组，是否处理仍由用户自己确认。 
-
-从一个结果继续查看内容相近文件和同目录文件。 
-本地文件处理边界
-AIClue 只扫描用户主动添加的目录。文件扫描、正文提取、搜索、预览和工作区数据默认都在本机处理，不会因为搜索自动上传、移动、改名或删除原文件。 
-登录、权益同步和软件更新等功能需要联网。 
-官网与下载
-官网：AIClue 智搜 | 像搜网页一样找电脑里的文件
-下载：下载 AIClue | AIClue
-当前版本与更新说明以下载页为准。 
-如果你也遇到过“明明记得里面写了什么，就是找不到文件”的情况，或者觉得现有功能哪里不合适，欢迎直接在帖子里挑毛病。 
-4 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90658</guid>
-      <pubDate>Tue, 25 Aug 2026 06:48:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】iTermate：开源的原生 macOS 终端伴侣，让 iTerm2 / Ghostty 的Agent活动状态实时可见</title>
-      <link>https://meta.appinn.net/t/topic/90657</link>
-      <description><![CDATA[【开发者自荐】iTermate：开源的原生 macOS 终端伴侣，让 iTerm2 / Ghostty 的活动状态实时可见
-
-无需离开终端，iTerm2 与 Ghostty 的每个 Session、每条命令、每个编程 Agent 的动态，都在眼前一块实时面板里。 
-
-
-为什么会有这个项目
-终端窗口开得越多，越容易失控：哪个 Tab 里的构建跑完了？哪个 Agent 正在工作、哪个在等你输入？项目又散落在哪几个窗口里？ 
-iTermate 就是为解决这个问题而生的：它像一块「状态屏」一样贴在当前前台终端窗口旁，实时汇总你所有的 Window → Tab → Session，并把普通 Shell 命令与**编程 Agent（Pi / Codex）**的运行、完成、失败、等待输入状态变成一眼可读的动画图标。 
-它完全不需要 macOS 辅助功能（Accessibility）权限——所有数据都通过 iTerm2 官方 API 与本机 Python Bridge 读取，原生 SwiftUI/AppKit 编写，全程本机通信，不采集任何云端数据。 
-那为什么不基于 tmux / Zellij，或者干脆做一个 AI 终端？ 
-这是被问得最多的问题。因为自从 AI 出现以后，终端工具已经变成了和 Todo、日历一样的新手项目——每个人都要写一个。但真正每天承载我工作、被成千上万用户打磨了十几年的，还是 iTerm2、Ghostty 这样成熟的终端，它们才是最稳定、最合适的选择。 
-所以 iTermate 的定位很克制：不重造终端，只做终端的「状态屏」——在成熟终端旁边，用官方 API 补上实时状态这一块拼图。 
-核心能力
-
-始终紧随当前工作区：跟随前台终端窗口自动出现，终端不在前台时自动隐藏，零打扰。 
-灵活组织 Session：按 Window 或 Project Path 分组，可折叠的 Tab 子分组，跨窗口聚合同一项目。 
-直接操作 Session：点击聚焦、悬停关闭，或一键关闭整个 Window / Tab / 项目分组，面板两侧可调宽度。 
-实时活动状态：区分普通 Shell 命令与编程 Agent 工作，显示运行 / 完成时间，完成时可选系统通知。 
-可配置状态视觉：Running、Success、Failed 等每种状态都可独立选择 Alien、Robot、Classic 三种点阵动画与颜色，并实时预览。 
-编程 Agent 集成：可选接入 Pi 与 Codex 生命周期状态，Agent 等待输入时显示低干扰的静止图标。 
-项目个性化：固定、收藏项目目录，并可为每个项目设置专属颜色。 
-原生 macOS 体验：登录时启动、菜单栏控制、深浅外观、模糊背景、Sparkle 自动更新。 
-Ghostty 支持：除 iTerm2 外，也支持 Ghostty 终端，同一套面板体验。 
-
-截图
-
-价格
-完全免费，代码开源。  无内购、无订阅、无云服务，所有状态读取与渲染都在本机完成。欢迎在仓库提交 Issue 与 PR。 
-仓库与下载
-
-仓库地址：https://github.com/SSBun/iTermate
-下载最新版：https://github.com/SSBun/iTermate/releases/latest
-系统要求：macOS 13 Ventura 及以上，Apple Silicon（arm64），需已安装 iTerm2（Ghostty 支持选配）
-
-
-[!important]
-当前公开构建为 ad hoc 签名、未经 Apple 公证，请核对发布页 .sha256 文件；若 macOS 拦截首次启动，Control 点击 App → 打开即可。 
-
-安装后打开 iTermate，它会自动把随 App 分发的 Bridge 安装到 iTerm2 AutoLaunch 脚本目录并管理生命周期，无需单独配置 Python；在 Settings → Agents 里启用 Pi / Codex 集成即可看到 Agent 状态。 
-写在最后
-iTermate 是我业余时间用 Swift 5 写的原生 macOS 应用，目前仍在快速迭代中（Ghostty 支持刚落地，v0.3.0 正在发布）。如果你和我一样经常开着十几个终端窗口同时跑构建和 Agent，欢迎试试它——好用的话，一个 Star 就是最大的支持 
-有问题或想法，直接来 https://github.com/SSBun/iTermate/issues 聊聊。 
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90657</guid>
-      <pubDate>Tue, 25 Aug 2026 06:47:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>〖开发者自荐〗讯览：一个免费好用的微信信息情报站</title>
-      <link>https://meta.appinn.net/t/topic/90654</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90654</guid>
-      <pubDate>Tue, 25 Aug 2026 06:37:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>WindowMark – 给 Windows 窗口加上书签、边框和置顶标记</title>
-      <link>https://meta.appinn.net/t/topic/90635</link>
-      <description><![CDATA[标题：WindowMark – 给 Windows 窗口加上书签、边框和置顶标记
-软件名称
-WindowMark
-应用平台
-Windows 10 / Windows 11
-推荐类型
-〖开发者自荐〗
-是否收费
-免费，无需注册。 
-一句简介
-给 Windows 窗口加上书签、彩色边框和置顶标记，在同时打开很多窗口时，更快找到自己想要的那个。 
-应用简介
-平时同时开很多资源管理器、Chrome、VS Code、Word 或其他程序窗口时，我经常碰到一个问题：
-任务栏里知道这个程序开了很多窗口，但真正想找其中某一个时，还是要一个个点。 
-所以做了 WindowMark。 
-它目前主要有三个功能。 
-1. 窗口书签
-当同一个程序打开多个窗口时，WindowMark 会在窗口边缘显示一组小书签。 
-例如同时打开三个资源管理器窗口，可以直接点击对应书签切换，不需要再从任务栏缩略图里找。 
-书签平时保持很小，鼠标悬停后展开显示窗口名称；也可以悬停预览窗口内容。 
-窗口最大化后，书签会自动移动到底部，尽量少占屏幕空间。 
-2. 窗口边框增强
-可以给普通 Windows 窗口增加一圈彩色边框，并分别设置：
-
-
-当前活动窗口颜色
-
-
-非活动窗口颜色
-
-
-边框宽度
-
-
-自定义颜色
-
-
-主要是解决深色主题、多显示器或者同时叠放很多窗口时，不容易判断“当前到底操作的是哪个窗口”的问题。 
-这个功能和书签是独立的，不需要书签也可以单独使用。 
-3. 窗口置顶
-可以把任意普通窗口保持在最上层。 
-目前支持三种方式：
-
-
-标题栏右键 →「置于顶层」
-
-
-从托盘拖动准星到目标窗口
-
-
-自定义全局快捷键
-
-
-被置顶的窗口会同时显示一圈高亮边框，方便判断哪些窗口正处于置顶状态。 
-退出 WindowMark 后，会把这些窗口恢复到原来的状态。 
-一些设计上的考虑
-WindowMark 尽量保持成一个普通的小工具。 
-不注入 DLL，不修改 Explorer，不修改任务栏，不安装驱动，也不需要 Windows 服务，平时就是一个托盘程序。 
-书签、窗口边框和窗口置顶三个功能也可以分别开关，不需要的功能可以直接关闭。 
-目前主要针对 Windows 10 / 11 使用。 
-截图预览
-
-
-同一个程序打开多个窗口时，底部书签的实际效果
-
-
-鼠标悬停书签后的窗口预览
-
-
-窗口彩色边框效果
-
-
-
-标题栏右键「置于顶层」或准星抓取窗口的效果
-
-
-
-置顶后效果，再次右击取消勾选置于顶层即可。 
-
-官方网站 / 下载
-GitHub：WindowMark 项目主页： GitHub - yakoye/WindowMark · GitHub
-可以直接下载 Release，解压后运行，也可以使用安装程序安装。 
-目前版本：v0.4.1
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90635</guid>
-      <pubDate>Tue, 25 Aug 2026 00:22:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
