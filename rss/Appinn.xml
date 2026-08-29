@@ -4,7 +4,21 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Sat, 29 Aug 2026 04:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:09:55 GMT</lastBuildDate>
+    <item>
+      <title>不锁屏、不打断，护眼宝：派6只宠物强制提醒你</title>
+      <link>https://www.appinn.com/huyanbao-2/</link>
+      <description><![CDATA[提到护眼软件，很多人都联想到呈现出黄色状态的显示效果，先不说护眼效果怎么样，这个黄色看起来，真的不舒服呀。 @Appinn 来自发现频道的开发者 i_wang 推荐了自己的软件护眼宝：https://m]]></description>
+      <guid>https://www.appinn.com/huyanbao-2/</guid>
+      <pubDate>Sat, 29 Aug 2026 09:22:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 26.04.1 LTS 正式发布</title>
+      <link>https://www.appinn.com/ubuntu-26-04-1-lts/</link>
+      <description><![CDATA[代号 Resolute Raccoon（坚毅浣熊）的 Ubuntu 26.04.1 LTS 版本正式发布，这个版本主要汇总了从26.04 → 26.04.1 这四个月左右积累的更新，包括安全更新、高严]]></description>
+      <guid>https://www.appinn.com/ubuntu-26-04-1-lts/</guid>
+      <pubDate>Sat, 29 Aug 2026 09:07:16 GMT</pubDate>
+    </item>
     <item>
       <title>Edge 152 正式停用广受欢迎的 Drop 文件传输功能</title>
       <link>https://www.appinn.com/edge-152-removes-drop-file-transfer/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[新上手 Mac 的时候，你是不是也经常被右键菜单气到？是的，被气到。 这些动作单次都不费事，但架不住天天遇到，影响工作效率。 快试试本周上架的 Mac 右键菜单增强工具 Menuist。 它把新建、移]]></description>
       <guid>https://www.appinn.com/menuist/</guid>
       <pubDate>Sun, 23 Aug 2026 12:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>ntfsmac – 适用于苹果 M 芯片，开源 NTFS 读写工具（无需内核扩展或SIP修改)</title>
-      <link>https://www.appinn.com/ntfsmac/</link>
-      <description><![CDATA[新买 Mac 电脑后，当你插入普通的 NTFS 移动硬盘，就会遇到第一个困难：只能读，不能写。想要折腾一下，你会发现得动操作系统，不是安装内核扩展，就是重启电脑关闭 SIP，而 SIP 本身叫做系统完]]></description>
-      <guid>https://www.appinn.com/ntfsmac/</guid>
-      <pubDate>Sun, 23 Aug 2026 07:43:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 时间点还原默认开启，真后悔药：可恢复系统与用户文件数据</title>
-      <link>https://www.appinn.com/windows-11-point-in-time-restore-default/</link>
-      <description><![CDATA[你有没有遇到过这种情况：桌面上保存了一个重要文件，清理电脑时顺手删除。几个小时后才发现，删掉的是正在使用的资料，回收站里也没有了… Windows 11 新加入的时间点还原（Point-i]]></description>
-      <guid>https://www.appinn.com/windows-11-point-in-time-restore-default/</guid>
-      <pubDate>Sat, 22 Aug 2026 07:28:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

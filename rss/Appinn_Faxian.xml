@@ -4,7 +4,83 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 04:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:09:24 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】Cursor Crane：以键盘控制 Mac 的鼠标、窗口和文本操作</title>
+      <link>https://meta.appinn.net/t/topic/90888</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90888</guid>
+      <pubDate>Sat, 29 Aug 2026 08:19:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>OneAsr —— Windows 本地离线批量音视频转 SRT 字幕</title>
+      <link>https://meta.appinn.net/t/topic/90884</link>
+      <description><![CDATA[软件名称
+OneAsr
+应用平台
+
+Windows
+
+推荐类型
+【开发者自荐】
+是否收费
+免费，开源（MIT）
+一句简介
+Windows 本地离线批量字幕工具：音视频直接转 SRT，识别与对齐全在本机完成，素材不上传云端。 
+应用简介
+基于阿里通义 Qwen3-ASR 与 Qwen3-ForcedAligner，音视频在本机完成识别与词级对齐，直接输出带时间轴的 SRT 字幕。 
+处理流程：音视频 → VAD 分段 → ASR 识别 → ForcedAligner 对齐 → 智能断句 → output/*.srt
+主要功能：
+
+完全本地离线：识别与对齐均在本机完成，识别过程可断网，素材不出机
+批量队列：一次添加多个音视频文件，进度与各阶段耗时一目了然
+11 种源语言：中文普通话、粤语、English、日本语、한국어、Français、Deutsch、Italiano、Español、Português、Русский（需手动指定，无自动检测）
+双规格 ASR：Qwen3-ASR 0.6B（更快省显存）/ 1.7B（更准）
+词级时间轴：ForcedAligner 对齐打轴 + 字幕长度预设（短 / 标准 / 松），不是整段估时间
+VAD 智能分段：目标段长 30–180 秒，长音频更稳
+一安装包两后端：同一二进制含 CUDA 引擎，有 N 卡走 GPU，无 N 卡自动走 CPU
+附带命令行：oneasr-cli.exe 与 GUI 同一条流水线，方便脚本与批处理调用
+
+配置要求：Windows 10 / 11（64 位）；推荐 NVIDIA 显卡 4GB+ 显存（1.7B 建议 6GB+），无独显可走 CPU（速度明显更慢）。安装包不含模型，首次使用在设置中从 ModelScope 下载：ASR 0.6B 约 1.75 GB / 1.7B 约 4.38 GB（二选一），ForcedAligner 约 1.71 GB（必下），CUDA 运行库约 820 MB（有 N 卡建议下载）。 
+使用方法：安装或解压后运行 oneasr.exe → 在设置中下载模型 → 添加音视频、选好语言 → 开始，完成后在 output/ 目录查看同名 .srt。 
+中文界面。 
+截图预览：
+
+
+
+下载地址
+
+GitHub Releases（安装包 / 便携包，推荐）：Releases · eclipse005/OneAsr · GitHub
+蓝奏云镜像：https://wwbxg.lanzouq.com/b00jffawle 密码 a4n5
+
+官方网站
+
+
+github.com
+
+
+
+
+GitHub - eclipse005/OneAsr: 本地离线批量音视频转 SRT 字幕（Qwen3-ASR + ForcedAligner）
+本地离线批量音视频转 SRT 字幕（Qwen3-ASR + ForcedAligner）
+
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90884</guid>
+      <pubDate>Sat, 29 Aug 2026 07:36:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>〖开源自荐〗WinStoreRegion — 一键临时切换 Microsoft Store 区域，并自动恢复</title>
+      <link>https://meta.appinn.net/t/topic/90878</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90878</guid>
+      <pubDate>Sat, 29 Aug 2026 05:59:21 GMT</pubDate>
+    </item>
     <item>
       <title>智谱（GLM） 3 亿 token 领取指南</title>
       <link>https://meta.appinn.net/t/topic/90849</link>
@@ -367,153 +443,6 @@ AI Story 是一款面向 Windows 与 macOS 的本地 AI 短视频创作工作台
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90727</guid>
       <pubDate>Wed, 26 Aug 2026 09:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐开源】界面美观，功能丰富的跨平台音乐播放器Vynody</title>
-      <link>https://meta.appinn.net/t/topic/90713</link>
-      <description><![CDATA[软件名称
-Vynody
-应用平台
-
-Windows
-MacOS
-Linux
-Android
-iOS（现在还没上线，即将上线）
-
-推荐类型
-【开发者自荐】
-是否收费
-免费 / 付费（github版免费，苹果商店及微软商店版收费）
-github项目链接： GitHub - axel10/vynody: A visually appealing and feature-rich Flutter music player · GitHub
-一句简介
-用Flutter开发的一个音乐播放器
-应用简介
-2026年8月26日 已完成功能：
-
-支持 类似Apple Music的逐行聚焦歌词
-支持 FFmpeg解码，支持几乎所有主流格式
-支持 频谱动画
-支持 波形进度条
-支持 播放状态记忆与恢复
-支持 响应式界面布局以及小窗模式
-支持 音频转码
-支持 AI歌词生成与翻译
-支持 本地局域网歌曲传输
-支持 本地局域网播放遥控
-支持 媒体库歌曲管理
-支持 播放速度调节
-支持 均衡器音效调节
-支持 自动补全歌曲标签
-支持 自动lrclib歌词查询
-支持 歌词编辑以及偏移调节
-支持 听歌识曲
-支持 自定义快捷键
-支持 3D Cover Flow 专辑视图
-
-开发中功能：
-
-Navidrome、WebDAV等远程歌曲播放支持
-
-截图预览：
-
-
-
-
-
-3 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90713</guid>
-      <pubDate>Wed, 26 Aug 2026 06:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】-每日一照-记录自己的变化</title>
-      <link>https://meta.appinn.net/t/topic/90703</link>
-      <description><![CDATA[软件名称
-每日一照（shot a lot)
-应用平台
-
-Windows
-MacOS
-Linux
-(桌面端WEB)
-
-推荐类型
-【开发者自荐】
-是否收费
-免费
-一句简介
-每天进行拍照,制作自己的变化GF
-应用简介
-
-文件夹选择和拍照保存
-gif制作
-虚影拍照对齐功能
-
-截图预览：
-
-官方网站
-
-
-
-shot.cornradio.org
-
-
-Shot-A-Lot - 极简定格动画辅助助手
-
-
-
-
-
-6 个帖子 - 4 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90703</guid>
-      <pubDate>Wed, 26 Aug 2026 04:19:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】Mole：原生 Mac 清理与系统工具，支持 App 管理、磁盘分析和状态监控</title>
-      <link>https://meta.appinn.net/t/topic/90699</link>
-      <description><![CDATA[软件名称
-Mole
-应用平台
-
-macOS 14.0 及以上
-支持 Apple 芯片和 Intel 芯片
-
-推荐类型
-【开发者自荐】
-是否收费
-Mac 客户端付费，19 美元买断，永久更新，可用于 2 台 Mac，命令行版免费开源。 
-一句简介
-一个原生 macOS 清理与系统工具，把缓存清理、软件管理、磁盘分析和实时状态放在一个 App 里。 
-应用简介
-Mole 最早是一个免费开源的命令行工具，现在也有了原生 Mac 客户端。 Mac 版把清理、软件、优化、磁盘分析和状态监控放进一个窗口，动手前会先列出文件和大小，不确定的内容默认跳过，扫描和清理都在本机完成。 
-目前支持：
-
-查看并清理常见缓存，每一项都能选择、跳过或加入保护清单，也可以统一移到废纸篓
-卸载 App 时一起检查相关残留，移除前可以看到 App 和残留各占多少空间
-检查来自 Sparkle、App Store、Homebrew 等来源的软件更新，并管理支持的启动项和后台项
-集中维护 Quick Look、缓存、元数据和常见 macOS 服务，有风险或不适用的任务会自动跳过并说明原因
-用整盘树形图查看空间占用，逐层进入目录，也可以在 Finder 中显示文件或移到废纸篓
-实时查看 CPU、内存、GPU、磁盘、网络、温度、风扇、电池和运行中的进程
-把常用指标放进菜单栏，还带有电池养护、风扇控制、隐私提醒、屏幕常亮和擦屏幕等小工具
-所有扫描和清理都在本机进行，不会上传文件和扫描结果
-
-截图预览：
-
-
-
-
-
-
-官方网站
-https://mole.fit/
-GitHub
-免费开源的命令行版： GitHub - tw93/Mole: 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. · GitHub
-11 个帖子 - 6 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90699</guid>
-      <pubDate>Wed, 26 Aug 2026 03:31:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

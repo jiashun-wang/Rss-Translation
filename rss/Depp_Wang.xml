@@ -4,7 +4,16 @@
     <title>德普王</title>
     <link>https://depp.wang/</link>
     <description>每个人都需要有自己的哈姆雷特</description>
-    <lastBuildDate>Sun, 23 Aug 2026 02:31:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:58:34 GMT</lastBuildDate>
+    <item>
+      <title>《大空头》与 2008 年金融危机</title>
+      <link>https://depp.wang/2026/the-big-short/</link>
+      <description><![CDATA[
+看完《大空头》以后，我原本以为 2008 年金融危机的逻辑很简单：美国人借了太多房贷，还不上，于是房价下跌，银行就出问题了。 
+但电影真正讲的不是一笔笔房贷本身，而是这些房贷后来被华尔街不断打包、出售、再打包，以及在上面反复下注。危机的核心，是大量低质量的次级房贷被证券化，并通过 MBS、CDO 和衍生品扩散到整个金融系统。最开始只是少数人还不起房贷，为什么会变成全球金融危机？我把自己看电影时想问的几个问题，按这条链路重新整理了一下。 ]]></description>
+      <guid>https://depp.wang/2026/the-big-short/</guid>
+      <pubDate>Sat, 29 Aug 2026 09:37:25 GMT</pubDate>
+    </item>
     <item>
       <title>一副牌的惯蛋玩法</title>
       <link>https://depp.wang/2026/guandan/</link>
@@ -81,7 +90,7 @@ eSIM 漫游流量简单来说就是让外国人来中国用的漫游流量，可
       <pubDate>Tue, 16 Jun 2026 14:41:18 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>给踏板摩托车换轮胎</title>
       <link>https://depp.wang/2026/motorcycle-tyre/</link>
       <description><![CDATA[前两天在小区骑踏板摩托车取快递突然发现摩托车方向不受控制了，以为是摩托车龙头出现问题了，结果发现是后轮爆胎了。运气很好，在小区爆胎，没有在上班骑行过程中爆胎。 
 ]]></description>
@@ -140,7 +149,7 @@ eSIM 漫游流量简单来说就是让外国人来中国用的漫游流量，可
       <pubDate>Sat, 11 Apr 2026 14:12:46 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>我写了个从 Obsidian 自动发布文章到微信公众号的工具</title>
       <link>https://depp.wang/2026/obsidian-to-wechat/</link>
       <description><![CDATA[
 我之前写过一篇如何使用 Obsidian 管理个人知识库，里面提到我的文章创建与编辑都在 Obsidian 中完成，然后通过脚本自动同步到 Hexo 博客。最近我又把这套流程扩展到了微信公众号——写完文章，打个标签，运行脚本，草稿就自动出现在公众号后台了，不用复制粘贴，不用手动排版。 ]]></description>
@@ -154,14 +163,6 @@ eSIM 漫游流量简单来说就是让外国人来中国用的漫游流量，可
 做软件后端开发，MacBook 只能用 Pro，Air 胜任不了，不知道你是否还这么想，反正我原来一直是这么想的。最近准备买个 MacBook Pro 14 寸，但看后端同事买的 M2 16G+256G MacBook Air 使用都没有问题，就改变观念打算买 MacBook Air 了。其颜值与价格也有优势。买的 15 寸，15 寸重量与 14 寸 MacBook Pro 差不多，但屏幕更大，更适合移动使用。对我来说，Air 相比 Pro 最大的劣势是在室外使用上，最大亮度只有 500nit，太阳下可能有点看不清，还可能发烫。我觉得 Pro 更适合固定外连显示器使用、偶尔移动的场景，16 寸 MacBook Pro 有点太厚重了。 ]]></description>
       <guid>https://depp.wang/2026/m4-macbook-air/</guid>
       <pubDate>Sun, 08 Mar 2026 13:46:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用 Claude Code 开发了个 Claude Code 用量监控工具</title>
-      <link>https://depp.wang/2026/claude-code-usage-tracker/</link>
-      <description><![CDATA[不知道你使用 Claude Code（会员订阅）有没有这样的问题：官方只提供了一个模糊的进度条，不知道每天使用了多少 token，不知道对应的费用是多少，也不知道每天的使用占每周额度的比例，更没有历史记录功能；Weekly 与每 5 小时周期到期后还需要手动触发下一个周期。 
-为了解决这些问题，我用 Claude Code 开发了个 Claude Code 用量监控工具。 ]]></description>
-      <guid>https://depp.wang/2026/claude-code-usage-tracker/</guid>
-      <pubDate>Sat, 07 Mar 2026 08:31:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

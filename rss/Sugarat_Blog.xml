@@ -4,7 +4,14 @@
     <title>粥里有勺糖</title>
     <link>https://sugarat.top</link>
     <description>你的指尖,拥有改变世界的力量（大前端相关技术分享）</description>
-    <lastBuildDate>Thu, 27 Aug 2026 04:29:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:08:29 GMT</lastBuildDate>
+    <item>
+      <title>视野修炼第131期 | bun 与 pnpm Rust 化</title>
+      <link>https://sugarat.top/weekly/2026-08-29.html</link>
+      <description><![CDATA[① MobileView - 同屏网站在不同设备上的效果 ② orb - 液态玻璃球效果 ③ Bun 1.4 - Rust 重构版上线 ④ Node.js 26.8.0 - 原生支持读写ZIP ⑤ pnpm 12 - Rust 重构 ⑥ 反转 PDF 文档颜色 ⑦ PicLite - 压缩图片的客户端 ⑧ MicroLighter - 轻量的代码高亮库 ⑨ 图片转 SVG]]></description>
+      <guid>https://sugarat.top/weekly/2026-08-29.html</guid>
+      <pubDate>Sat, 29 Aug 2026 11:02:47 GMT</pubDate>
+    </item>
     <item>
       <title>视野修炼第130期 | 光影效果</title>
       <link>https://sugarat.top/weekly/2026-08-23.html</link>
@@ -118,13 +125,6 @@
       <description><![CDATA[25年12月25日进行的胸腹主替换手术，时长约6小时，由心外顶尖医生&quot;孙立忠&quot;主刀，顺利拿下；近期状态恢复得还行，在这里记录分享一下相关细节。]]></description>
       <guid>https://sugarat.top/essay/life/sbzy-26-1-5.html</guid>
       <pubDate>Wed, 07 Jan 2026 07:05:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>又双叒住院了</title>
-      <link>https://sugarat.top/essay/life/sbzy-12.html</link>
-      <description><![CDATA[今年第七次住院了；不过这次手术处理完，就没有隐患了。]]></description>
-      <guid>https://sugarat.top/essay/life/sbzy-12.html</guid>
-      <pubDate>Tue, 23 Dec 2025 04:13:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
