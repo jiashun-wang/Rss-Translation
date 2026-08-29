@@ -4,7 +4,7 @@
     <title>GMD - recent papers</title>
     <link>https://gmd.copernicus.org/articles/</link>
     <description>Combined list of the recent articles of the journal Geoscientific Model Development and the recent discussion forum Geoscientific Model Development Discussions</description>
-    <lastBuildDate>Fri, 28 Aug 2026 18:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 03:58:53 GMT</lastBuildDate>
     <item>
       <title>通过 E3SM 中的弱耦合海洋数据同化改进地球系统变异性的模拟</title>
       <link>https://doi.org/10.5194/gmd-19-8003-2026</link>
@@ -13,7 +13,7 @@
                         地理学。模型开发，19，8003–8023，https://doi.org/10.5194/gmd-19-8003-2026，2026
                         可靠的气候预测需要准确的海洋初始条件。我们开发了一个海洋数据同化系统，将海洋温度和盐度再分析纳入气候模型。该系统改进了对数年至数十年气候变化以及美国冬季气温和降水的模拟。其他后报显示没有明显的初始化冲击，并再现了物理相干的 ENSO 遥相关模式，支持更可靠的气候预测。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8003-2026</guid>
-      <pubDate>Thu, 27 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>DeepMelt-GL v1：海洋模型中冰架空腔未代表区域的亚架融化速率神经网络模拟器</title>
@@ -23,7 +23,7 @@
                         地理学。模型开发，19，7979–8002，https://doi.org/10.5194/gmd-19-7979-2026，2026
                         由于数值计算成本高昂，气候模型必须在高空间分辨率和长时间运行之间做出选择。在这里，我们开发了一个简单的神经网络来模拟南极冰架下发生的小规模过程，这使得亚冰架融化和冰与海洋相互作用能够包含在可以运行多个世纪的全球海洋模型中。这个神经网络将帮助我们了解未来海洋环流可能如何变化。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7979-2026</guid>
-      <pubDate>Thu, 27 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>湍流驱动的营养物供应维持北极冰藻的生长：使用 CICE 6.1 与 Icepack 1.2 以及 SIMBA 2.0 相结合的建模方法</title>
@@ -33,7 +33,7 @@
                         地理学。模型开发，19，7939–7959，https://doi.org/10.5194/gmd-19-7939-2026，2026
                         海冰界面的养分交换是极地地区供应养分和支持海冰藻类生长的关键过程。这种通量取决于冰下流动的特征，无论是平滑的还是湍流的。我们开发并实现了一个参数化，可以解释两个海冰生物地球化学模型中的流动状态。通过增强养分通量，湍流支持更高的初级生产，从而使生物量积累增加一倍以上。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7939-2026</guid>
-      <pubDate>Wed, 26 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>LFD (v1.0)：具有地质先验和地球物理正则化的隐式结构建模的潜在无压缩生成扩散</title>
@@ -43,7 +43,7 @@
                         地理学。模型开发，19，7961–7977，https://doi.org/10.5194/gmd-19-7961-2026，2026
                         我们提出了一种通过地震勘测生成地下结构模型的快速方法，同时尊重已知的层位和断层。我们的方法不是将数据压缩为隐藏表示，而是直接使用原始模型值并在生成过程中应用地质约束。对合成和真实调查的测试显示出更真实的结构和高效的预测，在 NVIDIA H20 图形处理单元上可在 1.56 秒内生成 512 x 512 模型。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7961-2026</guid>
-      <pubDate>Wed, 26 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>不同分辨率下比利时 ALARO1-SFX (CY43T2) 区域气候模型的评估</title>
@@ -54,7 +54,7 @@
                         
 本研究利用长期气候模拟，以多种分辨率评估了比利时 ALARO (ALADIN-AROME) 区域气候模型的更新版本。将模型与外化表面方案 SURFEX（SurfaceExternalisée）耦合并以更高分辨率运行，可以改善模拟温度、降水和极端降水，支持高分辨率模型在代表当地气候极端情况和为适应提供信息方面的价值。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7911-2026</guid>
-      <pubDate>Tue, 25 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>具有自适应观测误差膨胀和自适应定位的古气候数据同化</title>
@@ -64,7 +64,7 @@
                         地理学。模型开发，19，7893–7909，https://doi.org/10.5194/gmd-19-7893-2026，2026
                         从稀疏的珊瑚记录中重建过去的温度是具有挑战性的。我们开发了两种自适应方法来改进模型模拟与代理数据的结合方式。第一个根据模型一致性调整每个记录的信任度；第二个调整每个记录对重建的影响程度。我们的方法提高了准确性并更好地捕获了厄尔尼诺-南方涛动模式，特别是在数据匮乏的地区。这些策略使气候重建更加可靠]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7893-2026</guid>
-      <pubDate>Tue, 25 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>LISFLOOD v4.1.1 的水文审计：模型设置对波河流域水平衡组成部分的影响</title>
@@ -74,7 +74,7 @@
                         地理学。模型开发，19，7855–7892，https://doi.org/10.5194/gmd-19-7855-2026，2026
                         我们评估了大型流域模型的不同配置如何影响意大利波河流域的水流、蒸发、土壤湿度和地下水的模拟。我们测试了替代土壤深度以及包含或去除地下流动路径，并将结果与​​观测结果和已建立的长期水平衡关系进行比较。与河流流量最匹配的设置通常会低估蒸发量并高估深层地下水补给量。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7855-2026</guid>
-      <pubDate>Mon, 24 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>利用扩散模型预测风速临近预报不确定性量化的预报误差</title>
@@ -84,7 +84,7 @@
                         地理学。模型开发，19，7835–7853，https://doi.org/10.5194/gmd-19-7835-2026，2026
                         该研究提出了一种基于扩散的框架，通过学习预测误差分布来量化风速临近预报的不确定性。通过随机生成误差并将其添加到基于物理的风临近预报中，可以生成多个预报场景。结果提高了预测准确性并提供了预测不确定性的可靠估计。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7835-2026</guid>
-      <pubDate>Mon, 24 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>斯托克斯冰流模型中的接地线动力学 (Elmer/Ice v9.0)：改进的数值稳定性允许更大的时间步长</title>
@@ -94,7 +94,7 @@
                         地理学。模型开发，19，7817–7834，https://doi.org/10.5194/gmd-19-7817-2026，2026
                         为了克服时间步长限制，我们在斯托克斯冰盖模拟中的冰海界面实施了自由表面稳定算法（FSSA）。在二维实验中，10 年的时间步长通常在数值上稳定且准确，而 50 年的时间步长虽然稳定，但无法完全捕获接地线动态。在冰海界面的实施增加了斯托克斯模型的适用性，并促进了未来与自适应时间步进方案的耦合。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7817-2026</guid>
-      <pubDate>Fri, 21 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>优化高斯过程仿真和广义加法模型拟合，以进行快速、可重复的地球系统模型分析</title>
@@ -104,7 +104,7 @@
                         地理学。模型开发，19，7767–7785，https://doi.org/10.5194/gmd-19-7767-2026，2026
                         了解气候模型的哪些部分导致不确定性需要许多大型计算机实验。我们开发了一种新的工作流程，大大提高了这些研究的速度和效率。它可以以高达 25 倍的速度分析数百万个模型变化，而不会损失准确性，使科学家能够更详细地探索不确定性并使气候预测更加可靠。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7767-2026</guid>
-      <pubDate>Fri, 21 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>ISBA (SURFEX v9) 地表模型中氮循环的表示及其与碳循环的耦合：使用两个自由空气 CO2 富集实验场进行评估</title>
@@ -114,7 +114,7 @@
                         地理学。模型开发，19，7787–7815，https://doi.org/10.5194/gmd-19-7787-2026，2026
                         文章描述了氮循环在地表模型ISBA（相互作用-土壤-生物圈-大气）中的实现。该模型使用自由空气二氧化碳富集实验进行评估。与多模型分析的比较表明，氮模型版本比纯碳版本表现更好，特别是对二氧化碳升高和碳储量较小的敏感性降低。我们还对土壤中模拟的氮动态进行了详细分析。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7787-2026</guid>
-      <pubDate>Fri, 21 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>GCAM-Europe v7.2.0：通过空间和部门细节加强与政策相关的气候建模</title>
@@ -124,7 +124,7 @@
                         地理学。模型开发，19，7741–7766，https://doi.org/10.5194/gmd-19-7741-2026，2026
                         GCAM-Europe 是一种开放获取的建模工具，旨在评估欧洲国家气候和环境政策的影响。它建立在全球框架的基础上，增加了欧洲详细的区域和部门代表性，包括能源、土地利用、水和排放。这样可以分析国家内部和国家之间的政策效果以及全球溢出效应，以支持透明、基于证据的决策。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7741-2026</guid>
-      <pubDate>Thu, 20 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>耦合模型比较项目各模型阶段的代码可访问性和代码质量</title>
@@ -134,7 +134,7 @@
                         地理学。模型开发，19，7687–7704，https://doi.org/10.5194/gmd-19-7687-2026，2026
                         我们研究了随着时间的推移，主要气候模型背后的计算机代码的可访问性和可靠性。通过审查耦合模型比较项目的不同阶段，我们发现透明度和编码实践方面有所改进，但也发现了限制可重复性的差距。我们的工作提出了切实可行的步骤，使未来的气候研究对科学家和社会来说更加开放、可追溯和值得信赖。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7687-2026</guid>
-      <pubDate>Thu, 20 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>AQUA v1.0.0：适应气候变化数字孪生质量评估应用——核心引擎</title>
@@ -144,7 +144,7 @@
                         地理学。模型开发，19，7725–7740，https://doi.org/10.5194/gmd-19-7725-2026，2026
                         我们推出了一款名为 AQUA 的新型开源软件，旨在处理和评估高分辨率气候模拟产生的大量数据。随着气候模型变得更加详细，其输出对于传统分析方法来说可能变得太大和复杂。我们引入了一种新的数据访问、处理和比较框架，该框架快速、可靠且易于自动化。我们的结果表明，它可以有效地管理非常大的数据集并支持实时质量检查。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7725-2026</guid>
-      <pubDate>Thu, 20 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     <item>
       <title>利用大气模型 ICON 提升以飓风为中心的高效模拟能力</title>
@@ -157,7 +157,7 @@
 
 飓风预测的计算机模型越来越详细，但需要大量的计算资源。我们开发了一种跟踪飓风的灵活方法，仅在需要时应用高分辨率模拟。与传统的有限区域相比，该方法可将计算成本降低一个数量级，同时实现低至 300 米的分辨率。该方法可以实现更有效的飓风研究并增进对热带动力学的了解。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7705-2026</guid>
-      <pubDate>Thu, 20 Aug 2026 17:23:38 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 19:32:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

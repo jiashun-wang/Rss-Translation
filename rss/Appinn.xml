@@ -4,7 +4,14 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Fri, 28 Aug 2026 18:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:05:47 GMT</lastBuildDate>
+    <item>
+      <title>Edge 152 正式停用广受欢迎的 Drop 文件传输功能</title>
+      <link>https://www.appinn.com/edge-152-removes-drop-file-transfer/</link>
+      <description><![CDATA[微软在最新的 Edge 152 中正式停用了 Drop 功能，它本可以让用户在不同设备间拖动传输照片、文件、链接、视频等。 @Appinn 最近一段时间以来，只要打开 Drop 就会提示： Drop 即]]></description>
+      <guid>https://www.appinn.com/edge-152-removes-drop-file-transfer/</guid>
+      <pubDate>Sat, 29 Aug 2026 03:40:51 GMT</pubDate>
+    </item>
     <item>
       <title>本周赛博领鸡蛋（8.28~9.3）：《呼吸边缘》《家族传奇：桌面版》《逃出百慕大》</title>
       <link>https://www.appinn.com/eggs-26828/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[你有没有遇到过这种情况：桌面上保存了一个重要文件，清理电脑时顺手删除。几个小时后才发现，删掉的是正在使用的资料，回收站里也没有了… Windows 11 新加入的时间点还原（Point-i]]></description>
       <guid>https://www.appinn.com/windows-11-point-in-time-restore-default/</guid>
       <pubDate>Sat, 22 Aug 2026 07:28:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>26/27 英超赛程日历，临时上线！</title>
-      <link>https://www.appinn.com/26-27-premier-league-calendar/</link>
-      <description><![CDATA[Hi 各位，这是一份由青小蛙维护的2026～2027赛季英格兰足球超级联赛赛程、比分、进球日历，可订阅到手机/电脑日历应用中，会自动更新比分。 @Appinn 终于赶在英超开赛前做好啦。 比较简单，订阅]]></description>
-      <guid>https://www.appinn.com/26-27-premier-league-calendar/</guid>
-      <pubDate>Fri, 21 Aug 2026 12:06:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

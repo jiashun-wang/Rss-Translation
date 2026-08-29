@@ -4,7 +4,20 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 18:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:05:33 GMT</lastBuildDate>
+    <item>
+      <title>移动端只读模式，在隐藏了底栏的状况下还是难以选中文字</title>
+      <link>https://ld246.com/article/1787965818111</link>
+      <description><![CDATA[版本为 3.8.2 alpha4
+只读模式下，底栏未隐藏时，选中文字非常顺手（0-6s）;但如果下滑一段距离使得底栏隐藏后，复制文字就变得比较难受（7-14s）。 
+另外，编辑模式有底栏时复制也很方便（15-22s），但是底栏隐藏后，复制起来又直接键盘弹出
+编辑模式下不知道是不是设计如此，但是只读模式下感觉不太符合通常情况。望开发者们帮忙看看，谢谢！ 
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1787965818111</guid>
+      <pubDate>Sat, 29 Aug 2026 02:31:18 GMT</pubDate>
+    </item>
     <item>
       <title>Flexnote 居然支持导入思源了</title>
       <link>https://ld246.com/article/1787932093683</link>
@@ -122,17 +135,6 @@ p.s. 我的提示词是：“翻译选中的单词，选中指的是 markdown �
       <description><![CDATA[]]></description>
       <guid>https://ld246.com/article/1787810437707</guid>
       <pubDate>Thu, 27 Aug 2026 06:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密挂件丢失内容</title>
-      <link>https://ld246.com/article/1787801620244</link>
-      <description><![CDATA[因为重要，所以要加密，因为加密所以丢失内容！怎么找回？ 
-
-每个文档最开始的加密框都无法识别！ 
-
-]]></description>
-      <guid>https://ld246.com/article/1787801620244</guid>
-      <pubDate>Thu, 27 Aug 2026 03:33:39 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

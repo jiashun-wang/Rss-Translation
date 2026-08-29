@@ -1,67 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Scientific Reports</title>
-    <link>http://feeds.nature.com/srep/rss/current</link>
-    <description><p><em>Scientific Reports</em>&nbsp;publishes original research in&nbsp;all areas of the natural and clinical sciences. We believe that if your research is scientifically valid and technically sound then it deserves to be published and made accessible to the research community.</p>
-
-<p>By publishing with us, your research will get the coverage and attention it deserves. Open access and continuous online publication means your work will be published swiftly, ready to be accessed by anyone, anywhere, at any time. Article Level Metrics allow you to follow the conversations your work has started.</p></description>
-    <lastBuildDate>Fri, 28 Aug 2026 17:56:07 GMT</lastBuildDate>
-    <item>
-      <title>基于区块链的服务评价全流程可信闭环管理研究</title>
-      <link>https://www.nature.com/articles/s41598-026-61722-0</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 28 日； doi:10.1038/s41598-026-61722-0基于区块链的服务评价全流程可信闭环管理研究]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-61722-0</guid>
-      <pubDate>Fri, 28 Aug 2026 17:56:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有接地复位功能的低功耗动态锁存比较器，用于 180 nm CMOS 中的千兆赫模数转换</title>
-      <link>https://www.nature.com/articles/s41598-026-66414-3</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 28 日； doi:10.1038/s41598-026-66414-3一种低功耗动态锁存比较器，具有接地复位功能，用于 180nm CMOS 中的千兆赫模数转换]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-66414-3</guid>
-      <pubDate>Fri, 28 Aug 2026 17:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于自动化人道主义局势报告的大语言模型框架</title>
-      <link>https://www.nature.com/articles/s41598-026-68010-x</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 28 日； doi:10.1038/s41598-026-68010-x用于自动化人道主义局势报告的大语言模型框架]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68010-x</guid>
-      <pubDate>Fri, 28 Aug 2026 17:56:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用多模态变压器网络和 SHAP 模型对患者结果进行预测建模的新方法</title>
-      <link>https://www.nature.com/articles/s41598-026-67475-0</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 28 日； doi:10.1038/s41598-026-67475-0一种使用多模态变压器网络和 SHAP 模型对患者结果进行预测建模的新方法]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-67475-0</guid>
-      <pubDate>Fri, 28 Aug 2026 17:56:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>颗粒级配和振动强度对砂矿山废弃物孔隙水压力响应的影响*</title>
-      <link>https://www.nature.com/articles/s41598-026-68128-y</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 28 日； doi:10.1038/s41598-026-68128-y颗粒级配和振动强度对砂质矿山废弃物孔隙水压力响应的影响*]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68128-y</guid>
-      <pubDate>Fri, 28 Aug 2026 17:56:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>城市绿色空间作为碳储存和人类热舒适度的自然解决方案：来自埃塞俄比亚吉马市的证据</title>
-      <link>https://www.nature.com/articles/s41598-026-67512-y</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 28 日； doi:10.1038/s41598-026-67512-y城市绿地作为基于自然的碳储存和人类热舒适解决方案：来自埃塞俄比亚吉马市的证据]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-67512-y</guid>
-      <pubDate>Fri, 28 Aug 2026 17:56:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>一项随机试验，比较直线器械和铰接器械 (ArtiSential) 在胃癌患者腹腔镜胃切除术中的安全性和有效性</title>
-      <link>https://www.nature.com/articles/s41598-026-69080-7</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 28 日； doi:10.1038/s41598-026-69080-7一项比较直线器械和铰接器械 (ArtiSential) 在胃癌患者腹腔镜胃切除术中安全性和有效性的随机试验]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-69080-7</guid>
-      <pubDate>Fri, 28 Aug 2026 17:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>频率相关的 PI 参数优化可增强太赫兹近场成像质量</title>
-      <link>https://www.nature.com/articles/s41598-026-69212-z</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 28 日； doi:10.1038/s41598-026-69212-z频率相关的 PI 参数优化可增强太赫兹近场成像质量]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-69212-z</guid>
-      <pubDate>Fri, 28 Aug 2026 17:55:58 GMT</pubDate>
-    </item>
+    <title></title>
+    <link></link>
+    <description></description>
+    <lastBuildDate>Sat, 29 Aug 2026 03:56:40 GMT</lastBuildDate>
     </channel>
 </rss>

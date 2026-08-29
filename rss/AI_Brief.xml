@@ -4,7 +4,14 @@
     <title>AI论文简报</title>
     <link>https://ai-brief.liziran.com</link>
     <description>每天3分钟，从源头论文把握AI前沿。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 18:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:06:48 GMT</lastBuildDate>
+    <item>
+      <title>300项任务验证视觉推理，检索快12.4倍</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-29-visual-reasoning-retrieval-routing.html</link>
+      <description><![CDATA[视觉推理过程开始变得可训练、可验证，VBVR-Pro以300个程序化任务和任务专用评分器比较图像、视频与交错生成等推理载体。 文档检索可按查询联合选择模态与架构：RetrievalRouter相较最佳静态基线将准确率提高2.5%，同时提速12.4倍。 代码可以承担世界规则和状态演化。 Code World Model将可执行动力学与视觉渲染解耦，但当前证据仍局限于简单交互场景。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-29-visual-reasoning-retrieval-routing.html</guid>
+      <pubDate>Sat, 29 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>扩散对齐19项居首，记忆引用仅7.9%</title>
       <link>https://ai-brief.liziran.com/zh/daily/2026-08-28-on-policy-feedback-memory-gpu-pipelines.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[技能熵让Qwen3-4B得分从34.4%升至68.4%：长链任务的瓶颈不仅是单项技能，还包括技能切换时能否正确传递中间结果。 多模态统一越早启动越有效，受控实验显示延迟融合可能造成「视觉惰性」，训练决策需要从经验配方转向可验证证据。 用户画像中35%—49%的陈述属于过度推断。模型自我监控也可能失灵，个性化产品应将记忆内容与证据来源分开验收。]]></description>
       <guid>https://ai-brief.liziran.com/zh/daily/2026-08-09-skill-entropy-multimodal-user-profiling.html</guid>
       <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KGD提升推荐4%—12%，3D编辑语料达1200万</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-08-knowledge-refresh-agent-memory-3d.html</link>
-      <description><![CDATA[KGD把知识更新与任务适配分开，在8个公开基准上较强基线提升4%—12%，并在90天数据流和Shopee线上测试中保持收益。 持久记忆不等于持续改进：PAST-Bench用26个场景、204个任务回合，检验经验是否通过保存、检索和更新真正改善后续行为。 Hunyuan3D-Buffalo统一3D理解、生成与编辑。其8700万规模多模态语料包含1200万编辑样本，重点推进几何一致的局部修改与工作流整合。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-08-knowledge-refresh-agent-memory-3d.html</guid>
-      <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
