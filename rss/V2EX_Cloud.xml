@@ -4,10 +4,10 @@
     <title>云计算</title>
     <link>https://www.v2ex.com/</link>
     <description>way to explore</description>
-    <lastBuildDate>Wed, 26 Aug 2026 04:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:08:40 GMT</lastBuildDate>
     <item>
       <title>免费号蹲了三个月，东京 ARM 终于抢到了，还升到了 2C12G</title>
-      <link>https://www.v2ex.com/t/1236589#reply12</link>
+      <link>https://www.v2ex.com/t/1236589#reply13</link>
       <description><![CDATA[免费号蹲了三个月，东京 ARM 终于抢到了，还升到了 2C12G
 众所周知甲骨文 Always Free 的 Ampere A1 东京基本没货。我们这个号就是普通免费档，没付过钱，也没有找客服开白。 
 脚本从今年 5 月开始跑，策略很简单：先抢最小的 1C1G ，有机器再说。今天下午先抢到 1C1G ，接着按 1C6G → 2C12G 阶梯升上去了，现在已经在跑。 
@@ -18,7 +18,7 @@
 补充一句现行免费额度：官方现在是 2 OCPU / 12 GB ，不是以前传说里的 4C24G 。超标的要缩回来。 
 脚本开源了。只适合在 AMD / 笔记本上跑，别装在即将被 STOP 的那台 ARM 上，否则缩容会把自己杀掉。仓库随缘更新。 
 https://github.com/sabialab/oci-arm-hunter]]></description>
-      <guid>https://www.v2ex.com/t/1236589#reply12</guid>
+      <guid>https://www.v2ex.com/t/1236589#reply13</guid>
       <pubDate>Sun, 23 Aug 2026 09:22:00 GMT</pubDate>
     </item>
     <item>

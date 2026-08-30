@@ -4,9 +4,21 @@
     <title>德普王</title>
     <link>https://depp.wang/</link>
     <description>每个人都需要有自己的哈姆雷特</description>
-    <lastBuildDate>Sat, 29 Aug 2026 09:58:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 04:13:50 GMT</lastBuildDate>
     <item>
-      <title>《大空头》与 2008 年金融危机</title>
+      <title>读《万历十五年》：人物、制度与一个王朝的问题</title>
+      <link>https://depp.wang/2026/1587-a-Year-of-No-Significance/</link>
+      <description><![CDATA[
+我原来以为《万历十五年》是一本讲明朝某一年发生了什么事的历史书，或者更直接一点，是一本写万历皇帝的书。 
+读下来才发现不是这样。 
+它当然有历史事件，也写了很多真实人物，但读起来更像一篇很长的历史文章。黄仁宇不是把史料一条条摆出来，而是从万历皇帝、张居正、申时行、海瑞、戚继光和李贽几个人身上，写出他自己对明朝制度的理解。人物写得很具体，可读性也很好，但背后其实一直在讲同一个问题：明朝当时的社会已经在变化，治理国家的制度和思想却没有完全跟上。 
+黄仁宇的经历也让我觉得挺厉害。他早年有从军经历，后来到美国研究明史。 《万历十五年》的英文书稿在 1976 年就完成了，最开始还多次被出版社拒绝。最后他把这样一本本来很严肃的明史研究，写得很白话、很通俗，也没有把历史写成简单的忠奸故事。 
+理解这本书，还要先放回明朝的社会背景里。它仍然是一个以农业为根基的国家：土地、赋税、军饷和基层治理，都绕不开农村和农民。可真正承担国家治理的，已经不是春秋战国时期那种以宗族和名门望族为中心的贵族，而是通过科举进入官场的士大夫文官。文官既是国家建立起来解决问题的人，也是国家最难处理的问题之一。 ]]></description>
+      <guid>https://depp.wang/2026/1587-a-Year-of-No-Significance/</guid>
+      <pubDate>Sun, 30 Aug 2026 02:47:11 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
       <link>https://depp.wang/2026/the-big-short/</link>
       <description><![CDATA[
 看完《大空头》以后，我原本以为 2008 年金融危机的逻辑很简单：美国人借了太多房贷，还不上，于是房价下跌，银行就出问题了。 
@@ -15,7 +27,7 @@
       <pubDate>Sat, 29 Aug 2026 09:37:25 GMT</pubDate>
     </item>
     <item>
-      <title>一副牌的惯蛋玩法</title>
+      <title></title>
       <link>https://depp.wang/2026/guandan/</link>
       <description><![CDATA[
 大侄子来到我家过暑假，我想提升一下他的逻辑思维能力，所以就一起打扑克。 
@@ -155,14 +167,6 @@ eSIM 漫游流量简单来说就是让外国人来中国用的漫游流量，可
 我之前写过一篇如何使用 Obsidian 管理个人知识库，里面提到我的文章创建与编辑都在 Obsidian 中完成，然后通过脚本自动同步到 Hexo 博客。最近我又把这套流程扩展到了微信公众号——写完文章，打个标签，运行脚本，草稿就自动出现在公众号后台了，不用复制粘贴，不用手动排版。 ]]></description>
       <guid>https://depp.wang/2026/obsidian-to-wechat/</guid>
       <pubDate>Sun, 22 Mar 2026 15:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为后端软件工程师，我为什么买 M4 MacBook Air 做主力开发机器</title>
-      <link>https://depp.wang/2026/m4-macbook-air/</link>
-      <description><![CDATA[
-做软件后端开发，MacBook 只能用 Pro，Air 胜任不了，不知道你是否还这么想，反正我原来一直是这么想的。最近准备买个 MacBook Pro 14 寸，但看后端同事买的 M2 16G+256G MacBook Air 使用都没有问题，就改变观念打算买 MacBook Air 了。其颜值与价格也有优势。买的 15 寸，15 寸重量与 14 寸 MacBook Pro 差不多，但屏幕更大，更适合移动使用。对我来说，Air 相比 Pro 最大的劣势是在室外使用上，最大亮度只有 500nit，太阳下可能有点看不清，还可能发烫。我觉得 Pro 更适合固定外连显示器使用、偶尔移动的场景，16 寸 MacBook Pro 有点太厚重了。 ]]></description>
-      <guid>https://depp.wang/2026/m4-macbook-air/</guid>
-      <pubDate>Sun, 08 Mar 2026 13:46:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

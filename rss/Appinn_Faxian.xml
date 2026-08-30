@@ -4,9 +4,139 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:06:31 GMT</lastBuildDate>
     <item>
-      <title>【开发者自荐】Cursor Crane：以键盘控制 Mac 的鼠标、窗口和文本操作</title>
+      <title>前AI时代的本地音乐播放器ffaudio</title>
+      <link>https://meta.appinn.net/t/topic/90934</link>
+      <description><![CDATA[软件名称
+ffaudio
+应用平台
+
+Windows
+
+推荐类型
+【开发者自荐】
+是否收费
+免费
+一句简介
+前AI时代的复古PC HIFI本地音乐播放器ffaudio
+应用简介
+2026年8月29日 已完成功能：
+
+支持 WASAPI(share/exclusive)，ASIO播放
+支持 有损MP3到无损FLAC甚至DSD播放
+支持 EQ/卷积/交叉馈送等DSP
+支持 显示解码链路
+支持 歌词滚动
+支持 数据库DSL搜索
+支持 智能播放列表，导入播放列表
+支持 CUE/ZIP/SACD ISO
+支持 批量标签编辑，CJK编码修复
+
+开发中功能：
+
+macOS, Linux
+
+截图预览：
+
+
+官方网站：
+ffaudio.cc
+问题反馈：
+info@ffaudio.cc
+4 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90934</guid>
+      <pubDate>Sun, 30 Aug 2026 07:54:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个双击即用的 Windows 软件管理工具，不仅列出所有已安装软件，还能彻底卸载 + 清空注册表 + 删除残留文件夹/文件，不依赖任何运行时。</title>
+      <link>https://meta.appinn.net/t/topic/90930</link>
+      <description><![CDATA[ Windows 软件管理工具 —— 彻底卸载不留痕迹
+一句话介绍：
+一个双击即用的 Windows 软件管理工具，不仅列出所有已安装软件，还能彻底卸载 + 清空注册表 + 删除残留文件夹/文件，不依赖任何运行时。 
+ 为什么需要它
+Windows 自带「添加或删除程序」卸载后，总会留下大量垃圾：
+
+注册表卸载项残留（软件还躺在列表里）
+AppData、ProgramData 里的配置文件
+安装目录没删干净
+开始菜单快捷方式、计划任务、服务等
+手动清理太麻烦，Geek Uninstaller 等工具功能虽好，但有时需要付费或不够彻底。于是自己写了一个。 
+
+ 功能亮点
+
+软件列表一览：自动读取注册表（64位/32位/当前用户），MSI 程序自动补齐名称，默认隐藏系统组件与 KB 补丁
+彻底卸载（唯一卸载方式）：
+
+右键软件 →「彻底卸载」（或点击底部按钮）
+弹出确认对话框，点击「是」后执行
+结束相关进程 → 执行卸载（优先静默）→ 清空注册表（卸载键、App Paths、Run/RunOnce、服务、计划任务等）→ 删除相关文件夹/文件（安装目录、AppData、ProgramData、Temp、开始菜单等）
+ 不备份、永久删除，无法恢复
+
+
+切换安装路径：把已安装软件整体搬迁到新目录，自动更新注册表、快捷方式、服务等引用，尽量不影响使用
+商店应用支持：独立标签页列出 Microsoft Store 应用，同样支持彻底卸载
+搜索/筛选/排序：按名称或发布者实时过滤，列头点击排序
+
+下载链接：windows软件管理工具 · 稳住/工具箱1 - Gitee.com
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90930</guid>
+      <pubDate>Sun, 30 Aug 2026 06:25:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>DopusWorX- Directory Opus查看器 推荐</title>
+      <link>https://meta.appinn.net/t/topic/90923</link>
+      <description><![CDATA[软件名称
+DopusWorX - markdown, maths, code and CSV viewer and editor for Directory Opus
+应用平台
+
+Windows
+
+推荐类型
+【用户推荐】
+是否收费
+免费开源
+一句简介
+专为 Directory Opus 开发的文件查看器(预览插件)，支持代码文件、文本文件、md、csv、html等文档的预览和编辑。还支持二进制文件显示。 
+UI精美，可更换主题颜色，代码渲染支持多种风格。 
+应用简介
+一款原生的Directory Opus查看器插件：这是Windows动态链接库（DLL），可在Opus查看面板、弹出式查看窗口以及QuickShow弹窗中渲染文档。它并非独立应用程序；而是加载于Opus内部，依靠微软Edge WebView2运行时完成界面绘制。 
+底层拥有两层架构，并非简单在窗口内嵌入网页。该插件本身是基于Directory Opus插件SDK开发的原生C++查看器DLL，正因如此，它可以运行在查看面板、弹出查看器与QuickShow中，而不是以独立窗口形式运行。 WebView2仅作为它的绘制载体：其内部，CodeMirror及其Lezer语法库为约150种语言提供源码视图与编辑视图；markdown‑it负责解析Markdown；KaTeX与Temml渲染数学公式；Mermaid绘制各类图表。十六进制查看器、CSV表格、拼写检查以及主题功能均是为此插件专门开发。 
+该插件可识别文件类型：打开文件后，DopusWorX会自动选用适配的视图。 
+Markdown文件支持阅读、实时、源码三种模式，具备分栏预览，并且可以内联渲染数学公式（LaTeX / AsciiMath）与Mermaid图表。 
+源代码文件以源码视图打开，提供语法高亮（支持约150种语言）。 
+CSV / TSV文件以可编辑表格形式打开。 
+HTML会渲染为完整网页，同时提供源码视图与分栏模式。 
+二进制文件在十六进制查看器中打开（包含偏移量、十六进制、ASCII显示以及数据检查工具），还可选择启用字节编辑器。 
+截图预览：
+
+
+官方网站
+
+
+github.com
+
+
+
+
+GitHub - HyperWorX/DopusWorX: Document viewer and in-place editor plugin for...
+Document viewer and in-place editor plugin for Directory Opus. Markdown with Reading, Live and Source split preview, Mermaid diagrams, LaTeX/AsciiMath maths, syntax-highlighted code, an editable CSV grid, rendered HTML, and a binary/hex inspector. 30 palettes, atomic saves and private-by-default images. WebView2 + CodeMirror 6 + KaTeX/Temml.
+
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90923</guid>
+      <pubDate>Sun, 30 Aug 2026 03:56:29 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
       <link>https://meta.appinn.net/t/topic/90888</link>
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/90888</guid>
@@ -69,7 +199,7 @@ GitHub - eclipse005/OneAsr: 本地离线批量音视频转 SRT 字幕（Qwen3-AS
 
 
 
-3 个帖子 - 3 位参与者
+5 个帖子 - 3 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90884</guid>
       <pubDate>Sat, 29 Aug 2026 07:36:02 GMT</pubDate>
@@ -298,151 +428,6 @@ https://store.epicgames.com/zh-CN/p/down-in-bermuda-ios-f0d77a Down in Bermuda (
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/90769</guid>
       <pubDate>Thu, 27 Aug 2026 06:33:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开源自荐】字符反查字体，查找当前电脑中哪些字体，可以显示输入框的字符</title>
-      <link>https://meta.appinn.net/t/topic/90759</link>
-      <description><![CDATA[软件名称
-FontScope
-应用平台
-Windows
-推荐类型
-【开发者自荐】
-一句简介
-哪些字体可以显示这个生僻字？ 
-应用简介
-用于查找当前电脑中哪些字体，可以显示输入框的字符
-支持添加本地文件夹，不局限于系统字体文件夹
-支持彩色emoji，支持Noto Color Emoji字体
-
-
-官方网站
-
-
-github.com
-
-
-
-
-GitHub - dsqm/FontScope: 字符字体查找器\字符找字体  查找当前系统中哪些字体可显示输入框的字符
-字符字体查找器\字符找字体  查找当前系统中哪些字体可显示输入框的字符
-
-
-
-
-
-
-4 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90759</guid>
-      <pubDate>Thu, 27 Aug 2026 03:47:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】Fund01：Mac 多实例菜单栏基金实时盯盘工具</title>
-      <link>https://meta.appinn.net/t/topic/90733</link>
-      <description><![CDATA[软件名称
-Fund01：Mac 多实例菜单栏基金实时盯盘工具
-应用平台
-
-MacOS
-
-推荐类型
-【开发者自荐】
-是否收费
-免费
-一句简介
-这个 app 和常规的基金盯盘工具最大的差异就是，支持分组，并且支持每个分组一个菜单栏实例。可以自由开启和关闭。 
-应用功能列表
-
-最多选择五个指数看板（包括国内的上证、深证、创业板等，以及国内外实时金价、纳指、标普）
-允许设置多个分组，每个分组一个菜单栏（你可以将自己的基金进行分组，也可以追踪大 v 的基金持仓或者伴侣的基金持仓）
-菜单栏的颜色，字体样式，对齐方式皆可定制
-支持批量导入持仓列表 （虽然我们不支持基金列表的截图的图像识别，但是我们提供了 AI 提示词， 你可以拿到截图以及我们的提示词交给你的 AI 助手如豆包来生成持仓数据，一键导入）
-支持多数据源（目前有蚂蚁和东财财富， 目前还在添加别的数据源）
-
-截图
-暗色模式：
-
-亮色模式：
-
-常用设置：
-
-自定义菜单栏样式：
-
-AI 提示词生成的数据进行导入：
-
-针对 windows 和 linux 用户，也可以安装 chrome 版本，chrome 版本仅支持 badge 显示总览，其余功能一致
-项目地址： Fund01：住在 Mac 菜单栏里的基金盯盘工具 | LingAI
-开源地址：
-
-github.com
-
-
-
-
-GitHub - lingyired/fund01: 基金/组合盯盘工具 monorepo（Chrome 扩展 + Tauri 规划）
-基金/组合盯盘工具 monorepo（Chrome 扩展 + Tauri 规划）
-
-
-
-
-
-
-2 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90733</guid>
-      <pubDate>Wed, 26 Aug 2026 14:22:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】AI Story – 一句话一个视频，月涨粉2.5w</title>
-      <link>https://meta.appinn.net/t/topic/90727</link>
-      <description><![CDATA[软件名称
-AIStory – 一句话生成AI视频
-应用平台
-
-Windows
-MacOS
-
-推荐类型
-【开发者自荐】
-是否收费
-免费 / 付费 / 订阅
-一句简介
-一句话生成AI视频，多种使用场景，多种模版选择
-应用简介
-我花了3个月的时间做了一个人人都可以制作爆款视频的AI视频生成工具。 
-最近这一个月我一直在实践，蝴蝶号从0做到了2.5w粉丝，跑通了这个短视频赛道。 
-软件主要功能简单来说就是用户输入一句话或者一个主题，其余的工作交给AI，直接生成剪映脚本，用户需要做的就是打开剪映，简单的调整下标题，然后直接导出视频即可。 
-一个月从零到2.5万粉：
-粉丝截图
-
-单视频播放截图
-
-截图预览：
-软件任务页面
-
-任务执行页面
-
-多种模型适配
-
-官方网站
-
-
-
-aistorys.cc
-
-
-AI Story - 本地 AI 短视频创作工作台
-AI Story 是一款面向 Windows 与 macOS 的本地 AI 短视频创作工作台。 
-
-
-
-
-
-12 个帖子 - 5 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90727</guid>
-      <pubDate>Wed, 26 Aug 2026 09:57:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

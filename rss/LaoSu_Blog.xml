@@ -4,7 +4,7 @@
     <title>老苏的blog</title>
     <link>https://laosu.tech/</link>
     <description>聚沙成塔，集腋成裘</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:05:10 GMT</lastBuildDate>
     <item>
       <title>一键把 SMB 共享变成网页文件管理器，手机也能直接使用</title>
       <link>https://laosu.tech/2026/08/24/%E4%B8%80%E9%94%AE%E6%8A%8A%20SMB%20%E5%85%B1%E4%BA%AB%E5%8F%98%E6%88%90%E7%BD%91%E9%A1%B5%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E6%89%8B%E6%9C%BA%E4%B9%9F%E8%83%BD%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>多个大模型API管理太乱？这个开源网关帮你一键聚合</title>
       <link>https://laosu.tech/2026/08/23/%E5%A4%9A%E4%B8%AA%E5%A4%A7%E6%A8%A1%E5%9E%8BAPI%E7%AE%A1%E7%90%86%E5%A4%AA%E4%B9%B1%EF%BC%9F%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E7%BD%91%E5%85%B3%E5%B8%AE%E4%BD%A0%E4%B8%80%E9%94%AE%E8%81%9A%E5%90%88/</link>
-      <description><![CDATA[Octopus 是一个为个人打造的 LLM API 聚合服务，支持多渠道管理和协议互转。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://laosu.tech/2026/08/23/%E5%A4%9A%E4%B8%AA%E5%A4%A7%E6%A8%A1%E5%9E%8BAPI%E7%AE%A1%E7%90%86%E5%A4%AA%E4%B9%B1%EF%BC%9F%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E7%BD%91%E5%85%B3%E5%B8%AE%E4%BD%A0%E4%B8%80%E9%94%AE%E8%81%9A%E5%90%88/</guid>
       <pubDate>Sun, 23 Aug 2026 02:00:00 GMT</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <pubDate>Sat, 22 Aug 2026 02:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>扔掉浏览器书签：用 JumpKey 键盘一键跳到任意服务</title>
+      <title></title>
       <link>https://laosu.tech/2026/08/21/%E6%89%94%E6%8E%89%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B9%A6%E7%AD%BE%EF%BC%9A%E7%94%A8%20JumpKey%20%E9%94%AE%E7%9B%98%E4%B8%80%E9%94%AE%E8%B7%B3%E5%88%B0%E4%BB%BB%E6%84%8F%E6%9C%8D%E5%8A%A1/</link>
       <description><![CDATA[JumpKey 是一个极简的键盘驱动本地优先 PWA 起始页，用于集中管理你的各类服务入口。]]></description>
       <guid>https://laosu.tech/2026/08/21/%E6%89%94%E6%8E%89%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B9%A6%E7%AD%BE%EF%BC%9A%E7%94%A8%20JumpKey%20%E9%94%AE%E7%9B%98%E4%B8%80%E9%94%AE%E8%B7%B3%E5%88%B0%E4%BB%BB%E6%84%8F%E6%9C%8D%E5%8A%A1/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>把阅读服务端装进 NAS，AI 帮你追完长篇不忘前面的伏笔</title>
       <link>https://laosu.tech/2026/08/11/%E6%8A%8A%E9%98%85%E8%AF%BB%E6%9C%8D%E5%8A%A1%E7%AB%AF%E8%A3%85%E8%BF%9B%20NAS%EF%BC%8CAI%20%E5%B8%AE%E4%BD%A0%E8%BF%BD%E5%AE%8C%E9%95%BF%E7%AF%87%E4%B8%8D%E5%BF%98%E5%89%8D%E9%9D%A2%E7%9A%84%E4%BC%8F%E7%AC%94/</link>
-      <description><![CDATA[Reader Next 是一个基于 Rust 后端的阅读 3.0 服务端，支持 AI 章节摘要、自定义书源和本地书籍管理。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://laosu.tech/2026/08/11/%E6%8A%8A%E9%98%85%E8%AF%BB%E6%9C%8D%E5%8A%A1%E7%AB%AF%E8%A3%85%E8%BF%9B%20NAS%EF%BC%8CAI%20%E5%B8%AE%E4%BD%A0%E8%BF%BD%E5%AE%8C%E9%95%BF%E7%AF%87%E4%B8%8D%E5%BF%98%E5%89%8D%E9%9D%A2%E7%9A%84%E4%BC%8F%E7%AC%94/</guid>
       <pubDate>Tue, 11 Aug 2026 05:00:00 GMT</pubDate>
     </item>

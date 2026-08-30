@@ -4,7 +4,111 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:06:51 GMT</lastBuildDate>
+    <item>
+      <title>v3.8.2 在字符后面无法通过 ":" 录入表情</title>
+      <link>https://ld246.com/article/1788084133033</link>
+      <description><![CDATA[在一个块字段里，无论实在字段中间，还是在字段末尾，录入:，再录入表情名称，均无法调出表情
+再一个空白块里，录入:，则可以调出表情]]></description>
+      <guid>https://ld246.com/article/1788084133033</guid>
+      <pubDate>Sun, 30 Aug 2026 10:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>横版视频全屏播放返回后，底部页签栏位置永久下沉，刷新页面无法恢复</title>
+      <link>https://ld246.com/article/1788080255564</link>
+      <description><![CDATA[结构化摘要：
+
+
+
+字段
+内容
+
+
+
+
+版本
+3.8.2
+
+
+平台
+手机页面端
+
+
+复现路径
+打开页面 → 点击横版视频进入全屏播放 → 退出全屏返回页面
+
+
+实际表现
+顶部页签栏位置向下偏移
+
+
+预期表现
+页签栏恢复至原始位置
+
+
+额外现象
+浏览器刷新页面后，页签栏仍处于下沉状态，无法自行恢复
+
+
+影响范围
+仅横版视频全屏播放触发；竖版视频全屏不触发
+
+
+
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1788080255564</guid>
+      <pubDate>Sun, 30 Aug 2026 08:57:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>任务列表前的方框丢失</title>
+      <link>https://ld246.com/article/1788077047900</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788077047900</guid>
+      <pubDate>Sun, 30 Aug 2026 08:04:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>神秘插件 O</title>
+      <link>https://ld246.com/article/1788070752189</link>
+      <description><![CDATA[
+
+
+]]></description>
+      <guid>https://ld246.com/article/1788070752189</guid>
+      <pubDate>Sun, 30 Aug 2026 06:19:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于图片地址 img.hacpai.com 不显示后批量更新成 b3logfile.com 依然不显示问题</title>
+      <link>https://ld246.com/article/1788070393354</link>
+      <description><![CDATA[最近我发现旧文章图片不显示了，新文章正常。所以跟进下这个事。 
+比如我修改 b3_solo_article 表中的 articleContent 字段值，把某文章的某图片的值从
+从
+修改成
+
+打开我的文章后，F12，这张图片的地址依然是旧图片 imghacpai 地址，清了缓存还是这样？这是为啥？ 
+
+我上述修改图片在数据库修改地址的方式对吗？ 
+另外，直接访问修改域名后的图片能正确访问。 
+
+谢谢各位，搜索了论坛没有找到解决方案。谢谢。 ]]></description>
+      <guid>https://ld246.com/article/1788070393354</guid>
+      <pubDate>Sun, 30 Aug 2026 06:16:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源笔记 v3.8.2 发布</title>
+      <link>https://ld246.com/article/1788063814900</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788063814900</guid>
+      <pubDate>Sun, 30 Aug 2026 04:23:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>安卓闪念速记功能文件丢失</title>
+      <link>https://ld246.com/article/1788062238740</link>
+      <description><![CDATA[我在 PC 端开启了加密笔记本功能，移动端未开启。但是不知道为什么，闪念速记的目录自动被设置到加密目录下了，记录的时候没有提示异常，但是没有地方可以找到速记的内容，翻了本地目录也没有找到，有什么方法可以找回吗？ ]]></description>
+      <guid>https://ld246.com/article/1788062238740</guid>
+      <pubDate>Sun, 30 Aug 2026 03:57:17 GMT</pubDate>
+    </item>
     <item>
       <title>MeiDay 在线任务日记管理插件</title>
       <link>https://ld246.com/article/1788045862315</link>
@@ -49,76 +153,6 @@
       <description><![CDATA[目前图标都有了，再者把手机版这些设置按钮弄大一点]]></description>
       <guid>https://ld246.com/article/1788003543727</guid>
       <pubDate>Sat, 29 Aug 2026 11:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>华为平板添加对链接字体使用新窗口打开功能</title>
-      <link>https://ld246.com/article/1787991915641</link>
-      <description><![CDATA[华为平板没有对链接字体使用新窗口打开功能，恳求开发者加入类似功能
-]]></description>
-      <guid>https://ld246.com/article/1787991915641</guid>
-      <pubDate>Sat, 29 Aug 2026 08:25:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>版本 3.8.1 中 svg 图片不显示</title>
-      <link>https://ld246.com/article/1787976589797</link>
-      <description><![CDATA[版本 3.8.1 中 svg 图片不显示，只显示为链接。请处理这一问题。 ]]></description>
-      <guid>https://ld246.com/article/1787976589797</guid>
-      <pubDate>Sat, 29 Aug 2026 04:09:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动端只读模式，在隐藏了底栏的状况下还是难以选中文字</title>
-      <link>https://ld246.com/article/1787965818111</link>
-      <description><![CDATA[版本为 3.8.2 alpha4
-只读模式下，底栏未隐藏时，选中文字非常顺手（0-6s）;但如果下滑一段距离使得底栏隐藏后，复制文字就变得比较难受（7-14s）。 
-另外，编辑模式有底栏时复制也很方便（15-22s），但是底栏隐藏后，复制起来又直接键盘弹出
-编辑模式下不知道是不是设计如此，但是只读模式下感觉不太符合通常情况。望开发者们帮忙看看，谢谢！ 
-
- 浏览器不支持该媒体的播放
-]]></description>
-      <guid>https://ld246.com/article/1787965818111</guid>
-      <pubDate>Sat, 29 Aug 2026 02:31:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flexnote 居然支持导入思源了</title>
-      <link>https://ld246.com/article/1787932093683</link>
-      <description><![CDATA[之前一直用 Flexnote 白板 挺顺手
-没想到最近支持导入思源笔记了
-很六
-
-]]></description>
-      <guid>https://ld246.com/article/1787932093683</guid>
-      <pubDate>Fri, 28 Aug 2026 15:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPad 版本奔溃了，电脑版文档打不开</title>
-      <link>https://ld246.com/article/1787926058275</link>
-      <description><![CDATA[
-今天出现的，问题越来也多了啊。 
-现在常常提示账号登陆问题，但又显示登录上了，为何要提示这个啊。 
-现在跨行复制好反人性啊，没法选中，还没以前的好用。 
-iPad 版软打不开，黑屏状态。这可咋弄
-能不能把基础体验弄好，一步一步来呢？加很多新功能但有了基础使用问题，得不偿失的。 
-]]></description>
-      <guid>https://ld246.com/article/1787926058275</guid>
-      <pubDate>Fri, 28 Aug 2026 14:07:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>天塌了，新版本在“人工智能”编写的时候，无法识别 markdown 语法了</title>
-      <link>https://ld246.com/article/1787924451839</link>
-      <description><![CDATA[
-更新前在人工智能编写的时候，思源笔记会自动复制一份带 markdown 语法格式的内容给 AI，从而完美地生成内容。 
-p.s. 我的提示词是：“翻译选中的单词，选中指的是 markdown 语法中的高亮”。 
-
-3.8.1 后，再进行人工智能编写，已经无法识别 markdown 语法了，AI 思考过程中显示为纯文本了。 。求恢复啊！ ！ ！ ！ ]]></description>
-      <guid>https://ld246.com/article/1787924451839</guid>
-      <pubDate>Fri, 28 Aug 2026 13:45:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源 ai 老是出错</title>
-      <link>https://ld246.com/article/1787921801274</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1787921801274</guid>
-      <pubDate>Fri, 28 Aug 2026 12:56:40 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

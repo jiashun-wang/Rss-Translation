@@ -4,7 +4,21 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Sat, 29 Aug 2026 03:57:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 10:57:13 GMT</lastBuildDate>
+    <item>
+      <title>Vigicaen：vigibase® 药物警戒数据库工具箱。</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10321</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10321</guid>
+      <pubDate>Sun, 30 Aug 2026 01:13:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Molass 库：用于 SEC-SAXS 数据分析的 Python 包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10403</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10403</guid>
+      <pubDate>Sun, 30 Aug 2026 01:07:23 GMT</pubDate>
+    </item>
     <item>
       <title>fwb：用于分数加权引导程序的 R 包</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.08880</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10241</guid>
       <pubDate>Thu, 20 Aug 2026 21:28:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>SARXarray：合成孔径雷达数据的 Xarray 扩展</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10492</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10492</guid>
-      <pubDate>Thu, 20 Aug 2026 20:20:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cocofest：用于最优控制驱动的功能性电刺激的开源 Python 包</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10669</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10669</guid>
-      <pubDate>Thu, 20 Aug 2026 14:29:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
