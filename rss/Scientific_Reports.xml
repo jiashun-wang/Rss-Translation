@@ -1,67 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Scientific Reports</title>
-    <link>http://feeds.nature.com/srep/rss/current</link>
-    <description><p><em>Scientific Reports</em>&nbsp;publishes original research in&nbsp;all areas of the natural and clinical sciences. We believe that if your research is scientifically valid and technically sound then it deserves to be published and made accessible to the research community.</p>
-
-<p>By publishing with us, your research will get the coverage and attention it deserves. Open access and continuous online publication means your work will be published swiftly, ready to be accessed by anyone, anywhere, at any time. Article Level Metrics allow you to follow the conversations your work has started.</p></description>
-    <lastBuildDate>Sat, 29 Aug 2026 12:00:26 GMT</lastBuildDate>
-    <item>
-      <title>基于SHAP-SVR模型的高速公路水平曲线路段事故风险预测及等级划分研究</title>
-      <link>https://www.nature.com/articles/s41598-026-66406-3</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 29 日； doi:10.1038/s41598-026-66406-3基于SHAP-SVR模型的高速公路水平曲线路段事故风险预测及等级划分研究]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-66406-3</guid>
-      <pubDate>Sat, 29 Aug 2026 12:00:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>水泥粉煤灰稳定分散土早期微观结构特征及改良机制</title>
-      <link>https://www.nature.com/articles/s41598-026-67288-1</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 29 日； doi:10.1038/s41598-026-67288-1水泥粉煤灰稳定分散土早期微观结构特征及改良机制]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-67288-1</guid>
-      <pubDate>Sat, 29 Aug 2026 12:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>认知无人机驱动的农业监测框架，利用时空学习和自适应灌溉控制来预测作物胁迫引起的产量损失</title>
-      <link>https://www.nature.com/articles/s41598-026-68174-6</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 29 日； doi:10.1038/s41598-026-68174-6认知无人机驱动的农业监测框架，利用时空学习和自适应灌溉控制来预测作物胁迫引起的产量损失]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68174-6</guid>
-      <pubDate>Sat, 29 Aug 2026 12:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>微观结构感知深度学习将原子学与宏观尺度联系起来，以进行冲击到爆炸的预测</title>
-      <link>https://www.nature.com/articles/s41598-026-68141-1</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 29 日； doi:10.1038/s41598-026-68141-1微观结构感知深度学习将原子论与宏观尺度联系起来，以进行冲击到爆炸的预测]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68141-1</guid>
-      <pubDate>Sat, 29 Aug 2026 12:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>石棉矿物纤维暴露显着影响体外间皮细胞系的挥发性有机化合物谱</title>
-      <link>https://www.nature.com/articles/s41598-026-39077-3</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 29 日； doi:10.1038/s41598-026-39077-3石棉矿物纤维暴露显着影响体外间皮细胞系的挥发性有机化合物谱]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-39077-3</guid>
-      <pubDate>Sat, 29 Aug 2026 12:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>侵蚀性盐水条件下暴露于泻湖水中的钢筋混凝土的粘结行为</title>
-      <link>https://www.nature.com/articles/s41598-026-68461-2</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 29 日； doi:10.1038/s41598-026-68461-2侵蚀性盐水条件下暴露于泻湖水中的钢筋混凝土的粘结行为]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68461-2</guid>
-      <pubDate>Sat, 29 Aug 2026 12:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用基于集成的多层机器学习方法智能预测爆炸引起的峰值粒子速度 (PPV)，以实现安全采矿作业</title>
-      <link>https://www.nature.com/articles/s41598-026-64396-w</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 29 日； doi:10.1038/s41598-026-64396-w使用基于集成的多层机器学习方法智能预测爆炸引起的峰值粒子速度 (PPV)，以实现安全采矿作业]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-64396-w</guid>
-      <pubDate>Sat, 29 Aug 2026 12:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yajima-Oikawa 方程的孤子解和动态分岔分析</title>
-      <link>https://www.nature.com/articles/s41598-026-55853-7</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 29 日； doi:10.1038/s41598-026-55853-7Yajima-Oikawa方程的孤子解和动态分岔分析]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-55853-7</guid>
-      <pubDate>Sat, 29 Aug 2026 12:00:14 GMT</pubDate>
-    </item>
+    <title></title>
+    <link></link>
+    <description></description>
+    <lastBuildDate>Sun, 30 Aug 2026 00:49:54 GMT</lastBuildDate>
     </channel>
 </rss>
