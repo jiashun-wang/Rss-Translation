@@ -4,7 +4,237 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:28:31 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】我想一劳永逸解决字幕工作流，所以我做了 MAW【字幕软件】</title>
+      <link>https://meta.appinn.net/t/topic/91020</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/91020</guid>
+      <pubDate>Mon, 31 Aug 2026 09:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tablite: 又一款浏览器新标签页插件</title>
+      <link>https://meta.appinn.net/t/topic/91019</link>
+      <description><![CDATA[软件名称
+Tablite 新标签页
+应用平台
+- Chrome（已上架 Chrome 应用商店）
+推荐类型
+开发者自荐
+是否收费
+免费、无广告
+应用简介
+1. 搜索：支持 Google / Bing / 百度 / DuckDuckGo，有搜索建议；直接输入网址也可以打开。 
+2. 快捷入口：从预设站点、浏览器书签或手动填写添加，支持拖动排序、自定义图标，也可以改成只显示图标。 
+3. 外观：浅色 / 深色 / 跟随系统；纯色背景、预设色、上传图片、在线图片 URL、Bing 每日一图；时间、快捷入口、最近访问都可以单独开关。 
+4. 进阶：支持自定义 CSS；设置和快捷入口可以导出 / 导入 JSON，换电脑时手动迁移。 
+应用截图
+
+
+
+
+地址
+Tablite - Chrome 应用商店
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91019</guid>
+      <pubDate>Mon, 31 Aug 2026 09:59:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】InstantFlow Web — 免费 YouTube / Podcast 实时双语字幕与 AI 笔记 Chrome 插件（0.5s 极速 / 导出 Markdown / 自备 Groq API）</title>
+      <link>https://meta.appinn.net/t/topic/91017</link>
+      <description><![CDATA[各位小众软件的朋友好，我是独立开发者JC。
+平时在YouTube学习国外技术教学、看公开课或听英语播客时，最常遇到的痛点就是「影片没有字幕」或「矫正机翻慢半拍且不精准」。
+为了解决影音学习与笔记整理的痛点，我开发了这套完全免费的 Chrome 补充组件InstantFlow Web。
+应用名称与平台
+
+名称：InstantFlow Web
+平台：Chrome浏览器补充组件（Chrome网上应用店）
+费用：完全免费（需自备 Groq API Key，每日有高达额度可免费使用）
+
+完整教学展示
+【完全教学】InstantFlow Web：免费安装设置+Groq API Key申请，打造网页即时听写神器
+核心功能亮点
+
+即时双语字幕：当英文影片或音讯没有字幕时，即时语音并产生中英对照字幕。
+AI构建笔记：一键提炼内容精华，自动整理「执行摘要」与「综合要点重点回顾」。
+一键导出 Markdown：支持直接复制或导出导出笔记，无缝集成至 Obsidian、Notion 或 Logseq 等知识库。
+100%直连Groq API：零中转服务器器，响应速度极快，彻底保障个人隐私与数据安全。
+
+官方下载链接
+
+Chrome 网上应用店：https://chromewebstore.google.com/detail/instantflow-web/gnegmhjkfnhnfkojjdbdopmknkanflkk
+
+&lt;小时/&gt;
+欢迎大家安装体验并提供反馈与建议，我将持续更新优化！
+1个帖子 - 1位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91017</guid>
+      <pubDate>Mon, 31 Aug 2026 09:58:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】TravelSheet：iPhone 上的行李清单，可以在不同 Apple Account 之间共享</title>
+      <link>https://meta.appinn.net/t/topic/91002</link>
+      <description><![CDATA[软件名称
+TravelSheet
+应用平台
+iOS（iPhone、iPad，另有 Apple Watch 应用）
+推荐类型
+开发者自荐
+是否收费
+付费，¥22.00 一次买断。没有订阅，没有应用内购买，没有广告。 
+一句简介
+按同行的人和活动自动生成的行李清单，会算每件东西的重量，也会给出入境与海关信息，一次旅行还可以在不同的 Apple Account 之间共享。 
+应用简介
+我是 TravelSheet 的开发者 Sebastian Peters。这是一款 iPhone 和 iPad 上的行李清单应用，界面支持简体中文，2.0 版今天上架。 
+先说同类应用里比较少见的一点：一次旅行可以在不同的 Apple Account 之间共享，每个人在自己的 iPhone 上勾选自己的东西，所有人看到同一份进度。没有共用登录，我这边没有账户，也没有我的服务器，用的是 Apple 的 CloudKit 共享。这是技术上更麻烦的一条路，也是其他有共享清单的应用通常用自家账户来解决的那部分。 
+应用的基本用法：创建一次旅行，写明同行的人，再勾选几项活动（海滩、徒步、滑雪、城市游、露营）。清单据此自动生成，连数量一起算好。三个人一周会得到 21 件 T 恤和一顶帐篷，而不是一行写着「衣物」。 
+贯穿整个应用的是「家庭」这条线。同行的人只需设置一次，包括姓名、衣服尺码，需要的话还有眼镜或隐形眼镜，之后每次新建旅行都会据此预先填好。给男士、女士、婴幼儿和儿童的物品会按人数自动加入，数量则由人数和天数算出。而且应用支持家人共享，购买一次最多可供六位家庭成员使用。 
+另外两点，在同类应用里也不常见：
+・按出发国和目的地组合给出的入境与海关信息：护照或身份证、签证、建议接种的疫苗、免税额度、插座类型和当地紧急电话。也包括电子旅行授权（如 ESTA）和电子入境卡，各自标出需要提前多久办理，还可以作为出发前清单里的一项。做行李的应用不少，出发之前的手续一直留给旅行者自己。 
+・每件物品的重量。约 170 种常见物品自带估算值，按箱累加后与航空公司的限额对照。你在家就知道箱子超了，而不是到柜台才知道。自驾或开房车出行时，可以设一个装载总重量，而不是按件计算的限额。 
+也可以导入你已经在别处记的清单（OPML、CSV、Markdown、纯文本）。已经在清单里的物品会被识别，即使名字不同，也不会重复添加。还有带勾选框的 PDF 导出，习惯在纸上打勾的人可以用。 
+2.0 还带来四种尺寸的小组件、带复杂功能的 Apple Watch 应用，以及从 9 种语言扩展到 14 种。分类也不再是固定的十个，可以自己新建和排序。已经买过的用户免费升级：没有第二个需要重新购买的应用，没有升级费用，新功能也没有藏在应用内购买后面。 
+数据留在设备上，只通过用户自己的 iCloud 同步。这一点在中国大陆也一样：同步走的是用户自己的 iCloud 账户，也就是由云上贵州运营的那一个，中间没有我的服务器，我这边什么也收不到，甚至看不到谁要去哪里。 
+官方网站
+App Store: https://apps.apple.com/app/travelsheet/id6787380177
+产品页: 旅行行李清单应用：iPhone 和 iPad 上的 TravelSheet | Seb-IT
+媒体资料（全分辨率截图、应用图标）: TravelSheet 媒体资料 | Seb-IT
+3 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91002</guid>
+      <pubDate>Mon, 31 Aug 2026 06:52:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开源自荐】转发 Windows 原生通知到手机，可解决 CodeX 错误时不触发 stop hook 的问题</title>
+      <link>https://meta.appinn.net/t/topic/90991</link>
+      <description><![CDATA[codex 的 STOP hook 仅在成功的时候触发，因此如果出了错误，是没法通知给你的。此外，hook 在创建新的档案之后（例如用 CC Switch）需要手动允许，也不是很方便。 
+不过，Codex 无论是成功、失败，都可以正常的向 Windows 通知中心发送通知。因此可以用这个 Windows 原生 App，可以转发通知事件到 Webhook / Bark，软件开源免费，因为要想获取通知中心的系统 hook 需要 Windows.UI.Notifications.Management.UserNotificationListener，而这个 API 只有商店包的原生应用才能用，所以没法做到单 exe，只能上传到 Microsoft Store 了。 
+https://apps.microsoft.com/detail/9MV8SL6JLV2D
+RavelloH/WinToastRelay: A native Windows 10/11 app that relays Windows toast notifications to HTTP webhooks in real time.
+
+
+
+
+
+iOS 建议直接使用 Bark；安卓的通知稍微繁琐一些，大部分都需要外接各种通知服务（如 wxpusher 等），或者接入飞书/钉钉之类的平台，这里已经适配了 wxpusher。也提供 Webhook，可以让 AI 在本地跑一个 HTTP 转发到你需要的渠道。这个 App 也能用来转发其他应用的通知，不限于 CodeX，Windows 的原生通知都可以。 
+Webhook 是这样的：
+{
+  &quot;eventType&quot;: &quot;notification.added&quot;,
+  &quot;deliveryId&quot;: &quot;a-generated-id&quot;,
+  &quot;notification&quot;: {
+    &quot;id&quot;: 123,
+    &quot;app&quot;: &quot;Example app&quot;,
+    &quot;title&quot;: &quot;A title&quot;,
+    &quot;body&quot;: &quot;Notification body&quot;,
+    &quot;createdAt&quot;: &quot;2026-08-20T00:00:00Z&quot;
+  }
+}
+
+此外，建议在 CodeX 设置中打开始终通知，防止 CodeX 在前台就不发送通知了。 
+
+软件在后台需要大概 14 MB 内存，请确保你的电脑具有至少 20 MB 可用运行内存。 
+
+4 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90991</guid>
+      <pubDate>Mon, 31 Aug 2026 05:50:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>【网站自荐】ScriptSpool — 把你的代码变成动态视频、GIF动图</title>
+      <link>https://meta.appinn.net/t/topic/90975</link>
+      <description><![CDATA[软件名称
+ScriptSpool
+应用平台
+Web 端
+推荐类型
+开发者自荐
+一句简介
+一个在浏览器里把代码转换成动态视频和图片的小工具，粘贴代码、选择主题和动画，调整速度后即可导出 MP4、GIF、PNG 或 SVG。 
+应用简介
+平时做开发教程或者录短视频，经常需要把一段代码做成动态效果。 
+直接录屏不太好看，使用完整的视频剪辑软件又有点麻烦。 
+我在网上也看了一些类似的工具和项目，有些做得还行，但用下来功能比较有限。 
+所以就想着做一个自己真正会用的：
+粘贴代码 → 选择样式 → 调整动画 → 导出。 
+ScriptSpool 最开始只是一个很简单的代码打字动画工具，后来我又慢慢加入了逐字、逐行播放，以及主题、窗口样式、速度控制和多种导出格式。 
+主要特点：
+
+
+代码动画：支持逐字打字和逐行播放。 
+
+
+速度控制：可以调整打字速度、暂停和播放节奏。 
+
+
+多种主题：提供不同代码高亮主题、字体和背景。 
+
+
+窗口样式：可以模拟常见的代码编辑器窗口外观。 
+
+
+视频导出：支持 MP4、GIF。 
+
+
+图片导出：支持 PNG、SVG，也可以生成长截图。 
+
+
+浏览器运行：编辑、渲染和导出都在浏览器中完成。 
+
+
+代码不上传：代码不会上传到服务器进行处理。 
+
+
+无需注册：打开网页就可以直接使用。 
+
+
+为什么做这个？ 
+其实就是做自己的视频演示时遇到的一个小问题。 
+我只是想让一段代码【像正在被写出来】一样出现在视频里。 
+结果发现，如果自己用剪辑软件做，调整动画、时间轴这些东西实在有点麻烦。 
+后来又找了一些现成工具，发现很多功能比较简单。 
+于是就想着：
+能不能做一个专门解决这件小事的工具？ 
+所以有了 ScriptSpool。 
+还有一些辅助功能，比如，结对房间，基于 P2P 实时一起写代码。同步片段、聊天、冲刺计时 —— 无需账号。 
+适合什么场景？ 
+
+
+制作开发教程
+
+
+制作抖音、小红书、 YouTube Shorts等短视频
+
+
+给代码演示增加动态效果
+
+
+制作技术分享配图
+
+
+制作课程中的代码动画
+
+
+给博客、文档制作代码截图
+
+
+不想打开复杂视频剪辑软件，只想快速做一段代码动画
+
+
+使用体验
+打开网页 → 粘贴代码 → 选择主题和动画 → 调整速度 → 预览 → 导出。 
+整个过程都在浏览器完成，代码不会上传到服务器进行处理，所以你的代码是安全的。 
+产品截图
+
+
+
+
+在线使用： https://scriptspool.pixzens.com
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90975</guid>
+      <pubDate>Mon, 31 Aug 2026 03:36:54 GMT</pubDate>
+    </item>
     <item>
       <title>发现频道：10款大家发现的好评软件[2026年第35期]</title>
       <link>https://meta.appinn.net/t/topic/90962</link>
@@ -86,16 +316,37 @@ Agentero: Agent友好的文献管理与阅读器，Agent时代的Zotero
 名称：即时阅读
 平台：Chrome浏览器补充组件（Chrome网上应用店）
 
-核心功能
+30秒实机操作展示
+停止使用谷歌翻译来发表研究论文！ 🤯 InstantRead：9.99 美元终身#Shorts
+核心功能展示
+&lt;块引用&gt;
+
+（科技工程CS模式展示）
 
 0.5s极速白话拆解（ELI5模式）：将生涩术语与长句转为通俗易懂的解释，并自动生成「核心术语对照表」。
-四大专属研读模式：深度调校科技工程（CS）、生物医学（Biomedical）、学术通用（Academic）、法律法规（Legal）。
+四大专属研读模式：针对不同学科领域深度调校提示：
+
+科技工程（CS）：拆解系统架构、演算与工程长难句。
+生物医学（Biomedical）：精准识别临床医学、病理机制与生化术语。
+通用学术（Academic）：强化计量经济、统计模型与社会科学论文逻辑。
+法律法规（Legal）：精准解析授权条款、合约责任与免责声明。
+
+
 自备API直连：支持自备Groq API Key直连，零中转服务器，数据保障隐私。
 一键导出Markdown笔记：自动整理阅读摘要与术语对照库，方便汇入Obsidian / Notion。
 
+各领域拆解示例
+&lt;块引用&gt;
+
+（法律法规模式）
+&lt;块引用&gt;
+（生物医学模式）
+&lt;块引用&gt;
+
+（通用学术模式）
 价格与授权说明
 
-免费额度：每日提供 10 次免费使用。
+免费额度：每日提供10次免费使用。
 买断授权：重度用户可通过 Gumroad 一次性买断（$9.99 美元），无任何后续订阅费用。
 使用说明：安装后需于设定中填入Groq API Key即可开始使用。
 
@@ -103,6 +354,8 @@ Agentero: Agent友好的文献管理与阅读器，Agent时代的Zotero
 
 Chrome 网上应用店：https://chromewebstore.google.com/detail/instantread/pkgimjbkmpnfkmfoockdfefndjndfkof
 
+&lt;小时/&gt;
+目前产品刚上线，大家在研读文献或长文时如果希望增加哪些独有模式或功能，欢迎在下方留言交流，我会持续更新迭代！
 1个帖子 - 1位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90955</guid>
@@ -227,7 +480,7 @@ AppData、ProgramData 里的配置文件
 
 下载链接：windows软件管理工具 · 稳住/工具箱1 - Gitee.com
 
-2 个帖子 - 2 位参与者
+3 个帖子 - 3 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90930</guid>
       <pubDate>Sun, 30 Aug 2026 06:25:57 GMT</pubDate>
@@ -287,175 +540,6 @@ Document viewer and in-place editor plugin for Directory Opus. Markdown with Rea
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/90888</guid>
       <pubDate>Sat, 29 Aug 2026 08:19:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>OneAsr —— Windows 本地离线批量音视频转 SRT 字幕</title>
-      <link>https://meta.appinn.net/t/topic/90884</link>
-      <description><![CDATA[软件名称
-OneAsr
-应用平台
-
-Windows
-
-推荐类型
-【开发者自荐】
-是否收费
-免费，开源（MIT）
-一句简介
-Windows 本地离线批量字幕工具：音视频直接转 SRT，识别与对齐全在本机完成，素材不上传云端。 
-应用简介
-基于阿里通义 Qwen3-ASR 与 Qwen3-ForcedAligner，音视频在本机完成识别与词级对齐，直接输出带时间轴的 SRT 字幕。 
-处理流程：音视频 → VAD 分段 → ASR 识别 → ForcedAligner 对齐 → 智能断句 → output/*.srt
-主要功能：
-
-完全本地离线：识别与对齐均在本机完成，识别过程可断网，素材不出机
-批量队列：一次添加多个音视频文件，进度与各阶段耗时一目了然
-11 种源语言：中文普通话、粤语、English、日本语、한국어、Français、Deutsch、Italiano、Español、Português、Русский（需手动指定，无自动检测）
-双规格 ASR：Qwen3-ASR 0.6B（更快省显存）/ 1.7B（更准）
-词级时间轴：ForcedAligner 对齐打轴 + 字幕长度预设（短 / 标准 / 松），不是整段估时间
-VAD 智能分段：目标段长 30–180 秒，长音频更稳
-一安装包两后端：同一二进制含 CUDA 引擎，有 N 卡走 GPU，无 N 卡自动走 CPU
-附带命令行：oneasr-cli.exe 与 GUI 同一条流水线，方便脚本与批处理调用
-
-配置要求：Windows 10 / 11（64 位）；推荐 NVIDIA 显卡 4GB+ 显存（1.7B 建议 6GB+），无独显可走 CPU（速度明显更慢）。安装包不含模型，首次使用在设置中从 ModelScope 下载：ASR 0.6B 约 1.75 GB / 1.7B 约 4.38 GB（二选一），ForcedAligner 约 1.71 GB（必下），CUDA 运行库约 820 MB（有 N 卡建议下载）。 
-使用方法：安装或解压后运行 oneasr.exe → 在设置中下载模型 → 添加音视频、选好语言 → 开始，完成后在 output/ 目录查看同名 .srt。 
-中文界面。 
-截图预览：
-
-
-
-下载地址
-
-GitHub Releases（安装包 / 便携包，推荐）：Releases · eclipse005/OneAsr · GitHub
-蓝奏云镜像：https://wwbxg.lanzouq.com/b00jffawle 密码 a4n5
-
-官方网站
-
-
-github.com
-
-
-
-
-GitHub - eclipse005/OneAsr: 本地离线批量音视频转 SRT 字幕（Qwen3-ASR + ForcedAligner）
-本地离线批量音视频转 SRT 字幕（Qwen3-ASR + ForcedAligner）
-
-
-
-
-
-
-5 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90884</guid>
-      <pubDate>Sat, 29 Aug 2026 07:36:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>〖开源自荐〗WinStoreRegion — 一键临时切换 Microsoft Store 区域，并自动恢复</title>
-      <link>https://meta.appinn.net/t/topic/90878</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90878</guid>
-      <pubDate>Sat, 29 Aug 2026 05:59:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>智谱（GLM） 3 亿 token 领取指南</title>
-      <link>https://meta.appinn.net/t/topic/90849</link>
-      <description><![CDATA[不止 3 亿。 
-
-智谱丨BigModel 平台 注册并实名认证（说是新用户得两千万 token 【适用于glm-4.5-air模型的推理】）
-GLM Coding Plan·7天体验卡  得到 2000 积分（狂蹬之后在 ZCode 中可能送一次额度重置机会，相当于双倍虽然显示重置，但我一直重置失败，难过）
-进入资源包管理，切换到“我的资源包”，这里的重点是：“【新用户专享】200万通…”因为这是“适用于所有按tokens计费的基础模型推理”，这个是新用户自动获得的。 
-安装 ZCode，登录以后左下角领 3 亿 token。 （使用方法：在 ZCode 设置——模型设置——BigModel——右上角“连接方式”中切换套餐到“体验套餐”即可）
-
-
-说不上太多，但能够快乐一周末~
-
-有一些会限定模型，甚至限定的是 4.x 的模型，应该是早期政策然后一直没动。后面几项理论限定的是 GLM5.3-flash，就是最新上架的那个模型，但我测试下似乎 GLM-5.3 也可以，就没那么严苛。可以在使用时注意观察一下额度消耗。总之，三亿多最新模型的额度还是比较香的，写一两个小工具应该是够了。 
-其他旧款模型可以接入到各种工具中用吧，比如网页翻译什么的
-7 个帖子 - 5 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90849</guid>
-      <pubDate>Fri, 28 Aug 2026 11:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开源自荐】Ophel Atlas 1.2 重构：AI 对话大纲导航 + 插件式热插拔适配，支持任意 AI 站点与自建 WebUI</title>
-      <link>https://meta.appinn.net/t/topic/90844</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90844</guid>
-      <pubDate>Fri, 28 Aug 2026 08:52:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自推荐】PetOS 可以将任意形象养成的，一个会陪你、会聊天、会记住你的 AI 桌面伙伴</title>
-      <link>https://meta.appinn.net/t/topic/90841</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90841</guid>
-      <pubDate>Fri, 28 Aug 2026 08:04:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】心率监控器 – 双平台开源 BLE 心率监测应用</title>
-      <link>https://meta.appinn.net/t/topic/90830</link>
-      <description><![CDATA[软件名称
-心率监控器 HeartRateMonitor
-应用平台
-
-Android
-Windows
-
-推荐类型
-【开发者自荐】
-是否收费
-免费（MIT开源）
-一句简介
-这是一款心率监测应用，支持Android和Windows，基于蓝牙心率广播实时显示心率，支持悬浮窗、状态栏显示、触摸穿透、局域网传输
-应用简介
-2026 年 8 月 28 日 已完成功能：
-1.全屏模式：沉浸式显示心率数据，让手机成为健康监护仪
-2.蓝牙连接：扫描并连接支持心率广播服务的 BLE 设备
-3.设备管理：收藏常用设备，支持自动连接与断开重连
-4.心跳动画：根据心率跳动频率动态变化
-5.心率历史与图表：自动记录、历史列表、批量管理、图表分析、横屏查看
-6.个性化设置：功能开关、悬浮窗样式自定义
-7.数据接口：HTTP 服务器、WebSocket 服务器、Webhook 推送
-8.OBS 浏览器源心率显示：内置 HTML 页面，OBS 添加浏览器源填入服务器地址即可实时显示心率，支持自定义颜色、大小、字体等样式参数
-9.悬浮窗显示心率：在手机屏幕上显示心率，不受到应用内容的影响
-10.状态栏常驻心率：状态栏显示实时心率
-11.心率预警：结合姿态检测，心率超限自动通知与震动
-12.公平运行内存：适配国产厂商内存管理机制
-13.颜色选择器：自绘 HSV 色轮，支持自定义应用主题色
-14.液态玻璃效果 实现底部导航栏的液态玻璃效果
-15.局域网传输 通过 WebSocket 服务器实现 PC 端与手机的通信
-16.Material 3 动态取色
-
-开发中功能：
-
-导出历史记录
-
-截图预览：
-
-
-
-
-
-官方网站
-
-
-github.com
-
-
-
-
-GitHub - XiaochangXu/HeartRateMonitor-composeui: 这是一款心率监测应用，支持Android和Windows，基于蓝牙心率广播实时显示心率，支持悬浮窗、...
-这是一款心率监测应用，支持Android和Windows，基于蓝牙心率广播实时显示心率，支持悬浮窗、状态栏显示、触摸穿透、网络传输
-
-
-
-
-
-
-9 个帖子 - 4 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90830</guid>
-      <pubDate>Fri, 28 Aug 2026 06:34:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

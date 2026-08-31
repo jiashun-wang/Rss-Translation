@@ -4,7 +4,21 @@
     <title>存储在线-存储专业媒体</title>
     <link>https://www.dostor.com</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Aug 2026 18:15:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:30:35 GMT</lastBuildDate>
+    <item>
+      <title>华科大王芳教授：面向智算的高性能存算系统——从三大难题到协同突破</title>
+      <link>https://www.dostor.com/p/100956.html</link>
+      <description><![CDATA[2026年8月26日，在2026全球闪存峰会上，华中科技大学教授、计算机学院存储所所长王芳发表了题为《面向智算的高性能存算系统》的演讲。她指出，随着人工智能成为战略性技术，医疗、自动驾驶等关键领域对模型精度的要求越来越高，这直接推动了模型和...]]></description>
+      <guid>https://www.dostor.com/p/100956.html</guid>
+      <pubDate>Mon, 31 Aug 2026 05:38:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>慧荣科技刘耀仁：边缘AI时代，存储如何决定体验</title>
+      <link>https://www.dostor.com/p/100953.html</link>
+      <description><![CDATA[2026年8月，在2026全球闪存峰会上，慧荣科技产品企划部经理刘耀仁发表了题为《引领未来：智能存储与边缘AI趋势》的演讲。他指出，AI已经从流行词汇变成真正改变工作与生活方式的技术，而AI的价值真正落地，必须依靠边缘设备——PC、手机、汽...]]></description>
+      <guid>https://www.dostor.com/p/100953.html</guid>
+      <pubDate>Mon, 31 Aug 2026 05:35:38 GMT</pubDate>
+    </item>
     <item>
       <title>铁威马Photos升级，赋能家庭照片管理</title>
       <link>https://www.dostor.com/p/100948.html</link>
@@ -83,32 +97,18 @@
       <pubDate>Tue, 25 Aug 2026 07:28:44 GMT</pubDate>
     </item>
     <item>
+      <title>聚焦卫星高速数据处理 天硕星载 SSD 实测彰显高可靠性能</title>
+      <link>https://www.dostor.com/p/100951.html</link>
+      <description><![CDATA[随着商业航天产业进入规模化、智能化发展阶段，卫星平台的数据处理需求正在快速提升。对于星载固态存储器而言，在满足空间环境适应性和长期在轨可靠性要求的基础上，更高的数据读写带宽也已经是不可忽视的新需求。特别是在遥感数据高速缓存、星上数据处理及算...]]></description>
+      <guid>https://www.dostor.com/p/100951.html</guid>
+      <pubDate>Tue, 25 Aug 2026 03:45:12 GMT</pubDate>
+    </item>
+    <item>
       <title>霄云科技联合多方攻坚《高性能海量气象数据存储系统》，荣获2026“数据要素×”大赛贵州分赛二等奖</title>
       <link>https://www.dostor.com/p/100890.html</link>
       <description><![CDATA[近日，2026年“数据要素×”大赛贵州分赛决赛结果正式揭晓，由上海霄云信息科技有限公司、贵州省气象数据中心、上海交通大学大数据存储与安全实验室联合申报的《高性能海量气象数据存储系统》项目，斩获数据基础设施赛道二等奖。本次大赛以“数据赋能 乘...]]></description>
       <guid>https://www.dostor.com/p/100890.html</guid>
       <pubDate>Tue, 25 Aug 2026 01:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>铁威马Photos升级，解锁专业素材管理新方式</title>
-      <link>https://www.dostor.com/p/100878.html</link>
-      <description><![CDATA[对于摄影爱好者和设计师群体来说，NAS早已成为存放实拍原图、设计参考、项目样片的核心载体。但海量图片导入设备后，素材杂乱堆积、筛选耗时久、整理工作量大、重复文件占用空间等问题，一直困扰着创作人群。针对这一行业痛点，铁威马Photos相册迎来...]]></description>
-      <guid>https://www.dostor.com/p/100878.html</guid>
-      <pubDate>Mon, 24 Aug 2026 12:26:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>乘势而上的底气：Dell PowerStore Elite诠释新一代存储的进化逻辑</title>
-      <link>https://www.dostor.com/p/100868.html</link>
-      <description><![CDATA[这是一个言必称智能的时代，智能离不开数据，数据离不开存储，因此有了面向智能时代持续“进化”的存储。但是此类存储应该具备哪些能力？这个标准并不清晰。 8月21日，2026戴尔科技峰会暨“进化者”论坛在上海举行，以“进化 · 乘势而上”为主题，...]]></description>
-      <guid>https://www.dostor.com/p/100868.html</guid>
-      <pubDate>Mon, 24 Aug 2026 11:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞数信息安全报告洞察，三体共存时代新型安全风险值得警惕</title>
-      <link>https://www.dostor.com/p/100866.html</link>
-      <description><![CDATA[传统安全行业有一句流传多年的老话：“我们只需要比攻击者跑得快。”但当攻击者本身就是一个不知疲倦、每秒迭代一次的AI时，这句话的前提已经不存在了。 近日，瑞数信息发布《2026 Bots &amp; Agents自动化威胁报告》。报告显示：2...]]></description>
-      <guid>https://www.dostor.com/p/100866.html</guid>
-      <pubDate>Mon, 24 Aug 2026 10:23:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

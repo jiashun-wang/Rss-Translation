@@ -4,7 +4,14 @@
     <title>AI论文简报</title>
     <link>https://ai-brief.liziran.com</link>
     <description>每天3分钟，从源头论文把握AI前沿。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:31:02 GMT</lastBuildDate>
+    <item>
+      <title>RCCA让MiniAppBench升至41.25分</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-08-31-agent-context-credit-assignment.html</link>
+      <description><![CDATA[ContextPilot让Agent主动重组上下文：它把规划、长期记忆、柔性卸载变成可学习操作，并以细粒度RL训练关键编辑决策。 ElephantBench揭示「答对但只知一面」，32个模型中最强者也只在52.4%的问题上找回冲突双方说法。 RCCA把奖励落到责任代码。它在MiniAppBench上将得分从9.05升至41.25，并区分格式、运行时与功能失败。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-31-agent-context-credit-assignment.html</guid>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>11个系统未匹配未来概率，ES覆盖更多路径</title>
       <link>https://ai-brief.liziran.com/zh/daily/2026-08-30-probabilistic-world-models-urban-agents-es.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[SimWAM让视频专家退出部署链路：训练期借助视频生成学习动态规律，推理期仅保留轻量动作分支，在NAVSIM达到91.5PDMS并零样本迁移到nuScenes。 YOLO-PEFT将适配器位置变成约束规划问题，RS-LoRA在两款YOLO模型上超过全量微调、峰值显存降低43.9%，同时能识别不适合PEFT的架构。 多Agent取证的价值来自证据分工。 四个角色分别检查纹理、光照、运动和物理一致性，但跨越未知合成方法的泛化能力仍需验证。]]></description>
       <guid>https://ai-brief.liziran.com/zh/daily/2026-08-13-simwam-yolo-peft-forensics.html</guid>
       <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WorldTrace让场景召回提升19.5%</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-10-runtime-memory-agent-search.html</link>
-      <description><![CDATA[WorldTrace把长视频失忆变成可寻址问题：它为压缩记忆槽分配训练分布内的虚拟位置，两条路线将LoopBench时间一致性和情节召回分别提升15.5%和19.5%。 Modular TTT让测试时学习组件可拆解复用，通过DAG表示快速权重、损失函数和学习率；410M与1.45B模型在100B token训练后达到与Gated DeltaNet相当的表现。 ReASearch把搜索决策交给同一个Agent。 它统一评估、诊断、编辑与停止，在14项任务中大多优于专用系统，相对强基线提升2%至40%，但验证纪律仍需核查。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-10-runtime-memory-agent-search.html</guid>
-      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

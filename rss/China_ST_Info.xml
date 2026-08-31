@@ -4,116 +4,123 @@
     <title>中国科技信息</title>
     <link>https://sns.wanfangdata.com.cn/perio/zgkjxx</link>
     <description>中国科技信息</description>
-    <lastBuildDate>Wed, 12 Aug 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:00:00 GMT</lastBuildDate>
     <item>
-      <title></title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615030</link>
-      <description><![CDATA[]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615030</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
+      <title>垂直大模型破局之路:适配为先,赋能为本</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616005</link>
+      <description><![CDATA[基层民警梳理诈骗案件、社区医师解读影像、金融从业者排查风险,均面临效率低、精准度不足的痛点.本文聚焦预训练大模型在垂直领域的精准适配,梳理应用逻辑、验证成果与边界限制,为产业升级与社会治理提供实用方案.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616005</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>数字技术赋能ESG传播:B2B企业的路径与实践研究</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615010</link>
-      <description><![CDATA[1背景
-随着监管环境的变化,ESG(环境、社会及治理)逐渐受到更多企业重视.在中国证券监督管理委员会指导下,上市公司自律监管指引文件《可持续发展报告(试行)》自2024年5月开始施行,重点引导上市公司积极履行社会责任、推动绿色低碳发展.随着可持续发展理念深度融入资本市场投资框架,ESG 信息成为资本市场评估企业价值的重要信息来源(周泽将等,2024).然而,很多企业在开展 ESG 的过程中,出现了许多问题.Todaro,D.L.,和 Torelli,R.(2024)对此提到,例如受制于目前没有统一标准以及数据不够透明等问题,ESG 评估普遍存在标准模糊、回报不确定的情况.因此,这也导致不少企业对 ESG 披露的内容出现&quot;言实不符&quot;的情况,即 ESG 漂洗(ESG-washing)(尹珏林等,2025).要在这样的市场环境下制定有诚信的 ESG 沟通策略,讲好令人信服的 ESG 故事,多数企业正处于摸索和实践阶段.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615010</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI重构信息检索,破解海量数据检索低效难题</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615016</link>
-      <description><![CDATA[问题入口:海量数据时代的检索行业核心痛点
-数字时代下,全网数据呈爆发式增长,结构化、非结构化、碎片化数据混杂并存,给传统信息检索技术带来极大挑战.当前的主流检索系统依托关键词匹配机制工作,仅能实现文字层面的机械匹配,无法识别用户检索语义、深层意图,也不能适配个性化检索需求.这一技术缺陷直接引发两大行业痛点:一是检索结果相关性参差不齐,冗余信息、无效信息占比高,用户筛选耗时耗力;二是复杂语义检索、模糊检索需求无法被精准响应,难以适配科技查新、企业知识管理、垂直行业搜索等专业场景.与此同时,传统 AI 检索模型存在推理延迟高、算力消耗大、无法高并发落地的问题.精度与效率的矛盾,长期制约着智能检索技术的规模化商用,亟需一套兼顾精度、速度与实用性的全新解决方案.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615016</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615017</link>
-      <description><![CDATA[]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615017</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放式基金驱动的产学研协同机制探索</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615037</link>
-      <description><![CDATA[]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615037</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AR技术的数控设备维修流程优化</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615013</link>
-      <description><![CDATA[]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615013</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt UDP通信组件:破解工业开发痛点</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615024</link>
-      <description><![CDATA[在舰载显控系统的指挥大厅里,十多个终端需要实时同步雷达扫描的状态数据,每一秒的延迟都可能影响决策效率.为了保证低延迟,开发团队通常选择 UDP 协议,但当他们用 Qt 框架开发时,却发现原生的 UDP 接口处处是坑:组播地址配置错了收不到数据,大数据包传一半丢了,换个通信模式就要重写大半代码——这是很多工业级软件开发中都会遇到的共性问题.本文推出了一套基于 Qt 的多模式 UDP 通信组件库,正是为了解决这些长期困扰开发者的痛点.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615024</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615005</link>
-      <description><![CDATA[问题入口:物理隔离下的油田数字化发展桎梏
-数字油田建设进程中,内网物理隔离是守护生产核心数据的关键屏障.大庆油田第二采油厂依托物理断网、权限严控的方式,有效抵御外网病毒入侵、恶意网络攻击,从根源杜绝生产参数、设备运行数据、业务资料的外泄风险,为厂区信息化平稳运行筑牢安全底线.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615005</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615040</link>
-      <description><![CDATA[]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615040</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>科研机构、高校高价值专利情报分析——以中国专利奖发明专利为例</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615032</link>
-      <description><![CDATA[]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615032</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615018</link>
-      <description><![CDATA[一座大型水库的风险,往往不是突然出现的.渗流的微小变化、闸门振动的异常波动、坝体应力的缓慢漂移,都可能在日常运行中被分散到不同记录、不同部门、不同巡检周期里.传统维护依赖人工定期巡检,通常每月甚至每季度才能完成一次全面排查,且不同巡检人员的经验差异会导致判断标准不一,适合处理已经显现的问题,却不善于识别正在积累的隐患.对于承担防洪、供水、发电和生态调节功能的大型水库而言,维护体系的关键不在于&quot;修得快&quot;,而在于能否在风险形成早期就把它捕捉出来.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615018</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能自清洁技术革新中小型水域除藻模式</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615026</link>
-      <description><![CDATA[问题入口:传统除藻方案的行业痛点与短板
-当前我国中小型湖库、河道、景观及养殖池塘水域富营养化问题频发,严重威胁饮水安全与人体健康.国家多项政策明确推进水域富营养化治理、鼓励智能绿色治水装备研发,但传统技术存在明显短板.人工打捞效率低、成本高,无法清理微米级小型浮藻;化学药剂易破坏水体生态,气浮、遮光等技术适配场景单一、治理不彻底;传统设备易破碎藻体,反而加剧水体污染,行业长期缺少适配小型水域的高效、绿色、可常态化作业的除藻方案.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615026</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从跟随到突破——从专利看中国CAR-NK技术发展</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615033</link>
-      <description><![CDATA[]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615033</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
+      <title>科技情报助力农配网精准改造</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616041</link>
+      <description><![CDATA[问题入口:末端线路为什么需要&quot;情报&quot;
+农配网线路是县域电网延伸至村落、农田、山地和分散居民点的末端网络.它看似只是杆塔、导线、台区和开关设备的组合,实际承担着农业生产、乡村产业和居民生活用电的基础保障.随着农村生活用能升级、农业生产电气化、分布式光伏和充电设施接入,部分线路面对的已不是过去相对稳定的负荷环境.若技术改进仍主要依靠&quot;哪里故障修哪里、哪里老化换哪里&quot;的局部经验,容易出现重复改造、隐患转移和投资效益偏低等问题.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616041</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>前沿科技</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615001</link>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616001</link>
       <description><![CDATA[]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615001</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616001</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>智能整定PSS参数,抑制电网低频振荡</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615006</link>
-      <description><![CDATA[问题入口:电网振荡的老难题,老方法不够用了
-对于电网运行人员,最头疼的问题之一,就是系统在故障之后出现的低频振荡.当电网受到短路、负荷突变这类扰动时,发电机的转速会出现周期性的摇摆,功率随之来回波动,这种 0.1～2Hz 的振荡如果不能快速平息,轻则导致供电电压、频率不稳,影响用电质量,重则引发机组解列,甚至造成连锁反应导致大面积停电.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615006</guid>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
+      <title>Unity引擎赋能校园数字孪生:探寻高校智慧管理新路径</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616010</link>
+      <description><![CDATA[问题入口:大学校园的&quot;管理盲区&quot;
+新生报到找教学楼绕路,后勤隐患排查需要走遍整个校区,管理人员需切换多个系统才能整合完整校园运行状态……这是众多规模化高职院校普遍面临的管理痛点.传统分散式管理系统各功能相互割裂,已难以适配校园一体化统筹管理需求.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616010</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>停电等待压缩至秒级:智能算法重构电网故障响应</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616011</link>
+      <description><![CDATA[问题入口:高负荷下的电网&quot;响应困境&quot;
+7月的某西北城市,午后空调负荷将电网推至满载,突然线路短路引发4条馈线跳闸,7 300多户居民停电.过去,这意味着至少1小时的等待,运维排查故障、手动调整拓扑,逐步恢复供电.但这已是传统方法的极限——在这个220kV 主变、72条10kV线路、服务16.4万用户的区域,过去两年237起故障中,平均停电时长67分钟,故障识别准确率仅81.4％,多故障时误判率近20％.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616011</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>纳米时空尺度解析原子集体振动-――飞秒扫描隧道显微镜实现宽频可调相干声子探针</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616002</link>
+      <description><![CDATA[导读
+相干声子是固体中原子集体同相位振动的重要激发模式,能够调控材料的电子输运、光学响应、热传导以及力学性质.实现对相干声子的可控激发、高灵敏探测与频率调谐,对于理解纳米尺度能量转移过程以及开发新型声子器件具有重要意义.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616002</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>集成一体式制冷机组专利技术分析</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616029</link>
+      <description><![CDATA[1研究背景
+随着&quot;双碳&quot;战略的深入推进与工业领域能效要求的不断提升,制冷技术的绿色转型已成为行业发展的主旋律.在这一宏观背景下,制冷机组的高效化、紧凑化与智能化被确立为核心技术演进方向.传统分体式制冷系统因其现场安装工艺复杂、冷媒管路长导致能效损失较大以及室外机组占用大量建筑空间等固有局限,已难以完全满足现代工业与商业应用场景对设备集成度与可靠性的严苛需求.在此背景下,集成一体式制冷机组应运而生并迅速成为技术创新的热点.该类型机组通过将压缩机、冷凝器、蒸发器、节流元件以及智能控制系统高度物理集成于一个紧凑的机壳内,其不仅显着提升了单位体积的制冷效率,还因减少管路压降、降低泄露风险而具备了更高的运行稳定性与能效比,在数据中心冷却、冷链物流、商用厨房等对空间与能耗敏感的场景中展现出极高的应用前景.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616029</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技大数据助力农配网精准检修</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616027</link>
+      <description><![CDATA[问题入口:末端线路也需要前置判断
+一条农村配电线路是否安全,往往不只取决于它此刻有没有送上电.它可能穿过村道、农田、山区和分散居民点,供电半径长,沿线设备多,外部环境变化也复杂.一次强降雨、一次覆冰、一个老化开关、一段树障通道,都可能让故障风险悄悄累积.传统运维依赖定期巡视和经验判断,能够维持基本秩序,却难免出现两个问题:有的低风险线路被反复巡检,有的高风险线路却在隐患扩大后才被发现.农配网状态评估的价值,就在于把这些分散迹象提前组织起来,让检修从&quot;按时间轮到谁&quot;转向&quot;按风险先处理谁&quot;.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616027</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于专利分析的光导半导体开关器件发展态势</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616030</link>
+      <description><![CDATA[1背景
+在雷达探测、5G/6G 通信等民用场景中,微波器件的响应速度与功率承载能力直接决定了设备性能的上限.传统微波开关器件存在响应速度慢、高功率下损耗大、触点易老化等固有缺陷,难以适配新一代装备小型化、高可靠性的应用需求.光导半导体开关器件(Photoconductive Semiconductor Switch Device,PCSS)作为半导体与微波技术融合的典型产物,凭借皮秒级响应、兆瓦级功率承载、无触点低损耗等特性,成为突破上述瓶颈的关键技术路线,也是各国科技竞争的重点领域.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616030</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>毫米级洞察:蠡县地面沉降全扫描</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616025</link>
+      <description><![CDATA[问题入口
+地面沉降最容易被忽视,因为它很少以&quot;瞬间塌陷&quot;的方式进入公众视野.更多时候,它以毫米级、厘米级的速度在多年里慢慢发生:道路标高改变、排水坡度变缓,给农田和村镇基础设施带来持续性安全隐患.对华北平原这样的沉降敏感区域,问题不在于是否能在灾害发生后看到损失,而在于能否提前把变化范围、速度和重点区域识别出来.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616025</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字赋能,激活徽州三雕非遗新生力</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616035</link>
+      <description><![CDATA[问题入口:传统非遗传承的时代困境
+徽州三雕(砖雕、木雕、石雕)作为重要的国家级非物质文化遗产,承载古徽州数百年的工艺美学与民俗文化,是徽派文化的典型视觉符号.但在现代化、全球化发展进程中,徽州三雕的传统工艺面临着多重发展困境.就其传播层面来看,三雕文化受时空和地域的限制,以实地参观、展品展示等静态传播为主,辐射面窄、公众影响力小;再看其传承层面,民俗变迁、乡村旅游的开发、学徒断层等现象日趋明显,传统手工艺师徒制传承率低,严重限制了产业的发展;从产业层面看,传统产业模式单一陈旧,缺少新的衍生产业支撑,传统业态发展乏力、市场关注度不足.文化价值无法有效转化为社会、经济价值.传统保护模式仅能实现静态留存,不适应新时代非遗活态传承的需求,探索数字化转型和创新,是破解困局的重要出路.与此同时,数字技术的快速迭代为非遗保护带来了契机.利用三维扫描、数字建模、虚拟展示等技术,徽州三雕的精微纹样、精湛技艺得以数字形态高精度再现,突破了实物观赏的时空限制.将徽州三雕形态数字化,不仅能完整记录技艺流程与永久存档,还能通过交互式体验、线上展览等方式覆盖更广泛受众,让传统文化以鲜活的姿态融入当代生活,为非遗从&quot;活下来&quot;走向&quot;活起来&quot;,从而打通有效可行的技术途径.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616035</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>潮起AI后浪可期-――十位潮汕籍科创者掀起青春风暴</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616003</link>
+      <description><![CDATA[&quot;三江出海,一纸还乡&quot;.前不久,讲述潮汕先辈下南洋艰辛谋生的电影《给阿嬷的情书》催泪全国,风靡东南亚.所谓&quot;三江&quot;是指潮汕平原的韩江、榕江、练江三条母亲河.&quot;一纸&quot;则是华侨寄给家乡亲人的&quot;侨批&quot;.无论身在何处,潮汕始终都是潮人心心念念的故乡.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616003</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国商业火箭公司专利总体分析</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616034</link>
+      <description><![CDATA[1背景
+航天产业技术是衡量国家综合科技实力与战略能力的重要标志.其中,运载火箭作为人类进入太空的核心运载工具,其研制水平直接决定了航天活动的深度与广度.专利是技术创新成果的重要载体,是企业构建和保持核心竞争力不可替代的战略资源.商业火箭公司通过合理的专利布局,能够对核心技术形成强大的技术壁垒,以在激烈的市场竞争中保持技术领先优势.本文以国内22家商业火箭公司为研究对象,从专利数据库筛选出公开日截至2025年12月31日的专利,从专利申请趋势和申请人维度,分析中国商业火箭公司的专利布局特点.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616034</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>旋转设备故障诊断专利分析</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616033</link>
+      <description><![CDATA[1技术背景
+现代工业中,设备安全可靠运行是保障产品质量、提升产能与安全生产的核心.当前基于振动信号的旋转设备故障诊断面临设备关联影响、多故障叠加、故障与信号特征交叉关联等严峻挑战.本文依托 incoPat 数据库检索样本,深入分析旋转设备故障智能诊断辅助技术,为企业及研究机构提供技术参考与决策支持,助力该领域技术迭代与应用拓展.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616033</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技创新引领油城高新区提质发展路径</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616039</link>
+      <description><![CDATA[01背景
+国家级高新区是创新驱动发展的核心载体,承载着引领科技进步、促进产业升级、推动区域发展的重要使命.《国家高新技术产业开发区综合评价指标体系》是工信部火炬中心考核评估全国高新区发展水平的核心工具,该体系有助于高新区明确发展方向.对克拉玛依高新区(以下简称园区)进行综合指标对比分析,识别优势和劣势,为高新区向着更加繁荣、更具活力、更可持续的方向发展提供参考.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616039</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

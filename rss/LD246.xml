@@ -4,199 +4,193 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:10:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:28:53 GMT</lastBuildDate>
     <item>
-      <title>思源笔记越来越卡了, 开发者能不能转向 Zed 的 gpui?</title>
-      <link>https://ld246.com/article/1788126539909</link>
-      <description><![CDATA[我关是笔记就已经 7000 多个子文档了,其他的更重的还有我的游戏项目.
-编辑的时候还好,小卡.
-但是在文档树,展开某个文档,查看下面的子文档,在文档树上滚动鼠标滚轮,已经明显能感觉到卡顿了.
-我听说思源是基于 electron 的,请问能不能转 gpui.
-真的很卡啊.
+      <title>让 ai 自行开发思源插件并自行调试完善</title>
+      <link>https://ld246.com/article/1788174614449</link>
+      <description><![CDATA[最近做了一个有意思的项目：silkpulse：AI 原生的远程调试器 悬丝诊脉，让 Agent 替你“摸”到线上设备
+只需要在思源的设置外观，自定义代码里面，新增导入 silkpulse 的 JS 代码
+
+参考 silkpulse 官网的 Agent 接入方法，将提示词给你的 Agent，它就可以去控制你的思源浏览器进行调试开发了。 
+
+还有一个很大的优势，就是能够调试移动端的移动端的思源、使用 VConsole 之类的方案，我觉得是不如这套完善的。 ]]></description>
+      <guid>https://ld246.com/article/1788174614449</guid>
+      <pubDate>Mon, 31 Aug 2026 11:40:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>优化移动端 v3.8.2UI 适配</title>
+      <link>https://ld246.com/article/1788175257516</link>
+      <description><![CDATA[新 UI 条目太细不适合手指点击，包括设置内的开关滑块都太小；
+同样，新版本包括文档树的条目字体整个小了一号，又小又细变得不方便看；
+新的悬浮底栏有点朴素，页签内部的数字看起来偏左上不居中；
+设置页目前堆得条目太多，感觉可以学习 Obsidian，把原来的快捷方式做成下拉弹出，和设置内条目分开展示；
+希望对 Mate30pro 这种超曲屏设备优化左右边距适配。 ]]></description>
+      <guid>https://ld246.com/article/1788175257516</guid>
+      <pubDate>Mon, 31 Aug 2026 11:20:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>升完级后为什么突然账号退出来登不上了</title>
+      <link>https://ld246.com/article/1788171222942</link>
+      <description><![CDATA[提示密码错误]]></description>
+      <guid>https://ld246.com/article/1788171222942</guid>
+      <pubDate>Mon, 31 Aug 2026 10:13:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>古法编程（手搓代码）还有必要吗？</title>
+      <link>https://ld246.com/article/1788163638923</link>
+      <description><![CDATA[最近在知乎上看到一个问题，程序猿们讨论 AI 代码是否会成为屎山？ （虽然之前人类手搓也是一坨，好歹可以读懂？但 AI 写的是读也读不懂？）
+链接：现在程序员的代码大多数都是用 AI 生成的，后面会成为屎山代码看不懂吗？ - 知乎
+近来的感受是，各种软件确实如雨后春笋般生长出来了（之前并没有这么多同赛道的软件一起出现在大众面前，这应该都是 AI 助力帮忙解决了不少问题吧），但是所遇到的微小 bug 和难用之处，也是翻倍似增长
+非特指思源，即在小红书上也有很多独立开发者自荐他们开发的笔记软件——因为我目前很想找到一个轻量化便签软件，所以只要有推荐就去下载试用
+抛开开发者理念与我使用需求的不匹配，我发现那些软件总有些意外的 bug，简言之，就仿佛是——
+看起来是给我端了一盆炒好的菜呢，结果里面缺盐少醋，要不就是忘了糖之类的……
+然后，另一种观感是，随着思源不断升级版本，论坛好像都沦为了一个专门报错的 issue 区。 
+记得之前还有各种笔记理念方法的讨论分享，还有其他各种各样其奇奇怪怪的 CSS+js 用途分享，论坛在线人数一直都保持在一个区间内，好像也没有随着注册用户的增加而增加很多，然而论坛帖子内容却完全变了画风，之前还在这上面学到过不少东西呢……]]></description>
+      <guid>https://ld246.com/article/1788163638923</guid>
+      <pubDate>Mon, 31 Aug 2026 08:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Docker 版本的笔记是否有计划增加 PDF 导出功能</title>
+      <link>https://ld246.com/article/1788162548227</link>
+      <description><![CDATA[docker 布署的 v3.8.1 没有导出 pdf 的功能，请问后续是否有支持计划。 ]]></description>
+      <guid>https://ld246.com/article/1788162548227</guid>
+      <pubDate>Mon, 31 Aug 2026 07:49:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望 Docker 版本原生支持多用户多记事本支持，降低家庭部署成本</title>
+      <link>https://ld246.com/article/1788157691542</link>
+      <description><![CDATA[思源笔记近期迭代速度很快，近半年各平台端都完成了大规模的功能升级和体验优化，但 Docker 服务端版本感觉还是缺少针对性适配，存在比较影响家庭使用场景的短板，特此发帖反馈，希望 d 大及开发团队可以考虑优化迭代。 
+思源 docker 版多用户不支持，多笔记本也只能通过重复部署多个思源 docker 版来实现，对服务器内存消耗较大，使用体验比较勉强。 
+对于三口、四口这类普通家庭场景，全家共用一台服务器部署一套思源服务，依靠多账号、多笔记本隔离各自笔记本空间，是非常贴合实际的需求。如果为了区分不同家人的笔记，就要重复部署三四个容器，资源浪费明显，实在没有必要。 
+恳请 d 大和开发团队予以考虑，能够从底层完善 Docker 端的多用户适配，原生支持多账号、多笔记本隔离，更好满足家庭共用部署的使用场景。 ]]></description>
+      <guid>https://ld246.com/article/1788157691542</guid>
+      <pubDate>Mon, 31 Aug 2026 06:28:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法用 workbuddy 之类的工具对思源笔记的内容进行自动归类整理？</title>
+      <link>https://ld246.com/article/1788157413342</link>
+      <description><![CDATA[有没有办法用 workbuddy 之类的工具对思源笔记的内容进行自动归类整理？ ]]></description>
+      <guid>https://ld246.com/article/1788157413342</guid>
+      <pubDate>Mon, 31 Aug 2026 06:23:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于“ 支持将任意内容块复制为 PNG 图片”功能疑问</title>
+      <link>https://ld246.com/article/1788149591754</link>
+      <description><![CDATA[我这边 点击指定的块 的块标 后 点击 “复制为 PNG” 后
+
+出来个弹窗为什么是 指定块的 父文档 及后面所有的子文档的 所有内容 集合到一个长图里面？ 这符合预期吗？ 
+无论我是否聚焦块
+另外奇怪的是 不同时间操作 出来的图片大小还不完全一样
 ]]></description>
-      <guid>https://ld246.com/article/1788126539909</guid>
-      <pubDate>Sun, 30 Aug 2026 21:49:56 GMT</pubDate>
+      <guid>https://ld246.com/article/1788149591754</guid>
+      <pubDate>Mon, 31 Aug 2026 04:13:10 GMT</pubDate>
     </item>
     <item>
-      <title>文件导出 PDF 或者其他时用于打印正反问题反馈</title>
-      <link>https://ld246.com/article/1788096857429</link>
-      <description><![CDATA[列：SIYuan 笔记正常导出 PDF 文件用于打印时，对打印机正反面打印没有进行反面打印时所需的反向边距调整
-如：
-打印机打印正面图！左边需要订书针，边距最宽。 
-打印机开始打印反面时，不应该继续左边最宽，而是右边最宽，以保证订书针不会钉在字体上。 
-
-意见！建议导出功能中适合打印机打印文件的导出中，带有错位边距功能，比如左右错位，上下错位置，错开最长边距位置，以便打印后装订！ 
-
-**另外：
-打字时对&quot;==特殊标记符号==&quot;等选中识别时会出现某个段落中的&quot;==特殊标记符号==&quot;无法删除、去除、替换不干净。使用鼠标选中后依然无法删除，搜索中批量替换也无法替换，必须将整段或者整行删除才能去除&quot;==特殊标记符号==&quot;类似的特殊符号，使用鼠标右键(偶啊)无法覆盖掉标记符号，导致&quot;==特殊标记符号==&quot;既有颜色标记还会有斜体标识&quot;==特殊标记符号==&quot;。使用搜索替换&quot;==特殊标记符号==&quot;等特殊标记符号时，替换不干净！等 BUG。 
-一、如打字时我测试&quot;= =如次= =&quot;识别后的效果是否醒目；而识别&quot;= =如次= =&quot;后显示颜色后我希望删除效果&quot;= =如次= =&quot;的颜色效果时，只能去除整个段落或者使用鼠标悬停出现相关功能后点击相关段落有关此&quot;==特殊标记符号==&quot;的功能才能去除。 
-二、使用批量搜索替换&quot;==特殊标记符号==&quot;成&quot;特殊标记符号&quot;的效果情况下无法替换干净；且无法使用 Ctrl+a 全选快捷键后在使用鼠标中显示的此&quot;==特殊标记符号==&quot;功能将&quot;==特殊标记符号==&quot;效果批量替换成&quot;特殊标记符号&quot;这样没有颜色的效果，鼠标只能单个行、段、块操作！ 
-三、使用搜索进行批量识别替换时，无法完全替换干净！ ！ ！ 。 （进行了全部搜索和覆盖，但是依然有题目中间出现那么几个替换不干净；而不是某一段或者后面大半部分。）
-   如：&quot;==你好~~，我来了！==&quot;使用==特殊标记符号==识别出颜色的段落。单个行、段、块我可以用鼠标改变效果。但是批量搜索符号&quot;==&quot;进行替换的情况下会有残留特殊符号的情况发生。 
-   如：&quot;你好~~，我来了！= =&quot;特殊符号在后面出现这样的情况或者是&quot;= =你好~~，我来了！&quot;特殊符号出现在前面的情况，无法替换、去除、删除、使用鼠标悬停出现的此&quot;==特殊标记符号==&quot;功能也无法消除，只能删除整段或者行。 **
-
-
-可行！或者有进一步意见需求！ 邮箱 ：inkrabbit@foxmail.com
-
-
-不可！则不用回复！ 
-
-@ 管理员！ @ 开发者！ @ 意见收集！ #功能意见！ #其他 BUG 反馈！ ]]></description>
-      <guid>https://ld246.com/article/1788096857429</guid>
-      <pubDate>Sun, 30 Aug 2026 19:53:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望插件 icon 和 preview 图片尽快支持 jpg,webp 格式来减小体积, 甚至支持 avif 和 svg 格式来超级减小体积</title>
-      <link>https://ld246.com/article/1788105694086</link>
-      <description><![CDATA[原因:
-
-
-png 格式天生体积大但集市又要求 preview 图体积小于 200KB,有点矛盾.
-
-现在开发者多使用 ai 生图,ai 生成的图片(png,jpg)普遍体积偏大或压缩后质量太差.
-
-或让 ai 生成 svg 格式的 preview 图可以只用几十 kb,但现在又只支持 png 格式,一转换体积又放大几倍甚至超限.
-
-
-相关数据支撑:
-bazaar 中的 issue 统计数据中高达四分之一都是图片体积过大的问题
-&quot;截至 26.8.28：
-  Issue 总数：227
-  icon.png 体积超限：53 个
-  preview.png 体积超限：46 个
-  两者同时超限：23 个&quot;]]></description>
-      <guid>https://ld246.com/article/1788105694086</guid>
-      <pubDate>Sun, 30 Aug 2026 16:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>横版视频全屏播放返回后，顶部页签栏位置永久下沉，刷新页面无法恢复</title>
-      <link>https://ld246.com/article/1788080255564</link>
-      <description><![CDATA[结构化摘要：
-
-
-
-字段
-内容
-
-
-
-
-版本
-3.8.2
-
-
-平台
-手机页面端
-
-
-复现路径
-打开页面 → 点击横版视频进入全屏播放 → 退出全屏返回页面
-
-
-实际表现
-顶部页签栏位置向下偏移
-
-
-预期表现
-页签栏恢复至原始位置
-
-
-额外现象
-浏览器刷新页面后，页签栏仍处于下沉状态，无法自行恢复
-
-
-影响范围
-仅横版视频全屏播放触发；竖版视频全屏不触发
-
-
-
-
- 浏览器不支持该媒体的播放
-]]></description>
-      <guid>https://ld246.com/article/1788080255564</guid>
-      <pubDate>Sun, 30 Aug 2026 15:52:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有佬看看叶归没法用是什么情况吗</title>
-      <link>https://ld246.com/article/1788102265036</link>
-      <description><![CDATA[更新版本后叶归 是不是插件失灵了 我看打不开设置了 今天刚更新
-
-还有没更新之前不知道是不是我设置问题 设置完一键记事 没办法编辑
-
-
-]]></description>
-      <guid>https://ld246.com/article/1788102265036</guid>
-      <pubDate>Sun, 30 Aug 2026 15:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>升级 macOS27 系统之后持续闪退</title>
-      <link>https://ld246.com/article/1788098172799</link>
-      <description><![CDATA[升级 macOS27 goldengate beta 系统之后思源笔记持续闪退，隔几​​分钟就闪退一次 思源笔记是 3.8.2]]></description>
-      <guid>https://ld246.com/article/1788098172799</guid>
-      <pubDate>Sun, 30 Aug 2026 13:56:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>v3.8.2 在字符后面无法通过 ":" 录入表情</title>
-      <link>https://ld246.com/article/1788084133033</link>
-      <description><![CDATA[在一个块字段里，无论实在字段中间，还是在字段末尾，录入:，再录入表情名称，均无法调出表情
-再一个空白块里，录入:，则可以调出表情]]></description>
-      <guid>https://ld246.com/article/1788084133033</guid>
-      <pubDate>Sun, 30 Aug 2026 10:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>任务列表前的方框丢失</title>
-      <link>https://ld246.com/article/1788077047900</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788077047900</guid>
-      <pubDate>Sun, 30 Aug 2026 08:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>神秘插件 O</title>
-      <link>https://ld246.com/article/1788070752189</link>
+      <title>左侧浮动栏状态下，点击后会自动展开或者打开文件</title>
+      <link>https://ld246.com/article/1788149579179</link>
       <description><![CDATA[
-
-
+3.8.1 版本在 iPad mini 上有重大问题，会导致软件崩溃打不开，点击图标后黑屏（重新安装后仍然会复现）——通过更新最新版本可以解决，但不清楚是否会复现。 
+左侧浮动栏状态下，点击后会自动展开或者打开文件——很是影响体验！会打开本不想打开的文件，增加操作时间成本；其次，在 3.8.1 上也有这个问题，这次最新版本仍然没有解决。望重视及时更新
 ]]></description>
-      <guid>https://ld246.com/article/1788070752189</guid>
-      <pubDate>Sun, 30 Aug 2026 06:19:11 GMT</pubDate>
+      <guid>https://ld246.com/article/1788149579179</guid>
+      <pubDate>Mon, 31 Aug 2026 04:12:58 GMT</pubDate>
     </item>
     <item>
-      <title>关于图片地址 img.hacpai.com 不显示后批量更新成 b3logfile.com 依然不显示问题</title>
-      <link>https://ld246.com/article/1788070393354</link>
-      <description><![CDATA[最近我发现旧文章图片不显示了，新文章正常。所以跟进下这个事。 
-比如我修改 b3_solo_article 表中的 articleContent 字段值，把某文章的某图片的值从
-从
-修改成
+      <title>AI 对话无法完整导出</title>
+      <link>https://ld246.com/article/1788147681866</link>
+      <description><![CDATA[有的时候，AI 对话的上下文，我需要完整的复制到其他地方。但是目前思源笔记的 AI 对话，只能一个块一个块的复制。 ]]></description>
+      <guid>https://ld246.com/article/1788147681866</guid>
+      <pubDate>Mon, 31 Aug 2026 03:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 升级 3.8.2 功能完美，一个小建议</title>
+      <link>https://ld246.com/article/1788145786708</link>
+      <description><![CDATA[升级 3.8.2 功能完美
+新升级后，左右栏，底部工作栏，堪称完美，比想象中还好用，赞赞赞
+小小建议
+将立即同步这个按钮增加到底部工具栏或左右工具栏
+有过多端同步的使用者都知道这个键的重要性，你只要一打开界面首先都会立即同步一下，这个无论是原来印象笔记，还是语雀，都需要这样随时点击同步一下，才不会发生在多端的内容出现修改冲突，这个同步键都已经是肌肉记忆了，但思源笔记的界面没有这个按键也自定义不上去，要在设置中才能找到，比较不方便。这个立即同步其实比重建索引键要使用频率高太多
+]]></description>
+      <guid>https://ld246.com/article/1788145786708</guid>
+      <pubDate>Mon, 31 Aug 2026 03:20:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reeden 使用文档</title>
+      <link>https://ld246.com/article/1788146057208</link>
+      <description><![CDATA[1.软件激活
+这里说的是 Redden 高级版的内容，如果未购买高级版，不用看这篇文章。 
+点击软件的【立即同步】按钮，弹出激活，输入提供给你的激活码即可。 
+2.缤纷云 S3 配置（支持多种方式，仅举例）
+2.1 注册和说明
+这里以缤纷云举例：
+https://console.bitiful.com/login
+注册，并实名认证。 
+通过实名认证后，官方会赠送 50GB 的免费存储。 （我也不知道实名认证后有啥隐患没，请根据个人选择不同的方式进行同步）
 
-打开我的文章后，F12，这张图片的地址依然是旧图片 imghacpai 地址，清了缓存还是这样？这是为啥？ 
 
-我上述修改图片在数据库修改地址的方式对吗？ 
-另外，直接访问修改域名后的图片能正确访问。 
+前 50 GiB 存储
 
-谢谢各位，搜索了论坛没有找到解决方案。谢谢。 ]]></description>
-      <guid>https://ld246.com/article/1788070393354</guid>
-      <pubDate>Sun, 30 Aug 2026 06:16:41 GMT</pubDate>
+每月前 3*10 GB HTTP/HTTPS 流量（每日每项限 5 GB）
+
+S4 出口流量 10GB/月
+内置 CDN 回源 S4 流量 10GB/月
+内置 CDN 出口流量 10GB/月
+
+
+每月前 3*10 万次 请求（每日每项限 1 万次）
+
+S4 请求数 10 万次/月
+内置 CDN 回源 S4 请求数 10 万次/月
+内置 CDN 请求数 10 万次/月
+
+
+前 5 个 Let’s Encrypt 单域名 自动证书
+
+注意：如果书籍很多的话，缤纷云是先使用后缴费，长时间不缴费会删除存储内容，最低充值 50，请了解该情况。 （不过单纯给 Redden 用，免费给的充分够用了）
+2.2 桶设置
+创建桶
+
+创建桶完成后，点击...，点击【访问管理】
+
+点击【桶信息】，圈选的这些参数后续将要用到
+
+点击【文件管理】，创建目录，可选项，我这里是为了规范，创建了一个 Redden 目录
+
+
+2.3 添加子账户
+这里没啥好说的，添加子账户，创建 key 就行了，key 的权限记得给高点，把密钥相关参数保存好
+
+3.软件设置：
+3.1 同步设置
+就以上述的配置为例，点击同步
+
+点击【网盘】，网盘选择 S3，根据我上面图片和下面截图，不多赘述
+
+点击【选项】，自动同步是否开启看自己选择吧，底下的两个设置建议勾选打开
+
+3.2 书库设置
+举例说明，如果你打开软件本地存储导入你的书，最后书籍文件通过软件自己的同步会上传到他自己的用户数据里，并且不是书籍原格式，所以可以配置一个云书库上传源文件，让 Reeden 从云端下载导入书籍。 
+
+点击【网盘书库】
+
+点击右上角...，点击【配置】
+
+点击 +，新增配置
+
+和上面同步的设置大同小异，只是最后的目录不一样，我专门在 S3 桶里，创建了一个云书库的文件夹。 
+
+
+4.结尾
+AI 设置和美化设置时间不够，打算后面写]]></description>
+      <guid>https://ld246.com/article/1788146057208</guid>
+      <pubDate>Mon, 31 Aug 2026 03:16:14 GMT</pubDate>
     </item>
     <item>
-      <title>思源笔记 v3.8.2 发布</title>
-      <link>https://ld246.com/article/1788063814900</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788063814900</guid>
-      <pubDate>Sun, 30 Aug 2026 04:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>安卓闪念速记功能文件丢失</title>
-      <link>https://ld246.com/article/1788062238740</link>
-      <description><![CDATA[我在 PC 端开启了加密笔记本功能，移动端未开启。但是不知道为什么，闪念速记的目录自动被设置到加密目录下了，记录的时候没有提示异常，但是没有地方可以找到速记的内容，翻了本地目录也没有找到，有什么方法可以找回吗？ ]]></description>
-      <guid>https://ld246.com/article/1788062238740</guid>
-      <pubDate>Sun, 30 Aug 2026 03:57:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>MeiDay 在线任务日记管理插件</title>
-      <link>https://ld246.com/article/1788045862315</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788045862315</guid>
-      <pubDate>Sun, 30 Aug 2026 00:12:21 GMT</pubDate>
+      <title>智能体会话现在可以独立执行</title>
+      <link>https://ld246.com/article/1788146014504</link>
+      <description><![CDATA[新版本中的“智能体会话现在可以独立执行”独立运行是指不会查看笔记内容吗？ ]]></description>
+      <guid>https://ld246.com/article/1788146014504</guid>
+      <pubDate>Mon, 31 Aug 2026 03:13:33 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

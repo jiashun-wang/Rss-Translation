@@ -4,7 +4,42 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:29:01 GMT</lastBuildDate>
+    <item>
+      <title>OpenClaw 2.0 正式发布：史上规模最大的一次更新：933 位贡献者，16000 个拉取请求</title>
+      <link>https://www.appinn.com/openclaw-2-0/</link>
+      <description><![CDATA[在停更7周以后，OpenClaw 2.0 终于发布，这次更新被开发者称为「迄今为止 OpenClaw 历史上规模最大的一次更新。此次更新由 933 位贡献者共同完成，其中包括 569 位首次贡献者，并]]></description>
+      <guid>https://www.appinn.com/openclaw-2-0/</guid>
+      <pubDate>Mon, 31 Aug 2026 09:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam 12TB 游戏数据泄漏：横跨 10 年，大量未公开内容曝光</title>
+      <link>https://www.appinn.com/steam-12tb-game-data-leak/</link>
+      <description><![CDATA[Steam 最近爆出了一次规模惊人的游戏数据泄漏：超过 12TB、横跨 2003～2013 年的大量游戏数据被公开。 @Appinn 泄漏的内容是 Steam2，里面有《Portal 2》《Left 4]]></description>
+      <guid>https://www.appinn.com/steam-12tb-game-data-leak/</guid>
+      <pubDate>Mon, 31 Aug 2026 06:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>内网穿透，本可以不用那么麻烦</title>
+      <link>https://www.appinn.com/wangyunchuan-2-2/</link>
+      <description><![CDATA[很多人都想随时随地地远程控制在家或办公室的电脑，或者出门在外也能访问 NAS 里的文件、公司内部的 OA 系统，甚至小主机、路由器、打印机等设备。但由于没有公网 IP，这些设备都处于内网，无法直接访问]]></description>
+      <guid>https://www.appinn.com/wangyunchuan-2-2/</guid>
+      <pubDate>Mon, 31 Aug 2026 05:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天，Chrome 应用商店将彻底移除所有 Manifest V2 扩展，趁现在如何备份？</title>
+      <link>https://www.appinn.com/chrome-remove-manifest-v2-26831/</link>
+      <description><![CDATA[这一天终于到了。 根据 Manifest V2 支持时间表，2026 年 8 月 31 日，谷歌将从 Chrome 应用商店中移除所有剩余的 Manifest V2 扩展程序。 注意：安装在 Chro]]></description>
+      <guid>https://www.appinn.com/chrome-remove-manifest-v2-26831/</guid>
+      <pubDate>Mon, 31 Aug 2026 04:59:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>小米17 Pro自带语音输入法会屏蔽脏话</title>
+      <link>https://www.appinn.com/xiaomi-17-pro-voice-input-censors-swear-words/</link>
+      <description><![CDATA[根据酷安网友截图显示，其使用了小米17 Pro自带输入法的语音输入功能，在碰到脏话的时候会提示：已屏蔽敏感内容 该网友还表示：“即使把相关 AI 的模型功能全部关掉，也是无法关闭这个屏蔽功能的。我不知]]></description>
+      <guid>https://www.appinn.com/xiaomi-17-pro-voice-input-censors-swear-words/</guid>
+      <pubDate>Mon, 31 Aug 2026 02:35:45 GMT</pubDate>
+    </item>
     <item>
       <title>发现频道：10款大家发现的好评软件[2026年第35期]</title>
       <link>https://www.appinn.com/faxian-top10-2635/</link>
@@ -39,41 +74,6 @@
       <description><![CDATA[微软在最新的 Edge 152 中正式停用了 Drop 功能，它本可以让用户在不同设备间拖动传输照片、文件、链接、视频等。 @Appinn 最近一段时间以来，只要打开 Drop 就会提示： Drop 即]]></description>
       <guid>https://www.appinn.com/edge-152-removes-drop-file-transfer/</guid>
       <pubDate>Sat, 29 Aug 2026 03:40:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周赛博领鸡蛋（8.28~9.3）：《呼吸边缘》《家族传奇：桌面版》《逃出百慕大》</title>
-      <link>https://www.appinn.com/eggs-26828/</link>
-      <description><![CDATA[本周可以领的 Epic 鸡蛋有：2 款电脑游戏和 1 款手机游戏，分别是《呼吸边缘 / Breathedge》《家族传奇：桌面版 / Rival Stars Horse Racing: Desktop]]></description>
-      <guid>https://www.appinn.com/eggs-26828/</guid>
-      <pubDate>Fri, 28 Aug 2026 08:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 一口气更新21项新增功能，但一定先别着急更新</title>
-      <link>https://www.appinn.com/windows-11-kb5120998/</link>
-      <description><![CDATA[微软刚刚发布了最新的 Windows 11 8月份可选更新 KB5120998，在发布日志中自带了非常多的新增标识，青小蛙数了下大概21个！ 但一定先别着急更新，这个版本，它有问题。 😂 KB51209]]></description>
-      <guid>https://www.appinn.com/windows-11-kb5120998/</guid>
-      <pubDate>Fri, 28 Aug 2026 07:14:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>CompactGUI：用 Windows 原生压缩功能，为程序和游戏文件夹瘦身</title>
-      <link>https://www.appinn.com/compactgui-4/</link>
-      <description><![CDATA[如果你的硬盘不太够用了，又不想换硬盘，那么可以试试用 CompactGUI 来救急，它可以帮你压缩现有文件。比如青小蛙用它压缩了 Epic 游戏文件夹，立省11GB空间。 @Appinn 但问题也来了：]]></description>
-      <guid>https://www.appinn.com/compactgui-4/</guid>
-      <pubDate>Thu, 27 Aug 2026 07:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>PowerToys 0.101 发布：Windows 向 macOS 看齐，新增同应用多窗口间快速切换</title>
-      <link>https://www.appinn.com/powertoys-0-101/</link>
-      <description><![CDATA[PowerToys 0.101 发布，新增了一个非常实用的功能：Window Hopper，可以通过快捷键在同一个应用的多个窗口之间快速切换。比如同时打开了 5 个文件夹窗口，按下快捷键 alt +]]></description>
-      <guid>https://www.appinn.com/powertoys-0-101/</guid>
-      <pubDate>Wed, 26 Aug 2026 09:32:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>电脑用久了，到底会留下多少没用的东西？</title>
-      <link>https://www.appinn.com/krokiet/</link>
-      <description><![CDATA[青小蛙看了一眼自己的硬盘，突然很好奇：那些用了几年甚至十几年的电脑，除了越来越多的照片、视频和文档，到底还悄悄留下了多少已经没什么用的东西？ 仔细想想，可能还真不少： 那么问题来了： 这些东西到底有多]]></description>
-      <guid>https://www.appinn.com/krokiet/</guid>
-      <pubDate>Tue, 25 Aug 2026 12:35:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
