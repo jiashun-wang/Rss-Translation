@@ -8,34 +8,35 @@
     <item>
       <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615030</link>
-      <description><![CDATA[1背景
-专利是衡量区域创新能力与知识产权发展水平的核心指标,对地方政府制定产业政策、优化创新资源配置具有重要的参考价值.本研究基于incoPat全球专利数据库,对2006—2025年河南省周口市近20年专利发展的状况展开系统性的分析,重点从申请趋势、专利总量、专利申请人等多个角度进行探讨,为周口市的创新发展提供参考.]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615030</guid>
       <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>数字技术赋能ESG传播:B2B企业的路径与实践研究</title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615010</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[1背景
+随着监管环境的变化,ESG(环境、社会及治理)逐渐受到更多企业重视.在中国证券监督管理委员会指导下,上市公司自律监管指引文件《可持续发展报告(试行)》自2024年5月开始施行,重点引导上市公司积极履行社会责任、推动绿色低碳发展.随着可持续发展理念深度融入资本市场投资框架,ESG 信息成为资本市场评估企业价值的重要信息来源(周泽将等,2024).然而,很多企业在开展 ESG 的过程中,出现了许多问题.Todaro,D.L.,和 Torelli,R.(2024)对此提到,例如受制于目前没有统一标准以及数据不够透明等问题,ESG 评估普遍存在标准模糊、回报不确定的情况.因此,这也导致不少企业对 ESG 披露的内容出现&quot;言实不符&quot;的情况,即 ESG 漂洗(ESG-washing)(尹珏林等,2025).要在这样的市场环境下制定有诚信的 ESG 沟通策略,讲好令人信服的 ESG 故事,多数企业正处于摸索和实践阶段.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615010</guid>
       <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>AI重构信息检索,破解海量数据检索低效难题</title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615016</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[问题入口:海量数据时代的检索行业核心痛点
+数字时代下,全网数据呈爆发式增长,结构化、非结构化、碎片化数据混杂并存,给传统信息检索技术带来极大挑战.当前的主流检索系统依托关键词匹配机制工作,仅能实现文字层面的机械匹配,无法识别用户检索语义、深层意图,也不能适配个性化检索需求.这一技术缺陷直接引发两大行业痛点:一是检索结果相关性参差不齐,冗余信息、无效信息占比高,用户筛选耗时耗力;二是复杂语义检索、模糊检索需求无法被精准响应,难以适配科技查新、企业知识管理、垂直行业搜索等专业场景.与此同时,传统 AI 检索模型存在推理延迟高、算力消耗大、无法高并发落地的问题.精度与效率的矛盾,长期制约着智能检索技术的规模化商用,亟需一套兼顾精度、速度与实用性的全新解决方案.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615016</guid>
       <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>电子信息工程在公共就业服务信息化平台中的应用</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615017</link>
-      <description><![CDATA[在公共就业服务中,最让人焦虑的并不是&quot;有没有岗位&quot;,而是岗位、劳动者和政策之间能不能被及时、准确地连接起来.求职者反复填写信息,却迟迟等不到合适推荐;企业发布岗位,却难以触达真正适配的人;基层部门掌握大量台账,却很难把数据转化为动态监测和精准帮扶.这些问题表面上是服务效率问题,背后则是平台技术能力与就业业务场景之间的错位.]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615017</guid>
       <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>开放式基金驱动的产学研协同机制探索</title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615037</link>
       <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615037</guid>
@@ -56,14 +57,15 @@
       <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>无需改架构,让外网数据安全进内网</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615005</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[问题入口:物理隔离下的油田数字化发展桎梏
+数字油田建设进程中,内网物理隔离是守护生产核心数据的关键屏障.大庆油田第二采油厂依托物理断网、权限严控的方式,有效抵御外网病毒入侵、恶意网络攻击,从根源杜绝生产参数、设备运行数据、业务资料的外泄风险,为厂区信息化平稳运行筑牢安全底线.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615005</guid>
       <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>青岛智能座舱交互技术发展分析及对策建议</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615040</link>
       <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615040</guid>
@@ -72,30 +74,29 @@
     <item>
       <title>科研机构、高校高价值专利情报分析——以中国专利奖发明专利为例</title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615032</link>
-      <description><![CDATA[1背景
-国务院于2021年10月份印发的《&quot;十四五&quot;国家知识产权保护和运用规划》中,对&quot;每万人口高价值发明专利拥有量&quot;作出​​明确定义,其中&quot;每万人口高价值发明专利拥有量&quot;是指每万人口本国居民拥有的经国家知识产权局授权的符合下列任一条件的有效发明专利数量:(1)战略性新兴产业的发明专利;(2)在海外有同族专利权的发明专利;(3)维持年限超过10年的发明专利;(4)实现较高质押融资金额的发明专利;(5)获得国家科学技术奖、中国专利奖的发明专利.高价值发明即为上述五种情形.获得中国专利奖的发明专利是高价值发明专利之一.]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615032</guid>
       <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>孪生驱动:水库维护走向前瞻干​​预</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615018</link>
       <description><![CDATA[一座大型水库的风险,往往不是突然出现的.渗流的微小变化、闸门振动的异常波动、坝体应力的缓慢漂移,都可能在日常运行中被分散到不同记录、不同部门、不同巡检周期里.传统维护依赖人工定期巡检,通常每月甚至每季度才能完成一次全面排查,且不同巡检人员的经验差异会导致判断标准不一,适合处理已经显现的问题,却不善于识别正在积累的隐患.对于承担防洪、供水、发电和生态调节功能的大型水库而言,维护体系的关键不在于&quot;修得快&quot;,而在于能否在风险形成早期就把它捕捉出来.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615018</guid>
       <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>智能自清洁技术革新中小型水域除藻模式</title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615026</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[问题入口:传统除藻方案的行业痛点与短板
+当前我国中小型湖库、河道、景观及养殖池塘水域富营养化问题频发,严重威胁饮水安全与人体健康.国家多项政策明确推进水域富营养化治理、鼓励智能绿色治水装备研发,但传统技术存在明显短板.人工打捞效率低、成本高,无法清理微米级小型浮藻;化学药剂易破坏水体生态,气浮、遮光等技术适配场景单一、治理不彻底;传统设备易破碎藻体,反而加剧水体污染,行业长期缺少适配小型水域的高效、绿色、可常态化作业的除藻方案.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615026</guid>
       <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>从跟随到突破——从专利看中国CAR-NK技术发展</title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202615033</link>
-      <description><![CDATA[1技术背景
-如果说CAR-T疗法(嵌合抗原受体T细胞免疫疗法)开启了肿瘤免疫细胞治疗的&quot;第一纪元&quot;,那么 CAR-NK(嵌合抗原受体自然杀伤细胞疗法)正在书写这个故事的&quot;第二篇章&quot;.]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202615033</guid>
       <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
     </item>

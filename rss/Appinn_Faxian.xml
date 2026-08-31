@@ -4,7 +4,153 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 11:06:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:10:17 GMT</lastBuildDate>
+    <item>
+      <title>发现频道：10款大家发现的好评软件[2026年第35期]</title>
+      <link>https://meta.appinn.net/t/topic/90962</link>
+      <description><![CDATA[
+最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来：
+
+
+
+序号
+主题
+
+
+
+
+1️⃣
+一个双击即用的 Windows 软件管理工具，不仅列出所有已安装软件，还能彻底卸载 + 清空注册表 + 删除残留文件夹/文件，不依赖任何运行时。 
+
+
+2️⃣
+【开发者自荐】AI Story – 一句话一个视频，月涨粉2.5w
+
+
+3️⃣
+【自荐开源】界面美观，功能丰富的跨平台音乐播放器Vynody
+
+
+4️⃣
+OneAsr —— Windows 本地离线批量音视频转 SRT 字幕
+
+
+5️⃣
+WindowMark – 给 Windows 窗口加上书签、边框和置顶标记
+
+
+6️⃣
+Agentero: Agent友好的文献管理与阅读器，Agent时代的Zotero
+
+
+7️⃣
+〖开发者自荐〗讯览：一个免费好用的微信信息情报站
+
+
+8️⃣
+【开源自荐】字符反查字体，查找当前电脑中哪些字体，可以显示输入框的字符
+
+
+9️⃣
+〖开源自荐〗WinStoreRegion — 一键临时切换 Microsoft Store 区域，并自动恢复
+
+
+🔟
+【开源自荐】Terma：面向桌面端和自托管 Web 的远程连接工作台
+
+
+
+上期回顾
+
+发现频道近10日热门排行榜[2026年第34期]
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90962</guid>
+      <pubDate>Mon, 31 Aug 2026 01:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】Solazah：一个AI桌面启动器</title>
+      <link>https://meta.appinn.net/t/topic/90957</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90957</guid>
+      <pubDate>Sun, 30 Aug 2026 23:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】InstantRead — 专为学术文献与技术长文打造的AI研读助手</title>
+      <link>https://meta.appinn.net/t/topic/90955</link>
+      <description><![CDATA[各位小众软件的朋友好，我是独立开发者JC。
+在研读PubMed、IEEE、科技论文或英文长文时，常遇到长难句机翻生硬、专业术语翻不准的痛点。为此我开发了专门的Chrome阅读补充组件InstantRead。
+应用名称与平台
+
+名称：即时阅读
+平台：Chrome浏览器补充组件（Chrome网上应用店）
+
+核心功能
+
+0.5s极速白话拆解（ELI5模式）：将生涩术语与长句转为通俗易懂的解释，并自动生成「核心术语对照表」。
+四大专属研读模式：深度调校科技工程（CS）、生物医学（Biomedical）、学术通用（Academic）、法律法规（Legal）。
+自备API直连：支持自备Groq API Key直连，零中转服务器，数据保障隐私。
+一键导出Markdown笔记：自动整理阅读摘要与术语对照库，方便汇入Obsidian / Notion。
+
+价格与授权说明
+
+免费额度：每日提供 10 次免费使用。
+买断授权：重度用户可通过 Gumroad 一次性买断（$9.99 美元），无任何后续订阅费用。
+使用说明：安装后需于设定中填入Groq API Key即可开始使用。
+
+官方下载链接
+
+Chrome 网上应用店：https://chromewebstore.google.com/detail/instantread/pkgimjbkmpnfkmfoockdfefndjndfkof
+
+1个帖子 - 1位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90955</guid>
+      <pubDate>Sun, 30 Aug 2026 23:39:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】Set New Tab URL: 自定义浏览器新标签页地址</title>
+      <link>https://meta.appinn.net/t/topic/90947</link>
+      <description><![CDATA[软件名称
+Set New Tab URL: 自定义浏览器新标签页地址
+应用平台
+Chrome / Edge / Firefox 浏览器扩展
+推荐类型
+开发者自荐
+是否收费
+免费、无广告
+一句简介
+自定义浏览器新标签页打开的地址，支持在当前标签页右侧打开并控制焦点位置，也可通过扩展图标或快捷键打开指定地址
+应用简介
+自定义浏览器新标签页打开的地址，并根据需要进行个性化配置：
+
+设置打开地址：支持普通网址、浏览器内部页面（如历史记录、下载内容）及本地文件路径
+控制焦点位置：新标签页打开后，可以把输入焦点保留在地址栏，也可以让页面接管获取焦点
+标签右侧打开：可以选择在当前标签页右侧打开新标签页
+通过扩展打开：单独设置点击扩展图标或使用快捷键打开的新标签页
+最小必要权限：仅申请打开标签页和保存设置所需的权限，所有配置均保存在本地
+
+适用于需要把 自建导航 / NAS面板 / 个人网站 / 在线笔记&amp;知识库 或 空白页 作为浏览器默认新标签页打开的用户
+应用截图
+设置界面：
+
+地址
+chrome: https://chromewebstore.google.com/detail/set-new-tab-url/maejchfieihojcaicddnllnldjplmdkg
+edge: Set New Tab URL - Microsoft Edge Add-ons
+firefox: https://addons.mozilla.org/firefox/addon/set-new-tab-url/
+* firefox 因浏览器限制不支持右侧打开
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/90947</guid>
+      <pubDate>Sun, 30 Aug 2026 13:37:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】SakuraAIPlayer - AI次世代视频播放器</title>
+      <link>https://meta.appinn.net/t/topic/90946</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/90946</guid>
+      <pubDate>Sun, 30 Aug 2026 13:37:18 GMT</pubDate>
+    </item>
     <item>
       <title>前AI时代的本地音乐播放器ffaudio</title>
       <link>https://meta.appinn.net/t/topic/90934</link>
@@ -81,7 +227,7 @@ AppData、ProgramData 里的配置文件
 
 下载链接：windows软件管理工具 · 稳住/工具箱1 - Gitee.com
 
-1 个帖子 - 1 位参与者
+2 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90930</guid>
       <pubDate>Sun, 30 Aug 2026 06:25:57 GMT</pubDate>
@@ -136,7 +282,7 @@ Document viewer and in-place editor plugin for Directory Opus. Markdown with Rea
       <pubDate>Sun, 30 Aug 2026 03:56:29 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>【开发者自荐】Cursor Crane：以键盘控制 Mac 的鼠标、窗口和文本操作</title>
       <link>https://meta.appinn.net/t/topic/90888</link>
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/90888</guid>
@@ -310,124 +456,6 @@ GitHub - XiaochangXu/HeartRateMonitor-composeui: 这是一款心率监测应用�
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90830</guid>
       <pubDate>Fri, 28 Aug 2026 06:34:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】AI软着申请助手</title>
-      <link>https://meta.appinn.net/t/topic/90829</link>
-      <description><![CDATA[软件名称
-AI软着助手
-应用平台
-
-Windows
-MacOS
-Linux
-
-推荐类型
-开发者自荐
-是否收费
-免费
-一句简介
-AI软着在打开指定的项目文件夹后，自动提取软着申请相关基本信息，自动提取项目源码并生成符合格式要求的pdf文档，根据项目文件自动生成操作手册（内置简单截图工具，截图结果自动插入到操作手册中，简化操作步骤）。 
-软件特色
-以前在线申请软着时，每一项信息都要手工提取并填写，耗时耗力，程序员最不愿干的事儿。请第三方代理至少得花500元，基础材料还得自己准备，功夫没少花，钱也没少花。现在AI编写的软件爆发式增长，软着申请的效率也得跟着提升了。本软件重心于在线申请软着，所以每个文本信息条目都带复制按钮，然后将复制的内容手工粘贴到软着申请网站的对应输入框。源代码和操作手册pdf文件需要手工上传至版权登记网站。如果觉得自带的操作手册导出pdf文件效果不好，可以复制操作手册至第三方支持md格式软件（如Obsidian），利用第三方软件导出操作手册的pdf文件。目前还不支持自动提交内容至版权登记网站。 
-应用简介
-
-
-打开软件后，选择项目文件夹，AI助手（需要自行注册大模型的API Key，否则无法使用）自动扫描项目信息，提取申请软着所需的内容；
-
-
-在申请表页面，根据项目情况手工调整不准确的信息内容；
-
-
-在软件信息页面，根据项目情况手工调整内容；
-
-
-在源代码页面，点击生成源代码按钮即可，基本不用手工调整；
-
-
-在操作手册页面，AI生成内容最好手工调整，并使用截图丰富内容，以提升通过率；
-
-
-
-
-
-
-
-官方网站
-https://ai-reader.cn
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90829</guid>
-      <pubDate>Fri, 28 Aug 2026 06:34:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】沙雕智能体 -- 喜欢沙雕动画的别错过</title>
-      <link>https://meta.appinn.net/t/topic/90828</link>
-      <description><![CDATA[软件名称
-沙雕智能体 – 帮助小白低门槛入门 AI 智能体
-应用平台
-
-Windows
-MacOS
-
-推荐类型
-【开发者自荐】
-是否收费
-付费
-一句简介
-帮助非重度 ai 用户，低门槛地体验 ai 智能体的魅力。主打 agent + 沙雕陪伴。以沙雕人物为引子，让人觉得更多地是在和某个沙雕人物在做交流，而不是偏 “办公”，“冰冷” 的大模型。底层本体还是一个智能体，通过开盲盒，人物升级，换皮肤，等要素，打开更大的智能体用户人群。 
-应用简介
-2026年8月28日 已完成功能：
-
-支持 沙雕人物陪伴
-支持 盲盒式收集不同的沙雕人物
-支持 claude agent sdk 编排能力
-支持 多个国内主流大模型一键切换
-
-开发中功能：
-
-沙雕人物可以参与的 PvE，PvP 相关功能
-
-截图预览：
-
-
-
-官方网站
- shadiao.online
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90828</guid>
-      <pubDate>Fri, 28 Aug 2026 06:34:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic 免费游戏 2026-8-28</title>
-      <link>https://meta.appinn.net/t/topic/90820</link>
-      <description><![CDATA[电脑游戏：
-https://store.epicgames.com/zh-CN/p/breathedge 《Breathedge》
-https://store.epicgames.com/zh-CN/p/rival-stars-horse-racing-dd09de Rival Stars Horse Racing: Desktop Edition
-手机游戏：
-https://store.epicgames.com/zh-CN/p/down-in-bermuda-android-91daeb Down in Bermuda (逃出百慕大)
-https://store.epicgames.com/zh-CN/p/down-in-bermuda-ios-f0d77a Down in Bermuda (逃出百慕大)
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90820</guid>
-      <pubDate>Fri, 28 Aug 2026 04:04:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic手机喜加一 《Down in Bermuda (逃出百慕大)》截止9.3</title>
-      <link>https://meta.appinn.net/t/topic/90800</link>
-      <description><![CDATA[Android &amp; iOS
-3 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90800</guid>
-      <pubDate>Thu, 27 Aug 2026 17:52:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agentero: Agent友好的文献管理与阅读器，Agent时代的Zotero</title>
-      <link>https://meta.appinn.net/t/topic/90769</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90769</guid>
-      <pubDate>Thu, 27 Aug 2026 06:33:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

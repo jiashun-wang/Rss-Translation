@@ -4,17 +4,72 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 11:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:10:30 GMT</lastBuildDate>
     <item>
-      <title>v3.8.2 在字符后面无法通过 ":" 录入表情</title>
-      <link>https://ld246.com/article/1788084133033</link>
-      <description><![CDATA[在一个块字段里，无论实在字段中间，还是在字段末尾，录入:，再录入表情名称，均无法调出表情
-再一个空白块里，录入:，则可以调出表情]]></description>
-      <guid>https://ld246.com/article/1788084133033</guid>
-      <pubDate>Sun, 30 Aug 2026 10:02:12 GMT</pubDate>
+      <title>思源笔记越来越卡了, 开发者能不能转向 Zed 的 gpui?</title>
+      <link>https://ld246.com/article/1788126539909</link>
+      <description><![CDATA[我关是笔记就已经 7000 多个子文档了,其他的更重的还有我的游戏项目.
+编辑的时候还好,小卡.
+但是在文档树,展开某个文档,查看下面的子文档,在文档树上滚动鼠标滚轮,已经明显能感觉到卡顿了.
+我听说思源是基于 electron 的,请问能不能转 gpui.
+真的很卡啊.
+]]></description>
+      <guid>https://ld246.com/article/1788126539909</guid>
+      <pubDate>Sun, 30 Aug 2026 21:49:56 GMT</pubDate>
     </item>
     <item>
-      <title>横版视频全屏播放返回后，底部页签栏位置永久下沉，刷新页面无法恢复</title>
+      <title>文件导出 PDF 或者其他时用于打印正反问题反馈</title>
+      <link>https://ld246.com/article/1788096857429</link>
+      <description><![CDATA[列：SIYuan 笔记正常导出 PDF 文件用于打印时，对打印机正反面打印没有进行反面打印时所需的反向边距调整
+如：
+打印机打印正面图！左边需要订书针，边距最宽。 
+打印机开始打印反面时，不应该继续左边最宽，而是右边最宽，以保证订书针不会钉在字体上。 
+
+意见！建议导出功能中适合打印机打印文件的导出中，带有错位边距功能，比如左右错位，上下错位置，错开最长边距位置，以便打印后装订！ 
+
+**另外：
+打字时对&quot;==特殊标记符号==&quot;等选中识别时会出现某个段落中的&quot;==特殊标记符号==&quot;无法删除、去除、替换不干净。使用鼠标选中后依然无法删除，搜索中批量替换也无法替换，必须将整段或者整行删除才能去除&quot;==特殊标记符号==&quot;类似的特殊符号，使用鼠标右键(偶啊)无法覆盖掉标记符号，导致&quot;==特殊标记符号==&quot;既有颜色标记还会有斜体标识&quot;==特殊标记符号==&quot;。使用搜索替换&quot;==特殊标记符号==&quot;等特殊标记符号时，替换不干净！等 BUG。 
+一、如打字时我测试&quot;= =如次= =&quot;识别后的效果是否醒目；而识别&quot;= =如次= =&quot;后显示颜色后我希望删除效果&quot;= =如次= =&quot;的颜色效果时，只能去除整个段落或者使用鼠标悬停出现相关功能后点击相关段落有关此&quot;==特殊标记符号==&quot;的功能才能去除。 
+二、使用批量搜索替换&quot;==特殊标记符号==&quot;成&quot;特殊标记符号&quot;的效果情况下无法替换干净；且无法使用 Ctrl+a 全选快捷键后在使用鼠标中显示的此&quot;==特殊标记符号==&quot;功能将&quot;==特殊标记符号==&quot;效果批量替换成&quot;特殊标记符号&quot;这样没有颜色的效果，鼠标只能单个行、段、块操作！ 
+三、使用搜索进行批量识别替换时，无法完全替换干净！ ！ ！ 。 （进行了全部搜索和覆盖，但是依然有题目中间出现那么几个替换不干净；而不是某一段或者后面大半部分。）
+   如：&quot;==你好~~，我来了！==&quot;使用==特殊标记符号==识别出颜色的段落。单个行、段、块我可以用鼠标改变效果。但是批量搜索符号&quot;==&quot;进行替换的情况下会有残留特殊符号的情况发生。 
+   如：&quot;你好~~，我来了！= =&quot;特殊符号在后面出现这样的情况或者是&quot;= =你好~~，我来了！&quot;特殊符号出现在前面的情况，无法替换、去除、删除、使用鼠标悬停出现的此&quot;==特殊标记符号==&quot;功能也无法消除，只能删除整段或者行。 **
+
+
+可行！或者有进一步意见需求！ 邮箱 ：inkrabbit@foxmail.com
+
+
+不可！则不用回复！ 
+
+@ 管理员！ @ 开发者！ @ 意见收集！ #功能意见！ #其他 BUG 反馈！ ]]></description>
+      <guid>https://ld246.com/article/1788096857429</guid>
+      <pubDate>Sun, 30 Aug 2026 19:53:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望插件 icon 和 preview 图片尽快支持 jpg,webp 格式来减小体积, 甚至支持 avif 和 svg 格式来超级减小体积</title>
+      <link>https://ld246.com/article/1788105694086</link>
+      <description><![CDATA[原因:
+
+
+png 格式天生体积大但集市又要求 preview 图体积小于 200KB,有点矛盾.
+
+现在开发者多使用 ai 生图,ai 生成的图片(png,jpg)普遍体积偏大或压缩后质量太差.
+
+或让 ai 生成 svg 格式的 preview 图可以只用几十 kb,但现在又只支持 png 格式,一转换体积又放大几倍甚至超限.
+
+
+相关数据支撑:
+bazaar 中的 issue 统计数据中高达四分之一都是图片体积过大的问题
+&quot;截至 26.8.28：
+  Issue 总数：227
+  icon.png 体积超限：53 个
+  preview.png 体积超限：46 个
+  两者同时超限：23 个&quot;]]></description>
+      <guid>https://ld246.com/article/1788105694086</guid>
+      <pubDate>Sun, 30 Aug 2026 16:01:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>横版视频全屏播放返回后，顶部页签栏位置永久下沉，刷新页面无法恢复</title>
       <link>https://ld246.com/article/1788080255564</link>
       <description><![CDATA[结构化摘要：
 
@@ -59,7 +114,34 @@
  浏览器不支持该媒体的播放
 ]]></description>
       <guid>https://ld246.com/article/1788080255564</guid>
-      <pubDate>Sun, 30 Aug 2026 08:57:34 GMT</pubDate>
+      <pubDate>Sun, 30 Aug 2026 15:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有佬看看叶归没法用是什么情况吗</title>
+      <link>https://ld246.com/article/1788102265036</link>
+      <description><![CDATA[更新版本后叶归 是不是插件失灵了 我看打不开设置了 今天刚更新
+
+还有没更新之前不知道是不是我设置问题 设置完一键记事 没办法编辑
+
+
+]]></description>
+      <guid>https://ld246.com/article/1788102265036</guid>
+      <pubDate>Sun, 30 Aug 2026 15:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>升级 macOS27 系统之后持续闪退</title>
+      <link>https://ld246.com/article/1788098172799</link>
+      <description><![CDATA[升级 macOS27 goldengate beta 系统之后思源笔记持续闪退，隔几​​分钟就闪退一次 思源笔记是 3.8.2]]></description>
+      <guid>https://ld246.com/article/1788098172799</guid>
+      <pubDate>Sun, 30 Aug 2026 13:56:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>v3.8.2 在字符后面无法通过 ":" 录入表情</title>
+      <link>https://ld246.com/article/1788084133033</link>
+      <description><![CDATA[在一个块字段里，无论实在字段中间，还是在字段末尾，录入:，再录入表情名称，均无法调出表情
+再一个空白块里，录入:，则可以调出表情]]></description>
+      <guid>https://ld246.com/article/1788084133033</guid>
+      <pubDate>Sun, 30 Aug 2026 10:02:12 GMT</pubDate>
     </item>
     <item>
       <title>任务列表前的方框丢失</title>
@@ -115,44 +197,6 @@
       <description><![CDATA[]]></description>
       <guid>https://ld246.com/article/1788045862315</guid>
       <pubDate>Sun, 30 Aug 2026 00:12:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>模板导入后样式消失</title>
-      <link>https://ld246.com/article/1788025700622</link>
-      <description><![CDATA[请问一下大家，我想设置模板是这样的，但是导出 md 之后反正模板文件夹中，样式会消失，怎么处理能让模板变成这样呢
-]]></description>
-      <guid>https://ld246.com/article/1788025700622</guid>
-      <pubDate>Sat, 29 Aug 2026 17:48:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧邮箱无法登陆，如何换绑</title>
-      <link>https://ld246.com/article/1788013602034</link>
-      <description><![CDATA[旧邮箱已无法收到验证码，但换绑页面需要填写新旧邮箱两个验证码，如何换绑新邮箱。 😭 😭]]></description>
-      <guid>https://ld246.com/article/1788013602034</guid>
-      <pubDate>Sat, 29 Aug 2026 14:26:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>更强大的 HTML 表格编辑能力——“表哥” v1.2.0 新功能预览</title>
-      <link>https://ld246.com/article/1788013053216</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788013053216</guid>
-      <pubDate>Sat, 29 Aug 2026 14:17:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>中文转换插件繁简转换时出现错误</title>
-      <link>https://ld246.com/article/1788008361428</link>
-      <description><![CDATA[使用“中文转换”这一插件时，当选中多个块想要批量转换，发现右键无法唤出菜单（以前都是可以的）。而且简体转换成繁体时，会突然多出来上下两个空白块，当编辑原有块内容时，这两个冒出来的块也会同时出现相邻块的内容。然后退出页面，再重新打开页面，发现已转换内容又变回了简体字。 
-似乎是更新了思源版本后才出现的问题，这是出 bug 了吗？ 😭
-]]></description>
-      <guid>https://ld246.com/article/1788008361428</guid>
-      <pubDate>Sat, 29 Aug 2026 13:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>建议增加题头图随机设置按钮</title>
-      <link>https://ld246.com/article/1788003543727</link>
-      <description><![CDATA[目前图标都有了，再者把手机版这些设置按钮弄大一点]]></description>
-      <guid>https://ld246.com/article/1788003543727</guid>
-      <pubDate>Sat, 29 Aug 2026 11:39:02 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

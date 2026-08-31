@@ -4,25 +4,25 @@
     <title>海洋学报</title>
     <link>https://sns.wanfangdata.com.cn/perio/hyxb</link>
     <description>海洋学报</description>
-    <lastBuildDate>Sun, 30 Aug 2026 11:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:04:56 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>台湾海峡海面风场对海温锋面响应的季节差异性研究</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-wanghong</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[台湾海峡海面风场精细结构对区域气候及海上风能开发具有重要意义。受观测资料限制，复杂地形影响下台湾海峡海温锋面强度与海面风场响应之间的季节差异仍有待进一步认识。本文利用2004−2022年高分辨率天气研究与预报（Weather Research and Forcasting, WRF）模式数值模拟结果与多源观测资料，分析海温锋面与海面风场的季节变化特征，并通过改变海温锋面强度的敏感性试验评估局地风速响应。奇异值分解（singular value decomposition, SVD）结果表明，夏季海表温度（sea surface temperature, SST）异常与风场异常的时间协同变化最为突出，第一模态平方协方差贡献率为82.09%，两者第一模态时间系数相关系数为0.69。海温锋面强度与风场异常时间系数在夏季表现为同相变化，在冬季表现为反相变化，说明台湾海峡海温锋面与海面风场异常耦合具有季节差异，夏季局地热力作用更明显，冬季背景动力调制更突出。敏感性试验表明，相较于仅削弱海温锋面强度，完全去除海温锋面引起的局地风速响应更明显。去除海温锋面后，冬、夏季风速响应中位数分别约为0.45 m/s和0.26 m/s，且夏季风速响应主要集中在海温锋面附近，集中度约为冬季的1.5倍。结果揭示了台湾海峡海温锋面对海面风场影响的季节依赖性，可为复杂海峡区域精细化风场模拟和海上风能资源评估提供参考。]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-wanghong</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:51 GMT</pubDate>
     </item>
     <item>
       <title>南海西北部海洋热浪年代际强化特征及其时空演变机制</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-liujingui</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[基于1982–2024年OISSTV2逐日海表温度数据，本文系统刻画了南海西北部海洋热浪（marine heatwaves, MHWs）的年代际强化特征，并结合功率谱分析、经验正交函数（Empirical Orthogonal Function，EOF）分析等，探讨其时空模态与主要物理调控机制。结果表明：该时段南海西北部MHWs的发生频次、强度、持续时间及累积天数均呈现显着的年代际强化趋势，2014–2024年各项指标达历史峰值，其中2016年累积天数最多，2019年则强度最强；EOF分析揭示，全时段MHWs年累积天数第一模态均呈一致性增强格局，第一主成分（Principal Component 1, PC1）自2014年系统性抬升；峰值时段第一模态呈现“东高西低”，累积天数高值区集中于110°E以东外海，而强度高值中心则锁定于海南岛东部近岸及粤西沿岸；强厄尔尼诺事件对MHWs强度具有滞后约1～2 a的调控效应，但2003–2013年间ENSO信号的作用明显受抑，说明年代际背景场是2014年后MHWs峰值的不可或缺前提。本研究定量刻画了南海西北部 MHWs年代际强化的时空规律，所得结论可为该区域珊瑚礁生态系统风险评估、渔业资源管理及海洋极端事件预测提供科学支撑。]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-liujingui</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:51 GMT</pubDate>
     </item>
     <item>
       <title>基于多源卫星遥感风场的全球平均海杂波近实时估算研究</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-linwenming</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[海杂波是雷达探测海面目标的重要背景干扰，其强度和统计特性受海况和雷达参数的共同制约。本文针对海杂波强度（即海面均值散射系数），将多源卫星遥感海面风场和微波散射计常用的地球物理模式函数相结合，提出一种全球平均海杂波近实时估计框架模型，旨在“近实时”和“全球尺度”上实现较高精度的平均海杂波估计。以Ku波段及中等入射角为例，利用 HY-2系列卫星与 CFOSAT 卫星散射计实测数据对估计结果进行检验，并系统分析了平均海杂波估计相对误差的时空分布特征及影响因素。结果表明，VV和HH极化的估计结果均与实测数据具有良好的一致性，相对误差分别为1.5～1.8 dB、2.1～2.4 dB。夏季相对误差较小，冬季相对误差偏大；低纬度海域相对误差较大，中高纬度海域相对误差则随季节变化。此外，风速与相对风向是调制平均海杂波估计相对误差的主要因素。本文提出的模型方法可拓展至其他微波波段和入射角，为全球平均海杂波近实时估计提供了一种可靠的实践参考。]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-linwenming</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:51 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 27 Aug 2026 09:00:50 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>台湾岛海域波高的半日潮调制与波−流相互作用</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_8-yanglei</link>
       <description><![CDATA[近海有效波高在潮汐频率处存在显着调制，其强度取决于波−流相互作用的局地条件。本文利用台湾岛周边15个浮标站25 a（2000–2024年）逐时波浪数据和10个共址ADCP（Acoustic Doppler Current Profiler）海流数据，系统分析了有效波高（Hs）在半日潮和全日潮频率处的调制特征及其物理机制。功率谱分析表明，所有15站的Hs在M2、S2、K1和O1四个主要潮汐频率处均存在显着的谱能量峰，全部通过95%显着性检验。 M2调制幅度呈现显着的空间异质性：台湾海峡站和北部站的平均调制幅度（8.6%～9.0%）约为太平洋侧东部站（4.2%）的2倍。 10个共址海流站的数据表明，M2调制幅度与M2潮流振幅呈高度正相关（r = 0.84），而与水深无显着相关，确认波−流相互作用是主导调制机制。波作用量守恒理论的逐站预测与观测保持良好的线性关系，但多站观测调制幅度系统高于理论预测，残差可能与非线性波−流相互作用和局地流场结构有关。本研究基于多站浮标网络给出了波浪潮汐调制强度的空间分布，并通过调制振幅与潮流振幅的定量回归直接验证了波−流相互作用机制。]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_8-yanglei</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>海底地下水排放对泻湖的氮输入和水体氮循环过程的影响</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb202605001</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[本研究以葡萄牙南部法鲁市里亚福尔摩萨泻湖为研究对象,探究夏初时节该系统海底地下水排放(SGD)的氮输入特征及其对泻湖氮生物地球化学循环的影响.结果表明,尽管地下河口的生物地球化学过程已显着削减SGD携带的氮负荷,但其仍是泻湖氮营养盐的重要输入源.SGD向泻湖输入硝酸盐的速率高达(1.3±1.0)×103 kg/d,溶解有机氮(DON)输入速率为(220.3±163.3)kg/d,分别贡献了泻湖硝酸盐总输入的89%和DON总输入的37%.端元模型解析进一步揭示了约98%的硝酸盐与76%的DON源自陆源淡水地下水,凸显陆源淡水地下水氮污染对滨海生态系统的潜在压力.泻湖原位连续监测结果显示,SGD输入的外源硝酸盐在泻湖系统中被快速去除,去除速率达(69.9±68.5)μmol/(m2·h)(以N计).结合泻湖面积,估算泻湖每日硝酸盐净去除总量相当于 SGD输入硝酸盐总量的 8.9倍.这一结果表明,泻湖内部硝酸盐的生物地球化学清除过程极为活跃,其综合去除能力远超单一 SGD输入源,泻湖整体表现为一个高效的硝酸盐汇.同时,DON净生产速率高达(36.3±35.4)μmol/(m2·h),表明陆源硝酸盐的大量输入显着增强了泻湖生态系统的生物同化作用.基于此,未来政府需强化对SGD氮输入的长期监测与精准管控,以保障滨海泻湖生态系统的健康与可持续发展.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605001</guid>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>线纹海马静态养殖模式水体微生态多样性与水质状况的阶段差异及其关联</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb202605007</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[线纹海马(Hippocampus erectus)是我国主要养殖海马种类之一,其转料期前后常因水体环境因子的变化引起高死亡率,但其养殖水体微生态多样性与水质状况尚未明确.本研究以转料期前后(幼苗期与成体期)两个阶段的线纹海马养殖水体为研究对象,采样测算海马生长性能指标和测定水体的水质参数;同时采用 16S rRNA和 18S rRNA高通量测序技术,分别对养殖水体的细菌和真核微生物的群落结构和多样性进行了比较研究;并结合多元统计方法,解析水质参数与微生态群落(以真核微生物群落、细菌群落为代表)之间的关联程度.水质参数分析发现线纹海马成体期养殖水体中氨氮和亚硝酸盐氮的含量显着高于幼苗期.养殖水体的微生态多样性分析可见幼苗期光合自养型藻类为优势类群(如真眼点藻目),寡营养环境适应型细菌为优势类群(如蓝细菌纲);转料后真核微生物结构转向耐胁迫类群(如尖尾藻属),细菌群落转变为耐氮/异养降解型(如红杆菌科、慢杆菌属等).本研究揭示了线纹海马转料期前后养殖水体微生态群落的变化特征及其与水质因子的关联,为构建线纹海马转料期的微生态调控技术提供了理论依据与实践路径,对推动海马养殖的绿色可持续发展具有重要科学价值.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605007</guid>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
     </item>
