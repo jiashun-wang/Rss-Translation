@@ -4,7 +4,28 @@
     <title>Science News</title>
     <link>https://www.sciencenews.org</link>
     <description>INDEPENDENT JOURNALISM SINCE 1921</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:53:47 GMT</lastBuildDate>
+    <item>
+      <title>偏头痛药物越来越精确。选择合适的仍然很棘手</title>
+      <link>https://www.sciencenews.org/article/migraine-drugs-prevention-guidelines</link>
+      <description><![CDATA[偏头痛预防药物比以往任何时候都更有针对性，新的指南可以帮助医生预测哪种药物对每位患者有效。]]></description>
+      <guid>https://www.sciencenews.org/article/migraine-drugs-prevention-guidelines</guid>
+      <pubDate>Mon, 31 Aug 2026 20:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>当你给它们更少的空间时，这些蠕虫移动得更快</title>
+      <link>https://www.sciencenews.org/article/blackworms-move-faster-tight-tunnels</link>
+      <description><![CDATA[加州黑虫挤过狭窄通道的速度比蠕动穿过宽通道的速度更快，这一发现可能有助于机器人设计。]]></description>
+      <guid>https://www.sciencenews.org/article/blackworms-move-faster-tight-tunnels</guid>
+      <pubDate>Mon, 31 Aug 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>午睡还是不午睡？科学仍在清醒地认识这个问题</title>
+      <link>https://www.sciencenews.org/article/nap-science-sleep-health</link>
+      <description><![CDATA[许多人晚上都难以入睡。令人惊讶的是，科学无法证明在两个街区内加小睡是否健康。]]></description>
+      <guid>https://www.sciencenews.org/article/nap-science-sleep-health</guid>
+      <pubDate>Mon, 31 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>太空中自由落体的原子给伽利略的重力测试带来了新的转折</title>
       <link>https://www.sciencenews.org/article/atoms-gravity-space-galileo-einstein</link>
@@ -13,7 +34,7 @@
       <pubDate>Fri, 28 Aug 2026 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>您的皮肤化学成分可能会影响哪些蚊子最想咬您</title>
+      <title>您的皮肤化学物质可能会影响哪些蚊子最想咬您</title>
       <link>https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite</link>
       <description><![CDATA[三个物种根据皮肤气味和细菌偏好不同的人。这些发现可能有助于制造新的基于微生物的驱虫剂。]]></description>
       <guid>https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite</guid>
@@ -41,7 +62,7 @@
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>一架太空望远镜从轨道上坠落。它的救援任务也失败了</title>
       <link>https://www.sciencenews.org/article/swift-space-telescope-failed-rescue</link>
       <description><![CDATA[美国宇航局拯救坠落的雨燕望远镜的尝试失败了，揭示了卫星服务领域蓬勃发展的现实。]]></description>
       <guid>https://www.sciencenews.org/article/swift-space-telescope-failed-rescue</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[数据显示，经历了二战时期糖配给的儿童几十年后患痴呆症和阿尔茨海默氏症的风险较低。]]></description>
       <guid>https://www.sciencenews.org/article/more-sugar-early-life-dementia-risk</guid>
       <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>对病蛙进行热疗会降低精子水平</title>
-      <link>https://www.sciencenews.org/article/infection-treatment-lowers-frog-sperm</link>
-      <description><![CDATA[科学家经常使用热处理来对抗青蛙致命的真菌感染，但这可能是有代价的。]]></description>
-      <guid>https://www.sciencenews.org/article/infection-treatment-lowers-frog-sperm</guid>
-      <pubDate>Mon, 24 Aug 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.sciencenews.org/article/brain-stimulation-chronic-pain</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.sciencenews.org/article/brain-stimulation-chronic-pain</guid>
-      <pubDate>Mon, 24 Aug 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>运动神经元不仅仅移动肌肉。他们也可能指挥该动议</title>
-      <link>https://www.sciencenews.org/article/motor-neurons-muscles-motion</link>
-      <description><![CDATA[一项果蝇研究表明，运动神经元的作用不仅仅是传递命令：它们将信号发送回大脑并组织运动序列。]]></description>
-      <guid>https://www.sciencenews.org/article/motor-neurons-muscles-motion</guid>
-      <pubDate>Mon, 24 Aug 2026 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

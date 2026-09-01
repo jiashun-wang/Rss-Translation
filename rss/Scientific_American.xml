@@ -4,13 +4,27 @@
     <title>Scientific American Content: Global</title>
     <link>https://www.scientificamerican.com</link>
     <description>Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 12:25:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:54:12 GMT</lastBuildDate>
+    <item>
+      <title>美国宇航局新罗马太空望远镜的下一步是什么？</title>
+      <link>https://www.scientificamerican.com/article/whats-next-for-nasas-new-roman-space-telescope/</link>
+      <description><![CDATA[在完美发射后，南希·格雷斯·罗马太空望远镜的使命是解决宇宙中一些最大的谜团]]></description>
+      <guid>https://www.scientificamerican.com/article/whats-next-for-nasas-new-roman-space-telescope/</guid>
+      <pubDate>Mon, 31 Aug 2026 18:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国宇航局发射罗马太空望远镜探索暗能量和遥远的世界</title>
       <link>https://www.scientificamerican.com/podcast/episode/nasa-launches-roman-space-telescope-to-explore-dark-energy-and-distant-worlds/</link>
       <description><![CDATA[美国宇航局的南希·格雷斯·罗马太空望远镜的使命是探测暗能量、寻找遥远的世界并改变我们对宇宙的看法]]></description>
       <guid>https://www.scientificamerican.com/podcast/episode/nasa-launches-roman-space-telescope-to-explore-dark-energy-and-distant-worlds/</guid>
       <pubDate>Mon, 31 Aug 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>暗物质实验捕捉到有史以来最安静的中微子</title>
+      <link>https://www.scientificamerican.com/article/dark-matter-experiment-catches-quietest-neutrino-ever-measured/</link>
+      <description><![CDATA[在寻找暗物质的过程中，XENONnT 实验检测到中微子撞击电子时发出的罕见微弱光芒]]></description>
+      <guid>https://www.scientificamerican.com/article/dark-matter-experiment-catches-quietest-neutrino-ever-measured/</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>美国宇航局的南希·格雷斯·罗马望远镜发射升空</title>
@@ -46,6 +60,13 @@
       <description><![CDATA[天体生物学家七·拉斯穆森 (Seven Rasmussen) 是新书《阴天有机会出现星舰》的作者，他带领读者领略了现代外星生命搜寻背后的惊人科学]]></description>
       <guid>https://www.scientificamerican.com/article/where-are-all-the-aliens-a-new-book-explores-possible-answers/</guid>
       <pubDate>Fri, 28 Aug 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>对学校屏幕的强烈反对正在升级</title>
+      <link>https://www.scientificamerican.com/article/the-backlash-against-screens-in-schools-is-escalating/</link>
+      <description><![CDATA[学区禁止人工智能，各州限制课堂教育技术，Meta 将设定新的“学校模式”限制——这是您需要了解的内容]]></description>
+      <guid>https://www.scientificamerican.com/article/the-backlash-against-screens-in-schools-is-escalating/</guid>
+      <pubDate>Fri, 28 Aug 2026 18:30:00 GMT</pubDate>
     </item>
     <item>
       <title>罗马太空望远镜十大科学突破</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[支持和反对视频游戏促进攻击性行为的证据比您想象的更加模糊]]></description>
       <guid>https://www.scientificamerican.com/article/gta-gta6-raises-anxieties-over-video-games-and-violence-heres-what-the-science-says/</guid>
       <pubDate>Fri, 28 Aug 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>濒危物种法法规的变化可能会如何伤害野生动物</title>
-      <link>https://www.scientificamerican.com/podcast/episode/how-changes-to-endangered-species-act-regulations-could-hurt-wildlife/</link>
-      <description><![CDATA[《濒危物种法》实施的最新变化可能会使野生动物面临风险]]></description>
-      <guid>https://www.scientificamerican.com/podcast/episode/how-changes-to-endangered-species-act-regulations-could-hurt-wildlife/</guid>
-      <pubDate>Fri, 28 Aug 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>热带风暴多莉在大西洋形成</title>
-      <link>https://www.scientificamerican.com/article/tropical-storm-dolly-forms-in-the-atlantic/</link>
-      <description><![CDATA[这是多莉·帕顿去世后的一个奇怪的气象巧合]]></description>
-      <guid>https://www.scientificamerican.com/article/tropical-storm-dolly-forms-in-the-atlantic/</guid>
-      <pubDate>Thu, 27 Aug 2026 18:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>珊瑚记录显示，气候变化正在加剧厄尔尼诺现象</title>
-      <link>https://www.scientificamerican.com/article/climate-change-is-supercharging-el-ninos-coral-records-show/</link>
-      <description><![CDATA[加拉帕戈斯珊瑚化石显示出明确的证据，表明今天的厄尔尼诺现象比过去强得多]]></description>
-      <guid>https://www.scientificamerican.com/article/climate-change-is-supercharging-el-ninos-coral-records-show/</guid>
-      <pubDate>Thu, 27 Aug 2026 18:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

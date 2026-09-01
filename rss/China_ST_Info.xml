@@ -6,21 +6,6 @@
     <description>中国科技信息</description>
     <lastBuildDate>Sun, 30 Aug 2026 16:00:00 GMT</lastBuildDate>
     <item>
-      <title>垂直大模型破局之路:适配为先,赋能为本</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616005</link>
-      <description><![CDATA[基层民警梳理诈骗案件、社区医师解读影像、金融从业者排查风险,均面临效率低、精准度不足的痛点.本文聚焦预训练大模型在垂直领域的精准适配,梳理应用逻辑、验证成果与边界限制,为产业升级与社会治理提供实用方案.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616005</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技情报助力农配网精准改造</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616041</link>
-      <description><![CDATA[问题入口:末端线路为什么需要&quot;情报&quot;
-农配网线路是县域电网延伸至村落、农田、山地和分散居民点的末端网络.它看似只是杆塔、导线、台区和开关设备的组合,实际承担着农业生产、乡村产业和居民生活用电的基础保障.随着农村生活用能升级、农业生产电气化、分布式光伏和充电设施接入,部分线路面对的已不是过去相对稳定的负荷环境.若技术改进仍主要依靠&quot;哪里故障修哪里、哪里老化换哪里&quot;的局部经验,容易出现重复改造、隐患转移和投资效益偏低等问题.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616041</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>前沿科技</title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616001</link>
       <description><![CDATA[]]></description>
@@ -60,11 +45,18 @@
       <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>科技大数据助力农配网精准检修</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616027</link>
-      <description><![CDATA[问题入口:末端线路也需要前置判断
-一条农村配电线路是否安全,往往不只取决于它此刻有没有送上电.它可能穿过村道、农田、山区和分散居民点,供电半径长,沿线设备多,外部环境变化也复杂.一次强降雨、一次覆冰、一个老化开关、一段树障通道,都可能让故障风险悄悄累积.传统运维依赖定期巡视和经验判断,能够维持基本秩序,却难免出现两个问题:有的低风险线路被反复巡检,有的高风险线路却在隐患扩大后才被发现.农配网状态评估的价值,就在于把这些分散迹象提前组织起来,让检修从&quot;按时间轮到谁&quot;转向&quot;按风险先处理谁&quot;.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616027</guid>
+      <title>垂直大模型破局之路:适配为先,赋能为本</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616005</link>
+      <description><![CDATA[基层民警梳理诈骗案件、社区医师解读影像、金融从业者排查风险,均面临效率低、精准度不足的痛点.本文聚焦预训练大模型在垂直领域的精准适配,梳理应用逻辑、验证成果与边界限制,为产业升级与社会治理提供实用方案.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616005</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技情报助力农配网精准改造</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616041</link>
+      <description><![CDATA[问题入口:末端线路为什么需要&quot;情报&quot;
+农配网线路是县域电网延伸至村落、农田、山地和分散居民点的末端网络.它看似只是杆塔、导线、台区和开关设备的组合,实际承担着农业生产、乡村产业和居民生活用电的基础保障.随着农村生活用能升级、农业生产电气化、分布式光伏和充电设施接入,部分线路面对的已不是过去相对稳定的负荷环境.若技术改进仍主要依靠&quot;哪里故障修哪里、哪里老化换哪里&quot;的局部经验,容易出现重复改造、隐患转移和投资效益偏低等问题.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616041</guid>
       <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
@@ -92,6 +84,30 @@
       <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>科技大数据助力农配网精准检修</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616027</link>
+      <description><![CDATA[问题入口:末端线路也需要前置判断
+一条农村配电线路是否安全,往往不只取决于它此刻有没有送上电.它可能穿过村道、农田、山区和分散居民点,供电半径长,沿线设备多,外部环境变化也复杂.一次强降雨、一次覆冰、一个老化开关、一段树障通道,都可能让故障风险悄悄累积.传统运维依赖定期巡视和经验判断,能够维持基本秩序,却难免出现两个问题:有的低风险线路被反复巡检,有的高风险线路却在隐患扩大后才被发现.农配网状态评估的价值,就在于把这些分散迹象提前组织起来,让检修从&quot;按时间轮到谁&quot;转向&quot;按风险先处理谁&quot;.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616027</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技创新引领油城高新区提质发展路径</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616039</link>
+      <description><![CDATA[01背景
+国家级高新区是创新驱动发展的核心载体,承载着引领科技进步、促进产业升级、推动区域发展的重要使命.《国家高新技术产业开发区综合评价指标体系》是工信部火炬中心考核评估全国高新区发展水平的核心工具,该体系有助于高新区明确发展方向.对克拉玛依高新区(以下简称园区)进行综合指标对比分析,识别优势和劣势,为高新区向着更加繁荣、更具活力、更可持续的方向发展提供参考.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616039</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>旋转设备故障诊断专利分析</title>
+      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616033</link>
+      <description><![CDATA[1技术背景
+现代工业中,设备安全可靠运行是保障产品质量、提升产能与安全生产的核心.当前基于振动信号的旋转设备故障诊断面临设备关联影响、多故障叠加、故障与信号特征交叉关联等严峻挑战.本文依托 incoPat 数据库检索样本,深入分析旋转设备故障智能诊断辅助技术,为企业及研究机构提供技术参考与决策支持,助力该领域技术迭代与应用拓展.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616033</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>潮起AI后浪可期-――十位潮汕籍科创者掀起青春风暴</title>
       <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616003</link>
       <description><![CDATA[&quot;三江出海,一纸还乡&quot;.前不久,讲述潮汕先辈下南洋艰辛谋生的电影《给阿嬷的情书》催泪全国,风靡东南亚.所谓&quot;三江&quot;是指潮汕平原的韩江、榕江、练江三条母亲河.&quot;一纸&quot;则是华侨寄给家乡亲人的&quot;侨批&quot;.无论身在何处,潮汕始终都是潮人心心念念的故乡.]]></description>
@@ -104,22 +120,6 @@
       <description><![CDATA[1背景
 航天产业技术是衡量国家综合科技实力与战略能力的重要标志.其中,运载火箭作为人类进入太空的核心运载工具,其研制水平直接决定了航天活动的深度与广度.专利是技术创新成果的重要载体,是企业构建和保持核心竞争力不可替代的战略资源.商业火箭公司通过合理的专利布局,能够对核心技术形成强大的技术壁垒,以在激烈的市场竞争中保持技术领先优势.本文以国内22家商业火箭公司为研究对象,从专利数据库筛选出公开日截至2025年12月31日的专利,从专利申请趋势和申请人维度,分析中国商业火箭公司的专利布局特点.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616034</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>旋转设备故障诊断专利分析</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616033</link>
-      <description><![CDATA[1技术背景
-现代工业中,设备安全可靠运行是保障产品质量、提升产能与安全生产的核心.当前基于振动信号的旋转设备故障诊断面临设备关联影响、多故障叠加、故障与信号特征交叉关联等严峻挑战.本文依托 incoPat 数据库检索样本,深入分析旋转设备故障智能诊断辅助技术,为企业及研究机构提供技术参考与决策支持,助力该领域技术迭代与应用拓展.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616033</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技创新引领油城高新区提质发展路径</title>
-      <link>https://d.wanfangdata.com.cn/periodical/zgkjxx202616039</link>
-      <description><![CDATA[01背景
-国家级高新区是创新驱动发展的核心载体,承载着引领科技进步、促进产业升级、推动区域发展的重要使命.《国家高新技术产业开发区综合评价指标体系》是工信部火炬中心考核评估全国高新区发展水平的核心工具,该体系有助于高新区明确发展方向.对克拉玛依高新区(以下简称园区)进行综合指标对比分析,识别优势和劣势,为高新区向着更加繁荣、更具活力、更可持续的方向发展提供参考.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/zgkjxx202616039</guid>
       <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>

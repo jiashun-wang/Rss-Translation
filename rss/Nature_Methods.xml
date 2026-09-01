@@ -4,62 +4,62 @@
     <title>Nature Methods</title>
     <link>http://feeds.nature.com/nmeth/rss/current</link>
     <description>Nature Methods offers a unique interdisciplinary forum for the publication of novel methods. Nature Methods focuses on the life sciences, combining practical, technique-driven subject matter with rigorous peer-review standards to ensure that readers are consistently presented with only the most valuable and highest quality methodological research. The journal offers its readers primary research papers as well as an array of opinions, reviews and short journalistic pieces to provide busy researchers with a broad, yet easily absorbed perspective of important methodological developments in the life sciences.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 03:57:23 GMT</lastBuildDate>
-    <item>
-      <title>雕刻生物的物理学</title>
-      <link>https://www.nature.com/articles/s41592-026-03208-5</link>
-      <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 21 日； doi:10.1038/s41592-026-03208-5细胞生物学家早就知道机械力（例如张力和压力）会影响组织分化。现在，先进的方法使他们能够在生命系统中实时观察和操纵这些力量。]]></description>
-      <guid>https://www.nature.com/articles/s41592-026-03208-5</guid>
-      <pubDate>Sat, 29 Aug 2026 03:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越基准测试：专家指导的空间感知聚类共识方法</title>
-      <link>https://www.nature.com/articles/s41592-026-03194-8</link>
-      <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 24 日； doi:10.1038/s41592-026-03194-8对空间感知聚类进行基准测试具有挑战性。 SACCELERATOR 是一个开源、可扩展的框架，可形式化专家指导的空间聚类分析。]]></description>
-      <guid>https://www.nature.com/articles/s41592-026-03194-8</guid>
-      <pubDate>Sat, 29 Aug 2026 03:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用蛋白质纳米板克服冷冻电镜中空气-水界面引起的伪影</title>
-      <link>https://www.nature.com/articles/s41592-026-03184-w</link>
-      <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 24 日； doi:10.1038/s41592-026-03184-wMS2 噬菌体衍生的蛋白壳（称为“nanocrates”）通过封装目标蛋白并使其能够在空气-水界面处随机定向。]]></description>
-      <guid>https://www.nature.com/articles/s41592-026-03184-w</guid>
-      <pubDate>Sat, 29 Aug 2026 03:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>基准陷阱暴露了对专家指导的空间聚类的需求</title>
-      <link>https://www.nature.com/articles/s41592-026-03193-9</link>
-      <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 24 日； doi:10.1038/s41592-026-03193-9由于缺乏可重复性、数据和忠实于多尺度空间生物学的评估策略，对空间分辨转录组学等尖端技术的计算工具进行基准测试具有挑战性。然而，我们发现，通过组织学和细胞生物学专家的反馈补充计算共识策略可以规避这些限制，从而加速生物学发现。]]></description>
-      <guid>https://www.nature.com/articles/s41592-026-03193-9</guid>
-      <pubDate>Sat, 29 Aug 2026 03:57:21 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 01:32:28 GMT</lastBuildDate>
     <item>
       <title>作者更正：OrthoFinder：改进了系统发育直系同源推断，提高了准确性和可扩展性</title>
       <link>https://www.nature.com/articles/s41592-026-03238-z</link>
       <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 26 日； doi:10.1038/s41592-026-03238-z作者更正：OrthoFinder：改进的系统发育直系同源推断，具有更高的准确性和可扩展性]]></description>
       <guid>https://www.nature.com/articles/s41592-026-03238-z</guid>
-      <pubDate>Sat, 29 Aug 2026 03:57:20 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 01:32:28 GMT</pubDate>
     </item>
     <item>
       <title>通过 REDCAT 对单细胞类型特异性代谢活动进行全光学多模态测绘</title>
       <link>https://www.nature.com/articles/s41592-026-03180-0</link>
       <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 27 日； doi:10.1038/s41592-026-03180-0组织中细胞图谱的拉曼增强描绘 (REDCAT) 集成了受激拉曼散射显微镜和高强度免疫荧光来分析单细胞蛋白质、脂质、细胞核组织中的代谢和氧化还原代谢。]]></description>
       <guid>https://www.nature.com/articles/s41592-026-03180-0</guid>
-      <pubDate>Sat, 29 Aug 2026 03:57:19 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 01:32:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个多模式、全光学平台，用于将完整组织中的细胞身份与代谢功能联系起来</title>
+      <link>https://www.nature.com/articles/s41592-026-03181-z</link>
+      <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 27 日； doi:10.1038/s41592-026-03181-zREDCAT 是一个多模式、全光学平台，能够以单细胞和亚细胞分辨率绘制完整组织中的代谢活动和细胞身份。通过整合拉曼成像、自发荧光和高倍免疫荧光，REDCAT 解析了正常淋巴结的代谢特征，揭示了淋巴瘤中的脂质氧化还原重塑，并暴露了肿瘤内异质性，表明其在功能组织病理学中的应用。]]></description>
+      <guid>https://www.nature.com/articles/s41592-026-03181-z</guid>
+      <pubDate>Tue, 01 Sep 2026 01:32:25 GMT</pubDate>
     </item>
     <item>
       <title>通往 bioAFM 数据库的公平之路</title>
       <link>https://www.nature.com/articles/s41592-026-03214-7</link>
       <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 28 日； doi:10.1038/s41592-026-03214-7在本评论中，我们重点关注建立高质量原子力显微镜 (AFM) 数据数据库的初步努力：bioAFM-DB。我们概述了这项工作的现状、挑战和潜在的行动方案。]]></description>
       <guid>https://www.nature.com/articles/s41592-026-03214-7</guid>
-      <pubDate>Sat, 29 Aug 2026 03:57:18 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 01:32:24 GMT</pubDate>
     </item>
     <item>
-      <title>一个多模式、全光学平台，用于将完整组织中的细胞身份与代谢功能联系起来</title>
-      <link>https://www.nature.com/articles/s41592-026-03181-z</link>
-      <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 27 日； doi:10.1038/s41592-026-03181-zREDCAT 是一个多模式、全光学平台，能够以单细胞和亚细胞分辨率绘制完整组织中的代谢活动和细胞身份。通过整合拉曼成像、自发荧光和高强度免疫荧光，REDCAT 解析了正常淋巴结的代谢特征，揭示了淋巴瘤中的脂质氧化还原重塑，并暴露了肿瘤内异质性，表明其在功能组织病理学中的应用。]]></description>
-      <guid>https://www.nature.com/articles/s41592-026-03181-z</guid>
-      <pubDate>Sat, 29 Aug 2026 03:57:18 GMT</pubDate>
+      <title>想象一下：神经科学图像的透明度保留了背景并澄清了解释</title>
+      <link>https://www.nature.com/articles/s41592-026-03206-7</link>
+      <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 31 日； doi:10.1038/s41592-026-03206-7本观点强调需要透明阈值处理，而不是仅显示超出固定 P 值的结果，以避免丢失有价值的信息并改进神经影像（和其他科学）结果的报告。]]></description>
+      <guid>https://www.nature.com/articles/s41592-026-03206-7</guid>
+      <pubDate>Tue, 01 Sep 2026 01:32:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPIFFI 可实现单次超分辨率和多维成像</title>
+      <link>https://www.nature.com/articles/s41592-026-03196-6</link>
+      <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 31 日； doi:10.1038/s41592-026-03196-6SPIFFI 使用偏振方法，能够对活细胞样本进行实时超分辨率成像。]]></description>
+      <guid>https://www.nature.com/articles/s41592-026-03196-6</guid>
+      <pubDate>Tue, 01 Sep 2026 01:32:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>lncRNA 筛选的混杂因素：来源、后果和可能的解决方案</title>
+      <link>https://www.nature.com/articles/s41592-026-03226-3</link>
+      <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 31 日； doi:10.1038/s41592-026-03226-3对已发表的长非编码RNA (lncRNA) 筛选的重新分析显示，一些报告中的假阳性率出乎意料地高，这表明高通量遗传扰动更容易受到方法论的影响应用于 lncRNA 时比应用于蛋白质编码基因时会出现伪影。我们重点介绍了 lncRNA 筛查中误报的常见技术和分析来源，并概述了检测、监控和缓解这些问题的策略。]]></description>
+      <guid>https://www.nature.com/articles/s41592-026-03226-3</guid>
+      <pubDate>Tue, 01 Sep 2026 01:32:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>偏振检测锐化光学活细胞荧光成像</title>
+      <link>https://www.nature.com/articles/s41592-026-03195-7</link>
+      <description><![CDATA[《自然方法》，在线发布：2026 年 8 月 31 日； doi:10.1038/s41592-026-03195-7利用荧光分子偏振的多通道显微镜方法从单个相机帧重建超分辨率图像。该方法不仅可以捕获需要数百帧的方法所错过的快速细胞动态，还可以读取细胞内荧光分子的方向。]]></description>
+      <guid>https://www.nature.com/articles/s41592-026-03195-7</guid>
+      <pubDate>Tue, 01 Sep 2026 01:32:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

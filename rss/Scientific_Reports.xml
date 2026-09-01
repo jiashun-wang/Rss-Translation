@@ -1,67 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Scientific Reports</title>
-    <link>http://feeds.nature.com/srep/rss/current</link>
-    <description><p><em>Scientific Reports</em>&nbsp;publishes original research in&nbsp;all areas of the natural and clinical sciences. We believe that if your research is scientifically valid and technically sound then it deserves to be published and made accessible to the research community.</p>
-
-<p>By publishing with us, your research will get the coverage and attention it deserves. Open access and continuous online publication means your work will be published swiftly, ready to be accessed by anyone, anywhere, at any time. Article Level Metrics allow you to follow the conversations your work has started.</p></description>
-    <lastBuildDate>Mon, 31 Aug 2026 12:13:42 GMT</lastBuildDate>
-    <item>
-      <title>具有语义通信和异构物联网网络信任感知优化的自适应联合边缘智能</title>
-      <link>https://www.nature.com/articles/s41598-026-68096-3</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 31 日； doi:10.1038/s41598-026-68096-3自适应联合边缘智能，具有异构物联网网络的语义通信和信任感知优化功能]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68096-3</guid>
-      <pubDate>Mon, 31 Aug 2026 12:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对人 5-脂氧合酶的噻吩衍生抑制剂的结构见解和计算稳定性分析</title>
-      <link>https://www.nature.com/articles/s41598-026-60916-w</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 31 日； doi:10.1038/s41598-026-60916-w针对人 5-脂氧合酶的噻吩衍生抑制剂的结构见解和计算稳定性分析]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-60916-w</guid>
-      <pubDate>Mon, 31 Aug 2026 12:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>单向冻融循环下膨胀土损伤演化机制及多尺度表征</title>
-      <link>https://www.nature.com/articles/s41598-026-68678-1</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 31 日； doi:10.1038/s41598-026-68678-1单向冻融循环下膨胀土损伤演化机制及多尺度表征]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68678-1</guid>
-      <pubDate>Mon, 31 Aug 2026 12:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>提高咪唑离子液体在增产过程中的微波加热性能：磁性阴离子的作用和结构修饰</title>
-      <link>https://www.nature.com/articles/s41598-026-69380-y</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 31 日； doi:10.1038/s41598-026-69380-y增强咪唑离子液体在增产过程中的微波加热性能：磁性阴离子的作用和结构修饰]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-69380-y</guid>
-      <pubDate>Mon, 31 Aug 2026 12:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>为期三年的田间试验确保烟稻轮作确保水稻安全优质生产</title>
-      <link>https://www.nature.com/articles/s41598-026-68965-x</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 31 日； doi:10.1038/s41598-026-68965-x三年田间试验证明烟稻轮作确保水稻安全优质生产]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68965-x</guid>
-      <pubDate>Mon, 31 Aug 2026 12:13:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用微型双线圈系统进行神经组织磁刺激的双层模型</title>
-      <link>https://www.nature.com/articles/s41598-026-69496-1</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 31 日； doi:10.1038/s41598-026-69496-1使用微型双线圈系统进行神经组织磁刺激的双层模型]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-69496-1</guid>
-      <pubDate>Mon, 31 Aug 2026 12:13:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>抽水蓄能电站地下洞室岩体稳定性分析：试验研究与数值模拟</title>
-      <link>https://www.nature.com/articles/s41598-026-68835-6</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 31 日； doi:10.1038/s41598-026-68835-6抽水蓄能电站地下洞室岩体稳定性分析：试验研究与数值模拟]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68835-6</guid>
-      <pubDate>Mon, 31 Aug 2026 12:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>小麦抗叶锈病生物育种协同创新：三方进化博弈分析</title>
-      <link>https://www.nature.com/articles/s41598-026-67906-y</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 8 月 31 日； doi:10.1038/s41598-026-67906-y小麦叶锈病抗性生物育种协同创新：三方进化博弈分析]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-67906-y</guid>
-      <pubDate>Mon, 31 Aug 2026 12:13:32 GMT</pubDate>
-    </item>
+    <title></title>
+    <link></link>
+    <description></description>
+    <lastBuildDate>Tue, 01 Sep 2026 01:29:43 GMT</lastBuildDate>
     </channel>
 </rss>

@@ -1,9 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Fri, 28 Aug 2026 18:14:06 GMT</lastBuildDate>
+    <title>Mac玩儿法 | Mac软件推荐 | Mac软件评测 | Mac软件下载</title>
+    <link>https://www.waerfa.com</link>
+    <description>Mac玩儿法是一家专注于推荐优质应用和互联网创意产品/服务的中文内容平台，主要介绍 Mac、iPhone、iPad 平台的优秀软件/应用，macOS/iOS 系统的使用技巧与经验分享，以及更多的互联网服务产品；网站创立于2011年11月。</description>
+    <lastBuildDate>Tue, 01 Sep 2026 01:57:39 GMT</lastBuildDate>
+    <item>
+      <title>Input Source Pro:根据不同应用不同网页自动切换输入法</title>
+      <link>https://www.waerfa.com/input-source-pro-review</link>
+      <description><![CDATA[2026.04.09 更新：使用这款输入法自动切换功能一晃快四年了，这款软件从最初的小小一只，到现在的健硕无比，而且难能可贵的是它一直保持着小而美的状态，没有做额外的不相关功能，也没 2026有转为付费模式，还是熟悉的味道，新版本目前还可以让你长按鼠标左键，就能展示当前正在使用的输入法 当你切换输入...]]></description>
+      <guid>https://www.waerfa.com/input-source-pro-review</guid>
+      <pubDate>Thu, 09 Apr 2026 11:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>LaunchOS: 专为 macOS 26 设计的启动台</title>
+      <link>https://www.waerfa.com/launchos-review</link>
+      <description><![CDATA[LaunchOS 是一款专为 macOS 26 设计的启动台替代产品。简单来说，它能让你找回几乎一模一样的原生旧版启动台使用体验。 。 来自 社区开发者 @章萧醇的自荐 由于 macOS 26 的启动台被移除了，开发者于是就做一个完全还原原生体验的替代版，同时优化一些历史启动台中已有的问题，并增加一些...]]></description>
+      <guid>https://www.waerfa.com/launchos-review</guid>
+      <pubDate>Tue, 07 Apr 2026 15:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deep Research 深度调研：从“搜答案”到“写报告”的范式转移 「Gemini 2.0 生产力全书系列三」</title>
+      <link>https://www.waerfa.com/deep-research-review</link>
+      <description><![CDATA[如果说传统 AI 搜索只是在做“搬运”，那么 Gemini 2.0 的 Deep Research 则是在扮演一名真正的“高级助理研究员”。它彻底终结了“由于 AI 懒惰而导致答案肤浅”的时代。通过自主制定调研计划、跨越上百个信源进行迭代搜索，它产出的是一份具备逻辑闭环、带详尽引用的学术级或商业级研...]]></description>
+      <guid>https://www.waerfa.com/deep-research-review</guid>
+      <pubDate>Sun, 28 Dec 2025 12:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nano Banana Pro 🍌 商业级绘图指南「Gemini 2.0 生产力全书系列二」</title>
+      <link>https://www.waerfa.com/nano-banana-review</link>
+      <description><![CDATA[如果你认为 AI 绘图只是“画个大概”，那 Nano Banana (底层技术为 Imagen 3) 将彻底颠覆你的认知。它是目前市面上对文字理解最精准、光影材质最接近真实摄影的 AI 影像引擎。]]></description>
+      <guid>https://www.waerfa.com/nano-banana-review</guid>
+      <pubDate>Sun, 28 Dec 2025 10:45:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让微信打飞机一次打出8颗炮弹</title>
+      <link>https://www.waerfa.com/how-to-transmit-eight-bullets-in-wechat-dafeiji</link>
+      <description><![CDATA[相信看到这篇时有不少读者仍然沉浸于“打飞机”的乐趣当中，为了提高自己的分数，大家用尽了各种方法。虽然Cydia中确实已经有了不死外挂，但是这里还是给大家提供一个新的“打飞机”作弊方法。这个对尚未越狱的i设备（只要你的文件管理工具可以不越狱进行操作）和安卓设备（道理差不多，笔者没有尝试过，理论上来说）...]]></description>
+      <guid>https://www.waerfa.com/how-to-transmit-eight-bullets-in-wechat-dafeiji</guid>
+      <pubDate>Sun, 28 Dec 2025 09:58:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Click：截屏自动化工具</title>
+      <link>https://www.waerfa.com/click</link>
+      <description><![CDATA[Click是一款自动截屏小工具，勾选“Automatic Sc​​reenshot”后，将设置窗口最小化，按一下“Option+Command”，系统会按间隔时间自动连续截屏，间隔时间最小为1秒，此外她还支持“Display 2”第二屏的截取，所有截图会被存储在User/Document（文稿）的Cli...]]></description>
+      <guid>https://www.waerfa.com/click</guid>
+      <pubDate>Sun, 28 Dec 2025 09:23:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Veo 3.1：从文字到电影的专业调度指南「Gemini 2.0 生产力全书系列一」</title>
+      <link>https://www.waerfa.com/veo-3-1-review</link>
+      <description><![CDATA[结论先行 (The Verdict) 如果你厌倦了其他 AI 视频工具那种“开盲盒”式的随机感，Veo 3.1 是你进入专业创作的必经之路。它不再是简单地把文字转成会动的画面，而是允许你通过导演级的镜头语言、原生音效同步以及角色一致性参考，实现对影像叙事的绝对掌控。 对于内容创作者来说，它是目前最能...]]></description>
+      <guid>https://www.waerfa.com/veo-3-1-review</guid>
+      <pubDate>Mon, 22 Dec 2025 13:18:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 2.0 生产力全书：Mac 玩家的 AI 进阶专栏 (Index)</title>
+      <link>https://www.waerfa.com/gemini-2-0-index-page</link>
+      <description><![CDATA[专题导读 (Overview) 2025 年是一个不平凡之年，人工智能产品百花齐放，功能迭代速度以周为单位疯狂的更新中，从最早的 ChatGPT，到去年异军突起的中国 DeepSeek 都给人类留下了深刻的印象，今年我认为最有希望拿“最佳影片”的应该是 Google 家的 Gemini 2.0，她正...]]></description>
+      <guid>https://www.waerfa.com/gemini-2-0-index-page</guid>
+      <pubDate>Mon, 22 Dec 2025 13:06:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Gemini 2.0 六大核心能力拆解：2025 生产力终极指南</title>
+      <link>https://www.waerfa.com/2025-ultimate-productivity-ai-tool-google-gemini-2-0-review</link>
+      <description><![CDATA[深度解析 Google Gemini 2.0 六大核心黑科技：Veo 3.1 电影级视频生成、Imagen 3 零误差文字图像渲染、Deep Research 自主调研、Canvas 沉浸式写作空间、Learning Coach 启发式教学及 Pro Thinking 逻辑推理。通过量化指标与实操拆解，带你掌握 2025 年最强 AI 生产力终端。]]></description>
+      <guid>https://www.waerfa.com/2025-ultimate-productivity-ai-tool-google-gemini-2-0-review</guid>
+      <pubDate>Fri, 19 Dec 2025 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>macOS 26 Tahoe：是生产力飞跃，还是“美丽”的陷阱？</title>
+      <link>https://www.waerfa.com/macos-26-tahoe</link>
+      <description><![CDATA[如果你使用的是 M3 或 M4 芯片且内存大于 16GB 的 Mac，macOS 26 的 Apple Intelligence 深度集成确实能带来便利，建议在备份后升级。 但如果你是 Intel Mac 的末代用户，或者手持 8GB 内存的 Base 款 Apple Silicon 设备，请务必谨...]]></description>
+      <guid>https://www.waerfa.com/macos-26-tahoe</guid>
+      <pubDate>Thu, 18 Dec 2025 15:51:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些年我在 Mac 上用过的 39 款精品屏保程序</title>
+      <link>https://www.waerfa.com/39-best-screensavers-for-macos</link>
+      <description><![CDATA[今天来与大家分享一下这么多年来小编使用的 Mac 屏保程序，这些屏保程序各有特色，有以提供精美壁纸资源为主的，有擅长做人机交互的动态屏保，有充分利用 iOS，Apple Watch 等兄弟产品设计元素的，还有将各种互联网经典元素搬入进来的屏保，这次我们来回顾 40 款经典屏保程序，想必应该是中文资源...]]></description>
+      <guid>https://www.waerfa.com/39-best-screensavers-for-macos</guid>
+      <pubDate>Thu, 18 Dec 2025 08:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>告别 Snipaste？ PixPin 凭什么成为截图界的新卷王</title>
+      <link>https://www.waerfa.com/pixpin-review-2025</link>
+      <description><![CDATA[PixPin 是一款集长截图、离线 OCR、贴图及 GIF 录制于一身的免费截图工具。本文深度评测 PixPin 的核心功能，详细对比其与 Snipaste 的优缺点，助你提升 Windows 和 Mac 平台的办公效率。]]></description>
+      <guid>https://www.waerfa.com/pixpin-review-2025</guid>
+      <pubDate>Wed, 17 Dec 2025 12:09:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>PopClip 2025 深度评测：在 AI 时代，为何这款“划词神器”依然是 Mac 必装？</title>
+      <link>https://www.waerfa.com/popclip-review-2025</link>
+      <description><![CDATA[【编辑部一句话点评】 结论： 如果你习惯使用鼠标或触控板，PopClip 是目前 Mac 上无法替代的效率工具。 在 2025 年，配合其强大的 ChatGPT 插件库，它不再仅仅是一个“复制粘贴”工具，而是一个随手可用的 AI 助手。 推荐指数： ⭐⭐⭐⭐⭐ (5/5) 适合人群： 文字工作者、程...]]></description>
+      <guid>https://www.waerfa.com/popclip-review-2025</guid>
+      <pubDate>Tue, 16 Dec 2025 11:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果这是不按常理出牌？偷偷发布 iOS 26.2 和 iOS 18.7.3 的正式版</title>
+      <link>https://www.waerfa.com/apple-release-ios-26-2-and-ios-18-7-3</link>
+      <description><![CDATA[苹果这是不按常理出牌？ 今天凌晨，很多用户一觉醒来，发现 iOS 26.2 和 18.7.3 正式版竟然悄咪咪推送了！ 虽说美国当地还是周五，但选这个时间发正式版，确实够罕见的。重点来了： 如果你之前已经升级了 iOS 26.2 的 RC 版，现在想收到正式版，需要先去「设置」里 关闭「Beta版更...]]></description>
+      <guid>https://www.waerfa.com/apple-release-ios-26-2-and-ios-18-7-3</guid>
+      <pubDate>Mon, 15 Dec 2025 13:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>AirPosture：利用 AirPods 实时检测你的头部姿势</title>
+      <link>https://www.waerfa.com/airposture-review</link>
+      <description><![CDATA[AirPosture（开发者 Github）是一款非常有趣且实用的 iOS 应用，当你带着 AirPods ，这个小家伙儿可以不断的检测你的头部姿势，当你处在坐姿办公、学习或是走路、跑步时都可以检测变提示你的头部不良姿势，帮助改善你的体态并保护你脆弱的颈椎。 点击 start 即可开始追踪，还可以自...]]></description>
+      <guid>https://www.waerfa.com/airposture-review</guid>
+      <pubDate>Sun, 14 Dec 2025 04:45:46 GMT</pubDate>
+    </item>
     </channel>
 </rss>

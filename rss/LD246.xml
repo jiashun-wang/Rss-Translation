@@ -4,7 +4,79 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 12:28:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:57:01 GMT</lastBuildDate>
+    <item>
+      <title>折叠反馈需要 FieldId</title>
+      <link>https://ld246.com/article/1788224076014</link>
+      <description><![CDATA[
+这是啥原因]]></description>
+      <guid>https://ld246.com/article/1788224076014</guid>
+      <pubDate>Tue, 01 Sep 2026 00:54:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源 app 没有自带的 ai 功能了？</title>
+      <link>https://ld246.com/article/1788223307632</link>
+      <description><![CDATA[思源的 app 没有自带 ai 功能了，升级了 3.8.2 以后没找到]]></description>
+      <guid>https://ld246.com/article/1788223307632</guid>
+      <pubDate>Tue, 01 Sep 2026 00:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>用浏览器访问思源笔记后报错 Unauthorized</title>
+      <link>https://ld246.com/article/1788213981434</link>
+      <description><![CDATA[
+一打开就卡这了，升级到 3.8.2 出现的。咋办啊。 ]]></description>
+      <guid>https://ld246.com/article/1788213981434</guid>
+      <pubDate>Mon, 31 Aug 2026 22:06:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在接 ai 体验更好的是通过思源自带的 api 接入还是用插件？</title>
+      <link>https://ld246.com/article/1788196413571</link>
+      <description><![CDATA[好久没更新，更新以后发现多了不少选择，用的时间长的朋友谁分享一下体验呢？如果接 codex 怎么搞好用]]></description>
+      <guid>https://ld246.com/article/1788196413571</guid>
+      <pubDate>Mon, 31 Aug 2026 17:13:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源笔记安卓端右滑没有设置很不习惯</title>
+      <link>https://ld246.com/article/1788193619655</link>
+      <description><![CDATA[之前的版本右滑直接就是设置用于退出，现在还要移动大指拇到到下面点一下，而且滑动界面的时候下方的任务栏还不会显示]]></description>
+      <guid>https://ld246.com/article/1788193619655</guid>
+      <pubDate>Mon, 31 Aug 2026 16:26:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>“（（“进行引用时明明文档在，但就是找不到文档</title>
+      <link>https://ld246.com/article/1788187370086</link>
+      <description><![CDATA[
+当前移动端在通过”（（“”或者“【【”引用文档时可以通过关键词把相关文档都列出来。在不记得文档完整名时，可以通过记得的关键词把相关文档都列出来。
+之前 PC 端也可以做到。但最近不知道为什么 PC 端做不到了。
+当前 PC 端必须几乎把整个文档的名字全部输入才会列出文档。有些时候不记得文档完整名字时很难进行准确引用。或者本来就有一个类似文档，因为时间长不记得文档名字，在引用时虽然输入了相关名称，但是却没有提示已经存在，导致又新建了一个类似文档。具体情况如下图：
+此处我想要引用“@a”，明明就在旁边，但提示我新建文档：
+
+此处我想要引用“a2 文档”，输入“a2“提示我新建，必须把整个文档名字几乎完整输入（”a2 文“）才会列出可以引用的文档。
+
+]]></description>
+      <guid>https://ld246.com/article/1788187370086</guid>
+      <pubDate>Mon, 31 Aug 2026 14:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>右键菜单优化</title>
+      <link>https://ld246.com/article/1788182440885</link>
+      <description><![CDATA[
+ 浏览器不支持该媒体的播放
+
+希望可以在右键菜单添加文字处理内容，而不是在只能在滑动选中后出现]]></description>
+      <guid>https://ld246.com/article/1788182440885</guid>
+      <pubDate>Mon, 31 Aug 2026 13:20:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源有没有类似 obsidian 的笔记属性的功能</title>
+      <link>https://ld246.com/article/1788181757203</link>
+      <description><![CDATA[想整个日记模板，发现思源貌似没有 obsidian 的 dataview 插件附带的笔记属性那样的功能？ 
+主要就是想在开头列几个“天气”、“心情”、“血压”、“体重”之类的属性，后期还可以用来检索。 
+我看了看笔记本身倒是有自定义属性，但那又不是展示在日记内容里的，差点意思……
+实在不行我只能放个表格在开头了 orz]]></description>
+      <guid>https://ld246.com/article/1788181757203</guid>
+      <pubDate>Mon, 31 Aug 2026 13:09:16 GMT</pubDate>
+    </item>
     <item>
       <title>让 ai 自行开发思源插件并自行调试完善</title>
       <link>https://ld246.com/article/1788174614449</link>
@@ -55,142 +127,6 @@
       <description><![CDATA[docker 布署的 v3.8.1 没有导出 pdf 的功能，请问后续是否有支持计划。 ]]></description>
       <guid>https://ld246.com/article/1788162548227</guid>
       <pubDate>Mon, 31 Aug 2026 07:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望 Docker 版本原生支持多用户多记事本支持，降低家庭部署成本</title>
-      <link>https://ld246.com/article/1788157691542</link>
-      <description><![CDATA[思源笔记近期迭代速度很快，近半年各平台端都完成了大规模的功能升级和体验优化，但 Docker 服务端版本感觉还是缺少针对性适配，存在比较影响家庭使用场景的短板，特此发帖反馈，希望 d 大及开发团队可以考虑优化迭代。 
-思源 docker 版多用户不支持，多笔记本也只能通过重复部署多个思源 docker 版来实现，对服务器内存消耗较大，使用体验比较勉强。 
-对于三口、四口这类普通家庭场景，全家共用一台服务器部署一套思源服务，依靠多账号、多笔记本隔离各自笔记本空间，是非常贴合实际的需求。如果为了区分不同家人的笔记，就要重复部署三四个容器，资源浪费明显，实在没有必要。 
-恳请 d 大和开发团队予以考虑，能够从底层完善 Docker 端的多用户适配，原生支持多账号、多笔记本隔离，更好满足家庭共用部署的使用场景。 ]]></description>
-      <guid>https://ld246.com/article/1788157691542</guid>
-      <pubDate>Mon, 31 Aug 2026 06:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法用 workbuddy 之类的工具对思源笔记的内容进行自动归类整理？</title>
-      <link>https://ld246.com/article/1788157413342</link>
-      <description><![CDATA[有没有办法用 workbuddy 之类的工具对思源笔记的内容进行自动归类整理？ ]]></description>
-      <guid>https://ld246.com/article/1788157413342</guid>
-      <pubDate>Mon, 31 Aug 2026 06:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于“ 支持将任意内容块复制为 PNG 图片”功能疑问</title>
-      <link>https://ld246.com/article/1788149591754</link>
-      <description><![CDATA[我这边 点击指定的块 的块标 后 点击 “复制为 PNG” 后
-
-出来个弹窗为什么是 指定块的 父文档 及后面所有的子文档的 所有内容 集合到一个长图里面？ 这符合预期吗？ 
-无论我是否聚焦块
-另外奇怪的是 不同时间操作 出来的图片大小还不完全一样
-]]></description>
-      <guid>https://ld246.com/article/1788149591754</guid>
-      <pubDate>Mon, 31 Aug 2026 04:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>左侧浮动栏状态下，点击后会自动展开或者打开文件</title>
-      <link>https://ld246.com/article/1788149579179</link>
-      <description><![CDATA[
-3.8.1 版本在 iPad mini 上有重大问题，会导致软件崩溃打不开，点击图标后黑屏（重新安装后仍然会复现）——通过更新最新版本可以解决，但不清楚是否会复现。 
-左侧浮动栏状态下，点击后会自动展开或者打开文件——很是影响体验！会打开本不想打开的文件，增加操作时间成本；其次，在 3.8.1 上也有这个问题，这次最新版本仍然没有解决。望重视及时更新
-]]></description>
-      <guid>https://ld246.com/article/1788149579179</guid>
-      <pubDate>Mon, 31 Aug 2026 04:12:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 对话无法完整导出</title>
-      <link>https://ld246.com/article/1788147681866</link>
-      <description><![CDATA[有的时候，AI 对话的上下文，我需要完整的复制到其他地方。但是目前思源笔记的 AI 对话，只能一个块一个块的复制。 ]]></description>
-      <guid>https://ld246.com/article/1788147681866</guid>
-      <pubDate>Mon, 31 Aug 2026 03:41:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 升级 3.8.2 功能完美，一个小建议</title>
-      <link>https://ld246.com/article/1788145786708</link>
-      <description><![CDATA[升级 3.8.2 功能完美
-新升级后，左右栏，底部工作栏，堪称完美，比想象中还好用，赞赞赞
-小小建议
-将立即同步这个按钮增加到底部工具栏或左右工具栏
-有过多端同步的使用者都知道这个键的重要性，你只要一打开界面首先都会立即同步一下，这个无论是原来印象笔记，还是语雀，都需要这样随时点击同步一下，才不会发生在多端的内容出现修改冲突，这个同步键都已经是肌肉记忆了，但思源笔记的界面没有这个按键也自定义不上去，要在设置中才能找到，比较不方便。这个立即同步其实比重建索引键要使用频率高太多
-]]></description>
-      <guid>https://ld246.com/article/1788145786708</guid>
-      <pubDate>Mon, 31 Aug 2026 03:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reeden 使用文档</title>
-      <link>https://ld246.com/article/1788146057208</link>
-      <description><![CDATA[1.软件激活
-这里说的是 Redden 高级版的内容，如果未购买高级版，不用看这篇文章。 
-点击软件的【立即同步】按钮，弹出激活，输入提供给你的激活码即可。 
-2.缤纷云 S3 配置（支持多种方式，仅举例）
-2.1 注册和说明
-这里以缤纷云举例：
-https://console.bitiful.com/login
-注册，并实名认证。 
-通过实名认证后，官方会赠送 50GB 的免费存储。 （我也不知道实名认证后有啥隐患没，请根据个人选择不同的方式进行同步）
-
-
-前 50 GiB 存储
-
-每月前 3*10 GB HTTP/HTTPS 流量（每日每项限 5 GB）
-
-S4 出口流量 10GB/月
-内置 CDN 回源 S4 流量 10GB/月
-内置 CDN 出口流量 10GB/月
-
-
-每月前 3*10 万次 请求（每日每项限 1 万次）
-
-S4 请求数 10 万次/月
-内置 CDN 回源 S4 请求数 10 万次/月
-内置 CDN 请求数 10 万次/月
-
-
-前 5 个 Let’s Encrypt 单域名 自动证书
-
-注意：如果书籍很多的话，缤纷云是先使用后缴费，长时间不缴费会删除存储内容，最低充值 50，请了解该情况。 （不过单纯给 Redden 用，免费给的充分够用了）
-2.2 桶设置
-创建桶
-
-创建桶完成后，点击...，点击【访问管理】
-
-点击【桶信息】，圈选的这些参数后续将要用到
-
-点击【文件管理】，创建目录，可选项，我这里是为了规范，创建了一个 Redden 目录
-
-
-2.3 添加子账户
-这里没啥好说的，添加子账户，创建 key 就行了，key 的权限记得给高点，把密钥相关参数保存好
-
-3.软件设置：
-3.1 同步设置
-就以上述的配置为例，点击同步
-
-点击【网盘】，网盘选择 S3，根据我上面图片和下面截图，不多赘述
-
-点击【选项】，自动同步是否开启看自己选择吧，底下的两个设置建议勾选打开
-
-3.2 书库设置
-举例说明，如果你打开软件本地存储导入你的书，最后书籍文件通过软件自己的同步会上传到他自己的用户数据里，并且不是书籍原格式，所以可以配置一个云书库上传源文件，让 Reeden 从云端下载导入书籍。 
-
-点击【网盘书库】
-
-点击右上角...，点击【配置】
-
-点击 +，新增配置
-
-和上面同步的设置大同小异，只是最后的目录不一样，我专门在 S3 桶里，创建了一个云书库的文件夹。 
-
-
-4.结尾
-AI 设置和美化设置时间不够，打算后面写]]></description>
-      <guid>https://ld246.com/article/1788146057208</guid>
-      <pubDate>Mon, 31 Aug 2026 03:16:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能体会话现在可以独立执行</title>
-      <link>https://ld246.com/article/1788146014504</link>
-      <description><![CDATA[新版本中的“智能体会话现在可以独立执行”独立运行是指不会查看笔记内容吗？ ]]></description>
-      <guid>https://ld246.com/article/1788146014504</guid>
-      <pubDate>Mon, 31 Aug 2026 03:13:33 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

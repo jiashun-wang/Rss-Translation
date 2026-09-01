@@ -4,7 +4,14 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Mon, 31 Aug 2026 00:58:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:30:45 GMT</lastBuildDate>
+    <item>
+      <title>PyCFRL：一个通过顺序数据预处理实现反事实公平离线强化学习的 Python 库</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.09689</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.09689</guid>
+      <pubDate>Mon, 31 Aug 2026 15:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>Vigicaen：vigibase® 药物警戒数据库工具箱。</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.10321</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10142</guid>
       <pubDate>Fri, 21 Aug 2026 09:33:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>FELiCS：适用于多物理场应用的多功能线性化流求解器</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10241</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10241</guid>
-      <pubDate>Thu, 20 Aug 2026 21:28:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

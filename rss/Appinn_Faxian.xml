@@ -4,7 +4,57 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 12:28:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:56:35 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】医捷通•门诊医保报销辅助工具 2.0 --处方打印+门诊记录+药品进销存单机版</title>
+      <link>https://meta.appinn.net/t/topic/91029</link>
+      <description><![CDATA[软件名称
+医捷通·门诊医保报销辅助工具 2.0 单机版
+应用平台
+·         Windows
+推荐类型
+【开发者自荐】
+是否收费
+试用期 30 天，全功能
+授权是机器码绑定
+单台授权：1年期授权码39元（含 1 年免费更新）
+      2年期授权码69元（含 2 年免费更新）
+
+   到期后可以更换电脑，重新获取授权。  
+
+简介
+大家好，我是一名基层诊所的医生，这个工具是给自己做的，主要是提高工作效率。开诊所的朋友应该都懂——每天看几十个病人，最烦的不是看病，是写各种诊疗记录。医保结算网页里患者信息、诊断、药品都填好了，结果处方、门诊记录、出入库台账都还得手抄一遍。手写慢、字迹潦草，重复书写耽误太多的时间。 
+我也试过市面上的诊所管理软件，要么太重（要配服务器、要培训），要么太贵（年费动辄上千），像我们这种两三个人的小诊所，根本用不起来。找人定制？问了一圈报价吓人。 
+后来想，我自己大学时候学过一点编程，不如试试自己搞一个。需求很明确：能把医保网页的数据直接搬过来、自动填好、调调格式就能打印，最好还能顺带管管药品库存——月底盘点不用再拿本子一笔笔对。 
+断断续续搞了一年多，从最开始只能粘贴解析患者信息，生成处方和门诊记录，到现在 2.0 版本把进销存、月度统计都加进去了，日常接诊就在用，确实省了不少事。 
+应用简介
+医保数据一键粘贴
+在医保网页 Ctrl+A 全选、Ctrl+C 复制，切回软件 Ctrl+V 粘贴，患者姓名、性别、年龄、诊断、药品清单自动解析填充。药品用量用法还是自己填——这个必须医生来，软件不替你做判断。 
+当然也可以自己输入患者信息、药品信息，也可以从历史记录中查找调用相关信息。 
+ 处方打印
+右侧实时预览，支持 A5/A6 纸张切换，字体可以选（宋体/楷体/仿宋，还有手写体），打印出来格式规范，字迹清晰。可以按查询结果导出门诊记录，打印备案方便。 
+药品进销存
+入库、出库、库存查询、报损、台账导出 Excel。保存处方时自动扣减库存，不用手动对账。月底统计一下出入库金额，清清楚楚。 
+月度报表
+按月份统计处方数、患者数、药品金额、诊疗费、出入库汇总，一键导出 Excel，年底对账方便。 
+安装版几个说明
+软件纯单机运行，数据存在本机 SQLite 数据库里，不上传、不联网，患者隐私不出诊所
+默认账号 admin/admin123，登录后自己改密码就行
+截图预览：
+
+
+
+
+
+下载试用
+通过网盘分享的文件：门诊医保报销辅助工具 Setup 2.0.0.rar
+下载链接:https://pan.baidu.com/s/1uofIqHnw2LMhsNFUaQhOVQ?pwd=512r 提取码: 512r
+有问题欢迎留言，我每天接诊间隙会上来看。如果是同行有特定需求或好的想法，可以聊，欢迎大家交流 
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91029</guid>
+      <pubDate>Mon, 31 Aug 2026 12:37:12 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】我想一劳永逸解决字幕工作流，所以我做了 MAW【字幕软件】</title>
       <link>https://meta.appinn.net/t/topic/91020</link>
@@ -35,7 +85,7 @@ Tablite 新标签页
 
 地址
 Tablite - Chrome 应用商店
-1 个帖子 - 1 位参与者
+2 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91019</guid>
       <pubDate>Mon, 31 Aug 2026 09:59:10 GMT</pubDate>
@@ -45,7 +95,7 @@ Tablite - Chrome 应用商店
       <link>https://meta.appinn.net/t/topic/91017</link>
       <description><![CDATA[各位小众软件的朋友好，我是独立开发者JC。
 平时在YouTube学习国外技术教学、看公开课或听英语播客时，最常遇到的痛点就是「影片没有字幕」或「矫正机翻慢半拍且不精准」。
-为了解决影音学习与笔记整理的痛点，我开发了这套完全免费的 Chrome 补充组件InstantFlow Web。
+为了解决影音学习与笔记整理的痛点，我开发了这套完全免费的 Chrome 补充组件 InstantFlow Web。
 应用名称与平台
 
 名称：InstantFlow Web
@@ -346,7 +396,7 @@ Agentero: Agent友好的文献管理与阅读器，Agent时代的Zotero
 （通用学术模式）
 价格与授权说明
 
-免费额度：每日提供10次免费使用。
+免费额度：每日提供 10 次免费使用。
 买断授权：重度用户可通过 Gumroad 一次性买断（$9.99 美元），无任何后续订阅费用。
 使用说明：安装后需于设定中填入Groq API Key即可开始使用。
 
@@ -533,13 +583,6 @@ Document viewer and in-place editor plugin for Directory Opus. Markdown with Rea
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90923</guid>
       <pubDate>Sun, 30 Aug 2026 03:56:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】Cursor Crane：以键盘控制 Mac 的鼠标、窗口和文本操作</title>
-      <link>https://meta.appinn.net/t/topic/90888</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90888</guid>
-      <pubDate>Sat, 29 Aug 2026 08:19:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

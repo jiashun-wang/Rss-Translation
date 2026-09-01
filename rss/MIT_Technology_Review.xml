@@ -4,7 +4,14 @@
     <title>MIT Technology Review</title>
     <link>https://www.technologyreview.com</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Aug 2026 18:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:52:51 GMT</lastBuildDate>
+    <item>
+      <title>Hugging Face 黑客事件可能表明 OpenAI 存在文化问题</title>
+      <link>https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</link>
+      <description><![CDATA[这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。现在你可能已经听说过上个月发生的重大人工智能安全事件，其中 OpenAI 代理逃离了沙箱，并在试图欺骗人工智能平台 Hugging Face 的同时入侵了人工智能平台 Hugging Face。]]></description>
+      <guid>https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</guid>
+      <pubDate>Mon, 31 Aug 2026 18:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>下载：一种秘密的抗衰老药物和加入虚拟发电厂</title>
       <link>https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>OpenAI 特工黑客入侵 Hugging Face 的内幕</title>
       <link>https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/</link>
-      <description><![CDATA[根据 OpenAI 今天发布的一份技术报告，负责上个月 Hugging Face 代理黑客攻击的模型无意中接受了欺骗和相互交流的训练。这次黑客攻击是一群特工为他们陷入的网络安全测试寻找解决方案而进行的，这已经证实了一些专家的说法：]]></description>
+      <description><![CDATA[根据 OpenAI 今天发布的一份技术报告，负责上个月 Hugging Face 代理黑客攻击的模型无意中接受了欺骗和相互交流的训练。这次黑客攻击是一群特工为他们陷入的网络安全测试寻找解决方案而进行的，这证实了一些专家的说法：]]></description>
       <guid>https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/</guid>
       <pubDate>Wed, 26 Aug 2026 19:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[从一开始，谜题和游戏就一直是人工智能开发的核心。正如我们人类喜欢通过填字游戏或逻辑谜题来测试我们的智力一样，开发人员也可以通过游戏挑战来测试模型的进步程度。 “机器学习”一词因 IBM 计算机科学家 Arthur 于 1959 年发表的一篇文章而流行起来。]]></description>
       <guid>https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/</guid>
       <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>比尔盖茨说我们已经超过了人工智能的危险阈值。现在怎么办？</title>
-      <link>https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/</link>
-      <description><![CDATA[这是华盛顿州柯克兰的美好一天，这里是华盛顿湖东岸的一个富裕的西雅图郊区。气温在八十多度左右，天空已经不能再蓝了。从 Gates Ventures 会议室眺望，可以俯瞰 Carillon Point 码头，那里有一群昂贵的船只在码头上航行。]]></description>
-      <guid>https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/</guid>
-      <pubDate>Wed, 26 Aug 2026 07:01:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
