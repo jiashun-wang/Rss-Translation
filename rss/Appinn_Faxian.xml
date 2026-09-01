@@ -4,7 +4,54 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:56:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:00:56 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】SentenWord：把单词放回真实的句子和文章里</title>
+      <link>https://meta.appinn.net/t/topic/91072</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/91072</guid>
+      <pubDate>Tue, 01 Sep 2026 07:18:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>易简历 - 26 个模板的免费在线简历制作工具</title>
+      <link>https://meta.appinn.net/t/topic/91069</link>
+      <description><![CDATA[一句话描述：
+免费简历制作网站，26个模板选一个填内容就能导出PDF/Word，简历内容全程不上传服务器
+描述：
+易简历是一个免费的在线简历制作工具，26 个模板覆盖简约、专业、创意、经典等多种
+风格，挑一个模板、填写经历，就能导出 PDF 或 Word，全程不需要注册账号。 
+比较特别的两点：
+
+隐私上做得比较干净——简历数据全程只存在你自己浏览器本地，导出 PDF/Word 也是
+在浏览器里直接生成，不经过任何服务器，不上传、不采集。不用 Cookie，也不接第三方
+统计和广告。 
+支持把之前导出的 PDF/Word 简历重新导入回来继续编辑——很多同类工具做完导出就是
+终点，改一个字得从头填，这个可以直接把老文件拖进来接着改。 
+
+截图展示
+
+
+
+目前无广告、导出永久免费。个人业余时间做的项目，欢迎试用挑错。 
+
+
+
+易简历
+
+
+
+免费个人简历制作 - 在线生成模板，快速导出PDF/Word | 易简历
+易简历：免费个人简历在线制作工具，选模板、填经历，快速生成并导出PDF/Word简历。无需注册、不收费、无水印，内容仅存本地浏览器，不上传服务器。 
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91069</guid>
+      <pubDate>Tue, 01 Sep 2026 06:41:47 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】医捷通•门诊医保报销辅助工具 2.0 --处方打印+门诊记录+药品进销存单机版</title>
       <link>https://meta.appinn.net/t/topic/91029</link>
@@ -50,7 +97,7 @@
 通过网盘分享的文件：门诊医保报销辅助工具 Setup 2.0.0.rar
 下载链接:https://pan.baidu.com/s/1uofIqHnw2LMhsNFUaQhOVQ?pwd=512r 提取码: 512r
 有问题欢迎留言，我每天接诊间隙会上来看。如果是同行有特定需求或好的想法，可以聊，欢迎大家交流 
-2 个帖子 - 2 位参与者
+4 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91029</guid>
       <pubDate>Mon, 31 Aug 2026 12:37:12 GMT</pubDate>
@@ -85,7 +132,7 @@ Tablite 新标签页
 
 地址
 Tablite - Chrome 应用商店
-2 个帖子 - 2 位参与者
+5 个帖子 - 5 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91019</guid>
       <pubDate>Mon, 31 Aug 2026 09:59:10 GMT</pubDate>
@@ -497,92 +544,6 @@ info@ffaudio.cc
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90934</guid>
       <pubDate>Sun, 30 Aug 2026 07:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个双击即用的 Windows 软件管理工具，不仅列出所有已安装软件，还能彻底卸载 + 清空注册表 + 删除残留文件夹/文件，不依赖任何运行时。</title>
-      <link>https://meta.appinn.net/t/topic/90930</link>
-      <description><![CDATA[ Windows 软件管理工具 —— 彻底卸载不留痕迹
-一句话介绍：
-一个双击即用的 Windows 软件管理工具，不仅列出所有已安装软件，还能彻底卸载 + 清空注册表 + 删除残留文件夹/文件，不依赖任何运行时。 
- 为什么需要它
-Windows 自带「添加或删除程序」卸载后，总会留下大量垃圾：
-
-注册表卸载项残留（软件还躺在列表里）
-AppData、ProgramData 里的配置文件
-安装目录没删干净
-开始菜单快捷方式、计划任务、服务等
-手动清理太麻烦，Geek Uninstaller 等工具功能虽好，但有时需要付费或不够彻底。于是自己写了一个。 
-
- 功能亮点
-
-软件列表一览：自动读取注册表（64位/32位/当前用户），MSI 程序自动补齐名称，默认隐藏系统组件与 KB 补丁
-彻底卸载（唯一卸载方式）：
-
-右键软件 →「彻底卸载」（或点击底部按钮）
-弹出确认对话框，点击「是」后执行
-结束相关进程 → 执行卸载（优先静默）→ 清空注册表（卸载键、App Paths、Run/RunOnce、服务、计划任务等）→ 删除相关文件夹/文件（安装目录、AppData、ProgramData、Temp、开始菜单等）
- 不备份、永久删除，无法恢复
-
-
-切换安装路径：把已安装软件整体搬迁到新目录，自动更新注册表、快捷方式、服务等引用，尽量不影响使用
-商店应用支持：独立标签页列出 Microsoft Store 应用，同样支持彻底卸载
-搜索/筛选/排序：按名称或发布者实时过滤，列头点击排序
-
-下载链接：windows软件管理工具 · 稳住/工具箱1 - Gitee.com
-
-3 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90930</guid>
-      <pubDate>Sun, 30 Aug 2026 06:25:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>DopusWorX- Directory Opus查看器 推荐</title>
-      <link>https://meta.appinn.net/t/topic/90923</link>
-      <description><![CDATA[软件名称
-DopusWorX - markdown, maths, code and CSV viewer and editor for Directory Opus
-应用平台
-
-Windows
-
-推荐类型
-【用户推荐】
-是否收费
-免费开源
-一句简介
-专为 Directory Opus 开发的文件查看器(预览插件)，支持代码文件、文本文件、md、csv、html等文档的预览和编辑。还支持二进制文件显示。 
-UI精美，可更换主题颜色，代码渲染支持多种风格。 
-应用简介
-一款原生的Directory Opus查看器插件：这是Windows动态链接库（DLL），可在Opus查看面板、弹出式查看窗口以及QuickShow弹窗中渲染文档。它并非独立应用程序；而是加载于Opus内部，依靠微软Edge WebView2运行时完成界面绘制。 
-底层拥有两层架构，并非简单在窗口内嵌入网页。该插件本身是基于Directory Opus插件SDK开发的原生C++查看器DLL，正因如此，它可以运行在查看面板、弹出查看器与QuickShow中，而不是以独立窗口形式运行。 WebView2仅作为它的绘制载体：其内部，CodeMirror及其Lezer语法库为约150种语言提供源码视图与编辑视图；markdown‑it负责解析Markdown；KaTeX与Temml渲染数学公式；Mermaid绘制各类图表。十六进制查看器、CSV表格、拼写检查以及主题功能均是为此插件专门开发。 
-该插件可识别文件类型：打开文件后，DopusWorX会自动选用适配的视图。 
-Markdown文件支持阅读、实时、源码三种模式，具备分栏预览，并且可以内联渲染数学公式（LaTeX / AsciiMath）与Mermaid图表。 
-源代码文件以源码视图打开，提供语法高亮（支持约150种语言）。 
-CSV / TSV文件以可编辑表格形式打开。 
-HTML会渲染为完整网页，同时提供源码视图与分栏模式。 
-二进制文件在十六进制查看器中打开（包含偏移量、十六进制、ASCII显示以及数据检查工具），还可选择启用字节编辑器。 
-截图预览：
-
-
-官方网站
-
-
-github.com
-
-
-
-
-GitHub - HyperWorX/DopusWorX: Document viewer and in-place editor plugin for...
-Document viewer and in-place editor plugin for Directory Opus. Markdown with Reading, Live and Source split preview, Mermaid diagrams, LaTeX/AsciiMath maths, syntax-highlighted code, an editable CSV grid, rendered HTML, and a binary/hex inspector. 30 palettes, atomic saves and private-by-default images. WebView2 + CodeMirror 6 + KaTeX/Temml.
-
-
-
-
-
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90923</guid>
-      <pubDate>Sun, 30 Aug 2026 03:56:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

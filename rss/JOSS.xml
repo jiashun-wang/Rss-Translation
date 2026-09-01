@@ -4,7 +4,21 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:30:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:50:52 GMT</lastBuildDate>
+    <item>
+      <title>Macapype：用于非人类灵长类动物大脑解剖 MRI 处理的开放式多软件框架</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10203</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10203</guid>
+      <pubDate>Tue, 01 Sep 2026 10:29:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>JumpMetrics：计算反向运动和深蹲跳跃事件和指标的 Python 包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10651</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10651</guid>
+      <pubDate>Tue, 01 Sep 2026 10:27:12 GMT</pubDate>
+    </item>
     <item>
       <title>PyCFRL：一个通过顺序数据预处理实现反事实公平离线强化学习的 Python 库</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.09689</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10887</guid>
       <pubDate>Mon, 24 Aug 2026 18:16:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cont2SAS：用于计算连续纳米结构小角度散射参数的 Python 包</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.09772</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.09772</guid>
-      <pubDate>Sun, 23 Aug 2026 23:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>GCAMUSAJobs：基于 GCAM-USA 电力部门成果的就业预测 R 包</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10142</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10142</guid>
-      <pubDate>Fri, 21 Aug 2026 09:33:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

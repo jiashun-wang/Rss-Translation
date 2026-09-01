@@ -4,7 +4,42 @@
     <title>Physics of Fluids Current Issue</title>
     <link>https://pubs.aip.org/pof</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>含有微生物的 Rivlin-Ericksen 纳米流体中的热生物对流不稳定性：对生物医学系统中生物反应器的影响</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/081918/3403343/Thermo-bioconvective-instabilities-in-Rivlin</link>
+      <description><![CDATA[这项研究对水平 Rivlin-Ericksen 粘弹性纳米流体层中的热生物对流不稳定性进行了线性稳定性分析，该流体层包含纳米颗粒和微生物在无通量条件下限制在自由边界之间的旋转微生物。该模型在统一框架内结合了高阶粘弹性应力、Buongiorno 型纳米颗粒输运和旋转微生物重新分布。简正模分析得出控制稳态和振荡对流的临界热瑞利数的封闭式表达式。对于静态对流，纳米粒子浮力 (Rn) 和修正扩散率 (NA) 是主要的不稳定因素，而微生物诱导的浮力 (Rab) 仍然是次要的，除非通过浓度传输强烈耦合。路易斯数(Le)表现出依赖于密度范围的双重作用，对于较重的纳米颗粒来说不稳定(Rn＞0)，对于较轻的纳米颗粒来说稳定(ρp＜ρf， Rn＜0)。振荡对流专门针对较轻的纳米颗粒状态（Rn&lt;0），其中粘弹性相滞后、恢复纳米颗粒分层和微生物引起的浮力构成了过稳定的相互必要条件，这是牛顿和麦克斯韦型公式中不存在的三向耦合机制。与弹性降低振荡阈值的麦克斯韦流体不同，里夫林-埃里克森粘弹性提高了振荡阈值，表明具有明显的稳定效应。敏感性分析表明，生物对流参数（Rab， Qb）在所有配置中保持弱敏感（|S|&lt;1），确保比例和结构上有界的稳定性响应，而纳米流体参数（Rn， Le， NA）对稳态对流发挥主导控制，但在振荡对流中变得减弱。该研究将经典的热生物对流理论扩展到 Rivlin-Ericksen 流体，并为生物反应器、生物医学微室和微流体装置中的粘弹性生物纳米流体系统提供有用的指导。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/081918/3403343/Thermo-bioconvective-instabilities-in-Rivlin</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>原井固井中的流体相容性、界面稳定性和浮力驱动的多流体驱替：综述</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/081306/3403331/Fluid-compatibility-interfacial-stability-and</link>
+      <description><![CDATA[主井固井涉及在套管和地层之间的环形空间中依次置换钻井泥浆、化学洗液、隔离物和水泥浆。尽管广泛应用于能源应用，但其基本的流体机械过程尚未完全了解。这篇综述从流体力学的角度综合了当前关于流体相容性和浮力驱动的多流体位移的知识。流体相容性决定了相互作用的流体的化学和流变稳定性，并取决于配方变量、污染、温度和压力、混合历史和添加剂化学。不相容的相互作用可能会引起粘化、絮凝或相分离，从而使界面不稳定并降低驱替效率。除了相容性之外，水泥的放置还受到具有对比密度和非牛顿流变学的流体之间浮力位移的流体动力学的控制。实验和理论研究表明，位移范围从稳定的塞状传播到不稳定的模式，如滑落、指进、分离和强烈混合。这些转变取决于浮力、粘性应力、屈服应力阻力和强加流动之间的竞争，以及倾斜和环形偏心率等几何因素。雷诺数、弗劳德数、阿特伍德数、宾厄姆数和毛细管数等无量纲群为解释实验室和现场条件下的状态转变提供了一个框架。该综述强调了密度流变层次和界面控制流体如何稳定驱替前沿，并确定了开放的挑战，包括湍流状态、多界面系统、颗粒负载悬浮液、真实的环形几何形状和数据驱动的建模方法。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/081306/3403331/Fluid-compatibility-interfacial-stability-and</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>泵喷推进器叶尖泄漏涡部分多孔叶尖流动控制机制</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/085174/3403326/Flow-control-mechanisms-of-partially-porous-blade</link>
+      <description><![CDATA[大涡模拟结合多孔介质模型和滑动网格技术，用于研究泵喷推进器 (PJP) 中部分多孔叶尖的流动控制机制。检查了具有 1/3 和 2/3 覆盖率的两种多孔尖端配置，并根据已发表的参考数据验证了数值方法，误差低于 5%。结果表明，多孔介质通过引入粘性阻力和惯性阻力来抑制叶尖泄漏射流，从而减弱叶尖泄漏涡流（TLV）的发展。与传统转子相比，1/3和2/3多孔尖端结构的TLV核心强度降低了30%以上，而压力脉动幅度分别降低了5.07%~12.93%和27.53%~33.02%。增加多孔覆盖率可以增强涡流抑制，但也会将推力损失从大约 6%–9% 增加到 16%–22%。在斜流入条件下，1/3多孔尖端配置实现了涡控制和推进性能之间的最佳平衡。在θ = 10°时，压力波动幅度减少10%以上。这些发现证明了部分多孔叶尖作为有效的被动流动控制策略的潜力，可减轻 TLV 引起的 PJP 流动不稳定性。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/085174/3403326/Flow-control-mechanisms-of-partially-porous-blade</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>水泡沫中亚音速弹丸减速实验研究</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/083370/3403325/Experimental-study-of-subsonic-projectile</link>
+      <description><![CDATA[爆炸装置的爆炸会产生高速金属碎片，这是简易爆炸装置的主要杀伤机制之一。水性泡沫由于其易于部署和高能量耗散能力而成为有前途的保护屏障。本研究研究了受控物理化学条件下亚音速球形射弹在水性泡沫中的减速情况。使用电磁感应线圈在不透明泡沫填充的测试部分内跟踪磁化的钕弹丸，并结合上游和下游的高速成像，提供两种液体分数（Φf=2%和8%）和两种初始速度（vp,0=55和110 ms−1）超过750 mm的连续速度剖面。发现归一化减速度曲线在很大程度上与初始速度无关，在 Φf=2% 时速度损失达到 24%，在 Φf=8% 时速度损失达到 65%。相继评估了三种建模方法：Kelvin-Voigt 单元模型、基于组件的两相模型和有效介质阻力模型。只有有效介质方法才能再现所测量的减速度的大小和速度独立性，这表明水性泡沫比其各个成分的贡献总和更有效地消散动能。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/083370/3403325/Experimental-study-of-subsonic-projectile</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有固定内射流的双环形旋流射流的涡流结构</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/8/085175/3403305/Vortical-structures-of-twin-annular-swirling-jets</link>
+      <description><![CDATA[采用高速立体粒子图像测速技术研究具有固定内部几何结构的双环形结构中旋流射流的流动特性。内级射流设置为预涡破裂状态，内旋数为0.5，外旋数范围为0.35至0.77，涵盖同向旋转和反向旋转两种配置。在双级情况下，随着外涡流数的增加，光谱特性呈现出两个不同的峰值，对应于两个进动涡核（PVC）。上游PVC位于喷嘴出口附近，主要受内旋流影响；下游PVC位于合流区域，主要受合流流控制。两个 PVC 的存在揭示了中央再循环区域内的分区特征，即使再循环区域显示为单个实体。随着旋流数的增加，下游PVC的振幅先增大后减小，频率单调减小；上游PVC幅度也遵循类似的趋势。由于旋流数的双向效应，上游 PVC 在较低旋流数时表现出明显更高的振幅。两种 PVC 振幅的减小都与内旋流扩展角的增大有关。反向旋转案例揭示了分级射流之间的竞争，导致葫芦形再循环区的形成，以及主频率从高频主导向宽带（光谱扩散）状态的转变，随后过渡到低频主导。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/8/085175/3403305/Vortical-structures-of-twin-annular-swirling-jets</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>通道中浮力、可变形液滴的平衡定位</title>
       <link>https://pubs.aip.org/aip/pof/article/38/8/082021/3403295/Equilibrium-positioning-of-buoyant-deformable</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[由横向振荡边界驱动的颗粒对流控制着内部质量传输和周围颗粒床的宏观演化。以往的研究主要依靠二维可视化或试验后挖掘。然而，以往的研究无法探测内部对流结构和连续粒子轨迹，并且这种现象的三维发展和内部粒子运动学仍然没有得到很好的解决。本研究利用半圆柱形振荡边界开发了三维颗粒流可视化框架。采用粒子图像测速结合彩色示踪沙分层切片方法重建三维对流单元并跟踪内部粒子迁移。对流细胞表现出双边对称的耳形形态，具有非线性深度收缩和归一化边界的几何相似性。它们的增长遵循进化模式，并提出了经验时空模型。从运动学的角度来看，颗粒输送是由沿着驱动边界的耦合向下和水平迁移控制的，该迁移进入内部再循环区域，然后径向向外和向上扩散。与二维结果相比，三维条件产生更强的深度方向边界收缩和更快的横向速度衰减。增加振动幅度会显着增大对流范围和强度，而频率和饱和度的影响较弱。这些发现阐明了由振荡圆柱边界驱动的三维颗粒流的内部运动学。]]></description>
       <guid>https://pubs.aip.org/aip/pof/article/38/8/083369/3403277/Spatiotemporal-evolution-and-internal-kinematics</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>真空管磁浮运输瞬时气动热特性及缓解策略</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/8/086134/3403276/Instantaneous-aerodynamic-heat-characteristics-and</link>
-      <description><![CDATA[真空管磁浮交通（ETMT）系统具有高速、高效、安全等优势，已成为未来交通运输的重要发展趋势。然而，特殊的封闭环境使得ETMT系统内的热环境变得高度复杂，甚至危及运行安全。因此，研究气动热的形成机制和缓解策略可为工程应用提供技术支持。本文的主题是使用剪应力传递 k–ω 模型并结合动态网格技术来分析气动热，即管内波浪和温度变化所呈现的热力。主要结果是，随着列车运行时间的延长，列车与法向冲击波之间的距离线性增加。此外，火车速度的增加导致火车与管内空气之间的速度差减小。从而提高动能传递效率并放大列车前方阻流的温度梯度变化。此外，缓解策略还可以将阻流区域的温度降低21.5℃，并缩短列车后部的冲击波长。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/8/086134/3403276/Instantaneous-aerodynamic-heat-characteristics-and</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于平流传质模型的不凝性气体对孤立水翼周围空化流的扩散效应数值研究</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/8/083365/3403252/Numerical-investigation-of-diffusion-effect-of-non</link>
-      <description><![CDATA[众所周知，不凝气体 (NCG) 有时在空化流中起着不可忽视的作用。一般来说，NCG 可以以下两种形式存在于液体中：溶解在液体中或捕获在游离核中。目前，在大多数数值空化模型中，溶解的NCG对空化过程的影响，特别是扩散效应，通常被忽略，因为与流动对流相比，扩散通常很慢。然而，在一些特殊情况下，如泵在非设计条件下运行时的空化性能，特别是在低流量的情况下，应注意扩散效应。为了在空化流预测方面取得突破，我们课题组基于 Sauer 和 Schnerr 著名的均质空化模型（SS 模型），提出了一种简单的液-气界面传质模型，称为 SS-NCG 模型，并耦合了一个附加的 NCG 浓度的平流扩散方程，用于水翼周围的二维计算流体动力学模拟。在本研究中，采用三维延迟分离涡模拟与空化模型相结合来研究NCG对空化的详细影响。通过比较三种典型情况，即无溶解氧（SS模型）、低溶解氧和高溶解氧情况（SS-NCG模型），揭示了NCG影响的非稳态和统计特征。结果表明，NCG的存在会增强空化程度，并可能导致气态空化的发生。从非定常特性来看，NCG对空化过程起到稳定和阻尼作用。统计上，空化区域中的NCG浓度低于本体液体中的浓度，并且在NCG含量较高的情况下，浓度差异增大。另外，发现考虑NCG与不考虑NCG的空化过程机​​理有较大不同。由于NCG的存在，空化可以被视为气泡内外不同压力之间的相互作用，其中NCG主要通过调节气泡内部的局部压缩性来影响空化动力学。相比之下，没有NCG的空化过程仅由局部静压主导。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/8/083365/3403252/Numerical-investigation-of-diffusion-effect-of-non</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>格斯特纳重力-毛细波及其塌陷模式</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/8/083624/3403251/Gerstner-gravity-capillary-waves-and-their</link>
-      <description><![CDATA[研究了深水中非线性重力毛细波的传播方式。流体运动通过拉格朗日变量中理想不可压缩流体的二维方程的精确解来描述。流体粒子的轨迹是半径随深度呈指数减小的圆圈（如格斯特纳波）。自由表面上的压力不均匀，并且与时间和谐相关，这与风对近地表层流体的影响相关。对于稳定（格斯特纳）轮廓，证明了由外部压力大小决定的极限波陡度的存在。对于不稳定的格斯特纳波，构造了重力-毛细管流氓波和破碎波的示例，破碎波在均匀背景波上显示为单个高程（孤子）。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/8/083624/3403251/Gerstner-gravity-capillary-waves-and-their</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>振荡流中倾斜圆柱体周围的水动力和涡动力学</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/8/083625/3403250/Hydrodynamic-force-and-vortex-dynamics-around-an</link>
-      <description><![CDATA[进行大涡模拟，以研究在 Re = 3900 的雷诺数和 KC = 15、30 和 60 的 Keulegan-Carpenter 数下围绕圆柱体的振荡流，以及倾斜角度为α = 0°、30°、45°和60°。分析了独立原理 (IP) 的有效性，并使用力分配方法 (FPM) 量化了对阻力和升力的贡献。结果表明，IP 的有效性随着 KC 的增加而显着扩大。在 KC = 15 时，内联阻力系数仅在 α ≤ 30° 时具有可比性，而在 KC = 60 时，它在 α = 60°。这是因为高 KC 下较长的冲程长度允许涡流在每个半周期内充分发展，产生更连贯的初级尾流结构，并有助于即使在大倾角下也能保持准二维流动特性。 FPM 显示 x 和 y 方向上的力与涡流引起的力高度相关。涡力的分解表明展向涡的贡献主导了阻力和升力。此外，随着倾角的增大，法向速度的减小和轴向速度的增加削弱了近圆柱涡的形成并促进涡的轴向拉伸，从而降低了涡的相干性并降低了涡激力的峰值。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/8/083625/3403250/Hydrodynamic-force-and-vortex-dynamics-around-an</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>波状海底盘形自主水下航行器水动力相互作用研究</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/8/084118/3403249/Study-on-hydrodynamic-interaction-of-a-disk-shaped</link>
-      <description><![CDATA[这项研究对一种新型盘形自主水下航行器——在波状海底附近运行的自主水下直升机——的水动力特性进行了数值研究。采用规定运动方法来模拟在波浪地形上的直线巡航。研究了巡航速度和高度的影响。与平底地形相比，波状地形引起明显更强烈的水动力响应，其特征是阻力随着巡航速度而增加，而升力表现出非单调行为。此外，提出了与底部地形相关的两种不同效应：引起正升力的阻塞效应和导致负升力的加速效应。这两种效应的相对贡献随着相对于地形、高度和巡航速度的位置而变化，导致流体动力相互作用中的规则振荡模式。确定了升力从负向正转变的临界高度，其值随巡航速度非单调变化。这项研究提供了对在复杂海底地形附近运行的水下航行器的运动控制和操纵的见解。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/8/084118/3403249/Study-on-hydrodynamic-interaction-of-a-disk-shaped</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,11 +4,18 @@
     <title>阿里云公告</title>
     <link>https://www.aliyun.com/notice/list</link>
     <description>阿里云公告</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:29:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:37:39 GMT</lastBuildDate>
+    <item>
+      <title>【产品变更】'智能体操作系统 ANOLISA'产品名称变更为'智能体操作系统'</title>
+      <link>https://www.aliyun.com/notice/118591</link>
+      <description><![CDATA[2026-09-10起，智能体操作系统 ANOLISA产品的中文名称由&#39;智能体操作系统 ANOLISA&#39;变更为&#39;智能体操作系统&#39;，英文名称由&#39;ANOLISA&#39;变更为&#39;Agentic OS&#39;。 变更后所有相关产商品将使用新名称。 感谢您对阿里云的支持和关注！如您有任何问题，可随时通过工单或者服务热线与我们联系。 ]]></description>
+      <guid>https://www.aliyun.com/notice/118591</guid>
+      <pubDate>Tue, 01 Sep 2026 06:13:19 GMT</pubDate>
+    </item>
     <item>
       <title>【大模型服务平台百炼】Qwen3-VL-Rerank 模型降价通知</title>
       <link>https://www.aliyun.com/notice/118607</link>
-      <description><![CDATA[影响时间北京时间 2026-08-31 10:13:53 【以实际变更时间为准】变更内容大模型服务平台百炼将于北京时间2026年8月31日10:13:53起，对北京地域 Qwen3-VL-Rerank 模型计费单价进行下调调整。 Qwen3-VL-Rerank重排模型，它能够深入理解文本、图片、视频的丰富多模态信息。在初步检索获得结果后，Qwen3-VL-Rerank 能够运用其先进的跨模态关联能力，对候选项目进行智能化的二次排序，将最相关的结果置于显要位置。通用于提升跨模态搜索的准确率、优化图搜和视频检索的精准度、辅助图像聚类的分组质量、以及实现复杂多模态信息的高效检索和精确打标。 具体如下:计费项调整前（￥/百万tokens）调整后（￥/百万tokens）文本输入0.700.50多模态输入1.800.50点击此处查看阿里云百炼的模型详情和价格信息。 ]]></description>
+      <description><![CDATA[影响时间北京时间 2026-08-31 10:13:53 【以实际变更时间为准】变更内容大模型服务平台百炼已于北京时间2026年8月31日10:13:53起，对北京地域 Qwen3-VL-Rerank 模型计费单价进行下调调整。 Qwen3-VL-Rerank重排模型，它能够深入理解文本、图片、视频的丰富多模态信息。在初步检索获得结果后，Qwen3-VL-Rerank 能够运用其先进的跨模态关联能力，对候选项目进行智能化的二次排序，将最相关的结果置于显要位置。通用于提升跨模态搜索的准确率、优化图搜和视频检索的精准度、辅助图像聚类的分组质量、以及实现复杂多模态信息的高效检索和精确打标。 具体如下:计费项调整前（￥/百万tokens）调整后（￥/百万tokens）文本输入0.700.50多模态输入1.800.50点击此处查看阿里云百炼的模型详情和价格信息。 ]]></description>
       <guid>https://www.aliyun.com/notice/118607</guid>
       <pubDate>Tue, 01 Sep 2026 01:29:53 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[影响时间北京时间 2026-09-07 00:00:00 后变更内容自北京时间 2026 年 9 月 7 日 00:00（即 UTC+8 时间 2026-09-07T00:00:00）起，云沙箱 Snapshot（沙箱快照）功能正式开启商业化计费。 功能Snapshot 支持对运行中的沙箱进行全状态快照（含内存与磁盘），可基于快照秒级恢复沙箱或克隆出多个新沙箱。适用于长时间运行的 Agent 任务断点续跑、环境预热秒级冷启动、并行克隆探索等场景。 计费规则SnapShot 存储空间用量 = 内存规格*2 +磁盘规格费用 = SnapShot 存储空间用量 * 磁盘单价*时长磁盘单价：中国内地 0.0021 元/GiB/时；海外 0.001672 元/GiB/时变更影响商业化前已创建的 Snapshot 将于 2026 年 9 月 7 日00:00 起正式计费，请按需删除或保留。为避免产生预期外的费用，请在商业化生效前释放不再使用的Snapshot资源。 ]]></description>
       <guid>https://www.aliyun.com/notice/118588</guid>
       <pubDate>Tue, 25 Aug 2026 07:10:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>【产品下线】DMS 数据灾备逻辑备份/恢复/下载部分数据库引擎备份能力下线通知</title>
-      <link>https://www.aliyun.com/notice/118586</link>
-      <description><![CDATA[影响时间北京时间 2027-03-01 00:00:00变更内容尊敬的阿里云用户：感谢您对阿里云的支持。因产品能力调整，DMS 数据灾备将于北京时间 2027 年 3 月 1 日 00:00 下线以下备份能力：Oracle 逻辑备份及相关恢复、下载能力；MariaDB 逻辑备份及相关恢复、下载能力；PolarDB PostgreSQL 版（PPAS）逻辑备份及相关恢复、下载能力；Redis 逻辑备份及相关恢复、下载能力；PolarDB 分布式版（原 DRDS）逻辑备份及相关恢复、下载能力；MongoDB 增量备份、依赖增量链路的按时间点恢复及增量备份数据下载能力。 变更影响自下线时间起，Oracle、MariaDB、PolarDB PostgreSQL 版（PPAS）、Redis、PolarDB 分布式版（原 DRDS）逻辑备份能力对应的控制台入口、OpenAPI 和服务端接口将停止服务，并不再支持新购、续费、备份、恢复或下载。下线前生成的相关历史备份数据，也将无法继续通过原链路恢复或下载。 上述数据库产品本身不受本次变更影响。 Oracle 物理备份及恢复能力不受影响。 MongoDB 本次仅下线增量备份链路。下线后，用户将无法继续执行增量备份、按时间点恢复或下载增量备份数据。 MongoDB 全量备份及基于全量备份集的恢复不受影响。 应对建议Oracle 用户建议在下线前改用 DMS 数据灾备 Oracle 物理备份，并完成备份和恢复验证。如物理备份方案不符合业务要求，请在下线前将需要保留的逻辑备份恢复至新实例，或下载至本地或自有存储。 MariaDB、PolarDB PostgreSQL 版（PPAS）、Redis 和 PolarDB 分布式版（原 DRDS）暂无直接替代方案。请在下线前将需要保留的备份恢复至新实例，或下载至本地或自有存储，并完成必要的恢复验证。 MongoDB 增量备份链路暂无替代或迁移方案。请提前评估失去按时间点恢复能力对业务恢复目标的影响，调整备份及恢复预案，并在下线前下载需要留存的增量备份数据。 如您对本次变更有疑问，请通过阿里云工单或联系您的客户经理咨询。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118586</guid>
-      <pubDate>Tue, 25 Aug 2026 05:58:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

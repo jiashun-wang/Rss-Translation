@@ -4,7 +4,14 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:57:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:01:18 GMT</lastBuildDate>
+    <item>
+      <title>墨萃 · InkGist – 帮你处理看不完，舍不得关的标签页</title>
+      <link>https://www.appinn.com/inkgist/</link>
+      <description><![CDATA[如果你像青小蛙一样，喜欢在浏览器里打开非常多的标签页，然后……不看。时间久了就会产生一种奇怪的焦虑：这么多肯定看不完，但又都舍不得关。 墨萃（InkGist）可以解决这件事：帮你快速阅读这些网页，需要]]></description>
+      <guid>https://www.appinn.com/inkgist/</guid>
+      <pubDate>Tue, 01 Sep 2026 07:49:04 GMT</pubDate>
+    </item>
     <item>
       <title>OpenClaw 2.0 正式发布：史上规模最大的一次更新：933 位贡献者，16000 个拉取请求</title>
       <link>https://www.appinn.com/openclaw-2-0/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[代号 Resolute Raccoon（坚毅浣熊）的 Ubuntu 26.04.1 LTS 版本正式发布，这个版本主要汇总了从26.04 → 26.04.1 这四个月左右积累的更新，包括安全更新、高严]]></description>
       <guid>https://www.appinn.com/ubuntu-26-04-1-lts/</guid>
       <pubDate>Sat, 29 Aug 2026 09:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Edge 152 正式停用广受欢迎的 Drop 文件传输功能</title>
-      <link>https://www.appinn.com/edge-152-removes-drop-file-transfer/</link>
-      <description><![CDATA[微软在最新的 Edge 152 中正式停用了 Drop 功能，它本可以让用户在不同设备间拖动传输照片、文件、链接、视频等。 @Appinn 最近一段时间以来，只要打开 Drop 就会提示： Drop 即]]></description>
-      <guid>https://www.appinn.com/edge-152-removes-drop-file-transfer/</guid>
-      <pubDate>Sat, 29 Aug 2026 03:40:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

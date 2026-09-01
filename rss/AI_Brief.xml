@@ -4,7 +4,14 @@
     <title>AI论文简报</title>
     <link>https://ai-brief.liziran.com</link>
     <description>每天3分钟，从源头论文把握AI前沿。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 12:31:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:02:12 GMT</lastBuildDate>
+    <item>
+      <title>模型识别无解仍作答，视觉链超基线2倍</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-09-01-recognition-refusal-visual-reasoning.html</link>
+      <description><![CDATA[法律RAG应先优化检索链路：基于178个检索查询和504组问答的乌兹别克语实验，定向微调检索器有望以较低成本缩小模型差距，并适配云端与本地的不同约束。 识别无解不等于触发拒答，多种1.7B至70B模型已形成可检测的异常信号，但该信号与拒答方向近乎正交，问题可能出在响应路由而非知识不足。 CoVA-SFT直接监督视觉中间表征。 51.9K个样本包含超过222K个多模态推理步骤，成绩超过其他交错式思维链基线2倍，但仍落后于强文本思维链基线。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-09-01-recognition-refusal-visual-reasoning.html</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>RCCA让MiniAppBench升至41.25分</title>
       <link>https://ai-brief.liziran.com/zh/daily/2026-08-31-agent-context-credit-assignment.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[个人Agent要在用户沉默后继续履约：VibeLifeBench用200个跨数周任务检验主动巡检、行动时机与隐含约束，七个前沿模型得分均不高。 视频潜变量可直接连接4D解码器，约1000段重建视频便能训练可在共享VAE模型间迁移的接口，并改善几何与时间一致性。 领域适配未必重写奇异值谱。研究发现变化主要落在奇异向量和部分注意力头上，最多回退60%的头更新仍无可测质量损失。]]></description>
       <guid>https://ai-brief.liziran.com/zh/daily/2026-08-14-life-agents-4d-video-domain-updates.html</guid>
       <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SimWAM达91.5，LoRA显存降43.9%</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-13-simwam-yolo-peft-forensics.html</link>
-      <description><![CDATA[SimWAM让视频专家退出部署链路：训练期借助视频生成学习动态规律，推理期仅保留轻量动作分支，在NAVSIM达到91.5PDMS并零样本迁移到nuScenes。 YOLO-PEFT将适配器位置变成约束规划问题，RS-LoRA在两款YOLO模型上超过全量微调、峰值显存降低43.9%，同时能识别不适合PEFT的架构。 多Agent取证的价值来自证据分工。 四个角色分别检查纹理、光照、运动和物理一致性，但跨越未知合成方法的泛化能力仍需验证。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-13-simwam-yolo-peft-forensics.html</guid>
-      <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

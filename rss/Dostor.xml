@@ -4,7 +4,21 @@
     <title>存储在线-存储专业媒体</title>
     <link>https://www.dostor.com</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:58:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:02:01 GMT</lastBuildDate>
+    <item>
+      <title>闪迪亮相2026全球闪存峰会，以全场景存力破局AI时代！</title>
+      <link>https://www.dostor.com/p/100976.html</link>
+      <description><![CDATA[2026年8月26日，以“存力跃迁，AI破局”为主题的2026全球闪存峰会在武汉举行。作为聚焦闪存技术与产业发展的行业盛会，今年大会对AI存储的讨论更加深入。从大模型训练、推理，到KV Cache、Agent（智能体），再到HBM、CXL、...]]></description>
+      <guid>https://www.dostor.com/p/100976.html</guid>
+      <pubDate>Tue, 01 Sep 2026 07:31:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据决定智能上限：企业智能应用规模落地背后的基础设施重构</title>
+      <link>https://www.dostor.com/p/100972.html</link>
+      <description><![CDATA[2022年，在ChatGPT还没有横空出世前，谷歌的DeepMind团队做了一个实验，他们训练了一个只有700亿参数的模型，但给了它更多训练数据，结果它在大量任务上的表现超过了2800亿参数的模型，而两者的训练计算量大体相当。 这一实验说明...]]></description>
+      <guid>https://www.dostor.com/p/100972.html</guid>
+      <pubDate>Tue, 01 Sep 2026 03:33:23 GMT</pubDate>
+    </item>
     <item>
       <title>极致存力，不负算力：得瑞领新力推AI时代SSD的范式演进</title>
       <link>https://www.dostor.com/p/100963.html</link>
@@ -25,6 +39,13 @@
       <description><![CDATA[2026年8月，在2026全球闪存峰会上，慧荣科技产品企划部经理刘耀仁发表了题为《引领未来：智能存储与边缘AI趋势》的演讲。他指出，AI已经从流行词汇变成真正改变工作与生活方式的技术，而AI的价值真正落地，必须依靠边缘设备——PC、手机、汽...]]></description>
       <guid>https://www.dostor.com/p/100953.html</guid>
       <pubDate>Mon, 31 Aug 2026 05:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>主力Mac空间告急？别慌铁威马有办法</title>
+      <link>https://www.dostor.com/p/100970.html</link>
+      <description><![CDATA[随着苹果Mac硬件性能持续迭代，MacBook、Mac mini足以流畅应对4K、8K高规格视频剪辑。但不少创作者受预算限制，购机选择小容量版本，本机存储很快告急。加之iOS生态跨设备大体积照片、视频频繁流转，进一步加重Mac本地存储压力。 ...]]></description>
+      <guid>https://www.dostor.com/p/100970.html</guid>
+      <pubDate>Mon, 31 Aug 2026 02:13:00 GMT</pubDate>
     </item>
     <item>
       <title>铁威马Photos升级，赋能家庭照片管理</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[2026年8月4日，美国加州圣克拉拉会议中心，一年一度的全球存储产业峰会（FMS）如期举行。今年是FMS创办二十周年，也是它正式更名后的首届大会——从“Flash Memory Summit”到“Future of Memory and S...]]></description>
       <guid>https://www.dostor.com/p/100884.html</guid>
       <pubDate>Wed, 26 Aug 2026 06:45:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>DDR5‑6000 内存到底哪个好，还得是科赋URBANE V</title>
-      <link>https://www.dostor.com/p/100882.html</link>
-      <description><![CDATA[2026年，内存价格已经不是“离谱”两个字能形容的了，但对于刚需用户来说，该买还是得买。既然要买，DDR5内存该如何选购呢？ 这次我们找来四款16GB×2容量的DDR5内存：KLEVV科赋URBANE V RGB、雷克沙战神之翼ARES R...]]></description>
-      <guid>https://www.dostor.com/p/100882.html</guid>
-      <pubDate>Tue, 25 Aug 2026 12:55:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>《赢在AI+》热播！总台携手阿里云，共创中国人工智能创业第一平台</title>
-      <link>https://www.dostor.com/p/100906.html</link>
-      <description><![CDATA[8月21日，由中央广播电视总台、杭州市人民政府主办的大型纪实创投节目《赢在AI+》第二季在央视财经频道（CCTV-2）和央视频新媒体矩阵重磅开播。超1000家企业报名、611家项目展演，80名AI创想者历尽千帆，在这里踏上一场“赢在AI+”...]]></description>
-      <guid>https://www.dostor.com/p/100906.html</guid>
-      <pubDate>Tue, 25 Aug 2026 07:28:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>聚焦卫星高速数据处理 天硕星载 SSD 实测彰显高可靠性能</title>
-      <link>https://www.dostor.com/p/100951.html</link>
-      <description><![CDATA[随着商业航天产业进入规模化、智能化发展阶段，卫星平台的数据处理需求正在快速提升。对于星载固态存储器而言，在满足空间环境适应性和长期在轨可靠性要求的基础上，更高的数据读写带宽也已经是不可忽视的新需求。特别是在遥感数据高速缓存、星上数据处理及算...]]></description>
-      <guid>https://www.dostor.com/p/100951.html</guid>
-      <pubDate>Tue, 25 Aug 2026 03:45:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

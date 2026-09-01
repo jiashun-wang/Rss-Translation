@@ -4,7 +4,158 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:57:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:01:11 GMT</lastBuildDate>
+    <item>
+      <title>思源粘贴 2 万字文档严重卡顿</title>
+      <link>https://ld246.com/article/1788256263205</link>
+      <description><![CDATA[问题反馈
+背景是经常发现这样一个现象，当我粘贴一些 AI 生成的文档之后，因为有好多个会话嘛，然后粘贴一多的话，就会发现存在明显的卡顿。 
+然后关闭文档，重新打开就会好一点，并且还发现这个卡顿的文档，如果 F5 刷新一下就会好很多。 
+但是 F5 刷新并不是一个很好的方式，因为你要 F5 刷新的话，也要经历一段时间的卡顿。 
+实际上最近这个卡顿，在新建页面、打开旧的页面，都会有一些更多的加载时间。 
+使用的思源版本是最新的 3.8.2。这个问题之前就反馈过了。 复制粘贴富文本长文档后大纲与正文跳转严重卡顿
+很遗憾这个问题当时实际上并没有得到解决，我说解决说得过早了。当时的版本是当前版本 v3.6.5
+然后最近也有其他人反馈，然后正好我找到了可以稳定复现的方法，然后说一下。 
+PS：使用的是默认主题，关闭所有插件代码。 
+动态加载块数量测试过 50、100、200 都无效。然后总笔记数，总的这个数据也就 5G 吧，不算多。 
+卡顿视频
+以下是视频
+
+ 浏览器不支持该媒体的播放
+
+测试方法
+以下是测试文档，我的电脑上可以可以稳定复现。 
+文档没什么特殊的，就是块稍微多一点。其实也就 2 万字，900 个块也不算多吧？就是很平常的，和 AI 聊的东西粘贴保存一下。 
+操作方法是，把这个测试文档导入之后，然后新建一个文档，把测试文档复制为 Markdown，然后在新文档里面粘贴，然后粘贴完之后，在这个新的文档里面进行测试，就可以发现这个卡顿的问题了。 
+直接导入的话，这个问题是不明显的，因为相当于有过刷新，但是重新复制粘贴之后，这个问题就可以出现。 ]]></description>
+      <guid>https://ld246.com/article/1788256263205</guid>
+      <pubDate>Tue, 01 Sep 2026 09:55:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 word 复制粘贴到思源笔记，出现 ;)，且无法通过批量替换清楚</title>
+      <link>https://ld246.com/article/1788255264576</link>
+      <description><![CDATA[
+  如图，word 里面没有;)，但是粘贴到思源笔记就多了这个尾巴，而且无法批量替换。因为搜索;)的时候显示结果为空。 
+有没有什么解决办法？ ]]></description>
+      <guid>https://ld246.com/article/1788255264576</guid>
+      <pubDate>Tue, 01 Sep 2026 09:34:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>解答：思源笔记如何不卡、能装多少数据量？</title>
+      <link>https://ld246.com/article/1788231488877</link>
+      <description><![CDATA[经常看到有人说思源笔记卡顿及笔记能多大的困惑，就当给大家解个惑吧
+相关疑问：[https://ld246.com/article/1788126539909](h)
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1788231488877</guid>
+      <pubDate>Tue, 01 Sep 2026 08:08:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>鸿蒙平板的问题反馈</title>
+      <link>https://ld246.com/article/1788244572391</link>
+      <description><![CDATA[
+连接的角标，鼠标移动和手点都没有反应
+复制附件能够有复制文件选项
+剪切块的内容有问题， 
+  
+复制，粘贴正常，
+剪切，粘贴有多余内容
+
+]]></description>
+      <guid>https://ld246.com/article/1788244572391</guid>
+      <pubDate>Tue, 01 Sep 2026 07:19:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>提示未找到 ID，无法消除该提示</title>
+      <link>https://ld246.com/article/1788245924591</link>
+      <description><![CDATA[我在某个版本丢失过一个文档里的数据库后，每次打开软件就会出现【未找到 ID 为 [20240417170413-u38z3qm] 的内容块 v3.8.2】的提示，尝试过通过数据库语句搜索这个[20240417170413-u38z3qm]，但是也没有任何引用有这个块 ID，也尝试过重建索引和清理临时文件，都没有用，然后就不知道怎么处理了。 ]]></description>
+      <guid>https://ld246.com/article/1788245924591</guid>
+      <pubDate>Tue, 01 Sep 2026 06:58:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>新版本移动端滑动时会隐藏标题，动来动去很干扰，有同感的吗？</title>
+      <link>https://ld246.com/article/1788241301496</link>
+      <description><![CDATA[[民意调查1788241289055]]]></description>
+      <guid>https://ld246.com/article/1788241301496</guid>
+      <pubDate>Tue, 01 Sep 2026 05:41:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>新版本移动端大升级，是时候更换 app 介绍图了</title>
+      <link>https://ld246.com/article/1788241098678</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788241098678</guid>
+      <pubDate>Tue, 01 Sep 2026 05:38:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>引用区域 BUG（会自动填充内容）</title>
+      <link>https://ld246.com/article/1788240853653</link>
+      <description><![CDATA[新升级版本 4.0.0；旧版本（3.11.2）没有问题
+原来的引用语法会自动添加内容，例如
+原内容
+&gt; [!note]
+&gt;
+&gt; 所有行情数据均经过三个独立数据源交叉验证，差异均在0.1%以内，数据准确可靠。
+
+重新编辑就变为了(外侧多了 note)
+&gt; [!note] note
+&gt;
+&gt; 所有行情数据均经过三个独立数据源交叉验证，差异均在0.1%以内，数据准确可靠。
+
+]]></description>
+      <guid>https://ld246.com/article/1788240853653</guid>
+      <pubDate>Tue, 01 Sep 2026 05:35:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>右侧停靠栏怎么关闭，我快捷键里面设置了快捷键，但是按了没反应</title>
+      <link>https://ld246.com/article/1788237569092</link>
+      <description><![CDATA[大佬，右侧停靠栏怎么关闭，我快捷键里面设置了快捷键，但是按了没反应
+
+]]></description>
+      <guid>https://ld246.com/article/1788237569092</guid>
+      <pubDate>Tue, 01 Sep 2026 04:39:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>接入自建 ai 报错要怎么解决</title>
+      <link>https://ld246.com/article/1788234604777</link>
+      <description><![CDATA[接入内网自建的 ai,会报错：status：404 Not Found,message:unexpected end of JSON input,body:v3.8.1
+如果使用一个错误的 api key,则会报 status:401,Unauthorized,message:%!s(),body:{&quot;code&quot;:&quot;100000&quot;,&quot;success&quot;:false,&quot;message&quot;:应用或项目唯一标识认证失败“}
+但是在 postman 中连接测试是正常的，这是什么原因？要如何解决？]]></description>
+      <guid>https://ld246.com/article/1788234604777</guid>
+      <pubDate>Tue, 01 Sep 2026 03:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>【已解决】如何使用提示块的「自定义」功能</title>
+      <link>https://ld246.com/article/1788232064131</link>
+      <description><![CDATA[当前的提示块自定义功能好像没有效果，也不能保存自定义后的提示块，不知道是不是使用方式不对
+
+ 浏览器不支持该媒体的播放
+
+如视频所示：
+
+自定义后只会让提示块变蓝，标题文字、ICON 等没有变化（按理说 ICON 和颜色应该也需同时自定义、切换类型后标题文字也跟着变化）；
+再次打开菜单，发现在“转换为”子菜单中没有新增刚刚自定义的提示块类型（只是字体颜色变蓝），似乎只是一个临时类型样式
+
+
+ 浏览器不支持该媒体的播放
+
+另外还有一点比较反直觉的是：
+
+正常不修改标题文字、直接切换提示块类型：标题文字跟随类型变化
+切换到自定义提示块类型后再切换回 NOTE、TIP 等内置类型：标题文字不跟随类型变化
+]]></description>
+      <guid>https://ld246.com/article/1788232064131</guid>
+      <pubDate>Tue, 01 Sep 2026 03:22:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>3.8.2 版更新后豆包输入法不能语音输入问题</title>
+      <link>https://ld246.com/article/1788227830423</link>
+      <description><![CDATA[设备：鸿蒙 4.3；思源版本 3.8.2；第三方输入法：豆包输入法
+  问题：思源笔记更新于 3.8.2 版后，在空白新建文本块，使用豆包输入法语音输入焦点丢失，从编辑界面退至下方是浮动菜单界面，无法写入；块内输入至少一个字符后语音输入恢复正常。普通键盘打字不受影响。 
+  复现：使用默认主题，可稳定复现。 ]]></description>
+      <guid>https://ld246.com/article/1788227830423</guid>
+      <pubDate>Tue, 01 Sep 2026 01:57:09 GMT</pubDate>
+    </item>
     <item>
       <title>折叠反馈需要 FieldId</title>
       <link>https://ld246.com/article/1788224076014</link>
@@ -12,121 +163,6 @@
 这是啥原因]]></description>
       <guid>https://ld246.com/article/1788224076014</guid>
       <pubDate>Tue, 01 Sep 2026 00:54:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源 app 没有自带的 ai 功能了？</title>
-      <link>https://ld246.com/article/1788223307632</link>
-      <description><![CDATA[思源的 app 没有自带 ai 功能了，升级了 3.8.2 以后没找到]]></description>
-      <guid>https://ld246.com/article/1788223307632</guid>
-      <pubDate>Tue, 01 Sep 2026 00:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>用浏览器访问思源笔记后报错 Unauthorized</title>
-      <link>https://ld246.com/article/1788213981434</link>
-      <description><![CDATA[
-一打开就卡这了，升级到 3.8.2 出现的。咋办啊。 ]]></description>
-      <guid>https://ld246.com/article/1788213981434</guid>
-      <pubDate>Mon, 31 Aug 2026 22:06:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在接 ai 体验更好的是通过思源自带的 api 接入还是用插件？</title>
-      <link>https://ld246.com/article/1788196413571</link>
-      <description><![CDATA[好久没更新，更新以后发现多了不少选择，用的时间长的朋友谁分享一下体验呢？如果接 codex 怎么搞好用]]></description>
-      <guid>https://ld246.com/article/1788196413571</guid>
-      <pubDate>Mon, 31 Aug 2026 17:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源笔记安卓端右滑没有设置很不习惯</title>
-      <link>https://ld246.com/article/1788193619655</link>
-      <description><![CDATA[之前的版本右滑直接就是设置用于退出，现在还要移动大指拇到到下面点一下，而且滑动界面的时候下方的任务栏还不会显示]]></description>
-      <guid>https://ld246.com/article/1788193619655</guid>
-      <pubDate>Mon, 31 Aug 2026 16:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>“（（“进行引用时明明文档在，但就是找不到文档</title>
-      <link>https://ld246.com/article/1788187370086</link>
-      <description><![CDATA[
-当前移动端在通过”（（“”或者“【【”引用文档时可以通过关键词把相关文档都列出来。在不记得文档完整名时，可以通过记得的关键词把相关文档都列出来。
-之前 PC 端也可以做到。但最近不知道为什么 PC 端做不到了。
-当前 PC 端必须几乎把整个文档的名字全部输入才会列出文档。有些时候不记得文档完整名字时很难进行准确引用。或者本来就有一个类似文档，因为时间长不记得文档名字，在引用时虽然输入了相关名称，但是却没有提示已经存在，导致又新建了一个类似文档。具体情况如下图：
-此处我想要引用“@a”，明明就在旁边，但提示我新建文档：
-
-此处我想要引用“a2 文档”，输入“a2“提示我新建，必须把整个文档名字几乎完整输入（”a2 文“）才会列出可以引用的文档。
-
-]]></description>
-      <guid>https://ld246.com/article/1788187370086</guid>
-      <pubDate>Mon, 31 Aug 2026 14:42:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>右键菜单优化</title>
-      <link>https://ld246.com/article/1788182440885</link>
-      <description><![CDATA[
- 浏览器不支持该媒体的播放
-
-希望可以在右键菜单添加文字处理内容，而不是在只能在滑动选中后出现]]></description>
-      <guid>https://ld246.com/article/1788182440885</guid>
-      <pubDate>Mon, 31 Aug 2026 13:20:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源有没有类似 obsidian 的笔记属性的功能</title>
-      <link>https://ld246.com/article/1788181757203</link>
-      <description><![CDATA[想整个日记模板，发现思源貌似没有 obsidian 的 dataview 插件附带的笔记属性那样的功能？ 
-主要就是想在开头列几个“天气”、“心情”、“血压”、“体重”之类的属性，后期还可以用来检索。 
-我看了看笔记本身倒是有自定义属性，但那又不是展示在日记内容里的，差点意思……
-实在不行我只能放个表格在开头了 orz]]></description>
-      <guid>https://ld246.com/article/1788181757203</guid>
-      <pubDate>Mon, 31 Aug 2026 13:09:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>让 ai 自行开发思源插件并自行调试完善</title>
-      <link>https://ld246.com/article/1788174614449</link>
-      <description><![CDATA[最近做了一个有意思的项目：silkpulse：AI 原生的远程调试器 悬丝诊脉，让 Agent 替你“摸”到线上设备
-只需要在思源的设置外观，自定义代码里面，新增导入 silkpulse 的 JS 代码
-
-参考 silkpulse 官网的 Agent 接入方法，将提示词给你的 Agent，它就可以去控制你的思源浏览器进行调试开发了。 
-
-还有一个很大的优势，就是能够调试移动端的移动端的思源、使用 VConsole 之类的方案，我觉得是不如这套完善的。 ]]></description>
-      <guid>https://ld246.com/article/1788174614449</guid>
-      <pubDate>Mon, 31 Aug 2026 11:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化移动端 v3.8.2UI 适配</title>
-      <link>https://ld246.com/article/1788175257516</link>
-      <description><![CDATA[新 UI 条目太细不适合手指点击，包括设置内的开关滑块都太小；
-同样，新版本包括文档树的条目字体整个小了一号，又小又细变得不方便看；
-新的悬浮底栏有点朴素，页签内部的数字看起来偏左上不居中；
-设置页目前堆得条目太多，感觉可以学习 Obsidian，把原来的快捷方式做成下拉弹出，和设置内条目分开展示；
-希望对 Mate30pro 这种超曲屏设备优化左右边距适配。 ]]></description>
-      <guid>https://ld246.com/article/1788175257516</guid>
-      <pubDate>Mon, 31 Aug 2026 11:20:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>升完级后为什么突然账号退出来登不上了</title>
-      <link>https://ld246.com/article/1788171222942</link>
-      <description><![CDATA[提示密码错误]]></description>
-      <guid>https://ld246.com/article/1788171222942</guid>
-      <pubDate>Mon, 31 Aug 2026 10:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>古法编程（手搓代码）还有必要吗？</title>
-      <link>https://ld246.com/article/1788163638923</link>
-      <description><![CDATA[最近在知乎上看到一个问题，程序猿们讨论 AI 代码是否会成为屎山？ （虽然之前人类手搓也是一坨，好歹可以读懂？但 AI 写的是读也读不懂？）
-链接：现在程序员的代码大多数都是用 AI 生成的，后面会成为屎山代码看不懂吗？ - 知乎
-近来的感受是，各种软件确实如雨后春笋般生长出来了（之前并没有这么多同赛道的软件一起出现在大众面前，这应该都是 AI 助力帮忙解决了不少问题吧），但是所遇到的微小 bug 和难用之处，也是翻倍似增长
-非特指思源，即在小红书上也有很多独立开发者自荐他们开发的笔记软件——因为我目前很想找到一个轻量化便签软件，所以只要有推荐就去下载试用
-抛开开发者理念与我使用需求的不匹配，我发现那些软件总有些意外的 bug，简言之，就仿佛是——
-看起来是给我端了一盆炒好的菜呢，结果里面缺盐少醋，要不就是忘了糖之类的……
-然后，另一种观感是，随着思源不断升级版本，论坛好像都沦为了一个专门报错的 issue 区。 
-记得之前还有各种笔记理念方法的讨论分享，还有其他各种各样其奇奇怪怪的 CSS+js 用途分享，论坛在线人数一直都保持在一个区间内，好像也没有随着注册用户的增加而增加很多，然而论坛帖子内容却完全变了画风，之前还在这上面学到过不少东西呢……]]></description>
-      <guid>https://ld246.com/article/1788163638923</guid>
-      <pubDate>Mon, 31 Aug 2026 08:07:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Docker 版本的笔记是否有计划增加 PDF 导出功能</title>
-      <link>https://ld246.com/article/1788162548227</link>
-      <description><![CDATA[docker 布署的 v3.8.1 没有导出 pdf 的功能，请问后续是否有支持计划。 ]]></description>
-      <guid>https://ld246.com/article/1788162548227</guid>
-      <pubDate>Mon, 31 Aug 2026 07:49:07 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>
