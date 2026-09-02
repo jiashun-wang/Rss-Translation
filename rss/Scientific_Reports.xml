@@ -1,9 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Tue, 01 Sep 2026 10:50:22 GMT</lastBuildDate>
+    <title>Scientific Reports</title>
+    <link>http://feeds.nature.com/srep/rss/current</link>
+    <description><p><em>Scientific Reports</em>&nbsp;publishes original research in&nbsp;all areas of the natural and clinical sciences. We believe that if your research is scientifically valid and technically sound then it deserves to be published and made accessible to the research community.</p>
+
+<p>By publishing with us, your research will get the coverage and attention it deserves. Open access and continuous online publication means your work will be published swiftly, ready to be accessed by anyone, anywhere, at any time. Article Level Metrics allow you to follow the conversations your work has started.</p></description>
+    <lastBuildDate>Wed, 02 Sep 2026 00:37:28 GMT</lastBuildDate>
+    <item>
+      <title>CaMKIIα介导轮跑活动对小鼠昼夜节律起搏器的反馈作用</title>
+      <link>https://www.nature.com/articles/s41598-026-54563-4</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 9 月 2 日； doi:10.1038/s41598-026-54563-4CaMKIIα介导轮跑活动对小鼠昼夜节律起搏器的反馈作用]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-54563-4</guid>
+      <pubDate>Wed, 02 Sep 2026 00:37:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>工业过程中空调系统制冷剂充注的可解释和领域自适应预测模型</title>
+      <link>https://www.nature.com/articles/s41598-026-55486-w</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 9 月 2 日； doi:10.1038/s41598-026-55486-w工业过程中空调系统制冷剂充注的可解释和领域自适应预测模型]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-55486-w</guid>
+      <pubDate>Wed, 02 Sep 2026 00:37:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用混合隐马尔可夫模型对头颈癌淋巴扩散进行亚位点特异性预测</title>
+      <link>https://www.nature.com/articles/s41598-026-69073-6</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 9 月 2 日； doi:10.1038/s41598-026-69073-6使用混合隐马尔可夫模型对头颈癌淋巴扩散进行亚位点特异性预测]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-69073-6</guid>
+      <pubDate>Wed, 02 Sep 2026 00:37:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>钯纳米颗粒的多元合成优化、综合表征和表面配体测定</title>
+      <link>https://www.nature.com/articles/s41598-026-69103-3</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 9 月 2 日； doi:10.1038/s41598-026-69103-3钯纳米颗粒的多元合成优化、综合表征和表面配体测定]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-69103-3</guid>
+      <pubDate>Wed, 02 Sep 2026 00:37:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NaQSA 复合物诱导<i>白色念珠菌</i>细胞的形态、代谢和化学变化</title>
+      <link>https://www.nature.com/articles/s41598-026-69531-1</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 9 月 2 日； doi:10.1038/s41598-026-69531-1NaQSA 复合物诱导白色念珠菌细胞发生形态、代谢和化学变化]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-69531-1</guid>
+      <pubDate>Wed, 02 Sep 2026 00:37:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据驱动的混合 cnn lstm 框架，用于微电网中的精确预测和能源优化</title>
+      <link>https://www.nature.com/articles/s41598-026-69675-0</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 9 月 2 日； doi:10.1038/s41598-026-69675-0数据驱动的混合 cnn lstm 框架，用于微电网中的精确预测和能源优化]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-69675-0</guid>
+      <pubDate>Wed, 02 Sep 2026 00:37:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用微波辅助和传统的直接热方法，通过 KOH 活化将 PET 废物升级改造为多孔活性炭</title>
+      <link>https://www.nature.com/articles/s41598-026-69347-z</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 9 月 2 日； doi:10.1038/s41598-026-69347-z使用微波辅助和传统的直接热方法，通过 KOH 活化将 PET 废物升级改造为多孔活性炭]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-69347-z</guid>
+      <pubDate>Wed, 02 Sep 2026 00:37:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>无服务器边缘智能，用于无线网络中 SLA 感知的功能布局和资源切片</title>
+      <link>https://www.nature.com/articles/s41598-026-69441-2</link>
+      <description><![CDATA[科学报告，在线发布：2026 年 9 月 2 日； doi:10.1038/s41598-026-69441-2无服务器边缘智能，用于无线网络中的 SLA 感知功能布局和资源切片]]></description>
+      <guid>https://www.nature.com/articles/s41598-026-69441-2</guid>
+      <pubDate>Wed, 02 Sep 2026 00:37:18 GMT</pubDate>
+    </item>
     </channel>
 </rss>

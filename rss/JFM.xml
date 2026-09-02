@@ -4,69 +4,83 @@
     <title>Journal of Fluid Mechanics</title>
     <link>https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/latest-issue</link>
     <description>&lt;i&gt;Journal of Fluid Mechanics&lt;/i&gt; is the leading international journal in the field and is essential reading for all those concerned with developments in fluid mechanics. It publishes authoritative articles covering theoretical, computational and experimental investigations of all aspects of the mechanics of fluids. Each issue contains papers on the fundamental aspects of fluid mechanics and its applications to other fields such as aeronautics, astrophysics, biology, chemical and mechanical engineering, hydraulics, materials, meteorology, oceanography, geology, acoustics and combustion.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 10:51:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:39:00 GMT</lastBuildDate>
     <item>
-      <title>衰减准二维湍流中的通用能谱</title>
-      <link>https://dx.doi.org/10.1017/jfm.2026.11971?rft_dat=source%3Ddrss</link>
-      <description><![CDATA[]]></description>
-      <guid>https://dx.doi.org/10.1017/jfm.2026.11971?rft_dat=source%3Ddrss</guid>
-      <pubDate>Tue, 01 Sep 2026 10:51:28 GMT</pubDate>
+      <title>流体动力学相互作用表征了软微型游泳器悬浮液的主动流变学</title>
+      <link>https://dx.doi.org/10.1017/jfm.2026.11965?rft_dat=source%3Ddrss</link>
+      <description><![CDATA[游动的微生物动态地响应外部环境，从而产生自组织的集体行为。为了准确预测连续尺度的流场，必须了解活性悬浮液的流变特性。自然界中的微生物表现出广泛的变形能力，之前的研究报道它们在流体动力学相互作用中发挥着重要作用。然而，细胞变形性对悬浮液流变学的影响尚未阐明。在这项研究中，我们开发了一个软微型游泳器模型来代表一般游泳微生物，以研究其悬浮液的表观粘度和法向应力差异等流变特性。该模型由带有超弹性膜的胶囊组成，并通过模拟纤毛虫纤毛活动的扭矩分布来推动自身。我们的结果表明，颗粒间的流体动力相互作用是导致低剪切流中时间平均取向分布对称性破缺的关键因素。对于椭圆体游泳者，这些相互作用促进了偏向伸长方向的取向分布，导致微生物悬浮液中固有粘度的变化。此外，这种方向分布与单独游泳者观察到的明显不同，导致推（拉）者的表观粘度显着降低（增加）。改变膜变形能力的分析表明，较软的膜不太可能表现出主动应力对比粘度的影响。这些发现证明了游泳者之间的弹流动力学相互作用在悬浮流变学中的重要作用，并支持复杂微生物系统连续体模型的开发。]]></description>
+      <guid>https://dx.doi.org/10.1017/jfm.2026.11965?rft_dat=source%3Ddrss</guid>
+      <pubDate>Wed, 02 Sep 2026 00:39:00 GMT</pubDate>
     </item>
     <item>
       <title>极轻圆柱体在不稳定尾流中的涡激永久振动</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11941?rft_dat=source%3Ddrss</link>
       <description><![CDATA[]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11941?rft_dat=source%3Ddrss</guid>
-      <pubDate>Tue, 01 Sep 2026 10:51:27 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:38:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>衰减准二维湍流中的通用能谱</title>
+      <link>https://dx.doi.org/10.1017/jfm.2026.11971?rft_dat=source%3Ddrss</link>
+      <description><![CDATA[]]></description>
+      <guid>https://dx.doi.org/10.1017/jfm.2026.11971?rft_dat=source%3Ddrss</guid>
+      <pubDate>Wed, 02 Sep 2026 00:38:58 GMT</pubDate>
     </item>
     <item>
       <title>湍流油水乳液中界面颗粒捕获中润湿性引起的不对称性</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11959?rft_dat=source%3Ddrss</link>
       <description><![CDATA[我们使用解释湍流、界面变形和颗粒界面相互作用的界面解析数值模拟，研究颗粒润湿性在湍流油水乳液中油滴界面捕获中的作用。使用这个框架，我们表征了亲水性、中性润湿性和亲脂性颗粒的捕获效率。油水界面通过相场方法描述，而颗粒运动通过拉格朗日方法解决，该方法考虑了界面粘附和润湿性效应，从而能够直接模拟湍流条件下的不对称颗粒捕获。我们的结果表明，相对于中性润湿，捕获效率存在明显的不对称性，亲脂性颗粒达到了最大值。这种不对称性源于被捕获颗粒的润湿性控制的平衡配置：亲脂性颗粒优先驻留在油水界面的下降侧，那里的湍流应力明显较弱。因此，与中性润湿和亲水颗粒相比，这些颗粒表现出较低的脱离率，从而提高了捕获效率。最后，我们提出了一个最小的一阶动力学模型，其速率系数是从模拟中提取的，该模型可以准确预测作为颗粒润湿性函数的捕获效率。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11959?rft_dat=source%3Ddrss</guid>
-      <pubDate>Tue, 01 Sep 2026 10:51:26 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>纵横比对垂直对流流动状态和传热的影响</title>
+      <link>https://dx.doi.org/10.1017/jfm.2026.11926?rft_dat=source%3Ddrss</link>
+      <description><![CDATA[]]></description>
+      <guid>https://dx.doi.org/10.1017/jfm.2026.11926?rft_dat=source%3Ddrss</guid>
+      <pubDate>Wed, 02 Sep 2026 00:38:57 GMT</pubDate>
     </item>
     <item>
       <title>湍流边界层中嵌入式合成流向涡演化的尺度效应</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11935?rft_dat=source%3Ddrss</link>
       <description><![CDATA[低摩擦雷诺数 ( 和 ）使用平面粒子图像测速（PIV）测量和壁分辨大涡模拟（LES）研究了受小型、中尺度和相对较大的合成流向涡扰扰动的湍流边界层（TBL）。为了更好地理解这些不同尺寸的流向涡旋在 TBL 中的演化过程，合成的流向涡旋对是由一系列具有粘性缩放高度的几何自相似微型涡旋发生器生成的  和  。采用速度三重分解的分析发现，这些涡流的壁法线影响域是不同的，并且显示出对主要雷诺剪应力分量的壁法线峰值位置的依赖性。研究发现，TBL 中合成涡流的演化与尺度相关，其特征在于湍流惯性的正分量（动量源）和负分量（动量汇）之间的相互作用以及涡流引起的附加惯性。粘性应力（典型 TBL）梯度与湍流惯性的比率可作为估计合成涡流影响的壁法线域的诊断。对壁法线影响域的分析表明，足够大小的合成涡流从近壁区域“逃逸”。这种对嵌入式流向涡演化的尺度效应与 TBL 中二次流相关的时不变空间波动的传播密切相关。对“逃逸”尺度的估计可以深入了解这些涡流的近场平均动力学与其在远场中产生的动力学特征的关系。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11935?rft_dat=source%3Ddrss</guid>
-      <pubDate>Tue, 01 Sep 2026 10:51:24 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:38:56 GMT</pubDate>
     </item>
     <item>
       <title>高温蒸汽通风超空泡中的界面不稳定性和热流体力学机制</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11897?rft_dat=source%3Ddrss</link>
       <description><![CDATA[本研究通过实验研究了高温可凝性蒸汽通风超空泡的界面不稳定性和热流体力学机制。使用高速成像和基于人工智能的分割模型，我们建立了一个流态图来描绘超空泡包络线，识别与相变和湍流之间相互作用相关的独特的粗糙超空泡流态。一个关键发现是可冷凝蒸汽通风的非单调腔体长度响应，其中高流量回归由冷凝辅助的源汇不平衡控制，并且在机械上不同于空气通风中观察到的泄漏/关闭响应。具体来说，冷凝引起的质量损失充当内部水槽，可能超过蒸汽供应并导致空腔退化。虽然腔直径仍然受到惯性约束，但其长度对这些热力学效应高度敏感。时空分析表明界面不稳定性的耦合热流体动力学途径。观察到的不稳定性是由液滴撞击、欠膨胀射流膨胀和通风影响区域内的接触凝结驱动的热力学自激引发的。这些扰动通过开尔文-亥姆霍兹型剪切层过程向下游传递。腔体波动的上下不对称性与重力相关的选择一致，重力选择通过瑞利-泰勒型路径优先放大上界面的长波扰动，并抑制下界面的波动。这些发现将经典的空化理论扩展到以快速相变为主的体系，为多相流中的热流体耦合提供了新的见解。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11897?rft_dat=source%3Ddrss</guid>
-      <pubDate>Tue, 01 Sep 2026 10:51:21 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:38:54 GMT</pubDate>
     </item>
     <item>
       <title>不连续滑移边界上的湍流和减阻</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11954?rft_dat=source%3Ddrss</link>
       <description><![CDATA[直接数值模拟是旨在研究包括交替滑移区域和横向无滑移条纹的不连续滑移边界对湍流通道流动和减阻机制的影响。与具有相同有效滑移长度的连续滑移边界相比，不连续构造产生显着较低的净减阻。这种退化归因于滑移面积不足、局部流场重新平衡和条带间干扰的三重效应导致滑移贡献减少，再加上湍流调制贡献的变化和加剧的色散惩罚。无滑移条纹产生局部逆压力梯度并引起剪切层不稳定，从而引发前缘和后缘处内部边界层的发展。这种边界层再平衡过程表现为壁速度梯度中特征性的“振荡-超调-衰减恢复”。同时，防滑条纹增强了缓冲层中湍流动能的产生并强化了壁法向传输。虽然防滑条纹几何形状的变化主要影响通过滑动组件的阻力减少，并且当间距 足够小，滑移各向异性提供了更强大的缓解策略。通过抑制展向滑移，无滑移条纹放大的横向运动被有效阻挡，使得边界层对条纹引起的局部扰动不敏感。这种机制使得流向滑移主导的不连续边界能够实现显着超越各向同性或展向滑移主导配置的减阻性能。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11954?rft_dat=source%3Ddrss</guid>
-      <pubDate>Tue, 01 Sep 2026 10:51:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>一维、二维、三维和四维热对流</title>
-      <link>https://dx.doi.org/10.1017/jfm.2026.11981?rft_dat=source%3Ddrss</link>
-      <description><![CDATA[我们通过直接数值模拟的方式研究对流维数对流动特性的影响。我们提请注意一些一般原则，从整体上考虑一维、二维、三维和四维的结果。特别是，我们探讨了两个实际方面：（i）瞬态时间，或流量达到稳态所需的时间； (ii) 对所谓的最终状态可能产生的影响。]]></description>
-      <guid>https://dx.doi.org/10.1017/jfm.2026.11981?rft_dat=source%3Ddrss</guid>
-      <pubDate>Tue, 01 Sep 2026 10:51:18 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:38:53 GMT</pubDate>
     </item>
     <item>
       <title>物理约束机器学习，用于跨流态的通用湍流建模</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11963?rft_dat=source%3Ddrss</link>
       <description><![CDATA[在这项工作中，我们建议一种物理约束的机器学习方法，用于增强神经网络表示的跨不同流态的湍流模型的通用性。机器学习增强湍流建模的出现是为了提高基于高保真数据的雷诺平均纳维-斯托克斯方法的预测准确性。然而，这种数据驱动模型在训练数据集之外的不同流场景中很难泛化。在这里，我们表明，可以通过在学习过程中加入雷诺应力的物理约束来缓解这个问题。它是通过基于正则化集成卡尔曼方法的物理约束学习方法来实现的，该方法允许从有限速度数据进行模型学习，并且可以灵活地施加物理约束。该方法用于从周期性山丘上分离流的速度数据中学习由张量基神经网络表示的非线性涡粘模型。在模型学习过程中纳入了两个物理约束，即用于捕获壁的对数定律的基线系数和用于了解雷诺应力各向异性的代数雷诺应力方程。此外，开发了一种自适应惩罚方法来强制与规范流相关的特征空间中的物理约束，避免与来自分离流的训练数据的不兼容。我们的结果表明，所提出的方法可以学习跨不同流动场景的通用湍流模型，包括类似的分离流、规范壁界流和复杂的流动配置。最后，讨论了学习到的基于神经网络的模型函数，证明了其与施加的物理约束的一致性。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11963?rft_dat=source%3Ddrss</guid>
-      <pubDate>Tue, 01 Sep 2026 10:51:15 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>一维、二维、三维和四维热对流</title>
+      <link>https://dx.doi.org/10.1017/jfm.2026.11981?rft_dat=source%3Ddrss</link>
+      <description><![CDATA[我们通过直接数值模拟的方式研究对流维数对流动特性的影响。我们提请注意一些一般原则，从整体上考虑一维、二维、三维和四维的结果。特别是，我们探讨了两个实际方面：（i）瞬态时间，或流量达到稳态所需的时间； (ii) 对所谓的最终状态可能产生的影响。]]></description>
+      <guid>https://dx.doi.org/10.1017/jfm.2026.11981?rft_dat=source%3Ddrss</guid>
+      <pubDate>Wed, 02 Sep 2026 00:38:51 GMT</pubDate>
     </item>
     <item>
       <title>超临界流体流动的全局线性稳定性分析框架</title>
       <link>https://dx.doi.org/10.1017/jfm.2026.11934?rft_dat=source%3Ddrss</link>
       <description><![CDATA[超临界流体流动表现出复杂的动力学和稳定性特征，因为整个伪沸腾线的热物理性质发生了剧烈的变化。传统的稳定性分析方法主要针对低压理想气体而开发，不能直接应用于超临界流。本研究首次建立了适用于超临界流体流动的统一的全局线性稳定性分析（GLSA）框架。该框架结合了三次状态方程的真实流体效应以及热力学和输运特性的详细处理，并将能量和物质输运方程集成到线性化控制方程中。为了进行演示，采用开发的 GLSA 框架来检查不同超临界压力和动量通量比下横流射流的稳定性特性（）。全局线性稳定性分析通过识别大特征值和相关特征模态来定量评估动态事件的增长率。结果表明，真实流体修正对于准确捕获不稳定模式的增长率幅度至关重要。在低超临界压力下，主要 GLSA 本征模的位置从喷嘴出口附近转移到下游更远的地方，伴随着增长率幅度的显着降低。这种转变与喷流上游剪切层从全局不稳定性到对流不稳定性的转变是一致的，其中瑞利-泰勒不稳定性由于明显的密度梯度而增强。此外，GLSA 特征值谱量化了真实流体效应引起的稳定性特征的差异，即使在相同的情况下也是如此。 src=&quot;http://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20260831224300634-0174:S002211202611934X:S002211202611934X_inline2.png&quot;/&gt;。这种新颖的真实流体算法可以扩展到许多其他超临界流体流动的稳定性分析。]]></description>
       <guid>https://dx.doi.org/10.1017/jfm.2026.11934?rft_dat=source%3Ddrss</guid>
-      <pubDate>Tue, 01 Sep 2026 10:51:14 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:38:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

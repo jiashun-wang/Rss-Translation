@@ -4,48 +4,55 @@
     <title>National Science Review Advance Access</title>
     <link>http://academic.oup.com/nsr</link>
     <description></description>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>AI时代的全球STEM教育</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag564/8778466?rss=1</link>
+      <description><![CDATA[人工智能的最新进展为 STEM 教育提供了变革机会，但也可能对学生的大脑和思想产生负面影响。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag564/8778466?rss=1</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>位错系统的原子级数字孪生</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag553/8776678?rss=1</link>
+      <description><![CDATA[摘要位错是塑性的主要载体，控制着从金属到半导体等晶体材料的机械性能。位错的原子尺度行为由包含结构、应力、能量和化学环境的多维场控制，这些场控制着位错的固有迁移率以及与其他缺陷的相互作用。然而，同时捕获此类多维信息仍然是一个长期存在的挑战，因为原子分辨率图像主要揭示原子位置等结构特征，而其他关键领域仍然隐藏。在这里，我们介绍 AtomDiT，这是一种基于机器学习的框架，可直接从高分辨率显微照片创建位错的数字孪生。 AtomDiT 使用原子模拟来学习局部原子环境和多维场之间的关系，并将这些知识转移到实验图像中。它源自单个图像，识别位错类型和核心位置，构建周围的机械和化学场。 AtomDiT 适用于各种晶体结构、位错类型、化学复杂性和变形状态。使用数字孪生，我们揭示了应力和元素分布如何调节位错界面相互作用，为化学和结构复杂系统中的可塑性提供机械见解。基于实验测量得出的原子结构，数字孪生直接作为介观和连续级塑性模型的数据基础，将原子级缺陷动力学与更高级的材料行为联系起来。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag553/8776678?rss=1</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于低温乙炔半氢化的镍基 MOF 负载的钯纳米颗粒：打破活性与选择性的权衡</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag512/8776677?rss=1</link>
+      <description><![CDATA[Abstract过量乙烯中乙炔的半加氢在石化工业中具有重要意义。传统催化剂通常依赖于同时激活 H2 和 C2H2 的 Pd 位点，通常会导致活性和选择性之间的权衡效应。在这项工作中，Pd 纳米粒子通过 Ni 基金属有机框架 (Ni-MOF) 进行稳定，以提供 Pd/Ni-MOF 复合材料。 Ni-MOF不仅选择性地富集和活化乙炔，而且还调节Pd的电子结构，抑制其固有的乙炔活化能力，使其优先活化氢。这种设计为氢气和乙炔建立了独立的活化位点，从而实现了高乙烯选择性，同时即使在低温下也能保持优异的催化活性。这种 Pd/Ni-MOF 实现了 &gt; 80°C 下乙炔转化率为 99.6%，乙烯选择性为 92%，超过大多数钯基催化剂。这种协同机制有效地抑制了过度加氢，同时保持了高活性，为合理设计选择性加氢多相催化剂提供了一种有前景的策略。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag512/8776677?rss=1</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于水相有机合成的跨尺度集成催化搅拌器</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag552/8776676?rss=1</link>
+      <description><![CDATA[Abstract虽然水相反应是一种环境友好的有机合成方法，但其有效性受到不混溶传质与表面反应耦合效率低下的限制。在这里，我们提出了一种跨尺度、可集成的催化搅拌器，它通过采用强化该过程的合成策略来减少这种限制。我们通过使用硝基苯在水相中的氢化作为模型系统来证明搅拌器的有效性。与使用粉末催化剂在有机溶剂中进行的传统加氢相比，在极其温和的条件下，使用水合肼和 H2 作为氢供体，在水中的产率分别提高了 26.7 倍和 9.7 倍。该策略可以扩展到合成多种胺（78 个例子，其中 12 个是药物中间体）、烷烃（9 个例子）和醇（8 个例子）。我们预计，我们的设计策略将促进先进系统的开发，这些系统集成了催化剂和设备，以实现多相系统中重大但具有挑战性的水相转变。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag552/8776676?rss=1</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>自给自足的氢转移将塑料升级回收与生物质增值相结合</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag557/8776669?rss=1</link>
+      <description><![CDATA[Abstract废塑料和生物质代表着丰富的可再生碳资源，但由于回收和增值策略效率低下，两者仍未得到充分利用。在这里，我们提出了一种化学计量自给自足的氢转移平台，该平台直接将含氧塑料的增值与生物质衍生物的还原升级相结合，无需外部氢气或还原剂。金红石负载的双功能 RuPd 催化剂可介导从聚对苯二甲酸乙二醇酯 (PET)、聚乳酸 (PLA) 和聚甲醛 (POM) 等塑料到乙酰丙酸 (LA) 和愈创木酚等生物质衍生基质的选择性氢转移。在温和的水相条件下，该系统可提供高选择性的 γ-戊内酯 (86%) 和对苯二甲酸 (95%)、多种底物范围以及与实际废物流的强大兼容性。跨多个功能单元的生命周期评估表明，与传统路线相比，具有一致的环境效益，包括温室气体排放量减少 21-41%，同时减少资源稀缺和生态系统质量影响。这种自给自足的氢转移策略建立了一个模块化合成平台，将塑料升级回收、制氢和生物质增值统一在一个催化系统内，为由废物衍生原料的互补反应性提供动力的先进合成炼油厂提供了蓝图。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag557/8776669?rss=1</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>始新世晚期的抬升和西藏东部的侵蚀引发了长期的新生代全球变冷</title>
+      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag563/8776668?rss=1</link>
+      <description><![CDATA[Abstract大约 5000 万年前开始的全球变冷通常归因于青藏高原和喜马拉雅山隆起期间硅酸盐风化导致的大气 CO2 下降。然而，将地表上升与冷却联系起来的直接且过时的证据仍然很少。来自西藏东部芒康盆地的新古海拔和古环境数据，受到辐射锚定磁地层学和旋回地层学的限制，显示从 3.3 ± 0.9 km 快速抬升到 4.3 ± 0.9 km，并在 35.7 Ma 和 35.2 Ma 之间出现约 5°C 的区域冷却。因此，西藏东部在始新世-渐新世过渡（EOT，33.9 Ma）之前就达到了接近现代的海拔，并且早在喜马拉雅山脉发生隆起之前就达到了接近现代的高度。这种抬升在时间上与地形降雨量增加、亚洲主要河流的形成、边缘海沉积物通量增加以及海洋 87Sr/86Sr 比率上升相关。我们认为，始新世晚期的隆起和西藏东部的侵蚀——而不是后来的中新世喜马拉雅隆起或整个高原的上升——可能在推动长期 CO2 下降和全球变冷（最终导致 EOT 达到顶峰）方面发挥了重要作用。]]></description>
+      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag563/8776668?rss=1</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>更正：具有可打印响应水凝胶界面的软生物传感器，用于检测和区分血液循环并发症</title>
       <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag531/8776255?rss=1</link>
       <description><![CDATA[]]></description>
       <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag531/8776255?rss=1</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>超高分辨率量子点发光二极管</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag549/8774606?rss=1</link>
-      <description><![CDATA[Abstract下一代近眼增强现实（AR）/虚拟现实（VR）显示硬件对高性能、高分辨率光源提出了日益增长的要求。得益于出色的发光效率、可调谐的发射波长和便捷的制造工艺，量子点发光二极管（QLED）获得了广泛的应用前景。然而，在不影响器件性能的情况下实现超高分辨率需要它们之间的平衡，这对实际应用来说是一个重大挑战。在这篇文章中，我们介绍了超高分辨率 QLED 的先进图案化技术，详细阐述了显示技术的最新进展，并总结了关键挑战和前瞻性研究趋势。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag549/8774606?rss=1</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>前脑室下区成体神经干细胞胚胎起源的综合分析</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag516/8774603?rss=1</link>
-      <description><![CDATA[摘要在哺乳动物大脑中，位于侧脑室和齿状回的心室-室下区 (V-SVZ) 的成体神经干细胞 (NSC) 在整个生命周期中不断生成新的神经元和神经胶质细胞。 V-SVZ 中的成体 NSC 源自心室放射状胶质细胞 (RGC)，这些细胞在胚胎发育过程中处于静止状态。然而，这个成年 NSC 池的起源和建立仍然难以捉摸，主要是由于追踪从胚胎 RGC 到其静止的成年继承者的谱系的挑战。在这里，通过利用 Vcam1（一种从胚胎 RGC 到成年 NSC 持续表达的标记物），我们揭示了产生静止种子细胞的命运分叉背后的动态过程和调控机制。我们证明 Vcam1+ 胚胎 RGC 直接有助于成年 NSC 库。静态 Vcam1+ RGC 亚群早期出现并在整个发育过程中维持，而增殖性 Vcam1+ 祖细胞的平行群则积极补充该静态储存库。通过单细胞多组学和 Vcam1+ 细胞克隆谱系追踪的组合分析，我们确定 TGF-β/Smad3 通路是静止的关键调节因子。因此，我们的工作对胚胎发生过程中如何通过精确调控的命运决定建立基础成人 NSC 库进行了机械剖析，为终身神经发生的原理提供了新的见解。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag516/8774603?rss=1</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着排放强度下降，全球稻米甲烷排放量在过去六年中增加了两倍</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag555/8774597?rss=1</link>
-      <description><![CDATA[Abstract稻田是最大的人为甲烷 (CH4) 来源之一，但其排放量的长期规模和时空动态仍然存在很大的不确定性。在这里，我们利用新的高分辨率数据集和两种第 3 层建模方法（基于过程和基于机器学习），展示了 1961 年至 2020 年水稻 CH4 排放的空间明确全球估计。我们发现，根据两个方法 3 估算的平均值，全球排放量在过去 60 年中增加了两倍多，并于 2020 年达到历史新高 38.8 Tg CH4 yr−1，无论是速率还是幅度均远高于传统的基于排放因子的清单。由于扩大种植和加强有机投入，传统稻米生产地区（例如亚洲）在增长中占主导地位，而非洲则成为快速增长的来源。除了绝对排放量趋势外，全球 70% 稻田面积的 CH4 排放强度（每单位稻米产量）下降，主要反映了产量驱动的效率提升。值得注意的是，2010 年代全球稻米产量的 44% 发生在排放强度低于平均水平的国家，其中中国是最大的贡献者。通过利用新数据和模型解决长期空间异质性，这项研究对全球水稻甲烷预算进行了强有力的重新评估，并强调了协调粮食生产与气候减缓的途径。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag555/8774597?rss=1</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>可扩展原子电子断层扫描的深度学习</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag561/8774596?rss=1</link>
-      <description><![CDATA[]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag561/8774596?rss=1</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>古地磁学的生活：丽莎·托克斯访谈</title>
-      <link>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag554/8774590?rss=1</link>
-      <description><![CDATA[Lisa介绍了古地磁学领域，分享了几个精彩的研究故事，讲述了她在自己的科学生涯中经历的挑战和挫折以及温馨的时刻。]]></description>
-      <guid>https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag554/8774590?rss=1</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

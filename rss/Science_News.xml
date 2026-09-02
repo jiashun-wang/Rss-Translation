@@ -4,7 +4,21 @@
     <title>Science News</title>
     <link>https://www.sciencenews.org</link>
     <description>INDEPENDENT JOURNALISM SINCE 1921</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:53:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:51:33 GMT</lastBuildDate>
+    <item>
+      <title>宇宙可能几乎从一开始就在建造岩石行星</title>
+      <link>https://www.sciencenews.org/article/universe-rocky-planets-formed-early</link>
+      <description><![CDATA[模拟表明，岩石行星的组成部分可能是在大爆炸后仅一亿年就形成的。]]></description>
+      <guid>https://www.sciencenews.org/article/universe-rocky-planets-formed-early</guid>
+      <pubDate>Tue, 01 Sep 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>暗物质猎人可能终于发现了粒子的踪迹</title>
+      <link>https://www.sciencenews.org/article/dark-matter-particle-wimp-lz-experiment</link>
+      <description><![CDATA[数十年来，神秘的暗物质一直困扰着科学家。 LZ 实验可能发现了一种称为 WIMP 的粒子，但需要更多数据来检查。]]></description>
+      <guid>https://www.sciencenews.org/article/dark-matter-particle-wimp-lz-experiment</guid>
+      <pubDate>Tue, 01 Sep 2026 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>偏头痛药物越来越精确。选择合适的仍然很棘手</title>
       <link>https://www.sciencenews.org/article/migraine-drugs-prevention-guidelines</link>
@@ -22,7 +36,7 @@
     <item>
       <title>午睡还是不午睡？科学仍在清醒地认识这个问题</title>
       <link>https://www.sciencenews.org/article/nap-science-sleep-health</link>
-      <description><![CDATA[许多人晚上都难以入睡。令人惊讶的是，科学无法证明在两个街区内加小睡是否健康。]]></description>
+      <description><![CDATA[许多人晚上很难睡够。令人惊讶的是，科学无法证明在两个街区内加小睡是否健康。]]></description>
       <guid>https://www.sciencenews.org/article/nap-science-sleep-health</guid>
       <pubDate>Mon, 31 Aug 2026 15:00:00 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Fri, 28 Aug 2026 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>您的皮肤化学物质可能会影响哪些蚊子最想咬您</title>
+      <title>您的皮肤化学成分可能会影响哪些蚊子最想咬您</title>
       <link>https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite</link>
       <description><![CDATA[三个物种根据皮肤气味和细菌偏好不同的人。这些发现可能有助于制造新的基于微生物的驱虫剂。]]></description>
       <guid>https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[一项大型临床试验表明，个性化 mRNA 疫苗与 Keytruda 结合可能有助于防止皮肤癌在手术后复发。]]></description>
       <guid>https://www.sciencenews.org/article/cancer-vaccine-melanoma-treatment-mrna</guid>
       <pubDate>Tue, 25 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>记忆如何在冬眠中存活下来</title>
-      <link>https://www.sciencenews.org/article/memories-survive-hibernation-brain-cell</link>
-      <description><![CDATA[冬眠小鼠的记忆中心一半的连接迅速丢失并重新生长，而关键的连接中枢却幸存下来。]]></description>
-      <guid>https://www.sciencenews.org/article/memories-survive-hibernation-brain-cell</guid>
-      <pubDate>Tue, 25 Aug 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>生命早期少吃糖可能会降低痴呆风险</title>
-      <link>https://www.sciencenews.org/article/more-sugar-early-life-dementia-risk</link>
-      <description><![CDATA[数据显示，经历了二战时期糖配给的儿童几十年后患痴呆症和阿尔茨海默氏症的风险较低。]]></description>
-      <guid>https://www.sciencenews.org/article/more-sugar-early-life-dementia-risk</guid>
-      <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

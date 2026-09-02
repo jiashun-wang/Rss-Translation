@@ -4,7 +4,14 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Sep 2026 10:50:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:37:56 GMT</lastBuildDate>
+    <item>
+      <title>scphylo-tools：用于单细胞肿瘤系统发育分析的 Python 工具包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10589</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10589</guid>
+      <pubDate>Tue, 01 Sep 2026 10:55:56 GMT</pubDate>
+    </item>
     <item>
       <title>Macapype：用于非人类灵长类动物大脑解剖 MRI 处理的开放式多软件框架</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.10203</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10388</guid>
       <pubDate>Tue, 25 Aug 2026 01:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>TEGAT：用于科学传感器网络的轻量级可重复使用网关</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10887</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10887</guid>
-      <pubDate>Mon, 24 Aug 2026 18:16:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

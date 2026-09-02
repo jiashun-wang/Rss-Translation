@@ -4,7 +4,14 @@
     <title>AI论文简报</title>
     <link>https://ai-brief.liziran.com</link>
     <description>每天3分钟，从源头论文把握AI前沿。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 11:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:55:37 GMT</lastBuildDate>
+    <item>
+      <title>无关场景让职业属性集中度升0.047</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-09-02-context-shifts-occupational-bias.html</link>
+      <description><![CDATA[换场景未能削弱职业刻板印象，ContextBias测试92种职业、66,240张图，语义无关环境反而让跨职业属性集中度上升0.047。 功能向量可跨语言迁移情绪识别能力：零样本注入能部分复现少样本提示效果，但语言距离与文化差异仍待验证。 ACTD让推理蒸馏跨越tokenizer边界。锚点对齐与残差正则为异构模型压缩提供路径，多教师方案的收益和成本仍需结合全文评估。 硬件故障可能先损害视频语义而非画质，单次故障最多使整体性能下降3.7%，内存和高阶指数位尤其值得保护。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-09-02-context-shifts-occupational-bias.html</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>模型识别无解仍作答，视觉链超基线2倍</title>
       <link>https://ai-brief.liziran.com/zh/daily/2026-09-01-recognition-refusal-visual-reasoning.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[13项技能让论文Agent留下可复核证据，Spark-to-Paper将捏造内容检出率从14%提高到92%，引用有效率达到99.5%。 弱模型不改参数也能把平均表现从0.49提升至0.91：AI4AI由强模型在测试时构建代码、路由和格式约束组成的执行框架。 安全评测开始批量合成对抗工具环境。 ToolHazard自动寻找注入点并生成环境专属载荷，但场景规模不能替代业务代表性。 StateFlow以世界记忆和渲染反馈组织3D预演，在状态访问阶段把相机计划修正为视觉上可行的轨迹。]]></description>
       <guid>https://ai-brief.liziran.com/zh/daily/2026-08-15-evidence-first-research-agents.html</guid>
       <pubDate>Sat, 15 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>千段视频接通4D，六成头更新可删</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-14-life-agents-4d-video-domain-updates.html</link>
-      <description><![CDATA[个人Agent要在用户沉默后继续履约：VibeLifeBench用200个跨数周任务检验主动巡检、行动时机与隐含约束，七个前沿模型得分均不高。 视频潜变量可直接连接4D解码器，约1000段重建视频便能训练可在共享VAE模型间迁移的接口，并改善几何与时间一致性。 领域适配未必重写奇异值谱。研究发现变化主要落在奇异向量和部分注意力头上，最多回退60%的头更新仍无可测质量损失。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-14-life-agents-4d-video-domain-updates.html</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

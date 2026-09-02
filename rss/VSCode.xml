@@ -1,9 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
+    <title>Visual Studio Code - Code Editing. Redefined.</title>
+    <link>https://code.visualstudio.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 29 Aug 2026 04:06:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:55:26 GMT</lastBuildDate>
+    <item>
+      <title>Visual Studio 代码 1.126</title>
+      <link>https://code.visualstudio.com/updates/v1_126</link>
+      <description><![CDATA[了解 Visual Studio Code 1.126 中的新增功能
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/updates/v1_126</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 TypeScript 7 加快迭代速度</title>
+      <link>https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7</link>
+      <description><![CDATA[VS Code 和 TypeScript 团队如何合作采用 TypeScript 7 并加快 VS Code 开发
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 1.127</title>
+      <link>https://code.visualstudio.com/updates/v1_127</link>
+      <description><![CDATA[了解 Visual Studio Code 1.127 中的新增功能
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/updates/v1_127</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>即时调优如何改进 VS Code 中的 GPT-5.5</title>
+      <link>https://code.visualstudio.com/blogs/2026/07/06/optimizing-vscode-coding-harness-model-providers</link>
+      <description><![CDATA[了解 VS Code 和 OpenAI 如何在两周的实验中测试 GPT-5.5 系统提示更改，减少工具调用和尾端令牌使用，同时加快编辑速度。
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/blogs/2026/07/06/optimizing-vscode-coding-harness-model-providers</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 1.128</title>
+      <link>https://code.visualstudio.com/updates/v1_128</link>
+      <description><![CDATA[了解 Visual Studio Code 1.128 中的新增功能
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/updates/v1_128</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 1.129</title>
+      <link>https://code.visualstudio.com/updates/v1_129</link>
+      <description><![CDATA[了解 Visual Studio Code 1.129 中的新增功能。
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/updates/v1_129</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 1.130</title>
+      <link>https://code.visualstudio.com/updates/v1_130</link>
+      <description><![CDATA[了解 Visual Studio Code 1.130 中的新增功能
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/updates/v1_130</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAI-Code-1-Flash：真实开发人员工作流程的早期结果</title>
+      <link>https://code.visualstudio.com/blogs/2026/07/29/mai-code-1-flash</link>
+      <description><![CDATA[MAI-Code-1-Flash 是一种轻量级编码模型，专为开发人员每天在 GitHub 中进行的快速迭代工作而构建。在这篇文章中，我们将分享数据告诉我们的关于它在实际开发人员工作流程中的执行情况。
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/blogs/2026/07/29/mai-code-1-flash</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 1.131</title>
+      <link>https://code.visualstudio.com/updates/v1_131</link>
+      <description><![CDATA[了解 Visual Studio Code 1.131 中的新增功能
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/updates/v1_131</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 1.132</title>
+      <link>https://code.visualstudio.com/updates/v1_132</link>
+      <description><![CDATA[了解 Visual Studio Code 1.132 中的新增功能
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/updates/v1_132</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 1.133</title>
+      <link>https://code.visualstudio.com/updates/v1_133</link>
+      <description><![CDATA[了解 Visual Studio Code 1.133 中的新增功能
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/updates/v1_133</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 1.134</title>
+      <link>https://code.visualstudio.com/updates/v1_134</link>
+      <description><![CDATA[了解 Visual Studio Code 1.134 中的新增功能
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/updates/v1_134</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>引入代理主机以实现持久、可移植的代理会话</title>
+      <link>https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture</link>
+      <description><![CDATA[探索 VS Code Agent Host 和 AHP 如何通过持久、同步的本地和远程会话支持多个代理工具。
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 1.135</title>
+      <link>https://code.visualstudio.com/updates/v1_135</link>
+      <description><![CDATA[了解 Visual Studio Code 1.135 中的新增功能
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/updates/v1_135</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio Code 1.136（内部人员）</title>
+      <link>https://code.visualstudio.com/updates/v1_136</link>
+      <description><![CDATA[了解 Visual Studio Code 1.136 中的新增功能（预览体验成员）
+阅读全文]]></description>
+      <guid>https://code.visualstudio.com/updates/v1_136</guid>
+      <pubDate>Wed, 02 Sep 2026 00:55:10 GMT</pubDate>
+    </item>
     </channel>
 </rss>
