@@ -1,9 +1,329 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Wed, 02 Sep 2026 00:54:30 GMT</lastBuildDate>
+    <title>链滴</title>
+    <link>https://ld246.com</link>
+    <description>记录生活，连接点滴。</description>
+    <lastBuildDate>Wed, 02 Sep 2026 10:26:33 GMT</lastBuildDate>
+    <item>
+      <title>表格右侧和下方的「插入一列或行」实在是太大了，没有必要。</title>
+      <link>https://ld246.com/article/1788343143906</link>
+      <description><![CDATA[并不是高频操作，右键菜单一样方便，而且破坏了水平居中和块间距，有害。 
+建议取消这个按钮。 
+]]></description>
+      <guid>https://ld246.com/article/1788343143906</guid>
+      <pubDate>Wed, 02 Sep 2026 09:59:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>刀库分站开发需求</title>
+      <link>https://ld246.com/article/1788340895019</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788340895019</guid>
+      <pubDate>Wed, 02 Sep 2026 09:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新版本安装时失败</title>
+      <link>https://ld246.com/article/1788339096180</link>
+      <description><![CDATA[我发现近几个版本，我重新安装时，总是安装不成功，只能卸载后再安装，这是啥问题？ 
+我是 win10 系统，之前都是设置自动更新，退出笔记后会安装新版本。之前都是这么操作没出现问题，最近几个版本才出现这个问题。 
+]]></description>
+      <guid>https://ld246.com/article/1788339096180</guid>
+      <pubDate>Wed, 02 Sep 2026 08:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库工具——DBX</title>
+      <link>https://ld246.com/article/1788335604161</link>
+      <description><![CDATA[1.简介
+https://dbxio.com/cn
+https://github.com/t8y2/dbx/blob/main/README.zh-CN.md
+
+除了官网和 GitHub 上的官方说明以外，再以个人视角阐述一下该软件的优势：
+
+开源、免费：在 navicat 被大多数公司禁用之后，可选的数据库工具本身不多了
+足够的轻和快：使用 Rust 编写，比基于 Java 编写的 DataGrip 或 DBevear 的性能要明显快很多，安装包只有 20M
+支持的数据库多，且可以使用 jar 包依赖来自己设置驱动：除了 MySQL、SQL Server 等常见的关系型数据库以外，对 Redis、甚至 Kafka 等消息队列和 Nacos 都可以配置连接，国产化数据库金仓等都有官方驱动
+
+因为个人工作的环境，是不联网的离线环境，软件本身 AI 相关功能无法使用，离线安装和常规安装有些许差异，所以记录该文档
+2.离线安装
+2.1 下载离线安装包
+https://dbxio.com/cn
+访问官网，点击箭头，选择：【Windows 完整离线安装包】
+
+
+说明： 因为内网环境，可能缺少 WebView2 基础环境，所以下载该包，内网环境第一次安装成功后，后续软件如果更新版本，只需要安装默认包就行了（第一次安装已经把缺失的必要环境补齐）
+2.2 下载离线依赖
+在网页上点击【离线驱动】
+
+根据系统版本，选择对应系统下载
+
+2.3 安装
+将软件安装包和压缩包拷贝到内网环境中，先安装软件，不多赘述
+
+安装完成后运行该软件，点击【驱动管理】
+
+点击【导入离线包】
+
+选择该压缩文件即可
+
+等待离线包导入完毕
+离线包本身包含三部分东西：
+
+JRE 运行环境
+JDBC 插件
+官方内置驱动
+
+如上图分别标注所示，安装无误
+3.简单使用
+左上角点击【新建连接】
+
+选择对应驱动，然后配置连接信息即可
+
+4.jar 包驱动安装与连接
+4.1 驱动安装
+DBX 官方支持 90 多种驱动，也有一些数据库比较“小众”，官方驱动没有。甚至我们用的另外一个数据库的 JDBC 依赖在 Maven 官方仓库都搜不到🤭，所以 DBX 也可以自己导入本地 jar 包，使用 JDBC 的方式连接。 
+点击【驱动管理】，点击【JDBC 驱动】，点击【导入 JAR】，选择 jar 包文件导入即可
+
+4.2 连接配置
+点击【新建连接】，点击【JDBC 连接】
+
+JDBC URL： 必须按照 Java 程序 JDBC 的 url 形式来配置
+驱动 JAR： 选择自己导入的 jar 包
+驱动类： 一般不写没事，出问题的话，需要指定下驱动类
+]]></description>
+      <guid>https://ld246.com/article/1788335604161</guid>
+      <pubDate>Wed, 02 Sep 2026 07:55:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源的文档树能不能动态渲染，而不是设置最大列出数量？</title>
+      <link>https://ld246.com/article/1788334926309</link>
+      <description><![CDATA[只渲染当前展开的层级不行吗？ 
+现在是，「最大列出数量」设大了，慢，而设小了，快，但是大量文档又不在文档树显示。 ]]></description>
+      <guid>https://ld246.com/article/1788334926309</guid>
+      <pubDate>Wed, 02 Sep 2026 07:45:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>mac 系统持续闪退问题</title>
+      <link>https://ld246.com/article/1788334149013</link>
+      <description><![CDATA[前面有帖子提到了 macOS 27 使用思源 3.8.2 持续闪退的问题，我也遇到了类似的问题。 
+具体来说是使用过程中不定期出现：内核断开连接 的问题，需要我关闭应用，打开活动监视器，杀死内核进程，重启应用才能解决。数据没有丢失。 
+让 codex 检查了一下思源的日志：
+
+检查结果：内核本身没有崩溃，也没有发现数据库损坏。真正断掉的是思源桌面界面与本机内核之间的 WebSocket 连接；之后立即重开应用，又遇到了旧内核尚未退出造成的工作空间锁定。 
+关键时间线：
+
+14:45:54，桌面界面正常退出，macOS 记录的退出码为 0，不是系统强杀、内存不足或应用崩溃。 
+此时旧内核仍然存活并继续正常同步、关闭数据库。 
+14:46:03 和 14:46:17 两次立即重开，新内核均因 lock workspace failed 退出，应用显示错误码 24。 
+旧内核发现界面消失后，大约 60 秒才自动退出；手动在活动监视器杀内核只是提前结束了这个等待。 
+14:47:35 再次启动成功。 
+
+目前能确定：
+
+不是笔记数据库损坏。 
+不是存储空间不足。 
+没有内核崩溃报告；发现的 .diag 实际是磁盘写入性能诊断，系统注明未采取终止操作。 
+思源已经是当前最新版 3.8.2，没有可直接升级的版本。 官方发布页
+类似的“旧内核占用工作空间、立即重开报错”已有官方问题记录。 相关 Issue
+
+至于最初为什么 WebSocket 会断，3.8.2 的日志没有记录具体关闭原因。目前最可疑的是：
+
+Electron 界面的缓存或网络会话异常。其配置缓存目录已有约 255 MB。 
+第三方主题或插件影响主界面。当前启用了 Asri 主题脚本以及 13 个插件；静态检查没有发现直接关闭连接的代码，但仍需隔离验证。 
+Clash Verge/TUN 或其他网络过滤器干扰 127.0.0.1 的本地加密 WebSocket。系统代理当前为空，所以它是次要嫌疑。 
+内核负载偏高：macOS 记录过约 500 次唤醒/秒以及较多 SQLite 写入，可能是诱因，但没有证据表明它导致了内核退出。 
+
+暂时遇到故障时，先不要马上关闭：错误窗口每 3 秒会自动重连。如果必须退出，等待约 60 秒再重新打开，通常不需要手动杀内核。 
+下一步最合适的是备份并重建 /Users/norty/Library/Application Support/SiYuan-Electron，不会碰笔记、工作空间或同步数据；如果仍复现，再依次隔离主题、插件和 Clash。此次检查没有修改任何思源配置或数据。 
+
+并且提交部分日志 SiYuan 故障日志 202609021445.zip]]></description>
+      <guid>https://ld246.com/article/1788334149013</guid>
+      <pubDate>Wed, 02 Sep 2026 07:29:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>请问是否有纯只读模式</title>
+      <link>https://ld246.com/article/1788327034412</link>
+      <description><![CDATA[目前的只读模式，似乎是针对页面级别的，并且如果是数据库的单条编辑页面，只读模式下也可以编辑数据库的条目，请问这是设计如此吗？ 
+因为有时候在手机上只想查看，不想改动任何东西，但是会不小心就把文档拖动到了另一个目录下，且不好还原，想问一下有没有完全不能修改（不止文档内容，还有文档排布顺序等等各类调整都不可以动）的模式。 ]]></description>
+      <guid>https://ld246.com/article/1788327034412</guid>
+      <pubDate>Wed, 02 Sep 2026 05:30:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>备份快照失败</title>
+      <link>https://ld246.com/article/1788322569113</link>
+      <description><![CDATA[
+想把本地快照上传云端，就显示上面的错误。 
+或者在云端快照那里标记快照会显示下面这个错误。 
+
+该怎么解决？ ]]></description>
+      <guid>https://ld246.com/article/1788322569113</guid>
+      <pubDate>Wed, 02 Sep 2026 04:16:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>层级页面如何快速跳转</title>
+      <link>https://ld246.com/article/1788312944665</link>
+      <description><![CDATA[怎么才能快速跳转到上层或上上层页面？ ，谁能帮忙给看一下，谢谢！ ！ ！ 
+]]></description>
+      <guid>https://ld246.com/article/1788312944665</guid>
+      <pubDate>Wed, 02 Sep 2026 01:35:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源可以导入 EXCEL/CSV 数据表到“数据库”吗？思源的数据库性能达到大概什么水平？</title>
+      <link>https://ld246.com/article/1788281629193</link>
+      <description><![CDATA[例如 ，30 万行记录能流畅保证展示、查询吗？ 
+因为我想测试一下，发现没有导入的途径好像，所以有此一问。 ]]></description>
+      <guid>https://ld246.com/article/1788281629193</guid>
+      <pubDate>Tue, 01 Sep 2026 16:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>web 工具集成插件奔溃</title>
+      <link>https://ld246.com/article/1788273730892</link>
+      <description><![CDATA[升级 3.82 也有几天时间了，web 工具集成插件，刚开始是响应及不及时，后来时无响应。今天直接让思源崩了。安全模式启动，思源很流程，启动插件后，开始卡顿，然后又崩了。重复了三次都是这样。禁止 WEB 集成插件就好了。 
+不知道大家有没有遇到。搜了下，思源有浏览器插件，但是没找到侧边栏的浏览器插件，只有 web 工具集成插件提供了侧边栏打开网页。 
+在侧边栏打开 AI 网页进行过问答，还挺方便的。 
+]]></description>
+      <guid>https://ld246.com/article/1788273730892</guid>
+      <pubDate>Tue, 01 Sep 2026 14:42:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reword 双语阅读指南：在思源笔记里读完一本英文原版书</title>
+      <link>https://ld246.com/article/1788270863532</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788270863532</guid>
+      <pubDate>Tue, 01 Sep 2026 13:54:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是登录了还是没登录？</title>
+      <link>https://ld246.com/article/1788269226483</link>
+      <description><![CDATA[
+S3 同步还是能用😂]]></description>
+      <guid>https://ld246.com/article/1788269226483</guid>
+      <pubDate>Tue, 01 Sep 2026 13:27:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>
+      <link>https://ld246.com/article/1787204819965</link>
+      <description><![CDATA[思源在 v3.8.2 版本的移动端提供集市功能。为避免未适配移动端界面的桌面主题破坏布局、导致无法操作，主题须在 theme.json 中增加 frontends 字段并且显式声明支持移动端。 
+v3.8.0 已支持主题清单中的 frontends，当时缺失该字段会被视为支持所有前端。自移动端支持集市功能起，这条默认规则只对桌面端保留。 
+主题作者需要做什么
+若希望主题出现在移动端集市、并能在移动端被选择和加载，请在 theme.json 中显式声明 frontends。 
+已适配各前端、希望全平台可用时，与内置主题 daylight / midnight 一样写：
+{
+  &quot;name&quot;: &quot;example-theme&quot;,
+  &quot;author&quot;: &quot;example&quot;,
+  &quot;url&quot;: &quot;https://github.com/example/example-theme&quot;,
+  &quot;version&quot;: &quot;1.0.0&quot;,
+  &quot;frontends&quot;: [
+    &quot;all&quot;
+  ],
+  &quot;modes&quot;: [
+    &quot;light&quot;,
+    &quot;dark&quot;
+  ]
+}
+
+只支持部分前端时，列出具体取值。匹配是精确匹配，写 &quot;desktop&quot; 不会自动覆盖 desktop-window 或 browser-desktop。 
+可用取值：
+
+
+
+取值
+含义
+
+
+
+
+all
+所有前端
+
+
+desktop
+桌面端主窗口
+
+
+desktop-window
+桌面端独立窗口
+
+
+mobile
+移动端 App
+
+
+browser-desktop
+浏览器桌面端
+
+
+browser-mobile
+浏览器移动端
+
+
+
+请先确认主题在移动端可用，再声明 mobile、browser-mobile 或 all。未适配时可以不声明。 
+集市包请发新版本（提高 version 并发布 GitHub Release），索引更新后才会生效。本地主题改完 theme.json 后重启思源即可。 
+兼容性规则
+
+
+
+frontends
+桌面端（desktop / desktop-window / browser-desktop）
+移动端（mobile / browser-mobile）
+
+
+
+
+缺失或空数组
+兼容（与现在相同）
+不兼容
+
+
+包含 all
+兼容
+兼容
+
+
+包含当前前端取值
+兼容
+兼容
+
+
+有字段但不包含当前前端
+不兼容
+不兼容
+
+
+
+另外，插件清单里的 frontends 不变：缺失仍视为全平台。本次只收紧主题在移动端的默认行为。 
+不声明时，移动端会怎样
+桌面端继续能搜到、安装、切换这些主题，无需为「只在桌面使用」而改清单。 
+在 mobile 和 browser-mobile 上：
+
+集市会标为不兼容，不能安装或更新
+设置 - 外观 的主题下拉列表不会列出
+若移动端已经使用该主题，新版本不会加载该主题的 CSS 和 JS，界面回退到内置 daylight / midnight
+
+常见写法
+希望全平台可用（含移动端）：
+&quot;frontends&quot;: [&quot;all&quot;]
+
+只做桌面、明确不支持移动端：可以不写 frontends，也可以显式列出桌面相关前端，例如：
+&quot;frontends&quot;: [&quot;desktop&quot;, &quot;desktop-window&quot;, &quot;browser-desktop&quot;]
+
+仅支持移动端界面时：
+&quot;frontends&quot;: [&quot;mobile&quot;, &quot;browser-mobile&quot;]
+
+注意：上面这种写法在桌面端会显示为不兼容。 
+相关议题：Issue #17151 · siyuan-note/siyuan]]></description>
+      <guid>https://ld246.com/article/1787204819965</guid>
+      <pubDate>Thu, 20 Aug 2026 05:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>演示一下 3.8 版本如何划选块</title>
+      <link>https://ld246.com/article/1786962474568</link>
+      <description><![CDATA[3.8 支持了跨块划选文本，改变了原来划选块的行为，我演示一下 3.8.1 划选块的几种方式：
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1786962474568</guid>
+      <pubDate>Mon, 17 Aug 2026 10:27:53 GMT</pubDate>
+    </item>
     </channel>
 </rss>

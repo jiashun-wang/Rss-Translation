@@ -4,7 +4,117 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 00:54:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:26:11 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】macOS 一边打字一边翻译来学习英语</title>
+      <link>https://meta.appinn.net/t/topic/91132</link>
+      <description><![CDATA[软件名称
+浮译
+应用平台
+MacOS
+推荐类型
+【开发者自荐】
+是否收费
+免费
+一句简介
+利用 macOS 本地翻译 API，读取并翻译输入框的内容，并且以浮动框显示。用来一边打字，一边学英语。 
+应用简介
+之前看到别人分享过一个 Windows 的输入法，通过 AI API 实时翻译当前输入的词语。 
+然后我在想，既然都翻译了，为什么不直接翻译整句话。然后用 AI 做了这个通过读取 macOS 输入框内容，然后调用 macOS 自带的翻译接口进行翻译了。全程本地翻译。 
+试了一下，网页、企业微信可以用。微信读取不到。平常就边打字，看一下翻译，顺便学一下英语。 
+后面考虑加上翻译其他语言的功能。 
+官方网站
+
+
+
+krisir.github.io
+
+
+FloatTrans · 浮译
+Write in Chinese. See it in English. A quiet macOS menu bar translator.
+
+
+
+
+
+
+
+github.com
+
+
+
+
+GitHub - krisir/floattrans: 浮译（FloatTrans）：macOS 菜单栏实时中译英。读取当前输入框中的中文句子，用系统本地...
+浮译（FloatTrans）：macOS 菜单栏实时中译英。读取当前输入框中的中文句子，用系统本地 Translation 翻译，并以低打扰浮动框显示——无需复制粘贴或快捷键。 
+
+
+
+
+
+
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91132</guid>
+      <pubDate>Wed, 02 Sep 2026 07:30:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开源自荐】把鸿蒙开发 IDE DevEco Studio 移植到 Linux</title>
+      <link>https://meta.appinn.net/t/topic/91115</link>
+      <description><![CDATA[
+
+
+
+  &lt;标题类=“来源”&gt;
+
+      github.com
+
+
+  &lt;文章类=“onebox-body”&gt;
+    
+
+GitHub - alex3236/devecostudio-linux：将 DevEco Studio 引入 Linux
+将 DevEco Studio 引入 Linux
+
+
+
+
+
+
+这是什么？
+一个 PKGBUILD，借助 JetBrains IntelliJ IDEA 的原生启动器和 JBR，将 DevEco Studio（华为的 HarmonyOS 开发 IDE）的 Mac DMG 发行版重新分配到 Linux。
+
+重建支撑拱门；
+通过 nfpm 构建 .deb &amp; .rpm 构建覆盖 Debian / Ubuntu / Fedora / RHEL；
+通过 tarball 兼容其他更多发行版本。
+
+六月份开始整的，发文时兼容到26.0.0发布，感觉比较稳定了，所以来水个帖
+效果如何？
+除预览器外，所有IDE和CLI功能基本可用。若发现任何问题，请提交Issue。
+若官方即将发行 Linux 版本，此项目将归档。
+演示视频：
+
+如何使用？
+出于对EULA的尊重，本项目要求用户自行构建。有以下两种方式：
+
+通过Github Actions运行在线构建：更快捷、更轻松；
+在本地运行手动构建。
+
+安装时将（可选）携带 CLI 工具：
+
+当前调用的命令：devecostudio, hdc
+默认暴露的命令：hvigorw, ohpm, hstack, hcodelinter, hemulator, harktsdoc；
+
+其中Emulator、codelinter和arktsdoc增加了税务可能的冲突。
+此项目也可以为 DevEco CLI 提供环境支持；
+DEVECO_CLI_STUDIO_PATH=/opt/devecostudio即可。
+原理
+从 Mac DMG 中取出平台无关的部分，然后用 IntelliJ IDEA 和 SDK CLI 的 Linux 组件替换 macOS 独有部分。
+更多详情可以查看本文档。
+2个帖子 - 2位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91115</guid>
+      <pubDate>Wed, 02 Sep 2026 03:31:35 GMT</pubDate>
+    </item>
     <item>
       <title>Swift写的Mac隐私文件一键隐匿与轻量清理工具 [免费]</title>
       <link>https://meta.appinn.net/t/topic/91107</link>
@@ -149,7 +259,7 @@ Tablite - Chrome 应用商店
       <link>https://meta.appinn.net/t/topic/91017</link>
       <description><![CDATA[各位小众软件的朋友好，我是独立开发者JC。
 平时在YouTube学习国外技术教学、看公开课或听英语播客时，最常遇到的痛点就是「影片没有字幕」或「矫正机翻慢半拍且不精准」。
-为了解决影音学习与笔记整理的痛点，我开发了这套完全免费的 Chrome 补充组件InstantFlow Web。
+为了解决影音学习与笔记整理的痛点，我开发了这套完全免费的 Chrome 补充组件 InstantFlow Web。
 应用名称与平台
 
 名称：InstantFlow Web
@@ -450,7 +560,7 @@ Agentero: Agent友好的文献管理与阅读器，Agent时代的Zotero
 （通用学术模式）
 价格与授权说明
 
-免费额度：每日提供10次免费使用。
+免费额度：每日提供 10 次免费使用。
 买断授权：重度用户可通过 Gumroad 一次性买断（$9.99 美元），无任何后续订阅费用。
 使用说明：安装后需于设定中填入Groq API Key即可开始使用。
 
@@ -464,49 +574,6 @@ Chrome 网上应用店：https://chromewebstore.google.com/detail/instantread/pk
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90955</guid>
       <pubDate>Sun, 30 Aug 2026 23:39:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】Set New Tab URL: 自定义浏览器新标签页地址</title>
-      <link>https://meta.appinn.net/t/topic/90947</link>
-      <description><![CDATA[软件名称
-Set New Tab URL: 自定义浏览器新标签页地址
-应用平台
-Chrome / Edge / Firefox 浏览器扩展
-推荐类型
-开发者自荐
-是否收费
-免费、无广告
-一句简介
-自定义浏览器新标签页打开的地址，支持在当前标签页右侧打开并控制焦点位置，也可通过扩展图标或快捷键打开指定地址
-应用简介
-自定义浏览器新标签页打开的地址，并根据需要进行个性化配置：
-
-设置打开地址：支持普通网址、浏览器内部页面（如历史记录、下载内容）及本地文件路径
-控制焦点位置：新标签页打开后，可以把输入焦点保留在地址栏，也可以让页面接管获取焦点
-标签右侧打开：可以选择在当前标签页右侧打开新标签页
-通过扩展打开：单独设置点击扩展图标或使用快捷键打开的新标签页
-最小必要权限：仅申请打开标签页和保存设置所需的权限，所有配置均保存在本地
-
-适用于需要把 自建导航 / NAS面板 / 个人网站 / 在线笔记&amp;知识库 或 空白页 作为浏览器默认新标签页打开的用户
-应用截图
-设置界面：
-
-地址
-chrome: https://chromewebstore.google.com/detail/set-new-tab-url/maejchfieihojcaicddnllnldjplmdkg
-edge: Set New Tab URL - Microsoft Edge Add-ons
-firefox: https://addons.mozilla.org/firefox/addon/set-new-tab-url/
-* firefox 因浏览器限制不支持右侧打开
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90947</guid>
-      <pubDate>Sun, 30 Aug 2026 13:37:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】SakuraAIPlayer - AI次世代视频播放器</title>
-      <link>https://meta.appinn.net/t/topic/90946</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90946</guid>
-      <pubDate>Sun, 30 Aug 2026 13:37:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

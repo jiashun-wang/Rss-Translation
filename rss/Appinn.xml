@@ -4,7 +4,21 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Wed, 02 Sep 2026 00:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:26:50 GMT</lastBuildDate>
+    <item>
+      <title>Cleanshot X 5.0 大更新：屏幕录制工作室模式（Studio Mode）</title>
+      <link>https://www.appinn.com/cleanshot-5/</link>
+      <description><![CDATA[Cleanshot X 5.0 今日更新，为屏幕录制带来了工作室模式，可以自动添加平滑缩放、鼠标跟随，带有更丰富的剪辑功能，以及更多的细节调整。没有什么其他功能更新。 @Appinn CleanShot]]></description>
+      <guid>https://www.appinn.com/cleanshot-5/</guid>
+      <pubDate>Wed, 02 Sep 2026 08:50:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国服务器 VMRack 选购指南：洛杉矶机房的优势</title>
+      <link>https://www.appinn.com/vmrack-vps-us/</link>
+      <description><![CDATA[VMRack 9.99 套餐补货：三网精品 CN2/9929/CMIN2，2 vCPUs、2GB、20GB、500Mbps带宽、1TB月流量 本文深入解析洛杉矶机房的中美直连线路优势。实测洛杉矶机房在]]></description>
+      <guid>https://www.appinn.com/vmrack-vps-us/</guid>
+      <pubDate>Wed, 02 Sep 2026 04:33:27 GMT</pubDate>
+    </item>
     <item>
       <title>墨萃 · InkGist – 帮你处理看不完，舍不得关的标签页</title>
       <link>https://www.appinn.com/inkgist/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[还在用 Windows 10 + NVIDIA 显卡打游戏的同学注意了：按照 NVIDIA 此前公布的支持计划，最后一款支持 Windows 10 的 Game Ready 驱动将在今年 10 月发布]]></description>
       <guid>https://www.appinn.com/nvidia-windows-10-final-game-ready-driver/</guid>
       <pubDate>Sun, 30 Aug 2026 09:08:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>不锁屏、不打断，护眼宝：派6只宠物强制提醒你</title>
-      <link>https://www.appinn.com/huyanbao-2/</link>
-      <description><![CDATA[提到护眼软件，很多人都联想到呈现出黄色状态的显示效果，先不说护眼效果怎么样，这个黄色看起来，真的不舒服呀。 @Appinn 来自发现频道的开发者 i_wang 推荐了自己的软件护眼宝：https://m]]></description>
-      <guid>https://www.appinn.com/huyanbao-2/</guid>
-      <pubDate>Sat, 29 Aug 2026 09:22:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 26.04.1 LTS 正式发布</title>
-      <link>https://www.appinn.com/ubuntu-26-04-1-lts/</link>
-      <description><![CDATA[代号 Resolute Raccoon（坚毅浣熊）的 Ubuntu 26.04.1 LTS 版本正式发布，这个版本主要汇总了从26.04 → 26.04.1 这四个月左右积累的更新，包括安全更新、高严]]></description>
-      <guid>https://www.appinn.com/ubuntu-26-04-1-lts/</guid>
-      <pubDate>Sat, 29 Aug 2026 09:07:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
