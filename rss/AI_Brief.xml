@@ -4,7 +4,14 @@
     <title>AI论文简报</title>
     <link>https://ai-brief.liziran.com</link>
     <description>每天3分钟，从源头论文把握AI前沿。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 10:28:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:07:42 GMT</lastBuildDate>
+    <item>
+      <title>OPSA让AIME24提升35.41分</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-09-03-opsa-teacher-free-distillation.html</link>
+      <description><![CDATA[更大的教师不等于更可靠的蒸馏监督，OPD中的教师评分可能随规模增大而产生更多噪声，无教师的OPSA在AIME24上反而提升35.41分。 PaperGym将科研计划评审变成可审计的奖励环境：通过分离问题与rubric来源，把评分标准泄漏率降至3.7%。 CAST用动作级批评监督降低长程工具调用中的高代价错误风险。该方法让模型在零售任务连续通过率上超过GPT-OSS-120B逾10%，并迁移至远程医疗场景。 NoisEasier无需微调即可修正视频对象关系，它在推理时优化扩散噪声，使属性绑定、物体交互等困难维度平均提高超过10%。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-09-03-opsa-teacher-free-distillation.html</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>无关场景让职业属性集中度升0.047</title>
       <link>https://ai-brief.liziran.com/zh/daily/2026-09-02-context-shifts-occupational-bias.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[论文转海报工作流可通过反馈递归改进：接入学习后的DesignHarness后，7种代码Agent与模型配置均获得提升，平均得分从54.99升至67.39；目前证据限于论文转海报任务。 Evoke将持久世界状态移出生成上下文，用外部状态库、长时教师监督和3步学生模型兼顾长期一致性与低延迟生成。 复合选项错误可能源于组合机制，而非知识不足。模型判断原子命题，整数规划负责AND、OR和NOR等逻辑约束，两个数据集的Macro-F1均提升约29点。 Intern-S2-Preview尝试统一科学Agent训练管线：397B主干结合多模态训练与4B记忆解码器，为长任务链和低成本领域适配提供底座。]]></description>
       <guid>https://ai-brief.liziran.com/zh/daily/2026-08-16-learning-workflows-for-design-agents.html</guid>
       <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>13项技能把捏造检出率推至92%</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-15-evidence-first-research-agents.html</link>
-      <description><![CDATA[13项技能让论文Agent留下可复核证据，Spark-to-Paper将捏造内容检出率从14%提高到92%，引用有效率达到99.5%。 弱模型不改参数也能把平均表现从0.49提升至0.91：AI4AI由强模型在测试时构建代码、路由和格式约束组成的执行框架。 安全评测开始批量合成对抗工具环境。 ToolHazard自动寻找注入点并生成环境专属载荷，但场景规模不能替代业务代表性。 StateFlow以世界记忆和渲染反馈组织3D预演，在状态访问阶段把相机计划修正为视觉上可行的轨迹。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-15-evidence-first-research-agents.html</guid>
-      <pubDate>Sat, 15 Aug 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

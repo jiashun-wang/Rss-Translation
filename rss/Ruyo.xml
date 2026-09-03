@@ -4,7 +4,14 @@
     <title>如有乐享</title>
     <link>https://51.ruyo.net</link>
     <description>分享是一种美德，是一种态度。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 10:26:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:06:29 GMT</lastBuildDate>
+    <item>
+      <title>Amazon Lightsail香港区测评：5美元轻量服务器值得买吗</title>
+      <link>https://51.ruyo.net/19719.html</link>
+      <description><![CDATA[2017年亚马逊上线了Lightsail轻量服务器，主打价格实惠，按流量计费！并且支持使用AWS的100刀试用 […]]]></description>
+      <guid>https://51.ruyo.net/19719.html</guid>
+      <pubDate>Thu, 03 Sep 2026 00:55:28 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek Harness 初体验：部署、模型配置与插件管理</title>
       <link>https://51.ruyo.net/19712.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[  Pages.dev 快速搭建网站， 速度超快。 Cloudflare Pages 是一个 JAM […]]]></description>
       <guid>https://51.ruyo.net/19349.html</guid>
       <pubDate>Thu, 02 Jul 2026 00:40:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需公网IP！用UU远程一键映射端口，远程访问内网设备</title>
-      <link>https://51.ruyo.net/19348.html</link>
-      <description><![CDATA[最近体验了一下 UU远程 的新版本，发现新增了一个 端口映射 功能。 这个功能对开发和运维人员来说非常实用。很 […]]]></description>
-      <guid>https://51.ruyo.net/19348.html</guid>
-      <pubDate>Tue, 30 Jun 2026 00:40:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

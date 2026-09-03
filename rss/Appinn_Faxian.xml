@@ -4,7 +4,114 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 10:26:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:06:05 GMT</lastBuildDate>
+    <item>
+      <title>一个免费开源的 Windows 键盘鼠标按键映射工具，无需写脚本即可自定义按键和快捷键。</title>
+      <link>https://meta.appinn.net/t/topic/91160</link>
+      <description><![CDATA[软件名称
+Windows 键盘鼠标映射工具
+应用平台
+
+Windows
+
+推荐类型
+【开发者自荐】
+是否收费
+完全免费，开源。 
+GitHub 提供源代码和编译好的版本，可直接下载使用。 
+一句简介
+一个简单直观的 Windows 键盘、鼠标按键映射工具，通过图形界面即可修改按键，不需要写 AutoHotkey 脚本。 
+应用界面
+
+应用简介
+这个小工具是基于 AutoHotkey v2 开发的免费开源键盘、鼠标映射工具，主要目标就是尽量简单：打开软件，选择原始按键和目标按键，保存后即可使用。 
+目前支持：
+
+
+键盘按键 → 键盘按键
+
+
+键盘按键 → 组合快捷键
+
+
+鼠标按键 → 键盘按键 / 快捷键
+
+
+键盘按键 → 鼠标按键
+
+
+键盘与鼠标组合映射
+
+
+最多三个按键组成的组合键
+
+
+多条映射同时使用
+
+
+映射临时启用 / 禁用
+
+
+开机自动启动
+
+
+中英文界面
+
+
+配置自动保存
+
+
+例如可以实现：
+
+
+CapsLock → Ctrl
+
+
+A → Ctrl + C
+
+
+鼠标侧键 → Ctrl + Shift + T
+
+
+某个不常用的键 → 鼠标中键
+
+
+比较适合这些情况：
+
+
+键盘某个按键坏了，临时映射到其他按键
+
+
+想重新定义鼠标侧键
+
+
+想给某些操作设置自己习惯的快捷键
+
+
+只需要简单按键映射，不想安装完整的 PowerToys
+
+
+不熟悉 AutoHotkey，也不想为了几个映射自己写脚本
+
+
+软件本身没有联网功能，也没有账号、广告或者付费功能。 
+GitHub开源地址：
+https://github.com/fuyingde/windows-keyboard-mouse-remapper
+目前这个开源版本不准备继续增加很多复杂功能。 
+如果大家刚好有类似的键盘、鼠标映射需求，可以试试看。 
+也欢迎反馈使用过程中遇到的问题。 
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91160</guid>
+      <pubDate>Wed, 02 Sep 2026 16:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】BongoCat - 开源桌宠实时响应鼠标和键盘事件，使用纯C彻底重新实现</title>
+      <link>https://meta.appinn.net/t/topic/91151</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/91151</guid>
+      <pubDate>Wed, 02 Sep 2026 12:34:08 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】macOS 一边打字一边翻译来学习英语</title>
       <link>https://meta.appinn.net/t/topic/91132</link>
@@ -259,7 +366,7 @@ Tablite - Chrome 应用商店
       <link>https://meta.appinn.net/t/topic/91017</link>
       <description><![CDATA[各位小众软件的朋友好，我是独立开发者JC。
 平时在YouTube学习国外技术教学、看公开课或听英语播客时，最常遇到的痛点就是「影片没有字幕」或「矫正机翻慢半拍且不精准」。
-为了解决影音学习与笔记整理的痛点，我开发了这套完全免费的 Chrome 补充组件 InstantFlow Web。
+为了解决影音学习与笔记整理的痛点，我开发了这套完全免费的 Chrome 补充组件InstantFlow Web。
 应用名称与平台
 
 名称：InstantFlow Web
@@ -512,68 +619,6 @@ Agentero: Agent友好的文献管理与阅读器，Agent时代的Zotero
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/90962</guid>
       <pubDate>Mon, 31 Aug 2026 01:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】Solazah：一个AI桌面启动器</title>
-      <link>https://meta.appinn.net/t/topic/90957</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/90957</guid>
-      <pubDate>Sun, 30 Aug 2026 23:40:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】InstantRead — 专为学术文献与技术长文打造的AI研读助手</title>
-      <link>https://meta.appinn.net/t/topic/90955</link>
-      <description><![CDATA[各位小众软件的朋友好，我是独立开发者JC。
-在研读PubMed、IEEE、科技论文或英文长文时，常遇到长难句机翻生硬、专业术语翻不准的痛点。为此我开发了专门的Chrome阅读补充组件InstantRead。
-应用名称与平台
-
-名称：即时阅读
-平台：Chrome浏览器补充组件（Chrome网上应用店）
-
-30秒实机操作展示
-停止使用谷歌翻译来发表研究论文！ 🤯 InstantRead：9.99 美元终身#Shorts
-核心功能展示
-&lt;块引用&gt;
-
-（科技工程CS模式展示）
-
-0.5s极速白话拆解（ELI5模式）：将生涩术语与长句转为通俗易懂的解释，并自动生成「核心术语对照表」。
-四大专属研读模式：针对不同学科领域深度调校提示：
-
-科技工程（CS）：拆解系统架构、演算与工程长难句。
-生物医学（Biomedical）：精准识别临床医学、病理机制与生化术语。
-通用学术（Academic）：强化计量经济、统计模型与社会科学论文逻辑。
-法律法规（Legal）：精准解析授权条款、合约责任与免责声明。
-
-
-自备API直连：支持自备Groq API Key直连，零中转服务器，数据保障隐私。
-一键导出Markdown笔记：自动整理阅读摘要与术语对照库，方便汇入Obsidian / Notion。
-
-各领域拆解示例
-&lt;块引用&gt;
-
-（法律法规模式）
-&lt;块引用&gt;
-（生物医学模式）
-&lt;块引用&gt;
-
-（通用学术模式）
-价格与授权说明
-
-免费额度：每日提供 10 次免费使用。
-买断授权：重度用户可通过 Gumroad 一次性买断（$9.99 美元），无任何后续订阅费用。
-使用说明：安装后需于设定中填入Groq API Key即可开始使用。
-
-官方下载链接
-
-Chrome 网上应用店：https://chromewebstore.google.com/detail/instantread/pkgimjbkmpnfkmfoockdfefndjndfkof
-
-&lt;小时/&gt;
-目前产品刚上线，大家在研读文献或长文时如果希望增加哪些独有模式或功能，欢迎在下方留言交流，我会持续更新迭代！
-1个帖子 - 1位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90955</guid>
-      <pubDate>Sun, 30 Aug 2026 23:39:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

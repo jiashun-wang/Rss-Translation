@@ -4,7 +4,21 @@
     <title>Science News</title>
     <link>https://www.sciencenews.org</link>
     <description>INDEPENDENT JOURNALISM SINCE 1921</description>
-    <lastBuildDate>Wed, 02 Sep 2026 00:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:03:34 GMT</lastBuildDate>
+    <item>
+      <title>新的哈勃图像揭示了土星南极上空的奇异十边形</title>
+      <link>https://www.sciencenews.org/article/hubble-decagon-saturn-south-pole</link>
+      <description><![CDATA[六边形使土星北极上空的云层变暗。现在，天文学家在另一极发现了类似形状的大气波。]]></description>
+      <guid>https://www.sciencenews.org/article/hubble-decagon-saturn-south-pole</guid>
+      <pubDate>Wed, 02 Sep 2026 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一项大规模研究揭示了纤维肌痛的遗传基础</title>
+      <link>https://www.sciencenews.org/article/fibromyalgia-genetic-risk-factors-pain</link>
+      <description><![CDATA[迄今为止规模最大的纤维肌痛遗传学研究针对了这种疼痛疾病的 26 种遗传风险因素，其中包括亨廷顿舞蹈病基因中的一个。]]></description>
+      <guid>https://www.sciencenews.org/article/fibromyalgia-genetic-risk-factors-pain</guid>
+      <pubDate>Wed, 02 Sep 2026 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>宇宙可能几乎从一开始就在建造岩石行星</title>
       <link>https://www.sciencenews.org/article/universe-rocky-planets-formed-early</link>
@@ -48,7 +62,7 @@
       <pubDate>Fri, 28 Aug 2026 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>您的皮肤化学成分可能会影响哪些蚊子最想咬您</title>
+      <title>您的皮肤化学物质可能会影响哪些蚊子最想咬您</title>
       <link>https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite</link>
       <description><![CDATA[三个物种根据皮肤气味和细菌偏好不同的人。这些发现可能有助于制造新的基于微生物的驱虫剂。]]></description>
       <guid>https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[很久以前的多足怪人有助于填补化石记录中的一个重大空白，并暗示昆虫最终为何只有六条腿。]]></description>
       <guid>https://www.sciencenews.org/article/insects-fossil-record-24-legs</guid>
       <pubDate>Wed, 26 Aug 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微生物可能会在月球南极被冻干</title>
-      <link>https://www.sciencenews.org/article/microbes-freeze-dried-moons-south-pole</link>
-      <description><![CDATA[阿耳忒弥斯四号将在 50 年来首次将人类送上月球表面。美国宇航局的研究揭示了可能搭便车的微生物。]]></description>
-      <guid>https://www.sciencenews.org/article/microbes-freeze-dried-moons-south-pole</guid>
-      <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种新的癌症疫苗可能会阻止黑色素瘤复发</title>
-      <link>https://www.sciencenews.org/article/cancer-vaccine-melanoma-treatment-mrna</link>
-      <description><![CDATA[一项大型临床试验表明，个性化 mRNA 疫苗与 Keytruda 结合可能有助于防止皮肤癌在手术后复发。]]></description>
-      <guid>https://www.sciencenews.org/article/cancer-vaccine-melanoma-treatment-mrna</guid>
-      <pubDate>Tue, 25 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

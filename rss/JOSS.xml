@@ -4,7 +4,14 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Sep 2026 00:37:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 00:48:41 GMT</lastBuildDate>
+    <item>
+      <title>OpenTURNS：用于不确定性量化的 Python 包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10484</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10484</guid>
+      <pubDate>Wed, 02 Sep 2026 13:19:29 GMT</pubDate>
+    </item>
     <item>
       <title>scphylo-tools：用于单细胞肿瘤系统发育分析的 Python 工具包</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.10589</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.07615</guid>
       <pubDate>Tue, 25 Aug 2026 19:53:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eegle：用于脑电图数据分析和机器学习的开源 Julia 集成包</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10388</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10388</guid>
-      <pubDate>Tue, 25 Aug 2026 01:13:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

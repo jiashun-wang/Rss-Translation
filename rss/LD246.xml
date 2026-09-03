@@ -4,22 +4,57 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 10:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:06:23 GMT</lastBuildDate>
     <item>
-      <title>表格右侧和下方的「插入一列或行」实在是太大了，没有必要。</title>
+      <title>提示块不可以改名称了</title>
+      <link>https://ld246.com/article/1788359146004</link>
+      <description><![CDATA[更新到 3.8.2 之后，提示块只能改图标，改不了提示块的名称，请问是版本更新的原因还是出现 bug 了
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1788359146004</guid>
+      <pubDate>Wed, 02 Sep 2026 14:25:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源笔记安卓端几种退出方式会有什么影响</title>
+      <link>https://ld246.com/article/1788358242712</link>
+      <description><![CDATA[1.在应用内点击退出选项
+应该是最稳妥的退出方式吧
+2.直接后台划掉思源笔记，清理思源笔记后台
+a. 落盘时间是什么时候，刚写的数据，立刻在后台划掉思源笔记，会出现数据丢失吗
+b. 进行索引提交（插入索引）的时候，立刻在后台划掉思源笔记，会出现索引损坏吗
+c. 同步进行中被强杀，会留下什么状态？是否下次全量重来？云端快照会否处于不一致状态？ 
+2.1 在应用内部一直点击返回键，直到返回桌面，然后清理思源笔记后台
+同上面的三个小问题 abc]]></description>
+      <guid>https://ld246.com/article/1788358242712</guid>
+      <pubDate>Wed, 02 Sep 2026 14:10:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>每次更新后 win11 的任务栏固定都会丢失</title>
+      <link>https://ld246.com/article/1788355384093</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788355384093</guid>
+      <pubDate>Wed, 02 Sep 2026 13:23:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>表格右侧和下方的「插入一列或行」实在是太大了，没有必要</title>
       <link>https://ld246.com/article/1788343143906</link>
       <description><![CDATA[并不是高频操作，右键菜单一样方便，而且破坏了水平居中和块间距，有害。 
 建议取消这个按钮。 
+
+自己用 AI 写了一个 CSS 代码：
+/* 隐藏表格增行/增列/右下角对角按钮 */
+.protyle-table-control__add {
+    display: none !important;
+}
+
+/* 撤掉思源为按钮预留的 30px 热区，同时收紧表格排版 */
+.protyle-wysiwyg[data-readonly=false][contenteditable=true] [data-node-id].table {
+    padding: 0.5em 0;
+}
 ]]></description>
       <guid>https://ld246.com/article/1788343143906</guid>
-      <pubDate>Wed, 02 Sep 2026 09:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>刀库分站开发需求</title>
-      <link>https://ld246.com/article/1788340895019</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788340895019</guid>
-      <pubDate>Wed, 02 Sep 2026 09:21:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 11:07:36 GMT</pubDate>
     </item>
     <item>
       <title>更新版本安装时失败</title>
@@ -33,63 +68,7 @@
     <item>
       <title>数据库工具——DBX</title>
       <link>https://ld246.com/article/1788335604161</link>
-      <description><![CDATA[1.简介
-https://dbxio.com/cn
-https://github.com/t8y2/dbx/blob/main/README.zh-CN.md
-
-除了官网和 GitHub 上的官方说明以外，再以个人视角阐述一下该软件的优势：
-
-开源、免费：在 navicat 被大多数公司禁用之后，可选的数据库工具本身不多了
-足够的轻和快：使用 Rust 编写，比基于 Java 编写的 DataGrip 或 DBevear 的性能要明显快很多，安装包只有 20M
-支持的数据库多，且可以使用 jar 包依赖来自己设置驱动：除了 MySQL、SQL Server 等常见的关系型数据库以外，对 Redis、甚至 Kafka 等消息队列和 Nacos 都可以配置连接，国产化数据库金仓等都有官方驱动
-
-因为个人工作的环境，是不联网的离线环境，软件本身 AI 相关功能无法使用，离线安装和常规安装有些许差异，所以记录该文档
-2.离线安装
-2.1 下载离线安装包
-https://dbxio.com/cn
-访问官网，点击箭头，选择：【Windows 完整离线安装包】
-
-
-说明： 因为内网环境，可能缺少 WebView2 基础环境，所以下载该包，内网环境第一次安装成功后，后续软件如果更新版本，只需要安装默认包就行了（第一次安装已经把缺失的必要环境补齐）
-2.2 下载离线依赖
-在网页上点击【离线驱动】
-
-根据系统版本，选择对应系统下载
-
-2.3 安装
-将软件安装包和压缩包拷贝到内网环境中，先安装软件，不多赘述
-
-安装完成后运行该软件，点击【驱动管理】
-
-点击【导入离线包】
-
-选择该压缩文件即可
-
-等待离线包导入完毕
-离线包本身包含三部分东西：
-
-JRE 运行环境
-JDBC 插件
-官方内置驱动
-
-如上图分别标注所示，安装无误
-3.简单使用
-左上角点击【新建连接】
-
-选择对应驱动，然后配置连接信息即可
-
-4.jar 包驱动安装与连接
-4.1 驱动安装
-DBX 官方支持 90 多种驱动，也有一些数据库比较“小众”，官方驱动没有。甚至我们用的另外一个数据库的 JDBC 依赖在 Maven 官方仓库都搜不到🤭，所以 DBX 也可以自己导入本地 jar 包，使用 JDBC 的方式连接。 
-点击【驱动管理】，点击【JDBC 驱动】，点击【导入 JAR】，选择 jar 包文件导入即可
-
-4.2 连接配置
-点击【新建连接】，点击【JDBC 连接】
-
-JDBC URL： 必须按照 Java 程序 JDBC 的 url 形式来配置
-驱动 JAR： 选择自己导入的 jar 包
-驱动类： 一般不写没事，出问题的话，需要指定下驱动类
-]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://ld246.com/article/1788335604161</guid>
       <pubDate>Wed, 02 Sep 2026 07:55:37 GMT</pubDate>
     </item>
@@ -183,21 +162,6 @@ Clash Verge/TUN 或其他网络过滤器干扰 127.0.0.1 的本地加密 WebSock
 ]]></description>
       <guid>https://ld246.com/article/1788273730892</guid>
       <pubDate>Tue, 01 Sep 2026 14:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reword 双语阅读指南：在思源笔记里读完一本英文原版书</title>
-      <link>https://ld246.com/article/1788270863532</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788270863532</guid>
-      <pubDate>Tue, 01 Sep 2026 13:54:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是登录了还是没登录？</title>
-      <link>https://ld246.com/article/1788269226483</link>
-      <description><![CDATA[
-S3 同步还是能用😂]]></description>
-      <guid>https://ld246.com/article/1788269226483</guid>
-      <pubDate>Tue, 01 Sep 2026 13:27:05 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

@@ -4,7 +4,14 @@
     <title>Blog on Posit Open Source</title>
     <link>https://opensource.posit.co/blog/</link>
     <description>Recent content in Blog on Posit Open Source</description>
-    <lastBuildDate>Thu, 27 Aug 2026 04:30:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:06:54 GMT</lastBuildDate>
+    <item>
+      <title>posit::glimpse() 时事通讯 – 2026 年 9 月</title>
+      <link>https://opensource.posit.co/blog/2026-09-02_glimpse-2026-09/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-09-02_glimpse-2026-09/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>食谱1.4.0</title>
       <link>https://opensource.posit.co/blog/2026-08-26_recipes-1-4-0/</link>
@@ -122,13 +129,6 @@ Posit 和 Polars, Inc. 是不同的公司，但我们的工具有重叠。 Great
       <description><![CDATA[]]></description>
       <guid>https://opensource.posit.co/blog/2026-07-29_positron-jupyter-notebook-editor-ga/</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>lorax 简介：谈论基于树的模型</title>
-      <link>https://opensource.posit.co/blog/2026-07-28_lorax/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://opensource.posit.co/blog/2026-07-28_lorax/</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

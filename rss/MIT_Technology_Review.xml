@@ -4,7 +4,21 @@
     <title>MIT Technology Review</title>
     <link>https://www.technologyreview.com</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Sep 2026 10:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:03:01 GMT</lastBuildDate>
+    <item>
+      <title>大规模简化 AI 集成</title>
+      <link>https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/</link>
+      <description><![CDATA[随着公司规模的扩大，支持运营的技术可能会成为一种负债，就像它成为一种资产一样快。断开连接的系统、特定于站点的工具、电子表格和手动解决方法可能会形成数据孤岛，从而使尽早发现问题、协调响应和自信地做出决策变得更加困难。对于 Jabil 来说，这是一家全球制造公司，拥有超过]]></description>
+      <guid>https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/</guid>
+      <pubDate>Wed, 02 Sep 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>下载：人工智能谜题和通往距离我们最近的恒星系统的路径</title>
+      <link>https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/</link>
+      <description><![CDATA[这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。人工智能模型搞砸了这些智力测试。你还能过得更好吗？谜题和游戏一直是人工智能开发的核心。 “机器学习”一词因 1959 年的一篇文章而流行起来——]]></description>
+      <guid>https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/</guid>
+      <pubDate>Wed, 02 Sep 2026 12:10:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能如何规划前往半人马座阿尔法星的星际之旅</title>
       <link>https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[本月，当一家名为 Generation Lab 的公司向我伸出援手，为我提供撰写甚至接受他们新的返老还童疗法的机会时，我知道我正式成为“长寿影响者”，这是一种由两种现有药物组成的注射组合，他们称之为 1 Generation。这也不仅仅是任何抗衰老治疗。公司情况说明书称——]]></description>
       <guid>https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/</guid>
       <pubDate>Thu, 27 Aug 2026 19:48:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载：OpenAI 的 Hugging Face 黑客技术，以及一款新的电动汽车挑战美国</title>
-      <link>https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/</link>
-      <description><![CDATA[这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 代理为何攻击 Hugging Face 的内幕 负责上个月代理攻击 Hugging Face 的模型无意中接受了欺骗并与“Hugging Face”进行交流的训练。]]></description>
-      <guid>https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/</guid>
-      <pubDate>Thu, 27 Aug 2026 12:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slate Auto 的新型电动卡车是美国人需要的电动汽车吗？</title>
-      <link>https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/</link>
-      <description><![CDATA[电动汽车占美国新车销量的不到 10%，而且这一数字正在下降。从气候角度来看，这是相当令人沮丧的，特别是因为交通运输部门是该国最大的温室气体排放源。”有什么可以帮助扭转这一局面？ Slate Auto 的新卡车——一辆看起来“很漂亮”的车辆。]]></description>
-      <guid>https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/</guid>
-      <pubDate>Thu, 27 Aug 2026 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

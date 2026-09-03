@@ -4,7 +4,14 @@
     <title>存储在线-存储专业媒体</title>
     <link>https://www.dostor.com</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Sep 2026 11:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:07:31 GMT</lastBuildDate>
+    <item>
+      <title>从245TB到亿级IOPS，AI正在如何改变SSD？</title>
+      <link>https://www.dostor.com/p/100979.html</link>
+      <description><![CDATA[过去几年，AI基础设施领域最受关注的一直是GPU和HBM。但随着生成式AI的发展重心从训练走向大规模推理，从聊天机器人走向可以连续执行任务的AI智能体，存储竟意外变得越发重要。 因为，随着推理上下文越来越长，特别是AI智能体需要长时间连续工...]]></description>
+      <guid>https://www.dostor.com/p/100979.html</guid>
+      <pubDate>Wed, 02 Sep 2026 11:53:42 GMT</pubDate>
+    </item>
     <item>
       <title>闪迪亮相2026全球闪存峰会，以全场景存力破局AI时代！</title>
       <link>https://www.dostor.com/p/100976.html</link>
@@ -27,6 +34,13 @@
       <pubDate>Tue, 01 Sep 2026 01:50:08 GMT</pubDate>
     </item>
     <item>
+      <title>国货之光！全球AI存储基准测试MLPerf Storage 3.0结果发布，斩获九项第一</title>
+      <link>https://www.dostor.com/p/100982.html</link>
+      <description><![CDATA[9月1日，MLCommons 正式发布 MLPerf® Storage Benchmark 3.0（简称 MLPerf Storage）基准测试结果。 XSKY星辰天合旗下 MeshFS 首次参赛，在并行文件存储赛道获得九项第一。 MLPer...]]></description>
+      <guid>https://www.dostor.com/p/100982.html</guid>
+      <pubDate>Tue, 01 Sep 2026 01:24:00 GMT</pubDate>
+    </item>
+    <item>
       <title>华科大王芳教授：面向智算的高性能存算系统——从三大难题到协同突破</title>
       <link>https://www.dostor.com/p/100956.html</link>
       <description><![CDATA[2026年8月26日，在2026全球闪存峰会上，华中科技大学教授、计算机学院存储所所长王芳发表了题为《面向智算的高性能存算系统》的演讲。她指出，随着人工智能成为战略性技术，医疗、自动驾驶等关键领域对模型精度的要求越来越高，这直接推动了模型和...]]></description>
@@ -39,6 +53,13 @@
       <description><![CDATA[2026年8月，在2026全球闪存峰会上，慧荣科技产品企划部经理刘耀仁发表了题为《引领未来：智能存储与边缘AI趋势》的演讲。他指出，AI已经从流行词汇变成真正改变工作与生活方式的技术，而AI的价值真正落地，必须依靠边缘设备——PC、手机、汽...]]></description>
       <guid>https://www.dostor.com/p/100953.html</guid>
       <pubDate>Mon, 31 Aug 2026 05:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>百万大奖激励创新！华为2025奥林帕斯奖名单出炉，2026难题诚邀全球科研团队共解</title>
+      <link>https://www.dostor.com/p/100989.html</link>
+      <description><![CDATA[8月29日，华为正式揭晓2025奥林帕斯奖获奖名单，以此致敬全球科研团队在AI时代存储技术变革中的卓越贡献。 2025奥林帕斯难题紧扣“面向AI时代的创新介质技术”与“Agentic AI原生的数据底座”两大核心方向，来自全球的7支顶尖科研团...]]></description>
+      <guid>https://www.dostor.com/p/100989.html</guid>
+      <pubDate>Mon, 31 Aug 2026 03:25:00 GMT</pubDate>
     </item>
     <item>
       <title>主力Mac空间告急？别慌铁威马有办法</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[随着AI大模型和智能算力的快速发展，SSD、控制器和存储系统需要面对越来越复杂的工作负载。如何测得准、测得全，并通过测试发现真实应用中的问题，已经成为产品创新的重要一环。 2026 全球闪存峰会会场 2026年8月26日在武汉光谷召开的全球...]]></description>
       <guid>https://www.dostor.com/p/100894.html</guid>
       <pubDate>Thu, 27 Aug 2026 03:25:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>携手生态伙伴，构筑AI存储基石——Solidigm（思得） 亮相2026全球闪存峰会</title>
-      <link>https://www.dostor.com/p/100892.html</link>
-      <description><![CDATA[2026年8月26日，武汉——在今日开幕的2026全球闪存峰会上，Solidigm（思得）发表了题为“构筑AI存储基石”的主题演讲。 AI的快速发展带来数据规模的急剧扩张，这对AI基础设施提出了全新考验，也让存储的作用和价值愈发明显。作为企业...]]></description>
-      <guid>https://www.dostor.com/p/100892.html</guid>
-      <pubDate>Wed, 26 Aug 2026 15:18:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>存力跃迁，AI破局，2026全球闪存峰会闪耀江城！</title>
-      <link>https://www.dostor.com/p/100938.html</link>
-      <description><![CDATA[  2026全球闪存峰会圆满落幕 AI浪潮正在奔涌而来，一场围绕“存力”的产业变革，正在加速展开。 AI时代，数据即核心生产力；存储底座，决定AI落地高度。 8月26日，以“存力跃迁，AI破局”为主题，由DOIT传媒、华中...]]></description>
-      <guid>https://www.dostor.com/p/100938.html</guid>
-      <pubDate>Wed, 26 Aug 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>骆建军教授的2026闪存峰会观察：当AI重新定义存储产业</title>
-      <link>https://www.dostor.com/p/100884.html</link>
-      <description><![CDATA[2026年8月4日，美国加州圣克拉拉会议中心，一年一度的全球存储产业峰会（FMS）如期举行。今年是FMS创办二十周年，也是它正式更名后的首届大会——从“Flash Memory Summit”到“Future of Memory and S...]]></description>
-      <guid>https://www.dostor.com/p/100884.html</guid>
-      <pubDate>Wed, 26 Aug 2026 06:45:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
