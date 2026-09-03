@@ -4,111 +4,111 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Sat, 29 Aug 2026 12:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:34:26 GMT</lastBuildDate>
     <item>
-      <title>购买域名高价出售也可能属于恶意：阿里巴巴通过仲裁拿回Alibaba.ai域名</title>
-      <link>https://www.landian.news/archives/126530.html</link>
-      <description><![CDATA[#域名资讯 购买域名高价出售也可能属于恶意：阿里巴巴集团通过仲裁成功拿回 Alibaba [.] ai 和 Tmall [.] ai 域名。 4 月份有人以 3333 美元购买 Alibaba [.] ai 域名，随后直接以 33333 美元出售该域名。阿里巴巴集团在 7 月提起仲裁，本周捷克仲裁法院认定原持有人构成机会主义性质的恶意取得和使用，最终裁定域名转给阿里巴巴集团。如果原持有人购买该域名后搭建与阿里巴巴集团无关的网站那都不会败诉，而纯粹加价卖就属于恶意了。查看全文：https://ourl.co/126530]]></description>
-      <guid>https://www.landian.news/archives/126530.html</guid>
-      <pubDate>Sat, 29 Aug 2026 08:16:33 GMT</pubDate>
+      <title>满足欧盟法规要求：微软宣布从明年3月起所有驱动程序都必须提交SBOM和VEX才能获得签名</title>
+      <link>https://www.landian.news/archives/126640.html</link>
+      <description><![CDATA[#行业资讯 满足欧盟网络韧性法案要求：微软宣布从明年 3 月开始驱动程序想要获得微软签名，必须提供 SBOM 和 VEX。 SBOM 需要列出驱动使用的第一方和第三方所有组件，包括库、框架、工具以及依赖。 VEX 则需要说明已经公开的 CVE 漏洞是否影响驱动。相关法案本质上是为了提高网络安全性，这是强制性法律要求，所以微软也在提前做准备。查看全文：https://ourl.co/126640]]></description>
+      <guid>https://www.landian.news/archives/126640.html</guid>
+      <pubDate>Thu, 03 Sep 2026 06:17:05 GMT</pubDate>
     </item>
     <item>
-      <title>美国联邦贸易委员会正在调查YouTube随意封号问题 有可能就此问题起诉谷歌</title>
-      <link>https://www.landian.news/archives/126504.html</link>
-      <description><![CDATA[#行业资讯 美国联邦贸易委员会正在调查 YouTube 随意封号问题，这类行为可能违反消费者保护法。 FTC 的调查重点是 YouTube 在已经公布服务条款和内容政策的情况下，私下执行其他标准删除用户发布的内容、限流甚至封号。监管机构认为社交平台有权自行制定规则，但制定后就需要按规则来，而不是人前一套人后一套。查看全文：https://ourl.co/126504]]></description>
-      <guid>https://www.landian.news/archives/126504.html</guid>
-      <pubDate>Sat, 29 Aug 2026 07:47:00 GMT</pubDate>
+      <title>虚拟化平台Proxmox VE宣布进军北美市场 成立新办事处提供7x24小时企业支持</title>
+      <link>https://www.landian.news/archives/126639.html</link>
+      <description><![CDATA[#行业资讯 开源虚拟化平台 Proxmox VE 在北美成立运营中心，将为美国和加拿大客户提供全天候技术支持。现阶段 PVE 主要按奥地利工作时间提供支持，由于时差问题北美客户经常在工作时间找不到人，现在成立北美运营中心可以解决这个问题。另外 PVE 特别强调支持团队就是自己的工程团队，不会像某些公司那样把技术支持外包给第三方服务商，这里其实说的就是博通 VMware。查看全文：https://ourl.co/126639]]></description>
+      <guid>https://www.landian.news/archives/126639.html</guid>
+      <pubDate>Thu, 03 Sep 2026 06:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>美光英睿达固态盘售后也成问题：用户4TB固态盘故障后 美光只愿按原价200美元退款</title>
-      <link>https://www.landian.news/archives/126503.html</link>
-      <description><![CDATA[#硬件设备 美光英睿达固态硬盘售后也成问题：用户 4TB 固态硬盘故障后美光只愿意原价退款。原价退款 200 美元，而购买同款硬盘现在需要 680 美元，显然这是无法接受的。美光拒绝用户提出的各种方案，最终这名用户援引美国《马格努森 - 莫斯保固法案》要求美光提供等效替代产品，这时候美光才松口说还有备用库存，最后完成同款换新。查看全文：https://ourl.co/126503]]></description>
-      <guid>https://www.landian.news/archives/126503.html</guid>
-      <pubDate>Sat, 29 Aug 2026 07:31:31 GMT</pubDate>
+      <title>微软重做财报架构：核心业务换名字 分别是智能体与基础设施和设备与消费者</title>
+      <link>https://www.landian.news/archives/126638.html</link>
+      <description><![CDATA[#行业资讯 微软重做财报架构：核心业务换名字，分别是智能体与基础设施、设备与消费者。其中大多数与 AI 沾边的产品都被放在智能体与基础设施板块，设备与消费者板块只有 Windows、Xbox 和必应搜索及广告业务。此次微软只是对财报架构进行调整，实际团队并未重组。查看全文：https://ourl.co/126638]]></description>
+      <guid>https://www.landian.news/archives/126638.html</guid>
+      <pubDate>Thu, 03 Sep 2026 05:47:54 GMT</pubDate>
     </item>
     <item>
-      <title>迫于无奈只能退订：美区Apple One和Apple TV+订阅价格大涨20%</title>
-      <link>https://www.landian.news/archives/126502.html</link>
-      <description><![CDATA[#行业资讯 苹果大幅度提高 Apple TV+ 和 Apple One 订阅价格，涨幅 20%。苹果日前通知美国、巴西、墨西哥和智利用户宣布调整 Apple TV+ 和 Apple One 订阅价格。其中 TV+ 从每月 12.99 美元或每年 99 美元大幅上涨到每月 14.99 美元或每年 119 美元。 Apple One 家庭订阅在 7 月份已经涨价过所以这次没涨，但个人订阅从每月 19.95 美元提高到 21.95 美元。查看全文：https://ourl.co/126502]]></description>
-      <guid>https://www.landian.news/archives/126502.html</guid>
-      <pubDate>Sat, 29 Aug 2026 04:58:09 GMT</pubDate>
+      <title>微软确认Windows 11更新导致鼠标指针异常和桌面壁纸变成黑色 影响非英语系统</title>
+      <link>https://www.landian.news/archives/126637.html</link>
+      <description><![CDATA[#系统资讯 微软确认 Windows 11 8 月可选更新导致用户个性化鼠标指针样式丢失和桌面壁纸变纯黑色。微软经过调查后发现是 KB5120998 变更的代码组件引起，该问题只影响非英语系统。代码组件变更导致个性化配置加载出现问题，因此用户重新设置也没用。查看全文：https://ourl.co/126637]]></description>
+      <guid>https://www.landian.news/archives/126637.html</guid>
+      <pubDate>Thu, 03 Sep 2026 05:26:22 GMT</pubDate>
     </item>
     <item>
-      <title>智谱宣布GLM-5.3模型正式开源 支持免费部署和商用 但大型企业必须先提交审查</title>
-      <link>https://www.landian.news/archives/126501.html</link>
-      <description><![CDATA[#人工智能 智谱开放发布 GLM-5.3 模型权重，支持免费部署和商业性使用，但超大型模型提供商必须事先申请审查。 GLM-5.3 采用的许可证并非 MIT，对于个人与普通企业而言许可证与 MIT 没有区别。但营收超过 100 亿美元的模型服务提供商必须事先提交审查，这个限制也基本只会影响微软、谷歌、英伟达、阿里巴巴、腾讯等类型的超大公司。查看全文：https://ourl.co/126501]]></description>
-      <guid>https://www.landian.news/archives/126501.html</guid>
-      <pubDate>Sat, 29 Aug 2026 04:35:39 GMT</pubDate>
+      <title>欧盟法院经过审理后认为微软预装Microsoft Edge问题不大 可以继续豁免</title>
+      <link>https://www.landian.news/archives/126636.html</link>
+      <description><![CDATA[#行业资讯 欧盟法院审理后认为微软预装 Microsoft Edge 问题不大，可以继续豁免守门人角色，不需要被严格监管。此案件源于 Opera 浏览器起诉欧盟委员会，因为 2024 年欧盟认为 Edge 虽然明面上预装用户多，但实际上没多少人用，所以不需要严格监管。 Opera 不服直接起诉欧盟，现在法院也认为欧盟做法没问题。查看全文：https://ourl.co/126636]]></description>
+      <guid>https://www.landian.news/archives/126636.html</guid>
+      <pubDate>Thu, 03 Sep 2026 03:30:50 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI宣布切断Cursor的模型访问 从11月12日起不再向Cursor提供API服务</title>
-      <link>https://www.landian.news/archives/126500.html</link>
-      <description><![CDATA[#人工智能 OpenAI 宣布切断 Cursor 的 GPT 系列模型供应，从 11 月 12 日起用户无法再通过 Cursor 使用 GPT 模型。 OpenAI 与 Cursor 的合作协议有控制权变更条款，即 Cursor 被收购后 OpenAI 有权终止合作。当然 OpenAI 继续指责埃隆马斯克经常违反合作协议，所以 OpenAI 不再与 Cursor 合作。查看全文：https://ourl.co/126500]]></description>
-      <guid>https://www.landian.news/archives/126500.html</guid>
-      <pubDate>Sat, 29 Aug 2026 04:21:22 GMT</pubDate>
+      <title>Microsoft Defender错误将谷歌搜索链接标记为恶意 目前正在修复</title>
+      <link>https://www.landian.news/archives/126635.html</link>
+      <description><![CDATA[#软件资讯 Microsoft Defender 日常：错误将谷歌搜索结果链接标记为恶意网址。这个问题目前只影响企业，适用于企业的 Microsoft Defender for Office 365 组件存在安全分类器异常的问题，因此员工打开链接会被直接拦截。与此同时 IT 管理员控制台还会收到错误警报，所以也会给 IT 管理员的工作造成麻烦。查看全文：https://ourl.co/126635]]></description>
+      <guid>https://www.landian.news/archives/126635.html</guid>
+      <pubDate>Thu, 03 Sep 2026 03:00:23 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌也开始打击AI抓取？谷歌搜索结果不再采用直链跳转 需要从服务器goto链接解码</title>
-      <link>https://www.landian.news/archives/126499.html</link>
-      <description><![CDATA[#行业资讯 谷歌也开始打击 AI 抓取？谷歌搜索结果不再采用直链跳转，需要从服务器 goto 链接解码内容。此次调整应该是打击 AI 爬虫和自动化程序抓取数据的，不过也会直接破坏各类 SEO 分析工具。谷歌官方称公司长期通过技术措施应对不断变化的滥用行为，但谷歌未说明调整具体针对哪些服务。查看全文：https://ourl.co/126499]]></description>
-      <guid>https://www.landian.news/archives/126499.html</guid>
-      <pubDate>Sat, 29 Aug 2026 04:07:41 GMT</pubDate>
+      <title>香港服务器提供商Netfront出现重大安全问题 C区22台宿主机遭黑客攻击</title>
+      <link>https://www.landian.news/archives/126634.html</link>
+      <description><![CDATA[#安全资讯 重要安全提醒：香港服务器提供商 Netfront 使用 PVE 7 遭到入侵，建议用户立即备份数据以防不测。该公司在昨天晚上向用户群发邮件通知 C 区出现安全问题，但 A 区和 B 区可能也受影响。有网络安全领域的用户向蓝点网证实 Netfront 使用的就是 PVE 7 系列，相关母鸡 IP 暴露在观测平台，所以直接访问 IP:8006 再使用 2FA TFA 票据即可获得母鸡 root 权限。查看全文：https://ourl.co/126634]]></description>
+      <guid>https://www.landian.news/archives/126634.html</guid>
+      <pubDate>Thu, 03 Sep 2026 02:30:49 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 26.04.1 LTS版现已发布 集成2024年4月以来的所有补丁和软件更新</title>
-      <link>https://www.landian.news/archives/126498.html</link>
-      <description><![CDATA[#系统资讯 Ubuntu 26.04.1 LTS 镜像正式版，集成 2024 年 4 月以来的所有补丁和软件更新，用户通过新镜像部署后无需再重复更新。新版本还集中修复多个桌面环境问题和安装问题，也包含多个驱动程序更新，尤其是无线网卡驱动更新。另请注意：Ubuntu 24.04 版暂时无法升级，预计数周后等某个组件完成移植后才可以升级。查看全文：https://ourl.co/126498]]></description>
-      <guid>https://www.landian.news/archives/126498.html</guid>
-      <pubDate>Fri, 28 Aug 2026 04:33:58 GMT</pubDate>
+      <title>Firefox for iOS 155带来原生内置广告拦截器 需用户主动开启且不会过滤自家广告</title>
+      <link>https://www.landian.news/archives/126633.html</link>
+      <description><![CDATA[#软件资讯 Firefox for iOS 155 版正式推出内置广告拦截器，默认关闭，用户开启后可以调用 EasyList 拦截已知广告。需要说明的是底层拦截能力仍然基于 WebKit 提供的 API，因此拦截效率比不上桌面版配合扩展程序，属于基础广告拦截。另外开启后也不会拦截 FF 自己在新标签页添加的广告。查看全文：https://ourl.co/126633]]></description>
+      <guid>https://www.landian.news/archives/126633.html</guid>
+      <pubDate>Thu, 03 Sep 2026 02:00:50 GMT</pubDate>
     </item>
     <item>
-      <title>高调作死的下场：澳洲警方逮捕TeamPCP两名核心成员 其开源供应链攻击震惊全球</title>
-      <link>https://www.landian.news/archives/126497.html</link>
-      <description><![CDATA[#安全资讯 高调作死的下场：澳洲警方联合 FBI 逮捕 TeamPCP 两名核心成员，其迷你沙虫供应链攻击震惊全球。 TeamPCP 就是今年 NPM 生态系统供应链攻击的主要推手，不过澳洲警方与 FBI 追查到两名核心成员的真实身份。日前执法机构逮捕 21 岁的汤姆森和 23 岁的盖布勒，两人合计面临 14 项指控。查看全文：https://ourl.co/126497]]></description>
-      <guid>https://www.landian.news/archives/126497.html</guid>
-      <pubDate>Fri, 28 Aug 2026 04:08:10 GMT</pubDate>
+      <title>微软宣布禁用Word和Outlook中的文本预测功能 因为用户不喜欢机器生成的内容</title>
+      <link>https://www.landian.news/archives/126632.html</link>
+      <description><![CDATA[#软件资讯 微软宣布禁用 Word 和 Outlook 中的文本预测功能，因为用户并不喜欢机器生成的建议内容。用户反馈更喜欢自己手动输入文本，而文本预测有时候还会干扰正常输入。最终微软决定将其默认禁用，有需要的用户可以在设置选项里手动启用。查看全文：https://ourl.co/126632]]></description>
+      <guid>https://www.landian.news/archives/126632.html</guid>
+      <pubDate>Thu, 03 Sep 2026 01:30:48 GMT</pubDate>
     </item>
     <item>
-      <title>微软发布Windows 11 26H2首个正式的预览版 坏消息是没什么新功能</title>
-      <link>https://www.landian.news/archives/126496.html</link>
-      <description><![CDATA[#系统资讯 微软发布 Windows 11 26H2 首个正式的预览版，通过 eKB 启用包下载安装即可。所谓正式的预览版指的是推送到发布预览频道中的版本，当前距离 26H2 发布已经很近，所以微软开始推送到发布预览频道进行最终测试。坏消息是 26H2 仍然是次要更新，所以并没有带来独特的新功能。说起来现在微软开发的新功能都是直接推送，不会积累起来等到下个版本再发布，所以每年的功能更新其实意义不大。查看全文：https://ourl.co/126496]]></description>
-      <guid>https://www.landian.news/archives/126496.html</guid>
-      <pubDate>Fri, 28 Aug 2026 03:35:17 GMT</pubDate>
+      <title>GitHub CLI现在可以通过命令行添加文件 例如上传图片或视频附加到PR中</title>
+      <link>https://www.landian.news/archives/126631.html</link>
+      <description><![CDATA[#软件资讯 GitHub CLI 版现在支持附加文件命令，可以将本地图片或视频直接上传到 Issue、PR 以及评论中。该功能适用​​于所有用户，只需要将 GitHub CLI 升级到 2.99.012+ 版即可。文件大小限制与网页版相同，免费用户单个文件 10MB，付费用户可以上传最高 100MB 的视频。查看全文：https://ourl.co/126631]]></description>
+      <guid>https://www.landian.news/archives/126631.html</guid>
+      <pubDate>Thu, 03 Sep 2026 01:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>知名广告拦截程序uBlock Origin发布适用于谷歌浏览器的最终版 月底将被谷歌下架</title>
-      <link>https://www.landian.news/archives/126495.html</link>
-      <description><![CDATA[#软件资讯 知名广告拦截程序 uBlock Origin 发布适用于谷歌浏览器的最终版，因为到 8 月 31 日该扩展将被谷歌从商店里删除。新版本为 v1.74.0 版，算是提交到 Chrome 商店的最终版本，后续谷歌下架后开发者将无法发布更新。未来用户想要安装也只能自己下载离线安装包手动安装，而且新版 Chrome 也无法使用 MV2 扩展。注意：不会停止开发，因为其他浏览器还继续支持基于 MV2 的 uBlock Origin。查看全文：https://ourl.co/126495]]></description>
-      <guid>https://www.landian.news/archives/126495.html</guid>
-      <pubDate>Thu, 27 Aug 2026 05:57:59 GMT</pubDate>
+      <title>全民开盒：美国身份验证服务商IDScan出现数据泄露 黑客出售1​​.53亿份证件扫描件</title>
+      <link>https://www.landian.news/archives/126630.html</link>
+      <description><![CDATA[#全民开盒 美国身份验证服务商 IDScan 出现超大规模数据泄露，黑客成功拿到高达 1.53 亿份驾照 / 护照 / 身份证件 / 医疗卡扫描件。已经有网络安全从业者进行验证，通过对家人和朋友信息进行验证后基本确认数据是真实的。黑客自称花费数年才从目标系统里拿到数据，按照 500KB 计算，数据总规模也超过 70TB。查看全文：https://ourl.co/126630]]></description>
+      <guid>https://www.landian.news/archives/126630.html</guid>
+      <pubDate>Wed, 02 Sep 2026 08:09:45 GMT</pubDate>
     </item>
     <item>
-      <title>科技在于更名：微软将Microsoft 365路线图网站更名为AI at Work Roadmap</title>
-      <link>https://www.landian.news/archives/126494.html</link>
-      <description><![CDATA[#人工智能 科技在于更名：微软宣布将 Microsoft 365 路线图网站更名为 AI at Work Roadmap，新增大量与 AI 相关的产品开发状态。甚至从 9 月份开始，诸如 Dynamics 365 和 Power Platform 平台的 AI 相关更新也会塞进来。对于只想查看办公软件更新的用户来说，以后得频繁使用筛选功能。查看全文：https://ourl.co/126494]]></description>
-      <guid>https://www.landian.news/archives/126494.html</guid>
-      <pubDate>Thu, 27 Aug 2026 05:45:39 GMT</pubDate>
+      <title>Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效</title>
+      <link>https://www.landian.news/archives/126629.html</link>
+      <description><![CDATA[#人工智能 A 社宣布 Claude Messages API 部署新机制防止规模化蒸馏，修改历史内容将导致思考块直接失效。现阶段新机制将应用于调用 Fable 5.1 的新 API 账户，后续新机制将覆盖所有 API 账户。如果开发者修改请求中的早期消息、系统提示或工具，请求会直接返回错误。查看全文：https://ourl.co/126629]]></description>
+      <guid>https://www.landian.news/archives/126629.html</guid>
+      <pubDate>Wed, 02 Sep 2026 07:42:10 GMT</pubDate>
     </item>
     <item>
-      <title>阿里云下调Qwen3.8-Flash调用价格 调整后比智谱GLM-5.3-Flash便宜1毛钱</title>
-      <link>https://www.landian.news/archives/126493.html</link>
-      <description><![CDATA[#人工智能 阿里云下调 Qwen3.8-Flash 调用价格，调整后比智谱刚刚发布的 GLM-5.3-Flash 便宜 1 毛钱。此次阿里云百炼调价似乎就是对标智谱 GLM-5.3-Flash 原价的，不过智谱当前开启两周限时 5 折，与 5 折价格相比阿里云还是没有优势。查看全文：https://ourl.co/126493]]></description>
-      <guid>https://www.landian.news/archives/126493.html</guid>
-      <pubDate>Thu, 27 Aug 2026 05:28:26 GMT</pubDate>
+      <title>苹果群发邮件通知Mac软件开发者：已经没必要再适配英特尔CPU</title>
+      <link>https://www.landian.news/archives/126628.html</link>
+      <description><![CDATA[#软件资讯 苹果群发邮件通知 Mac 软件开发者：已经没有必要再适配英特尔 CPU。苹果的建议是无论是现有还是新发布的软件都可以设置为仅支持 Arm64 架构，不需要再支持 x64 架构。根据苹果规划，macOS 27 已经停止支持 Intel Mac，而用于运行 Arm 软件的 Rosetta 2 也将在明年停用。不过这只是苹果建议而非强制措施，如果开发者认为有必要继续照顾存量用户，那可以继续构建支持 x64 的版本。查看全文：https://ourl.co/126628]]></description>
+      <guid>https://www.landian.news/archives/126628.html</guid>
+      <pubDate>Wed, 02 Sep 2026 07:00:13 GMT</pubDate>
     </item>
     <item>
-      <title>[下载] ChatGPT&Codex 历史版本下载 含Windows/macOS/Linux最近15个版本</title>
-      <link>https://www.landian.news/download/126522.html</link>
-      <description><![CDATA[#Codex 历史版本 ChatGPT&amp;Codex 历史版本下载，含 Windows、macOS、Linux 最近 15 个版本的离线安装文件。 Codex 有时候发布的新版本有问题，开发者可能需要回滚到旧版本，但 OpenAI 本身未提供旧版本下载。所以蓝点网下载服务器有个脚本用来定时拉取 Codex 安装包，其中 macOS 和 Linux 版均从 OpenAI 服务器拉取，Windows 版因为是发布到微软商店的，所以是从微软商店解析的地址下载的。下载地址：https://ourl.co/126522]]></description>
-      <guid>https://www.landian.news/download/126522.html</guid>
-      <pubDate>Thu, 27 Aug 2026 04:43:12 GMT</pubDate>
+      <title>从10月开始微软将默认开启Windows 11内存完整性保护 会影响游戏性能</title>
+      <link>https://www.landian.news/archives/126627.html</link>
+      <description><![CDATA[#系统资讯 微软将从 10 月开始为满足硬件要求的 Windows 11 PC 默认开启内存完整性保护功能。该功能通常不会默认全部开启，微软以前主要在较新的 PC 上开启，用户可以禁用。但随着 AI 发掘的漏洞越来越多，微软认为有必要默认开启提升安全性。开启后会影响 PC 性能，游戏玩家可以根据情况决定是否要禁用。查看全文：https://ourl.co/126627]]></description>
+      <guid>https://www.landian.news/archives/126627.html</guid>
+      <pubDate>Wed, 02 Sep 2026 06:30:59 GMT</pubDate>
     </item>
     <item>
-      <title>美国蓝鸟公司复活推特上线Twitter.now 认为马斯克已经放弃推特相关名称和品牌</title>
-      <link>https://www.landian.news/archives/126492.html</link>
-      <description><![CDATA[#行业资讯 贴脸开大：美国蓝鸟公司复活推特上线 Twitter.now 社交网站，该公司认为既然埃隆马斯克已经将原推特更名为 X，那就是自愿放弃推特相关商标。目前 X 已经起诉蓝鸟公司，蓝鸟公司也向美国专利商标局提出申请，请求撤销 X 持有的相关商标。查看全文：https://ourl.co/126492]]></description>
-      <guid>https://www.landian.news/archives/126492.html</guid>
-      <pubDate>Thu, 27 Aug 2026 03:44:08 GMT</pubDate>
+      <title>[设置保护] X/Twitter用户正在遭到批量密码找回攻击 疑似与X金融工具有关</title>
+      <link>https://www.landian.news/archives/126626.html</link>
+      <description><![CDATA[#安全资讯 [立即设置保护] X/Twitter 用户正在遭到批量密码找回攻击，疑似与 X Money 服务有关。从本周开始大量用户发帖称频繁收到密码重置邮件，黑客试图通过用户名重置用户密码 (但需要验证码才能重置)。这种情况也引起 X 团队的关注，X 团队猜测可能与 X Money 有关，即黑客想要劫持账户洗劫用户资金。目前简单的解决办法就是开启密码找回保护，开启后无法直接通过用户名找回密码，还需要输入注册邮箱或绑定手机号。开启方法：https://ourl.co/126626]]></description>
+      <guid>https://www.landian.news/archives/126626.html</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

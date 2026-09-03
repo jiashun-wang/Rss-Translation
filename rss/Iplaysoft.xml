@@ -4,7 +4,16 @@
     <title>异次元软件世界</title>
     <link>https://www.iplaysoft.com</link>
     <description>软件改变生活</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:34:43 GMT</lastBuildDate>
+    <item>
+      <title>全球免费公共 NTP 服务器 IP 收集 - VPS 自动校准 Linux 系统时间方法</title>
+      <link>https://www.iplaysoft.com/p/public-ntp-server</link>
+      <description><![CDATA[如果你需要维护 VPS 服务器、数据库或网络设备，要保证它们之间时间正确且同步，一定需要 NTP。异次元收录了一份全球免费公共 NTP 服务器 IP 地址列表，方便大家设置电脑、配置服务器时能用得上。
+
+因为时间不准确，会引发很多“莫名其妙”匪夷所思的问题。因此这份公共 NTP IP 列表可以帮助大家…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
+      <guid>https://www.iplaysoft.com/p/public-ntp-server</guid>
+      <pubDate>Thu, 03 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
     <item>
       <title>UPDF：AI 加持的全能 PDF 编辑器 (用过才知为啥大家都超级推荐！功能超全)</title>
       <link>https://www.iplaysoft.com/updf-editor.html</link>
@@ -128,15 +137,6 @@ Mole 是一款可靠且效果出色的开源命令行 Mac 垃圾清理工具，�
 「 前往查看原文.... 」异次元还有这些值得一看：简约翻译 KISS Translator - 开源免费沉浸式翻译替代品 (划词/双语对照/视频字幕)沉浸式翻译 - 好评如潮的“网页双语翻译”工具 (浏览器插件)！高效对照阅读必备会译 - 免费好用的“AI 双语对照”网页翻译插件工具 (支持PDF/视频字幕/划词翻译等)OpenAI Translator - 超强开源 AI 划词翻译工具 (基于 ChatGPT API / 跨平台 / 质量高)异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
       <guid>https://www.iplaysoft.com/readfrog.html</guid>
       <pubDate>Fri, 07 Aug 2026 17:19:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>AndroMeld - 在 Mac 电脑控制安卓手机 (应用投屏/镜像/剪贴板通知同步/文件管理)</title>
-      <link>https://www.iplaysoft.com/andromeld.html</link>
-      <description><![CDATA[在日常工作中，我们经常要使用电脑和手机来协同完成工作。如果用的是 Mac + iPhone，那天然就有苹果生态的支持，使用上还算是方便。 
-但如果用的是 Mac + 安卓手机，那光是文件传输，就让人头大了。 AndroMeld 就是一款能让你的 Android 设备和 macOS 电脑无缝连接的工具！不只是传文件，你甚至还能将手机 APP 直接投屏镜像到 Mac 上控制使用！ APP 窗口还能拖放调整大小，在大屏上“远控”手机非常方便……
-「 前往查看原文.... 」异次元还有这些值得一看：Scrcpy 4 - 开源免费在电脑显示手机画面并控制安卓手机工具 (投屏/录屏/镜像/免Root)Escrcpy - 免费开源！电脑控制安卓手机的投屏工具 (屏幕镜像 / 无线 / AI 自动化 / 录屏)Scrcpy-GUI 电脑控制安卓手机的工具神器！终于有了更直观好用的界面啦AnLink 中文版 - 免费简单的在电脑上操作 Android 安卓手机软件 (投屏控制 / 不限品牌)异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]></description>
-      <guid>https://www.iplaysoft.com/andromeld.html</guid>
-      <pubDate>Mon, 03 Aug 2026 16:47:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

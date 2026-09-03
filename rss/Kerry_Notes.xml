@@ -4,7 +4,7 @@
     <title>Kerry的学习笔记</title>
     <link>https://kerrynotes.com</link>
     <description>好好学习，Day Day Up!</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:33:32 GMT</lastBuildDate>
     <item>
       <title>Windows 上几个代理客户端互相打架，我做了个网络接管守卫</title>
       <link>https://kerrynotes.com/network-guardian/</link>
@@ -46,44 +46,44 @@
       <pubDate>Mon, 03 Aug 2026 16:06:34 GMT</pubDate>
     </item>
     <item>
+      <title>再聊机场客户端 – 多代理客户端会打架</title>
+      <link>https://kerrynotes.com/jichang-client/</link>
+      <description><![CDATA[13日我写了篇文章，说现在机场的客户端存在一些问题，容易出现全节点超时的情况。但之后我认为当时的测试并不严谨： […]
+&lt;p&gt;The post 再聊机场客户端 – 多代理客户端会打架 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
+      <guid>https://kerrynotes.com/jichang-client/</guid>
+      <pubDate>Fri, 17 Jul 2026 02:04:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>闲聊下机场客户端和订阅阅后即焚</title>
+      <link>https://kerrynotes.com/airport-client-choice/</link>
+      <description><![CDATA[前两天有朋友留言，说龙猫云总是断线，但看我测出来的速度又很不错，觉得这两个结果对不上。 这两件事其实并不矛盾。 […]
+&lt;p&gt;The post 闲聊下机场客户端和订阅阅后即焚 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
+      <guid>https://kerrynotes.com/airport-client-choice/</guid>
+      <pubDate>Sat, 11 Jul 2026 14:48:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个机场测速观察站</title>
+      <link>https://kerrynotes.com/speedtest-site/</link>
+      <description><![CDATA[最近我把自己用来记录机场测速的数据，整理成了一个独立网站：机场观察手记。 它不是排行榜，也不是“闭眼买”推荐。 […]
+&lt;p&gt;The post 我做了一个机场测速观察站 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
+      <guid>https://kerrynotes.com/speedtest-site/</guid>
+      <pubDate>Mon, 06 Jul 2026 15:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我让 Codex 自己缓解了一下它的 SSD 高频写入问题</title>
+      <link>https://kerrynotes.com/codex-ssd-sqlite-filter/</link>
+      <description><![CDATA[之前看到有人说 Codex Desktop 会高频写入本地 SQLite 日志，导致 SSD 写入量异常增加。 […]
+&lt;p&gt;The post 我让 Codex 自己缓解了一下它的 SSD 高频写入问题 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
+      <guid>https://kerrynotes.com/codex-ssd-sqlite-filter/</guid>
+      <pubDate>Sun, 05 Jul 2026 00:54:41 GMT</pubDate>
+    </item>
+    <item>
       <title>没想到奈云也出事了</title>
       <link>https://kerrynotes.com/%e6%b2%a1%e6%83%b3%e5%88%b0%e5%a5%88%e4%ba%91%e4%b9%9f%e5%87%ba%e4%ba%8b%e4%ba%86/</link>
       <description><![CDATA[昨天看到评论说奈云打不开了，试了一下果然。然后发现官网也打不开了。奈云算是比较老的机场了，一直以来还挺稳的，前 […]
 &lt;p&gt;The post 没想到奈云也出事了 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
       <guid>https://kerrynotes.com/%e6%b2%a1%e6%83%b3%e5%88%b0%e5%a5%88%e4%ba%91%e4%b9%9f%e5%87%ba%e4%ba%8b%e4%ba%86/</guid>
       <pubDate>Thu, 02 Jul 2026 07:19:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>【2026年9月】机场优惠码汇总</title>
-      <link>https://kerrynotes.com/vpn-coupon-code/</link>
-      <description><![CDATA[本文汇总下我使用过的机场的优惠码。每年有很多节日，机场这时候都会做促销，需要的话可以看看。 今年4月之后，除了 […]
-&lt;p&gt;The post 【2026年9月】机场优惠码汇总 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
-      <guid>https://kerrynotes.com/vpn-coupon-code/</guid>
-      <pubDate>Sun, 21 Apr 2024 03:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLaOS 礼品码免费分享（2026-9-2） | 可兑换30天Basic套餐</title>
-      <link>https://kerrynotes.com/glados-redeem-code/</link>
-      <description><![CDATA[GLaDOS 机场怎么样？ GLaDOS机场是目前我用过的机场里面最让我感觉不一样的一个，怎么说呢，更像是一个 […]
-&lt;p&gt;The post GLaOS 礼品码免费分享（2026-9-2） | 可兑换30天Basic套餐 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
-      <guid>https://kerrynotes.com/glados-redeem-code/</guid>
-      <pubDate>Wed, 17 Jan 2024 14:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 Telegram（电报）+86 收不到验证码：注册、登录与换绑排查</title>
-      <link>https://kerrynotes.com/cannot-receive-telegram-verification-code/</link>
-      <description><![CDATA[现在用 +86 注册 Telegram，或者换新手机重新登录，短信验证码基本不能指望了。 我刚刚又测试了一遍： […]
-&lt;p&gt;The post 2026 Telegram（电报）+86 收不到验证码：注册、登录与换绑排查 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
-      <guid>https://kerrynotes.com/cannot-receive-telegram-verification-code/</guid>
-      <pubDate>Thu, 30 Nov 2023 17:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026年按流量付费的机场推荐 | 适合作备用机场</title>
-      <link>https://kerrynotes.com/best-vpn-pay-by-traffic/</link>
-      <description><![CDATA[按流量付费的机场，我一直把它理解成以前的游戏点卡：买个流量包，用多少扣多少，不需要每个月续费。 这种套餐特别适 […]
-&lt;p&gt;The post 2026年按流量付费的机场推荐 | 适合作备用机场 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
-      <guid>https://kerrynotes.com/best-vpn-pay-by-traffic/</guid>
-      <pubDate>Thu, 20 Apr 2023 06:03:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

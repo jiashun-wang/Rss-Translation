@@ -4,7 +4,14 @@
     <title>AVISO: Rss Feeds</title>
     <link>https://www.aviso.altimetry.fr/</link>
     <description>Live from Aviso Website</description>
-    <lastBuildDate>Thu, 27 Aug 2026 17:17:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:30:36 GMT</lastBuildDate>
+    <item>
+      <title>Sentinel-6B 完全符合任务要求，并与 Sentinel-6Michael Freilich 和 Swot 一致</title>
+      <link>https://www.aviso.altimetry.fr//en/services/rss-feeds.html?no_cache=1&amp;tx_ttnews%5Btt_news%5D=3243&amp;cHash=f7608408b5b909703d72971f6aa3eea7</link>
+      <description><![CDATA[Sentinel-6B 与 Sentinel-6 Michael Freilich 和 Swot：所有操作均亮绿灯]]></description>
+      <guid>https://www.aviso.altimetry.fr//en/services/rss-feeds.html?no_cache=1&amp;tx_ttnews%5Btt_news%5D=3243&amp;cHash=f7608408b5b909703d72971f6aa3eea7</guid>
+      <pubDate>Thu, 03 Sep 2026 09:39:30 GMT</pubDate>
+    </item>
     <item>
       <title>新产品：Sentinel-6延迟多普勒测高重追踪5参数</title>
       <link>https://www.aviso.altimetry.fr//en/data/products/auxiliary-products/sentinel-6-delay-doppler-altimetry-retracking-5-parameters.html</link>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 04 Aug 2026 08:24:53 GMT</pubDate>
     </item>
     <item>
-      <title>最低点高度计、Swot 和 Sentinel-1 观测到的台风巴维</title>
+      <title>最低点高度计、Swot 和 Sentinel-1 观测到的台风巴威</title>
       <link>https://www.aviso.altimetry.fr//en/applications/atmosphere-wind-and-waves/hurricanes/typhoon-bavi-2026.html</link>
       <description><![CDATA[7 月 6 日至 11 日期间，每天都会测量到超过 12 m 的有效波高...]]></description>
       <guid>https://www.aviso.altimetry.fr//en/applications/atmosphere-wind-and-waves/hurricanes/typhoon-bavi-2026.html</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[新产品“热量演化引起的气候反馈参数变化分析”(APACHE) 是...]]></description>
       <guid>https://www.aviso.altimetry.fr//en/data/products/ocean-indicators-products/analysis-of-climate-feedback-parameter-changes-from-heat-evolution-apache.html</guid>
       <pubDate>Mon, 15 Jun 2026 12:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>新：MSS CNES-CLS 2025</title>
-      <link>https://www.aviso.altimetry.fr//en/data/products/auxiliary-products/mss/mss-global-cnes-cls-2025.html</link>
-      <description><![CDATA[CNES-CLS 25 MSS 的构建目的是探索使用 KaRIn SWOT 数据来提出...]]></description>
-      <guid>https://www.aviso.altimetry.fr//en/data/products/auxiliary-products/mss/mss-global-cnes-cls-2025.html</guid>
-      <pubDate>Thu, 11 Jun 2026 13:46:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>MIT 科技评论 - 本周热榜</title>
     <link>https://www.mittrchina.com/hot</link>
     <description>MIT 科技评论 - 本周热榜 - Powered by RSSHub</description>
-    <lastBuildDate>Wed, 02 Sep 2026 10:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:31:13 GMT</lastBuildDate>
+    <item>
+      <title>200个AI放进虚拟世界，无需交流就演化出了一套不会崩的“文明”</title>
+      <link>https://www.mittrchina.com/news/detail/16880</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.mittrchina.com/news/detail/16880</guid>
+      <pubDate>Tue, 01 Sep 2026 03:32:35 GMT</pubDate>
+    </item>
     <item>
       <title>a16z押注“机器时代”：AI的瓶颈，正在向模型以下转移</title>
       <link>https://www.mittrchina.com/news/detail/16878</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.mittrchina.com/news/detail/16867</guid>
       <pubDate>Sat, 29 Aug 2026 03:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>能走会滑、跌倒自起，还支持强化学习训练，Hugging Face开源了一只399美元的机器鸭</title>
-      <link>https://www.mittrchina.com/news/detail/16862</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.mittrchina.com/news/detail/16862</guid>
-      <pubDate>Fri, 28 Aug 2026 05:22:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

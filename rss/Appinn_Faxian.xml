@@ -4,7 +4,253 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:34:14 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】Chorus：macOS 菜单栏控制屏幕和音频，局域网多台 Mac 可同步遥控</title>
+      <link>https://meta.appinn.net/t/topic/91192</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/91192</guid>
+      <pubDate>Thu, 03 Sep 2026 09:28:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abiurl.me 短网址与 UTM 生成器免费开发使用！</title>
+      <link>https://meta.appinn.net/t/topic/91188</link>
+      <description><![CDATA[软件名称
+Abi 短网址与 UTM 生成器
+应用平台
+
+Windows
+MacOS
+
+推荐类型
+【开发者自荐】
+是否收费
+完全免费
+一句简介
+“Abiurl” 短网址生成器永久免费，支持一键生成短网址与 UTM 标记！ 
+应用简介
+欢迎使用 Abi 短网址生成器，本工具永久免费，支持一键复制、二维码生成及 UTM 参数设置。内置 Google Safe Browsing 安全浏览功能，能有效拦截恶意网站滥用缩网址，保障域名的安全与合规。非常适合营销人员、自媒体博主及前端工程师使用。 
+
+官方网站
+https://abiurl.me
+3 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91188</guid>
+      <pubDate>Thu, 03 Sep 2026 08:50:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】微信视频号/公众号下载</title>
+      <link>https://meta.appinn.net/t/topic/91183</link>
+      <description><![CDATA[软件名称
+微信视频号下载器
+应用平台
+
+Windows
+MacOS
+
+推荐类型
+【开发者自荐】
+是否收费
+免费
+一句简介
+在视频号页面插入下载按钮，点击即可下载对应的视频
+应用简介
+相比其他视频号下载工具，最大的差别就是在视频号页面增加了一个下载按钮，点击就可以下载，简单高效。 
+另外还提供了视频号部分 API 能力，可以基于 API 实现非常多的功能，包括但不限于
+
+监控某个账号下新发布的视频并下载
+获取某个视频的评论和回复
+根据关键字搜索账号
+
+可以参考 API文档 内提供的接口。 
+最近八月的几次更新增加了非常多功能 
+
+提供了前端页面，支持对下载的内容进行管理
+提供了 MCP 服务，可以在 agent 中使用下载器的所有能力。比如一句话「使用 dm MCP 下载 id 为 xx 的视频号评论到本地」就可以了
+支持下载视频号直播（需要 ffmpeg 全局可用）
+支持 知乎、抖音 的下载（在前端页面输入链接下载）
+支持公众号下载（需要在配置中手动开启后同样插入下载按钮或在前端页面输入链接下载）
+
+项目持续迭代近2年了，后续是准备往 通用内容下载器 或者说 内容归档工具 发展，源码里已经包含了 b站、youtube、番茄小说 等网站的下载能力，测试能稳定使用后也会慢慢开放。如果有想下载的网站可以留言，优先考虑支持 
+
+这个工具唯一的风险就是要安装系统根证书，用于在视频号页面插入下载按钮、hook视频号接口。如果担心风险，也是支持在配置文件中指定使用自己的根证书。代码也是开源的，可以审查。 
+
+
+Windows 用户如果无法正常插入下载按钮，一般是和VPN、XXX软件之类冲突了。其他问题可以到 issue 中搜索
+
+官方网站
+
+
+github.com
+
+
+
+
+GitHub - ltaoo/wx_channels_download: 微信视频号下载器
+微信视频号下载器
+
+
+
+
+
+
+3 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91183</guid>
+      <pubDate>Thu, 03 Sep 2026 07:33:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】Hotify，支持原生鸿蒙的统一的自托管推送终端，支持多平台统一管理，Bark，Gotify客户端和消息源直接接入</title>
+      <link>https://meta.appinn.net/t/topic/91174</link>
+      <description><![CDATA[软件名称
+Hotify
+应用平台
+
+Windows
+鸿蒙
+安卓
+ios
+
+推荐类型
+【开发者自荐】
+是否收费
+服务器免费。客户端的个性化功能收费
+一句话简介
+统一的推送平台，兼容Bark，Gotify协议同时可用Gotify+Bark直接接入
+应用简介
+2026年9月2日 已完成功能：
+
+支持 Bark，Gotify及Hotify自有协议
+支持 插件市场，AI智能部署，可实现全部webhook类。 
+支持 自定义通知铃声
+支持 多设备统一管理
+支持 鸿蒙端应用接续，杀后台或切换平台3分钟内恢复
+支持 鸿蒙端可发送图片/文件给其他平台
+支持 Windows / 安卓 / ios / 鸿蒙
+支持 Windows端支持自定义主题
+支持 Windows端支持自定义主题
+Web端支持沉浸光感效果
+
+开发中功能：
+
+Windows，安卓文件传输
+
+截图预览：
+
+
+
+、
+
+
+
+
+
+
+
+
+官方网站
+服务器端：sakura-lolipop/HotifyNEXT-Server-Release: Hotify Server 发行物仓库（二进制/镜像/部署指南）
+鸿蒙端：https://appgallery.huawei.com/app/detail?id=com.smgwy.hotify&amp;channelId=SHARE&amp;source=appshare
+Windows端：sakura-lolipop/gotify_pc: gotify通知的windows端，支持电脑直接查看gotify消息, 支持转发消息到bark ios手机端
+安卓端/苹果端：尚未就绪，可使用Gotify和Bark官方客户端接入
+QQ反馈群：1083847370
+欢迎各位提出宝贵意见！ 
+3 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91174</guid>
+      <pubDate>Thu, 03 Sep 2026 02:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>SmartCDA - 将使用CD音轨作为背景音乐的老游戏便携化的小工具</title>
+      <link>https://meta.appinn.net/t/topic/91172</link>
+      <description><![CDATA[软件名称
+SmartCDA
+应用平台
+Windows
+推荐类型
+【开发者自荐】
+是否收费
+免费开源
+一句话简介
+老游戏辅助小工具，用于将一些使用CD音轨作为背景音乐的游戏便携化。 
+功能特性
+
+模拟音乐CD：通过播放FLAC/OGG/MP3文件实现MCI接口，模拟音乐CD播放功能, 支持游戏内音量控制。 
+文件重定向：简易虚拟光驱，将光盘数据文件重定向到硬盘。 
+内存补丁：修补游戏进程的内存数据，破解其它限制。 
+
+使用方法
+
+提取CD音轨，编码成FLAC/OGG/MP3文件（命名为track02.ogg、track03.ogg等），复制到游戏目录或其子目录。 
+若游戏运行时需访问光盘上的文件，复制这些文件到游戏目录或其子目录。 
+复制smartcda.exe、smartcda.dll、smartcda.ini和audiere.dll文件到游戏目录。 
+编辑smartcda.ini，根据游戏特征调整设置。 
+运行smartcda.exe启动游戏。 
+
+官方网站
+
+
+github.com
+
+
+
+
+GitHub - cdfmr/smartcda: A small utility to make old games with CD sound...
+A small utility to make old games with CD sound tracks portable.
+
+
+
+
+
+
+游戏样例
+一些老游戏的包装示范，这些都是Abandonware，应该不涉及盗版讨论，如有不妥，请版主删除链接。 
+6 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91172</guid>
+      <pubDate>Thu, 03 Sep 2026 02:46:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】Snipper – 轻量级 Windows 截图工具：框选、标注、复制，一次搞定</title>
+      <link>https://meta.appinn.net/t/topic/91171</link>
+      <description><![CDATA[软件名称
+Snipper
+应用平台
+
+Windows 10 / 11
+
+推荐类型
+【开发者自荐】
+是否收费
+免费
+一句简介
+截图 → 标注 → 复制，一个动作闭环的轻量截图工具：常驻托盘、热键唤起，截完直接粘贴，纯本地运行无联网。 
+应用简介
+系统自带截图太简陋，重型工具又太慢，于是我自己写了一个。 
+按下 Ctrl+Shift+A，框选、标注、复制，全程不离开当前窗口：
+
+区域截图：冻结屏幕后框选，松手还能二次调整——8 个手柄缩放、框内拖动、Enter/双击确认、Esc 取消，多显示器全覆盖
+窗口截图：走 WGC（Windows.Graphics.Capture）通道，可以穿透遮挡截取被其他窗口盖住的目标窗口
+全屏截图：Ctrl+Shift+F 一键完成
+标注编辑器：矩形 / 箭头 / 文字 / 马赛克，颜色、线宽、马赛克强度可调，Ctrl+Z/Y 撤销重做
+自动复制到剪贴板：截完图气泡通知一闪，直接 Ctrl+V 贴进微信、Word、Issue
+多屏 + 高分屏深度适配：全程物理像素坐标，125%/150%/200% 混合 DPI 下截图不糊不歪
+绿色便携：解压即用，不写注册表，不联网，无账​​号
+
+保存支持 PNG / JPG / BMP，自动记忆上次目录、时间戳命名。 
+已知限制：最小化窗口、DRM 内容、独占全屏游戏无法截取（系统级限制）。 
+截图预览
+
+
+
+官方网站
+https://github.com/yajunjiao/Snipper
+下载：https://github.com/yajunjiao/Snipper/releases （Snipper-v0.1.0-win32.exe）
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91171</guid>
+      <pubDate>Thu, 03 Sep 2026 02:46:44 GMT</pubDate>
+    </item>
     <item>
       <title>一个免费开源的 Windows 键盘鼠标按键映射工具，无需写脚本即可自定义按键和快捷键。</title>
       <link>https://meta.appinn.net/t/topic/91160</link>
@@ -100,7 +346,7 @@ https://github.com/fuyingde/windows-keyboard-mouse-remapper
 目前这个开源版本不准备继续增加很多复杂功能。 
 如果大家刚好有类似的键盘、鼠标映射需求，可以试试看。 
 也欢迎反馈使用过程中遇到的问题。 
-2 个帖子 - 2 位参与者
+7 个帖子 - 4 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91160</guid>
       <pubDate>Wed, 02 Sep 2026 16:41:03 GMT</pubDate>
@@ -332,293 +578,6 @@ DEVECO_CLI_STUDIO_PATH=/opt/devecostudio即可。
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/91020</guid>
       <pubDate>Mon, 31 Aug 2026 09:59:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tablite: 又一款浏览器新标签页插件</title>
-      <link>https://meta.appinn.net/t/topic/91019</link>
-      <description><![CDATA[软件名称
-Tablite 新标签页
-应用平台
-- Chrome（已上架 Chrome 应用商店）
-推荐类型
-开发者自荐
-是否收费
-免费、无广告
-应用简介
-1. 搜索：支持 Google / Bing / 百度 / DuckDuckGo，有搜索建议；直接输入网址也可以打开。 
-2. 快捷入口：从预设站点、浏览器书签或手动填写添加，支持拖动排序、自定义图标，也可以改成只显示图标。 
-3. 外观：浅色 / 深色 / 跟随系统；纯色背景、预设色、上传图片、在线图片 URL、Bing 每日一图；时间、快捷入口、最近访问都可以单独开关。 
-4. 进阶：支持自定义 CSS；设置和快捷入口可以导出 / 导入 JSON，换电脑时手动迁移。 
-应用截图
-
-
-
-
-地址
-Tablite - Chrome 应用商店
-6 个帖子 - 5 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91019</guid>
-      <pubDate>Mon, 31 Aug 2026 09:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】InstantFlow Web — 免费 YouTube / Podcast 实时双语字幕与 AI 笔记 Chrome 插件（0.5s 极速 / 导出 Markdown / 自备 Groq API）</title>
-      <link>https://meta.appinn.net/t/topic/91017</link>
-      <description><![CDATA[各位小众软件的朋友好，我是独立开发者JC。
-平时在YouTube学习国外技术教学、看公开课或听英语播客时，最常遇到的痛点就是「影片没有字幕」或「矫正机翻慢半拍且不精准」。
-为了解决影音学习与笔记整理的痛点，我开发了这套完全免费的 Chrome 补充组件InstantFlow Web。
-应用名称与平台
-
-名称：InstantFlow Web
-平台：Chrome浏览器补充组件（Chrome网上应用店）
-费用：完全免费（需自备 Groq API Key，每日有高达额度可免费使用）
-
-完整教学展示
-【完全教学】InstantFlow Web：免费安装设置+Groq API Key申请，打造网页即时听写神器
-核心功能亮点
-
-即时双语字幕：当英文影片或音讯没有字幕时，即时语音并产生中英对照字幕。
-AI构建笔记：一键提炼内容精华，自动整理「执行摘要」与「综合要点重点回顾」。
-一键导出 Markdown：支持直接复制或导出导出笔记，无缝集成至 Obsidian、Notion 或 Logseq 等知识库。
-100%直连Groq API：零中转服务器器，响应速度极快，彻底保障个人隐私与数据安全。
-
-官方下载链接
-
-Chrome 网上应用店：https://chromewebstore.google.com/detail/instantflow-web/gnegmhjkfnhnfkojjdbdopmknkanflkk
-
-&lt;小时/&gt;
-欢迎大家安装体验并提供反馈与建议，我将持续更新优化！
-1个帖子 - 1位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91017</guid>
-      <pubDate>Mon, 31 Aug 2026 09:58:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】TravelSheet：iPhone 上的行李清单，可以在不同 Apple Account 之间共享</title>
-      <link>https://meta.appinn.net/t/topic/91002</link>
-      <description><![CDATA[软件名称
-TravelSheet
-应用平台
-iOS（iPhone、iPad，另有 Apple Watch 应用）
-推荐类型
-开发者自荐
-是否收费
-付费，¥22.00 一次买断。没有订阅，没有应用内购买，没有广告。 
-一句简介
-按同行的人和活动自动生成的行李清单，会算每件东西的重量，也会给出入境与海关信息，一次旅行还可以在不同的 Apple Account 之间共享。 
-应用简介
-我是 TravelSheet 的开发者 Sebastian Peters。这是一款 iPhone 和 iPad 上的行李清单应用，界面支持简体中文，2.0 版今天上架。 
-先说同类应用里比较少见的一点：一次旅行可以在不同的 Apple Account 之间共享，每个人在自己的 iPhone 上勾选自己的东西，所有人看到同一份进度。没有共用登录，我这边没有账户，也没有我的服务器，用的是 Apple 的 CloudKit 共享。这是技术上更麻烦的一条路，也是其他有共享清单的应用通常用自家账户来解决的那部分。 
-应用的基本用法：创建一次旅行，写明同行的人，再勾选几项活动（海滩、徒步、滑雪、城市游、露营）。清单据此自动生成，连数量一起算好。三个人一周会得到 21 件 T 恤和一顶帐篷，而不是一行写着「衣物」。 
-贯穿整个应用的是「家庭」这条线。同行的人只需设置一次，包括姓名、衣服尺码，需要的话还有眼镜或隐形眼镜，之后每次新建旅行都会据此预先填好。给男士、女士、婴幼儿和儿童的物品会按人数自动加入，数量则由人数和天数算出。而且应用支持家人共享，购买一次最多可供六位家庭成员使用。 
-另外两点，在同类应用里也不常见：
-・按出发国和目的地组合给出的入境与海关信息：护照或身份证、签证、建议接种的疫苗、免税额度、插座类型和当地紧急电话。也包括电子旅行授权（如 ESTA）和电子入境卡，各自标出需要提前多久办理，还可以作为出发前清单里的一项。做行李的应用不少，出发之前的手续一直留给旅行者自己。 
-・每件物品的重量。约 170 种常见物品自带估算值，按箱累加后与航空公司的限额对照。你在家就知道箱子超了，而不是到柜台才知道。自驾或开房车出行时，可以设一个装载总重量，而不是按件计算的限额。 
-也可以导入你已经在别处记的清单（OPML、CSV、Markdown、纯文本）。已经在清单里的物品会被识别，即使名字不同，也不会重复添加。还有带勾选框的 PDF 导出，习惯在纸上打勾的人可以用。 
-2.0 还带来四种尺寸的小组件、带复杂功能的 Apple Watch 应用，以及从 9 种语言扩展到 14 种。分类也不再是固定的十个，可以自己新建和排序。已经买过的用户免费升级：没有第二个需要重新购买的应用，没有升级费用，新功能也没有藏在应用内购买后面。 
-数据留在设备上，只通过用户自己的 iCloud 同步。这一点在中国大陆也一样：同步走的是用户自己的 iCloud 账户，也就是由云上贵州运营的那一个，中间没有我的服务器，我这边什么也收不到，甚至看不到谁要去哪里。 
-官方网站
-App Store: https://apps.apple.com/app/travelsheet/id6787380177
-产品页: 旅行行李清单应用：iPhone 和 iPad 上的 TravelSheet | Seb-IT
-媒体资料（全分辨率截图、应用图标）: TravelSheet 媒体资料 | Seb-IT
-3 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91002</guid>
-      <pubDate>Mon, 31 Aug 2026 06:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开源自荐】转发 Windows 原生通知到手机，可解决 CodeX 错误时不触发 stop hook 的问题</title>
-      <link>https://meta.appinn.net/t/topic/90991</link>
-      <description><![CDATA[codex 的 STOP hook 仅在成功的时候触发，因此如果出了错误，是没法通知给你的。此外，hook 在创建新的档案之后（例如用 CC Switch）需要手动允许，也不是很方便。 
-不过，Codex 无论是成功、失败，都可以正常的向 Windows 通知中心发送通知。因此可以用这个 Windows 原生 App，可以转发通知事件到 Webhook / Bark，软件开源免费，因为要想获取通知中心的系统 hook 需要 Windows.UI.Notifications.Management.UserNotificationListener，而这个 API 只有商店包的原生应用才能用，所以没法做到单 exe，只能上传到 Microsoft Store 了。 
-https://apps.microsoft.com/detail/9MV8SL6JLV2D
-RavelloH/WinToastRelay: A native Windows 10/11 app that relays Windows toast notifications to HTTP webhooks in real time.
-
-
-
-
-
-iOS 建议直接使用 Bark；安卓的通知稍微繁琐一些，大部分都需要外接各种通知服务（如 wxpusher 等），或者接入飞书/钉钉之类的平台，这里已经适配了 wxpusher。也提供 Webhook，可以让 AI 在本地跑一个 HTTP 转发到你需要的渠道。这个 App 也能用来转发其他应用的通知，不限于 CodeX，Windows 的原生通知都可以。 
-Webhook 是这样的：
-{
-  &quot;eventType&quot;: &quot;notification.added&quot;,
-  &quot;deliveryId&quot;: &quot;a-generated-id&quot;,
-  &quot;notification&quot;: {
-    &quot;id&quot;: 123,
-    &quot;app&quot;: &quot;Example app&quot;,
-    &quot;title&quot;: &quot;A title&quot;,
-    &quot;body&quot;: &quot;Notification body&quot;,
-    &quot;createdAt&quot;: &quot;2026-08-20T00:00:00Z&quot;
-  }
-}
-
-此外，建议在 CodeX 设置中打开始终通知，防止 CodeX 在前台就不发送通知了。 
-
-软件在后台需要大概 14 MB 内存，请确保你的电脑具有至少 20 MB 可用运行内存。 
-
-4 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90991</guid>
-      <pubDate>Mon, 31 Aug 2026 05:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>【网站自荐】ScriptSpool — 把你的代码变成动态视频、GIF动图</title>
-      <link>https://meta.appinn.net/t/topic/90975</link>
-      <description><![CDATA[软件名称
-ScriptSpool
-应用平台
-Web 端
-推荐类型
-开发者自荐
-一句简介
-一个在浏览器里把代码转换成动态视频和图片的小工具，粘贴代码、选择主题和动画，调整速度后即可导出 MP4、GIF、PNG 或 SVG。 
-应用简介
-平时做开发教程或者录短视频，经常需要把一段代码做成动态效果。 
-直接录屏不太好看，使用完整的视频剪辑软件又有点麻烦。 
-我在网上也看了一些类似的工具和项目，有些做得还行，但用下来功能比较有限。 
-所以就想着做一个自己真正会用的：
-粘贴代码 → 选择样式 → 调整动画 → 导出。 
-ScriptSpool 最开始只是一个很简单的代码打字动画工具，后来我又慢慢加入了逐字、逐行播放，以及主题、窗口样式、速度控制和多种导出格式。 
-主要特点：
-
-
-代码动画：支持逐字打字和逐行播放。 
-
-
-速度控制：可以调整打字速度、暂停和播放节奏。 
-
-
-多种主题：提供不同代码高亮主题、字体和背景。 
-
-
-窗口样式：可以模拟常见的代码编辑器窗口外观。 
-
-
-视频导出：支持 MP4、GIF。 
-
-
-图片导出：支持 PNG、SVG，也可以生成长截图。 
-
-
-浏览器运行：编辑、渲染和导出都在浏览器中完成。 
-
-
-代码不上传：代码不会上传到服务器进行处理。 
-
-
-无需注册：打开网页就可以直接使用。 
-
-
-为什么做这个？ 
-其实就是做自己的视频演示时遇到的一个小问题。 
-我只是想让一段代码【像正在被写出来】一样出现在视频里。 
-结果发现，如果自己用剪辑软件做，调整动画、时间轴这些东西实在有点麻烦。 
-后来又找了一些现成工具，发现很多功能比较简单。 
-于是就想着：
-能不能做一个专门解决这件小事的工具？ 
-所以有了 ScriptSpool。 
-还有一些辅助功能，比如，结对房间，基于 P2P 实时一起写代码。同步片段、聊天、冲刺计时 —— 无需账号。 
-适合什么场景？ 
-
-
-制作开发教程
-
-
-制作抖音、小红书、 YouTube Shorts等短视频
-
-
-给代码演示增加动态效果
-
-
-制作技术分享配图
-
-
-制作课程中的代码动画
-
-
-给博客、文档制作代码截图
-
-
-不想打开复杂视频剪辑软件，只想快速做一段代码动画
-
-
-使用体验
-打开网页 → 粘贴代码 → 选择主题和动画 → 调整速度 → 预览 → 导出。 
-整个过程都在浏览器完成，代码不会上传到服务器进行处理，所以你的代码是安全的。 
-产品截图
-
-
-
-
-在线使用： https://scriptspool.pixzens.com
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90975</guid>
-      <pubDate>Mon, 31 Aug 2026 03:36:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>发现频道：10款大家发现的好评软件[2026年第35期]</title>
-      <link>https://meta.appinn.net/t/topic/90962</link>
-      <description><![CDATA[
-最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来：
-
-
-
-序号
-主题
-
-
-
-
-1️⃣
-一个双击即用的 Windows 软件管理工具，不仅列出所有已安装软件，还能彻底卸载 + 清空注册表 + 删除残留文件夹/文件，不依赖任何运行时。 
-
-
-2️⃣
-【开发者自荐】AI Story – 一句话一个视频，月涨粉2.5w
-
-
-3️⃣
-【自荐开源】界面美观，功能丰富的跨平台音乐播放器Vynody
-
-
-4️⃣
-OneAsr —— Windows 本地离线批量音视频转 SRT 字幕
-
-
-5️⃣
-WindowMark – 给 Windows 窗口加上书签、边框和置顶标记
-
-
-6️⃣
-Agentero: Agent友好的文献管理与阅读器，Agent时代的Zotero
-
-
-7️⃣
-〖开发者自荐〗讯览：一个免费好用的微信信息情报站
-
-
-8️⃣
-【开源自荐】字符反查字体，查找当前电脑中哪些字体，可以显示输入框的字符
-
-
-9️⃣
-〖开源自荐〗WinStoreRegion — 一键临时切换 Microsoft Store 区域，并自动恢复
-
-
-🔟
-【开源自荐】Terma：面向桌面端和自托管 Web 的远程连接工作台
-
-
-
-上期回顾
-
-发现频道近10日热门排行榜[2026年第34期]
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/90962</guid>
-      <pubDate>Mon, 31 Aug 2026 01:00:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

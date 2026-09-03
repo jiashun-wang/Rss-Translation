@@ -4,7 +4,21 @@
     <title>存储在线-存储专业媒体</title>
     <link>https://www.dostor.com</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:07:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:35:40 GMT</lastBuildDate>
+    <item>
+      <title>铁威马U16-725 Plus赋能企业多场景数据存储</title>
+      <link>https://www.dostor.com/p/100994.html</link>
+      <description><![CDATA[近日，铁威马全新机架式企业存储服务器U16-725 Plus正式推出。新品定位高密度一体化存储设备，凭借强劲硬件配置、AI 原生 TOS7 系统与完备的数据安全能力，面向影视传媒、研发实验室、中小企业等不同行业，为海量数据归档、高并发业务、...]]></description>
+      <guid>https://www.dostor.com/p/100994.html</guid>
+      <pubDate>Thu, 03 Sep 2026 03:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>五项双第一背后：一场穿越十年的存储自研长跑</title>
+      <link>https://www.dostor.com/p/100992.html</link>
+      <description><![CDATA[近日，国际权威AI基准评测组织MLCommons公布MLPerf® Storage V3.0最新测试结果：浪潮数据AI存储AS13000G7参选六项核心测试，斩获五项第一，包揽多项单节点和单U性能双第一，全面覆盖大模型训练、大模型推理、HP...]]></description>
+      <guid>https://www.dostor.com/p/100992.html</guid>
+      <pubDate>Wed, 02 Sep 2026 15:49:00 GMT</pubDate>
+    </item>
     <item>
       <title>从245TB到亿级IOPS，AI正在如何改变SSD？</title>
       <link>https://www.dostor.com/p/100979.html</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[2026年8月27日消息： 亚马逊云科技与英伟达宣布，双方计划在亚马逊云科技的全球基础设施中新增部署200万颗英伟达GPU，并在AI工厂、CPU、网络、开放模型、数据处理和机器人技术等领域深化合作，通过提供联合设计的解决方案，助力客户以空前...]]></description>
       <guid>https://www.dostor.com/p/100900.html</guid>
       <pubDate>Thu, 27 Aug 2026 04:29:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>慧荣PCIe 6.0主控亮相FMW2026：AI存储性能天花板将再被拉高</title>
-      <link>https://www.dostor.com/p/100897.html</link>
-      <description><![CDATA[8月26日，由DOIT传媒、华中科技大学计算机科学与技术学院联合主办的2026全球闪存峰会（Flash Memory World 2026）在武汉盛大举行。 武汉作为新兴起的“存储之都”，聚焦了千亿级存储产业集群，在当下AI浪潮下将释放巨大...]]></description>
-      <guid>https://www.dostor.com/p/100897.html</guid>
-      <pubDate>Thu, 27 Aug 2026 04:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>从可信数据到智能决策：AI赋能存储测试的技术路径与实践</title>
-      <link>https://www.dostor.com/p/100894.html</link>
-      <description><![CDATA[随着AI大模型和智能算力的快速发展，SSD、控制器和存储系统需要面对越来越复杂的工作负载。如何测得准、测得全，并通过测试发现真实应用中的问题，已经成为产品创新的重要一环。 2026 全球闪存峰会会场 2026年8月26日在武汉光谷召开的全球...]]></description>
-      <guid>https://www.dostor.com/p/100894.html</guid>
-      <pubDate>Thu, 27 Aug 2026 03:25:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
