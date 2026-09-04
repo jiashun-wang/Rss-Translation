@@ -4,7 +4,14 @@
     <title>MIT Technology Review</title>
     <link>https://www.technologyreview.com</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:31:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:47:12 GMT</lastBuildDate>
+    <item>
+      <title>下载：重新思考儿童安全和化石燃料农业</title>
+      <link>https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/</link>
+      <description><![CDATA[这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。儿童监控应用程序可能需要重新启动数字危害已成为美国父母最担心的问题。作为回应，他们越来越多地转向内容监控应用程序来扫描孩子的文本、照片、电子邮件等。]]></description>
+      <guid>https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/</guid>
+      <pubDate>Thu, 03 Sep 2026 12:10:00 GMT</pubDate>
+    </item>
     <item>
       <title>农业依赖化石燃料。这让我们付出了代价。</title>
       <link>https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>在整个企业范围内扩展代理人工智能试点</title>
       <link>https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/</link>
-      <description><![CDATA[随着代理人工智能从实验转向企业部署，面临的挑战是弄清楚代理如何协同工作，连接到他们所需的系统和数据，并在运行业务的工作流程中安全运行。尽管约 80% 的财富 500 强公司已经采用了代理人工智能，但在实现有意义的规模化方面仍然取得了进展。]]></description>
+      <description><![CDATA[随着代理人工智能从实验转向企业部署，面临的挑战是弄清楚代理如何协同工作，连接到他们所需的系统和数据，并在运行业务的工作流程中安全运行。尽管约 80% 的财富 500 强公司已经采用了代理 AI，但在实现有意义的规模化方面仍然取得了进展。]]></description>
       <guid>https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/</guid>
       <pubDate>Thu, 03 Sep 2026 09:30:32 GMT</pubDate>
     </item>
     <item>
       <title>大规模简化 AI 集成</title>
       <link>https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/</link>
-      <description><![CDATA[随着公司规模的扩大，支持运营的技术可能会成为一种负债，就像它成为一种资产一样快。断开连接的系统、特定于站点的工具、电子表格和手动解决方法可能会形成数据孤岛，从而使尽早发现问题、协调响应和自信地做出决策变得更加困难。对于 Jabil 来说，这是一家全球制造公司，拥有超过]]></description>
+      <description><![CDATA[随着公司规模的扩大，支持运营的技术可能会变成一种负债，就像它变成一种资产一样快。断开连接的系统、特定于站点的工具、电子表格和手动解决方法可能会形成数据孤岛，从而使尽早发现问题、协调响应和自信地做出决策变得更加困难。对于 Jabil 来说，这是一家全球制造公司，拥有超过]]></description>
       <guid>https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/</guid>
       <pubDate>Wed, 02 Sep 2026 14:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。现在你可能已经听说过上个月发生的重大人工智能安全事件，其中 OpenAI 代理逃离了沙箱，并在试图欺骗人工智能平台 Hugging Face 的同时入侵了人工智能平台 Hugging Face。]]></description>
       <guid>https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</guid>
       <pubDate>Mon, 31 Aug 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载：一种秘密的抗衰老药物和加入虚拟发电厂</title>
-      <link>https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/</link>
-      <description><![CDATA[这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它发现了一种让你的血液年轻的药物——Antonio Regalado 当一家名为 Generation Lab 的公司向我提供“长寿影响者”时，我知道我正式成为“长寿影响者”。]]></description>
-      <guid>https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/</guid>
-      <pubDate>Fri, 28 Aug 2026 12:35:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:27:37 GMT</lastBuildDate>
+    <title>Wiley: Journal of Advances in Modeling Earth Systems: Table of Contents</title>
+    <link>https://agupubs.onlinelibrary.wiley.com/journal/19422466?af=R</link>
+    <description>Table of Contents for Journal of Advances in Modeling Earth Systems. List of articles from both the latest and EarlyView issues.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 08:10:52 GMT</lastBuildDate>
+    <item>
+      <title>NORi：机器学习增强的海洋边界层参数化</title>
+      <link>https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005667?af=R</link>
+      <description><![CDATA[《地球系统建模进展杂志》，第 18 卷，第 9 期，2026 年 9 月。]]></description>
+      <guid>https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005667?af=R</guid>
+      <pubDate>Wed, 02 Sep 2026 17:50:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>发行信息</title>
+      <link>https://agupubs.onlinelibrary.wiley.com/doi/10.1029/jame.70453?af=R</link>
+      <description><![CDATA[《地球系统建模进展杂志》，第 18 卷，第 9 期，2026 年 9 月。]]></description>
+      <guid>https://agupubs.onlinelibrary.wiley.com/doi/10.1029/jame.70453?af=R</guid>
+      <pubDate>Tue, 01 Sep 2026 08:58:39 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005629?af=R</link>
+      <description><![CDATA[《地球系统建模进展杂志》，第 18 卷，第 9 期，2026 年 9 月。]]></description>
+      <guid>https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005629?af=R</guid>
+      <pubDate>Tue, 01 Sep 2026 08:49:59 GMT</pubDate>
+    </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>AI论文简报</title>
     <link>https://ai-brief.liziran.com</link>
     <description>每天3分钟，从源头论文把握AI前沿。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:51:38 GMT</lastBuildDate>
+    <item>
+      <title>控制协议达100%，循环层省18%计算</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-09-04-stable-agent-protocols-cheaper-loops.html</link>
+      <description><![CDATA[控制流与提示词分离，让协议有效性达到100%：多Agent系统可持续优化内容，同时保护路由、格式和终止信号不被意外改写。 语言正在成为视频世界的控制层，H3-World仅训练0.199%的参数，便实现角色动作、镜头运动与时间区间的联合控制。 无人机飞进目标范围仍可能任务失败。 DroneCATS表明，终止判断、协议遵循和多视角决策同样决定自主系统是否可靠。 会扮演学生不等于准确模拟学生：StudentSim将行为保真度与指导响应度分开评估，揭示角色感和能力校准之间的差距。 计算匹配后，循环层仍节省6.8%—18.0%的训练计算量，SMELT为共享中间层与稀疏专家提供了更公平的验证依据。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-09-04-stable-agent-protocols-cheaper-loops.html</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OPSA让AIME24提升35.41分</title>
       <link>https://ai-brief.liziran.com/zh/daily/2026-09-03-opsa-teacher-free-distillation.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[前沿Agent成功率仍不到60%，VibeWorlding用2,616个3D资产和6,828条查询测试完整建造闭环，精确编辑成为主要瓶颈。 认知风险框架应先充当排查地图：它按认知范围梳理评测、权限与治理责任，但因果关系和量化指标仍待实证。 9种persona取代单一驾驶风格轴。 PersonaDrive组合紧迫度与舒适度，使轨迹预测能够按场景控制行为分布。]]></description>
       <guid>https://ai-brief.liziran.com/zh/daily/2026-08-18-3d-agent-world-building.html</guid>
       <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习工作流让设计Agent从54.99升至67.39</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-16-learning-workflows-for-design-agents.html</link>
-      <description><![CDATA[论文转海报工作流可通过反馈递归改进：接入学习后的DesignHarness后，7种代码Agent与模型配置均获得提升，平均得分从54.99升至67.39；目前证据限于论文转海报任务。 Evoke将持久世界状态移出生成上下文，用外部状态库、长时教师监督和3步学生模型兼顾长期一致性与低延迟生成。 复合选项错误可能源于组合机制，而非知识不足。模型判断原子命题，整数规划负责AND、OR和NOR等逻辑约束，两个数据集的Macro-F1均提升约29点。 Intern-S2-Preview尝试统一科学Agent训练管线：397B主干结合多模态训练与4B记忆解码器，为长任务链和低成本领域适配提供底座。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-16-learning-workflows-for-design-agents.html</guid>
-      <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

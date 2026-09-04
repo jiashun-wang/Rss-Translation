@@ -4,7 +4,21 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Sep 2026 00:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:31:09 GMT</lastBuildDate>
+    <item>
+      <title>regkit：促进挪威健康和人口登记数据的操作、分析和可视化</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10240</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10240</guid>
+      <pubDate>Thu, 03 Sep 2026 18:12:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>StatsPAI：用于因果推理和应用计量经济学的统一的、代理原生的 Python 工具包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10604</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10604</guid>
+      <pubDate>Thu, 03 Sep 2026 18:11:32 GMT</pubDate>
+    </item>
     <item>
       <title>OpenTURNS：用于不确定性量化的 Python 包</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.10484</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10087</guid>
       <pubDate>Wed, 26 Aug 2026 17:49:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>类别编码器：用于编码分类数据的 scikit-learn-contrib 转换器包</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10645</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10645</guid>
-      <pubDate>Wed, 26 Aug 2026 17:46:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>textNet：从文本数据中提取定向、多重、多模式事件网络</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.07615</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.07615</guid>
-      <pubDate>Tue, 25 Aug 2026 19:53:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

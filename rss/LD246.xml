@@ -4,7 +4,233 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:34:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:50:18 GMT</lastBuildDate>
+    <item>
+      <title>思源系统默认颜色</title>
+      <link>https://ld246.com/article/1788460890776</link>
+      <description><![CDATA[siyuandefaultcolors.css.zip]]></description>
+      <guid>https://ld246.com/article/1788460890776</guid>
+      <pubDate>Thu, 03 Sep 2026 18:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jetson Nano 边缘计算与推理指南</title>
+      <link>https://ld246.com/article/1788437451734</link>
+      <description><![CDATA[Jetson Nano 边缘计算与推理指南
+一、什么是边缘计算 + 推理
+传统云端 AI：摄像头 → 网络 → 云端服务器 → 返回结果
+  边缘计算 AI：摄像头 → Jetson Nano（本地处理）→ 立即返回结果
+优势：
+
+⚡ 低延迟 — 无需网络往返，毫秒级响应
+🔒 隐私安全 — 数据不出本地
+💰 省带宽 — 不用上传视频流
+🔄 离线可用 — 无网络也能工作
+
+二、Jetson Nano 推理框架
+
+
+
+框架
+用途
+推荐度
+
+
+
+
+TensorRT
+推理优化引擎（必须用）
+⭐⭐⭐⭐⭐
+
+
+PyTorch
+模型训练/推理
+⭐⭐⭐⭐
+
+
+TensorFlow
+模型训练/推理
+⭐⭐⭐⭐
+
+
+ONNX Runtime
+跨框架推理
+⭐⭐⭐
+
+
+OpenCV DNN
+轻量推理
+⭐⭐⭐
+
+
+DeepStream
+多路视频分析
+⭐⭐⭐⭐⭐
+
+
+
+三、典型部署流程
+
+选择模型 — YOLOv5/v8（检测）/ ResNet（分类）/ etc.
+训练或使用预训练模型 — PyTorch / TensorFlow 训练
+转换模型格式 — .pt → .onnx → TensorRT engine (.engine)
+优化量化 — FP32→FP16（速度翻倍）/ FP32→INT8（速度 4 倍）
+部署推理 — TensorRT + Python/C++ 运行推理
+集成应用 — 结果 → MQTT/HTTP → 上报/告警/控制
+
+四、实战示例
+1. YOLOv5 目标检测部署
+# 导出 TensorRT 引擎
+python export.py --weights yolov5s.pt --include engine --device 0
+
+# Nano 上运行推理
+import cv2
+import torch
+
+model = torch.hub.load(&#39;ultralytics/yolov5&#39;, &#39;custom&#39;, path=&#39;yolov5s.engine&#39;)
+cap = cv2.VideoCapture(0)  # CSI 摄像头
+
+while True:
+    ret, frame = cap.read()
+    results = model(frame)  # 推理
+    results.show()          # 显示结果
+    # results.xyxy[0]  # 获取检测框坐标
+
+2. 分类推理（MobileNet）
+import tensorrt as trt
+import pycuda.driver as cuda
+
+# 加载 TensorRT 引擎
+TRT_LOGGER = trt.Logger(trt.Logger.WARNING)
+with open(&quot;mobilenet.engine&quot;, &quot;rb&quot;) as f:
+    runtime = trt.Runtime(TRT_LOGGER)
+    engine = runtime.deserialize_cuda_engine(f.read())
+
+# 预处理 + 推理 + 后处理
+
+五、性能基准
+
+
+
+模型
+输入尺寸
+FPS（FP16）
+用途
+
+
+
+
+MobileNet-V2
+224×224
+~100
+图像分类
+
+
+ResNet-18
+224×224
+~60
+图像分类
+
+
+YOLOv5s
+640×640
+~25-30
+目标检测
+
+
+YOLOv5n
+640×640
+~40-50
+轻量检测
+
+
+SSD-MobileNet
+300×300
+~60
+目标检测
+
+
+DeepLab-V3
+512×512
+~15
+语义分割
+
+
+
+六、推荐项目方向
+入门项目
+
+智能门铃 — 人脸识别 + 通知推送
+车牌识别 — 停车场管理
+人数统计 — 商店客流分析
+
+进阶项目
+
+多路视频监控 — DeepStream 同时分析 4-8 路摄像头
+工业质检 — 产品表面缺陷检测
+手势识别 — 无接触控制
+
+高级项目
+
+自动驾驶小车 — Jetson + 摄像头 + 电机
+SLAM 建图 — 激光雷达 + 视觉融合
+实时翻译 — 本地 OCR + 翻译模型
+
+七、开发环境搭建
+# 1. 烧录系统 - 下载 JetPack 4.6 SD 卡镜像，用 Etcher 烧录
+
+# 2. 设置性能模式
+sudo nvpmodel -m 0      # 最大性能
+sudo jetson_clocks       # 锁定最大频率
+
+# 3. 安装 PyTorch（Nano 专用版本）
+pip3 install torch torchvision
+
+# 4. 安装 TensorRT（已随 JetPack 预装）
+python3 -c &quot;import tensorrt; print(tensorrt.__version__)&quot;
+
+# 5. 安装 OpenCV（GPU 加速版）- JetPack 自带
+
+八、注意事项
+
+
+
+项目
+建议
+
+
+
+
+散热
+必须装风扇，满载会降频
+
+
+供电
+用 DC 5V/4A 电源，Micro-USB 不够
+
+
+存储
+用高速 microSD（A2 级别）或 USB SSD
+
+
+模型大小
+优先用轻量模型（YOLOv5n、MobileNet）
+
+
+量化
+FP16 量化必做，速度翻倍精度几乎不降
+
+
+]]></description>
+      <guid>https://ld246.com/article/1788437451734</guid>
+      <pubDate>Thu, 03 Sep 2026 12:10:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>TensorRT 介绍</title>
+      <link>https://ld246.com/article/1788437442693</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788437442693</guid>
+      <pubDate>Thu, 03 Sep 2026 12:10:41 GMT</pubDate>
+    </item>
     <item>
       <title>使用了相同的密钥，但一直同步失败</title>
       <link>https://ld246.com/article/1788429673043</link>
@@ -136,42 +362,6 @@ c. 同步进行中被强杀，会留下什么状态？是否下次全量重来�
       <description><![CDATA[]]></description>
       <guid>https://ld246.com/article/1788355384093</guid>
       <pubDate>Wed, 02 Sep 2026 13:23:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>表格右侧和下方的「插入一列或行」实在是太大了，没有必要</title>
-      <link>https://ld246.com/article/1788343143906</link>
-      <description><![CDATA[并不是高频操作，右键菜单一样方便，而且破坏了水平居中和块间距，有害。 
-建议取消这个按钮。 
-
-自己用 AI 写了一个 CSS 代码：
-/* 隐藏表格增行/增列/右下角对角按钮 */
-.protyle-table-control__add {
-    display: none !important;
-}
-
-/* 撤掉思源为按钮预留的 30px 热区，同时收紧表格排版 */
-.protyle-wysiwyg[data-readonly=false][contenteditable=true] [data-node-id].table {
-    padding: 0.5em 0;
-}
-]]></description>
-      <guid>https://ld246.com/article/1788343143906</guid>
-      <pubDate>Wed, 02 Sep 2026 11:07:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新版本安装时失败</title>
-      <link>https://ld246.com/article/1788339096180</link>
-      <description><![CDATA[我发现近几个版本，我重新安装时，总是安装不成功，只能卸载后再安装，这是啥问题？ 
-我是 win10 系统，之前都是设置自动更新，退出笔记后会安装新版本。之前都是这么操作没出现问题，最近几个版本才出现这个问题。 
-]]></description>
-      <guid>https://ld246.com/article/1788339096180</guid>
-      <pubDate>Wed, 02 Sep 2026 08:51:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据库工具——DBX</title>
-      <link>https://ld246.com/article/1788335604161</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788335604161</guid>
-      <pubDate>Wed, 02 Sep 2026 07:55:37 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

@@ -4,12 +4,20 @@
     <title>Kerry的学习笔记</title>
     <link>https://kerrynotes.com</link>
     <description>好好学习，Day Day Up!</description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:49:12 GMT</lastBuildDate>
     <item>
-      <title>Windows 上几个代理客户端互相打架，我做了个网络接管守卫</title>
+      <title>机场测速周报（第 3 期）: SS-ID 继续领先，寰宇云恢复</title>
+      <link>https://kerrynotes.com/airport-review-2026-9-2/</link>
+      <description><![CDATA[本期实测周期为 2026 年 8 月 25 日至 9 月 2 日。 本期核心结论： 测试口径与方法调整 测试逻 […]
+&lt;p&gt;The post 机场测速周报（第 3 期）: SS-ID 继续领先，寰宇云恢复 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
+      <guid>https://kerrynotes.com/airport-review-2026-9-2/</guid>
+      <pubDate>Thu, 03 Sep 2026 17:06:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你装了好几个客户端，你可以试试这个网络守卫</title>
       <link>https://kerrynotes.com/network-guardian/</link>
       <description><![CDATA[我电脑上装过不少代理客户端。 Clash Verge、FlClash、龙猫云、全球云轮流开，单独用都没什么，切换 […]
-&lt;p&gt;The post Windows 上几个代理客户端互相打架，我做了个网络接管守卫 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
+&lt;p&gt;The post 如果你装了好几个客户端，你可以试试这个网络守卫 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
       <guid>https://kerrynotes.com/network-guardian/</guid>
       <pubDate>Wed, 02 Sep 2026 16:47:54 GMT</pubDate>
     </item>
@@ -76,14 +84,6 @@
 &lt;p&gt;The post 我让 Codex 自己缓解了一下它的 SSD 高频写入问题 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
       <guid>https://kerrynotes.com/codex-ssd-sqlite-filter/</guid>
       <pubDate>Sun, 05 Jul 2026 00:54:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>没想到奈云也出事了</title>
-      <link>https://kerrynotes.com/%e6%b2%a1%e6%83%b3%e5%88%b0%e5%a5%88%e4%ba%91%e4%b9%9f%e5%87%ba%e4%ba%8b%e4%ba%86/</link>
-      <description><![CDATA[昨天看到评论说奈云打不开了，试了一下果然。然后发现官网也打不开了。奈云算是比较老的机场了，一直以来还挺稳的，前 […]
-&lt;p&gt;The post 没想到奈云也出事了 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
-      <guid>https://kerrynotes.com/%e6%b2%a1%e6%83%b3%e5%88%b0%e5%a5%88%e4%ba%91%e4%b9%9f%e5%87%ba%e4%ba%8b%e4%ba%86/</guid>
-      <pubDate>Thu, 02 Jul 2026 07:19:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

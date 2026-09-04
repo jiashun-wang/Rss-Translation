@@ -4,7 +4,7 @@
     <title>GMD - recent papers</title>
     <link>https://gmd.copernicus.org/articles/</link>
     <description>Combined list of the recent articles of the journal Geoscientific Model Development and the recent discussion forum Geoscientific Model Development Discussions</description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:27:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:37:03 GMT</lastBuildDate>
     <item>
       <title>基于重心的次季节预报多模型集成方法</title>
       <link>https://doi.org/10.5194/gmd-19-8167-2026</link>
@@ -13,7 +13,7 @@
                         地理学。模型开发，19, 8167–8189, https://doi.org/10.5194/gmd-19-8167-2026, 2026
                         我们通过将集成组合表述为重心问题来探索构建多模型集成的替代框架。我们将 L2 重心（相当于池化）与 Wasserstein 重心（更准确地说是高斯近似）进行比较。两者具有相同的整体均值，但在表示预测不确定性的方式上有所不同。就连续排名概率得分而言，Wasserstein 重心的表现更多，但平均表现相似。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8167-2026</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:02 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>WRF 4.3.1 体型云微物理方案中雨滴尺寸分布的广义双矩标度归一化方法的实施：朝鲜半岛的案例研究</title>
@@ -23,7 +23,7 @@
                         地理学。模型开发，19，8149–8166，https://doi.org/10.5194/gmd-19-8149-2026，2026
                         本研究通过将广义双矩标度归一化 (GDMN) 方法应用于天气研究和预报双矩 6 级 (WDM6) 微物理方案中的雨滴尺寸分布 (DSD)，改进了降雨模拟。使用观测到的雨滴数据，GDMN 可以更好地表示雨滴大小的变化。改进后的 WDM6 改善了降水模式、雷达反射率和风暴运动，为期一个月的东亚模拟也证明了其优点。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8149-2026</guid>
-      <pubDate>Wed, 02 Sep 2026 06:00:02 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>在 HARMONIE-AROME 中模拟风电场的影响（周期 43.2.2）– 第 2 部分：风力涡轮机数据库及其在欧洲的应用</title>
@@ -33,7 +33,7 @@
                         地理学。模型开发，19, 8115–8147, https://doi.org/10.5194/gmd-19-8115-2026, 2026
                         我们使用 HARMONIE-AROME 模型中的两个风电场参数化来评估运行中的风电场如何影响数值天气预报中的大气，该模型已被 10 多个欧洲气象服务机构应用。准确的产量预测需要包括陆上和海上涡轮机。风力涡轮机会稍微改变近地表温度（平均 &lt;1 K）。我们还提供了一个结合多个数据源的开放访问欧洲风力涡轮机数据集。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8115-2026</guid>
-      <pubDate>Wed, 02 Sep 2026 06:00:02 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>AD-MERGE 2.0：对能源转型、气候影响和适应响应之间关系的综合评估</title>
@@ -43,7 +43,7 @@
                         地理学。模型开发，19，8081–8113，https://doi.org/10.5194/gmd-19-8081-2026，2026
                         本研究引入了 AD-MERGE 2.0，这是一种更新的模型，旨在评估减排政策以及近期和长期气候适应策略。新版本改进了区域细节、能源系统代表性以及气候损害和适应的校准。通过比较五种政策情景，该研究展示了缓解和适应如何在各地区相互作用，强调了关键的权衡和协同作用。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8081-2026</guid>
-      <pubDate>Wed, 02 Sep 2026 06:00:02 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>在料仓微物理方案 DESCAM 3D 中实施预测雾凇质量：评估理想化飑线系统和 ICE-POP 2018 期间的大雪事件</title>
@@ -53,7 +53,7 @@
                         地理学。模型开发，19，8025–8051，https://doi.org/10.5194/gmd-19-8025-2026，2026
                         本研究评估了预测雾凇质量分布的仓微物理方案的实施情况。基于“填充”概念，该模型允许无边框冰颗粒和霰冰颗粒之间的平滑过渡。该实施针对朝鲜半岛地面仪器观测到的理想飑线系统和大雪事件进行了测试。新模型版本与降水量发生显着变化的观测结果更加吻合。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8025-2026</guid>
-      <pubDate>Tue, 01 Sep 2026 06:00:02 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>CMIP7 数据请求：共同创建 CMIP7 数据生成指南 [v1.2.2.5]</title>
@@ -63,7 +63,7 @@
                         地理学。模型开发，19，8053–8079，https://doi.org/10.5194/gmd-19-8053-2026，2026
                         本文介绍了为 CMIP7（一项国际气候模拟活动）即将进行的全球气候模型实验创建一组新的输出数据要求。来自社区的专家帮助共同创建了一个数据库，该数据库描述了应该生成哪些数据以及这些选择背后的科学依据。它通过将实验和变量与科学目标和现实应用联系起来，支持不断增长的气候研究和政策需求。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8053-2026</guid>
-      <pubDate>Tue, 01 Sep 2026 06:00:02 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>通过 E3SM 中的弱耦合海洋数据同化改进地球系统变异性的模拟</title>
@@ -73,7 +73,7 @@
                         地理学。模型开发，19，8003–8023，https://doi.org/10.5194/gmd-19-8003-2026，2026
                         可靠的气候预测需要准确的海洋初始条件。我们开发了一个海洋数据同化系统，将海洋温度和盐度再分析纳入气候模型。该系统改进了对数年至数十年气候变化以及美国冬季气温和降水的模拟。其他后报显示没有明显的初始化冲击，并再现了物理相干的 ENSO 遥相关模式，支持更可靠的气候预测。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8003-2026</guid>
-      <pubDate>Thu, 27 Aug 2026 06:00:02 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>DeepMelt-GL v1：海洋模型中冰架空腔未代表区域的亚架融化速率神经网络模拟器</title>
@@ -83,7 +83,7 @@
                         地理学。模型开发，19，7979–8002，https://doi.org/10.5194/gmd-19-7979-2026，2026
                         由于数值计算成本高昂，气候模型必须在高空间分辨率和长时间运行之间做出选择。在这里，我们开发了一个简单的神经网络来模拟南极冰架下发生的小规模过程，这使得亚冰架融化和冰与海洋相互作用能够包含在可以运行多个世纪的全球海洋模型中。这个神经网络将帮助我们了解未来海洋环流可能如何变化。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7979-2026</guid>
-      <pubDate>Thu, 27 Aug 2026 06:00:02 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>湍流驱动的营养物供应维持北极冰藻的生长：使用 CICE 6.1 与 Icepack 1.2 以及 SIMBA 2.0 相结合的建模方法</title>
@@ -93,7 +93,7 @@
                         地理学。模型开发，19, 7939–7959, https://doi.org/10.5194/gmd-19-7939-2026, 2026
                         海冰界面的养分交换是极地地区供应养分和支持海冰藻类生长的关键过程。这种通量取决于冰下流动的特征，无论是平滑的还是湍流的。我们开发并实现了一个参数化，可以解释两个海冰生物地球化学模型中的流动状态。通过增强养分通量，湍流支持更高的初级生产，从而使生物量积累增加一倍以上。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7939-2026</guid>
-      <pubDate>Wed, 26 Aug 2026 06:00:02 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>LFD (v1.0)：具有地质先验和地球物理正则化的隐式结构建模的潜在无压缩生成扩散</title>
@@ -103,7 +103,7 @@
                         地理学。模型开发，19，7961–7977，https://doi.org/10.5194/gmd-19-7961-2026，2026
                         我们提出了一种通过地震勘测生成地下结构模型的快速方法，同时尊重已知的层位和断层。我们的方法不是将数据压缩为隐藏表示，而是直接使用原始模型值并在生成过程中应用地质约束。对合成和真实调查的测试显示出更真实的结构和高效的预测，在 NVIDIA H20 图形处理单元上可在 1.56 秒内生成 512 x 512 模型。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7961-2026</guid>
-      <pubDate>Wed, 26 Aug 2026 06:00:02 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>不同分辨率下比利时 ALARO1-SFX (CY43T2) 区域气候模型的评估</title>
@@ -114,7 +114,7 @@
                         
 本研究利用长期气候模拟，以多种分辨率评估了比利时 ALARO (ALADIN-AROME) 区域气候模型的更新版本。将模型与外化表面方案 SURFEX（Surface externalisée）耦合并以更高分辨率运行，可以改善模拟温度、降水和极端降水，支持高分辨率模型在代表当地气候极端情况和为适应提供信息方面的价值。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7911-2026</guid>
-      <pubDate>Tue, 25 Aug 2026 06:00:02 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>具有自适应观测误差膨胀和自适应定位的古气候数据同化</title>
@@ -124,7 +124,7 @@
                         地理学。模型开发，19，7893–7909，https://doi.org/10.5194/gmd-19-7893-2026，2026
                         从稀疏的珊瑚记录中重建过去的温度是具有挑战性的。我们开发了两种自适应方法来改进模型模拟与代理数据的结合方式。第一个根据模型一致性调整每个记录的信任度；第二个调整每个记录对重建的影响程度。我们的方法提高了准确性并更好地捕获了厄尔尼诺-南方涛动模式，特别是在数据匮乏的地区。这些策略使气候重建更加可靠]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7893-2026</guid>
-      <pubDate>Tue, 25 Aug 2026 06:00:02 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>LISFLOOD v4.1.1 的水文审计：模型设置对波河流域水平衡组成部分的影响</title>
@@ -134,7 +134,7 @@
                         地理学。模型开发，19，7855–7892，https://doi.org/10.5194/gmd-19-7855-2026，2026
                         我们评估了大型流域模型的不同配置如何影响意大利波河流域的水流、蒸发、土壤湿度和地下水的模拟。我们测试了替代土壤深度以及包含或去除地下流动路径，并将结果与​​观测结果和已建立的长期水平衡关系进行比较。与河流流量最匹配的设置通常会低估蒸发量并高估深层地下水补给量。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7855-2026</guid>
-      <pubDate>Mon, 24 Aug 2026 06:00:02 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>利用扩散模型预测风速临近预报不确定性量化的预报误差</title>
@@ -144,7 +144,7 @@
                         地理学。模型开发，19，7835–7853，https://doi.org/10.5194/gmd-19-7835-2026，2026
                         该研究提出了一种基于扩散的框架，通过学习预测误差分布来量化风速临近预报的不确定性。通过随机生成误差并将其添加到基于物理的风临近预报中，可以生成多个预报场景。结果提高了预测准确性并提供了预测不确定性的可靠估计。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7835-2026</guid>
-      <pubDate>Mon, 24 Aug 2026 06:00:02 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 19:31:10 GMT</pubDate>
     </item>
     <item>
       <title>斯托克斯冰流模型中的接地线动力学 (Elmer/Ice v9.0)：改进的数值稳定性允许更大的时间步长</title>
@@ -154,7 +154,7 @@
                         地理学。模型开发，19，7817–7834，https://doi.org/10.5194/gmd-19-7817-2026，2026
                         为了克服时间步长限制，我们在斯托克斯冰盖模拟中的冰海界面实施了自由表面稳定算法（FSSA）。在二维实验中，10 年的时间步长通常在数值上稳定且准确，而 50 年的时间步长虽然稳定，但无法完全捕获接地线动态。在冰海界面的实施增加了斯托克斯模型的适用性，并促进了未来与自适应时间步进方案的耦合。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-7817-2026</guid>
-      <pubDate>Fri, 21 Aug 2026 06:00:02 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 19:31:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

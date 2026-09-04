@@ -4,7 +4,21 @@
     <title>Science News</title>
     <link>https://www.sciencenews.org</link>
     <description>INDEPENDENT JOURNALISM SINCE 1921</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:47:31 GMT</lastBuildDate>
+    <item>
+      <title>人工智能代理尚未准备好在行为研究中取代人类</title>
+      <link>https://www.sciencenews.org/article/ai-agents-replace-humans-research</link>
+      <description><![CDATA[一项新的研究发现，数字双胞胎还不能复制他们所模仿的个体的观点。]]></description>
+      <guid>https://www.sciencenews.org/article/ai-agents-replace-humans-research</guid>
+      <pubDate>Thu, 03 Sep 2026 19:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>腐蚀的罪魁祸首可能就在我们眼皮底下运作</title>
+      <link>https://www.sciencenews.org/article/corrosion-water-droplets-charge</link>
+      <description><![CDATA[科学家们知道，沿着表面滑动会使水滴带电。新的研究表明，随着时间的推移，这些水滴会损坏桥梁、汽车等。]]></description>
+      <guid>https://www.sciencenews.org/article/corrosion-water-droplets-charge</guid>
+      <pubDate>Thu, 03 Sep 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>新的哈勃图像揭示了土星南极上空的奇异十边形</title>
       <link>https://www.sciencenews.org/article/hubble-decagon-saturn-south-pole</link>
@@ -62,7 +76,7 @@
       <pubDate>Fri, 28 Aug 2026 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>您的皮肤化学物质可能会影响哪些蚊子最想咬您</title>
+      <title>您的皮肤化学成分可能会影响哪些蚊子最想咬您</title>
       <link>https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite</link>
       <description><![CDATA[三个物种根据皮肤气味和细菌偏好不同的人。这些发现可能有助于制造新的基于微生物的驱虫剂。]]></description>
       <guid>https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[美国宇航局拯救坠落的雨燕望远镜的尝试失败了，揭示了卫星服务领域蓬勃发展的现实。]]></description>
       <guid>https://www.sciencenews.org/article/swift-space-telescope-failed-rescue</guid>
       <pubDate>Thu, 27 Aug 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>当水果稀缺时，猴子会捕食小动物</title>
-      <link>https://www.sciencenews.org/article/monkeys-hunt-small-animals-fruit-scarce</link>
-      <description><![CDATA[随着植物性食物的减少，卷尾猴更频繁地捕猎和吃小型脊椎动物。这种行为可能有助于我们更多地了解人类早期的饮食进化。]]></description>
-      <guid>https://www.sciencenews.org/article/monkeys-hunt-small-animals-fruit-scarce</guid>
-      <pubDate>Wed, 26 Aug 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从前，昆虫有24条腿</title>
-      <link>https://www.sciencenews.org/article/insects-fossil-record-24-legs</link>
-      <description><![CDATA[很久以前的多足怪人有助于填补化石记录中的一个重大空白，并暗示昆虫最终为何只有六条腿。]]></description>
-      <guid>https://www.sciencenews.org/article/insects-fossil-record-24-legs</guid>
-      <pubDate>Wed, 26 Aug 2026 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

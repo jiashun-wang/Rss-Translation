@@ -4,7 +4,21 @@
     <title>Woods Hole Oceanographic Institution</title>
     <link>https://www.whoi.edu</link>
     <description>OUR OCEAN. OUR PLANET. OUR FUTURE.®</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:44:21 GMT</lastBuildDate>
+    <item>
+      <title>打造更健康海洋的新工具</title>
+      <link>https://www.whoi.edu/news-insights/content/a-new-tool-for-healthier-oceans/</link>
+      <description><![CDATA[WHOI 科学家探索海洋碱度增强的影响]]></description>
+      <guid>https://www.whoi.edu/news-insights/content/a-new-tool-for-healthier-oceans/</guid>
+      <pubDate>Thu, 03 Sep 2026 20:10:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>向前 NASA 宇航员提出 3 个问题</title>
+      <link>https://www.whoi.edu/oceanus/feature/3-questions-with-nasa-astronaut-suni-williams/</link>
+      <description><![CDATA[WHOI 公司成员 Sunita Williams 讨论太空探索、海洋科学和环境管理]]></description>
+      <guid>https://www.whoi.edu/oceanus/feature/3-questions-with-nasa-astronaut-suni-williams/</guid>
+      <pubDate>Thu, 03 Sep 2026 19:39:42 GMT</pubDate>
+    </item>
     <item>
       <title>媒体提示表 – 2026 年 9 月</title>
       <link>https://www.whoi.edu/press-room/news-tip/media-tip-sheet/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>火山爆发和气候变暖破坏了印度洋和太平洋之间的密切联系</title>
       <link>https://www.whoi.edu/press-room/news-release/volcanicoceans/</link>
-      <description><![CDATA[A new study combines paleoclimate data and climate models to show that large volcanic eruptions can disrupt the relationship between atmospheric circulations of the tropical Indian and Pacific oceans.]]></description>
+      <description><![CDATA[一项新研究结合了古气候数据和气候模型，表明大型火山喷发会破坏热带印度洋和太平洋大气环流之间的关系。]]></description>
       <guid>https://www.whoi.edu/press-room/news-release/volcanicoceans/</guid>
       <pubDate>Wed, 26 Aug 2026 11:00:18 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.whoi.edu/press-room/whoi-in-the-news/how-ai-is-reshaping-ocean-science/</guid>
       <pubDate>Thu, 20 Aug 2026 19:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.whoi.edu/press-room/whoi-in-the-news/studying-the-effects-of-ocean-alkalinity-on-lobsters/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.whoi.edu/press-room/whoi-in-the-news/studying-the-effects-of-ocean-alkalinity-on-lobsters/</guid>
-      <pubDate>Thu, 20 Aug 2026 18:15:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>WHOI Sea Grant 将课堂带到海岸</title>
-      <link>https://www.whoi.edu/news-insights/content/whoi-sea-grant-takes-the-classroom-to-the-coast/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.whoi.edu/news-insights/content/whoi-sea-grant-takes-the-classroom-to-the-coast/</guid>
-      <pubDate>Thu, 20 Aug 2026 18:12:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:34:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:50:29 GMT</lastBuildDate>
+    <item>
+      <title>Radicle – 免费去中心化代码托管，GitHub、GitLab 的替代品</title>
+      <link>https://www.appinn.com/radicle/</link>
+      <description><![CDATA[代码一定要保存在 GitHub、GitLab 上？或者托管在某一家商业公司的服务器上吗？ 无论是 GitHub 还是 GitLab，都曾出现因政策、制裁或地区限制导致用户封号的情况发生。甚至青小蛙自己]]></description>
+      <guid>https://www.appinn.com/radicle/</guid>
+      <pubDate>Thu, 03 Sep 2026 14:25:04 GMT</pubDate>
+    </item>
     <item>
       <title>高性价比（廉价）SSD VPS 提供商 CloudCone 补货，最低 96 元人民币/年</title>
       <link>https://www.appinn.com/cloudcone-ssd-vps/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[很多人都想随时随地地远程控制在家或办公室的电脑，或者出门在外也能访问 NAS 里的文件、公司内部的 OA 系统，甚至小主机、路由器、打印机等设备。但由于没有公网 IP，这些设备都处于内网，无法直接访问]]></description>
       <guid>https://www.appinn.com/wangyunchuan-2-2/</guid>
       <pubDate>Mon, 31 Aug 2026 05:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天，Chrome 应用商店将彻底移除所有 Manifest V2 扩展，趁现在如何备份？</title>
-      <link>https://www.appinn.com/chrome-remove-manifest-v2-26831/</link>
-      <description><![CDATA[这一天终于到了。 根据 Manifest V2 支持时间表，2026 年 8 月 31 日，谷歌将从 Chrome 应用商店中移除所有剩余的 Manifest V2 扩展程序。 注意：安装在 Chro]]></description>
-      <guid>https://www.appinn.com/chrome-remove-manifest-v2-26831/</guid>
-      <pubDate>Mon, 31 Aug 2026 04:59:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
