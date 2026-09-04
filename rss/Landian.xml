@@ -4,7 +4,70 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:34:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:48:21 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare D1开始强制执行免费额度：超额后数据库查询直接失败 次日0点恢复</title>
+      <link>https://www.landian.news/archives/126644.html</link>
+      <description><![CDATA[#行业资讯 Cloudflare D1 数据库免费版开始执行强制免费额度：每日免费额度耗尽后不会产生额外账单，而是直接停掉数据库功能。好消息是这不会导致被刷产生巨额账单，坏消息是如果被刷那业务会出现中断。建议使用 D1 的用户关注每日用量并考虑是否要升级付费版，每日重置额度时间为国内时间早上 8 点整。查看全文：https://ourl.co/126644]]></description>
+      <guid>https://www.landian.news/archives/126644.html</guid>
+      <pubDate>Fri, 04 Sep 2026 05:31:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>啊这？微软商店里的《Grim Trials》游戏并不免费 微软正在撤销玩家授权</title>
+      <link>https://www.landian.news/archives/126687.html</link>
+      <description><![CDATA[#游戏资讯 啊这？微软商店里的 Grim Trials 游戏并不免费，微软正在撤销此前免费领取该游戏的玩家授权。半个月前微软商店出现名为 Grim Trials 的游戏，该游戏可以免费下载畅玩。现在微软证实这是设置失误，该游戏 19.99 美元，只有付费购买的副本才可以继续玩。查看全文：https://ourl.co/126687]]></description>
+      <guid>https://www.landian.news/archives/126687.html</guid>
+      <pubDate>Fri, 04 Sep 2026 04:48:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达以129.303亿美元收购抱抱脸 交易金额暗藏🤗表情字符串</title>
+      <link>https://www.landian.news/archives/126686.html</link>
+      <description><![CDATA[#人工智能 英伟达以 129.303 亿美元收购🤗抱抱脸，为什么收购金额有零有整？因为这里暗藏小彩蛋。 129303 是 U+1F917 的十进制表示，转为十六进制就是 1F917，对应🤗这个表情。若使用十六进制颜色即 #129303 则是绿色，与英伟达的品牌色比较接近。查看全文：https://ourl.co/126686]]></description>
+      <guid>https://www.landian.news/archives/126686.html</guid>
+      <pubDate>Fri, 04 Sep 2026 04:30:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>服务器管理销售面板WHMCS出现高危安全漏洞 无需登录即可窃取用户资料</title>
+      <link>https://www.landian.news/archives/126685.html</link>
+      <description><![CDATA[#安全资讯 服务器管理销售面板 WHMCS 出现高危安全漏洞，攻击者无需登录即可入侵服务器并获得各类客户资料。目前官方要求使用该版本的服务器提供商升级到 8.13.7 或 9.0.8 版，其他版本都受漏洞影响。查看全文：https://ourl.co/126685]]></description>
+      <guid>https://www.landian.news/archives/126685.html</guid>
+      <pubDate>Fri, 04 Sep 2026 04:15:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6不再收取超过272K部分超额费用 开发者可以在Codex里直接启用1M窗口</title>
+      <link>https://www.landian.news/archives/126684.html</link>
+      <description><![CDATA[#人工智能 GPT-6 Astra 不再收取超过 272K 部分超额费用，开发者可以在 Codex 里直接启用 1M 上下文窗口。特别注意：此政策仅限于 GPT-6 Astra 模型 + Codex 组合。 GPT-5.4/5.5/5.6 如果输入输出超过 272K，超出部分仍然按照倍率计费，倍率为 1.5~2 倍。查看全文：https://ourl.co/126684]]></description>
+      <guid>https://www.landian.news/archives/126684.html</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codex接下来将在每天向付费订阅用户赠送1个重置卡 直到GPT-6 Astra可用</title>
+      <link>https://www.landian.news/archives/126683.html</link>
+      <description><![CDATA[#人工智能 Codex 接下来将每天向付费订阅用户赠送 1 个重置卡，直到 GPT-6 Astra 模型可用。目前该模型仅限部分认证机构使用，而不是发布后大家就能立即使用。作为补偿措施，OpenAI 将向用户赠送重置卡，延迟几天才能用那就赠送几张重置卡，每天 1 张。查看全文：https://ourl.co/126683]]></description>
+      <guid>https://www.landian.news/archives/126683.html</guid>
+      <pubDate>Fri, 04 Sep 2026 02:11:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌不仅延长服务器硬件使用寿命 现在还开始拆内存重新利用起来</title>
+      <link>https://www.landian.news/archives/126643.html</link>
+      <description><![CDATA[#人工智能 谷歌不仅延长服务器硬件使用寿命，现在还开始拆内存然后重新利用起来。谷歌云供应链基础设施高级总裁尼基尔透露，公司正在拆解已经退役的服务器，将仍然可用的零部件重新投入到数据中心。尼基尔也透露，说是可用的零部件，其实就是拆内存，谷歌还特地设计硬件适配器可以将 DDR4 等内存连接 AI 服务器。查看全文：https://ourl.co/126643]]></description>
+      <guid>https://www.landian.news/archives/126643.html</guid>
+      <pubDate>Fri, 04 Sep 2026 02:00:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲核子中心计划将2200台机器都换成Debian 13 原本主要使用RHEL和AlmaLinux</title>
+      <link>https://www.landian.news/archives/126642.html</link>
+      <description><![CDATA[#行业资讯 运营大型强子对撞机的欧洲核子研究中心将在年底前将 2200 台加速器前端控制系统计算机迁移到 Debian 13。原本核子中心主要使用红帽生态系统，即使用 RHEL 和 AlmaLinux。但现在红帽逐步提高 CPU 指令集要求。核子中心的这些工控设备 CPU 都非常老，且设备都绑定专用硬件，更换硬件是不可能的，迁移到 Debian 13 是个不错的选择。查看全文：https://ourl.co/126642]]></description>
+      <guid>https://www.landian.news/archives/126642.html</guid>
+      <pubDate>Fri, 04 Sep 2026 01:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>流媒体套件Plex罕见群发邮件提醒用户立即升级新版本 存在高危安全漏洞</title>
+      <link>https://www.landian.news/archives/126641.html</link>
+      <description><![CDATA[#软件资讯 安全提醒：Plex 桌面版和服务器版都发布更新修复重大安全漏洞，官方提醒用户立即升级新版本。另 NAS 用户请注意，NAS 商店审核较慢，建议用户直接下载离线安装包手动更新，不要等着 NAS 商店审核发布更新后再升级。查看全文：https://ourl.co/126641]]></description>
+      <guid>https://www.landian.news/archives/126641.html</guid>
+      <pubDate>Fri, 04 Sep 2026 01:00:23 GMT</pubDate>
+    </item>
     <item>
       <title>满足欧盟法规要求：微软宣布从明年3月起所有驱动程序都必须提交SBOM和VEX才能获得签名</title>
       <link>https://www.landian.news/archives/126640.html</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[#软件资讯 Microsoft Defender 日常：错误将谷歌搜索结果链接标记为恶意网址。这个问题目前只影响企业，适用于企业的 Microsoft Defender for Office 365 组件存在安全分类器异常的问题，因此员工打开链接会被直接拦截。与此同时 IT 管理员控制台还会收到错误警报，所以也会给 IT 管理员的工作造成麻烦。查看全文：https://ourl.co/126635]]></description>
       <guid>https://www.landian.news/archives/126635.html</guid>
       <pubDate>Thu, 03 Sep 2026 03:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港服务器提供商Netfront出现重大安全问题 C区22台宿主机遭黑客攻击</title>
-      <link>https://www.landian.news/archives/126634.html</link>
-      <description><![CDATA[#安全资讯 重要安全提醒：香港服务器提供商 Netfront 使用 PVE 7 遭到入侵，建议用户立即备份数据以防不测。该公司在昨天晚上向用户群发邮件通知 C 区出现安全问题，但 A 区和 B 区可能也受影响。有网络安全领域的用户向蓝点网证实 Netfront 使用的就是 PVE 7 系列，相关母鸡 IP 暴露在观测平台，所以直接访问 IP:8006 再使用 2FA TFA 票据即可获得母鸡 root 权限。查看全文：https://ourl.co/126634]]></description>
-      <guid>https://www.landian.news/archives/126634.html</guid>
-      <pubDate>Thu, 03 Sep 2026 02:30:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox for iOS 155带来原生内置广告拦截器 需用户主动开启且不会过滤自家广告</title>
-      <link>https://www.landian.news/archives/126633.html</link>
-      <description><![CDATA[#软件资讯 Firefox for iOS 155 版正式推出内置广告拦截器，默认关闭，用户开启后可以调用 EasyList 拦截已知广告。需要说明的是底层拦截能力仍然基于 WebKit 提供的 API，因此拦截效率比不上桌面版配合扩展程序，属于基础广告拦截。另外开启后也不会拦截 FF 自己在新标签页添加的广告。查看全文：https://ourl.co/126633]]></description>
-      <guid>https://www.landian.news/archives/126633.html</guid>
-      <pubDate>Thu, 03 Sep 2026 02:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软宣布禁用Word和Outlook中的文本预测功能 因为用户不喜欢机器生成的内容</title>
-      <link>https://www.landian.news/archives/126632.html</link>
-      <description><![CDATA[#软件资讯 微软宣布禁用 Word 和 Outlook 中的文本预测功能，因为用户并不喜欢机器生成的建议内容。用户反馈更喜欢自己手动输入文本，而文本预测有时候还会干扰正常输入。最终微软决定将其默认禁用，有需要的用户可以在设置选项里手动启用。查看全文：https://ourl.co/126632]]></description>
-      <guid>https://www.landian.news/archives/126632.html</guid>
-      <pubDate>Thu, 03 Sep 2026 01:30:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub CLI现在可以通过命令行添加文件 例如上传图片或视频附加到PR中</title>
-      <link>https://www.landian.news/archives/126631.html</link>
-      <description><![CDATA[#软件资讯 GitHub CLI 版现在支持附加文件命令，可以将本地图片或视频直接上传到 Issue、PR 以及评论中。该功能适用​​于所有用户，只需要将 GitHub CLI 升级到 2.99.012+ 版即可。文件大小限制与网页版相同，免费用户单个文件 10MB，付费用户可以上传最高 100MB 的视频。查看全文：https://ourl.co/126631]]></description>
-      <guid>https://www.landian.news/archives/126631.html</guid>
-      <pubDate>Thu, 03 Sep 2026 01:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>全民开盒：美国身份验证服务商IDScan出现数据泄露 黑客出售1​​.53亿份证件扫描件</title>
-      <link>https://www.landian.news/archives/126630.html</link>
-      <description><![CDATA[#全民开盒 美国身份验证服务商 IDScan 出现超大规模数据泄露，黑客成功拿到高达 1.53 亿份驾照 / 护照 / 身份证件 / 医疗卡扫描件。已经有网络安全从业者进行验证，通过对家人和朋友信息进行验证后基本确认数据是真实的。黑客自称花费数年才从目标系统里拿到数据，按照 500KB 计算，数据总规模也超过 70TB。查看全文：https://ourl.co/126630]]></description>
-      <guid>https://www.landian.news/archives/126630.html</guid>
-      <pubDate>Wed, 02 Sep 2026 08:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效</title>
-      <link>https://www.landian.news/archives/126629.html</link>
-      <description><![CDATA[#人工智能 A 社宣布 Claude Messages API 部署新机制防止规模化蒸馏，修改历史内容将导致思考块直接失效。现阶段新机制将应用于调用 Fable 5.1 的新 API 账户，后续新机制将覆盖所有 API 账户。如果开发者修改请求中的早期消息、系统提示或工具，请求会直接返回错误。查看全文：https://ourl.co/126629]]></description>
-      <guid>https://www.landian.news/archives/126629.html</guid>
-      <pubDate>Wed, 02 Sep 2026 07:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果群发邮件通知Mac软件开发者：已经没必要再适配英特尔CPU</title>
-      <link>https://www.landian.news/archives/126628.html</link>
-      <description><![CDATA[#软件资讯 苹果群发邮件通知 Mac 软件开发者：已经没有必要再适配英特尔 CPU。苹果的建议是无论是现有还是新发布的软件都可以设置为仅支持 Arm64 架构，不需要再支持 x64 架构。根据苹果规划，macOS 27 已经停止支持 Intel Mac，而用于运行 Arm 软件的 Rosetta 2 也将在明年停用。不过这只是苹果建议而非强制措施，如果开发者认为有必要继续照顾存量用户，那可以继续构建支持 x64 的版本。查看全文：https://ourl.co/126628]]></description>
-      <guid>https://www.landian.news/archives/126628.html</guid>
-      <pubDate>Wed, 02 Sep 2026 07:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>从10月开始微软将默认开启Windows 11内存完整性保护 会影响游戏性能</title>
-      <link>https://www.landian.news/archives/126627.html</link>
-      <description><![CDATA[#系统资讯 微软将从 10 月开始为满足硬件要求的 Windows 11 PC 默认开启内存完整性保护功能。该功能通常不会默认全部开启，微软以前主要在较新的 PC 上开启，用户可以禁用。但随着 AI 发掘的漏洞越来越多，微软认为有必要默认开启提升安全性。开启后会影响 PC 性能，游戏玩家可以根据情况决定是否要禁用。查看全文：https://ourl.co/126627]]></description>
-      <guid>https://www.landian.news/archives/126627.html</guid>
-      <pubDate>Wed, 02 Sep 2026 06:30:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[设置保护] X/Twitter用户正在遭到批量密码找回攻击 疑似与X金融工具有关</title>
-      <link>https://www.landian.news/archives/126626.html</link>
-      <description><![CDATA[#安全资讯 [立即设置保护] X/Twitter 用户正在遭到批量密码找回攻击，疑似与 X Money 服务有关。从本周开始大量用户发帖称频繁收到密码重置邮件，黑客试图通过用户名重置用户密码 (但需要验证码才能重置)。这种情况也引起 X 团队的关注，X 团队猜测可能与 X Money 有关，即黑客想要劫持账户洗劫用户资金。目前简单的解决办法就是开启密码找回保护，开启后无法直接通过用户名找回密码，还需要输入注册邮箱或绑定手机号。开启方法：https://ourl.co/126626]]></description>
-      <guid>https://www.landian.news/archives/126626.html</guid>
-      <pubDate>Wed, 02 Sep 2026 06:00:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>Science News</title>
     <link>https://www.sciencenews.org</link>
     <description>INDEPENDENT JOURNALISM SINCE 1921</description>
-    <lastBuildDate>Fri, 04 Sep 2026 00:47:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:44:46 GMT</lastBuildDate>
+    <item>
+      <title>“美国猎豹”到底是猎豹吗？</title>
+      <link>https://www.sciencenews.org/article/american-cheetah-puma-ancient-dna-diet</link>
+      <description><![CDATA[古代 DNA 证实Miracinonyx trumani 与现代美洲狮的关系比猎豹更密切，而且饮食也比之前想象的更加多样化。]]></description>
+      <guid>https://www.sciencenews.org/article/american-cheetah-puma-ancient-dna-diet</guid>
+      <pubDate>Fri, 04 Sep 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能代理尚未准备好在行为研究中取代人类</title>
       <link>https://www.sciencenews.org/article/ai-agents-replace-humans-research</link>
@@ -64,7 +71,7 @@
     <item>
       <title>午睡还是不午睡？科学仍在清醒地认识这个问题</title>
       <link>https://www.sciencenews.org/article/nap-science-sleep-health</link>
-      <description><![CDATA[许多人晚上很难睡够。令人惊讶的是，科学无法证明在两个街区内加小睡是否健康。]]></description>
+      <description><![CDATA[许多人晚上都难以入睡。令人惊讶的是，科学无法证明在两个街区内加小睡是否健康。]]></description>
       <guid>https://www.sciencenews.org/article/nap-science-sleep-health</guid>
       <pubDate>Mon, 31 Aug 2026 15:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[一项新的研究发现，阿巴拉契亚是山体滑坡的热点地区，但许多人无力离开或减轻危险。富裕的城市居民可以。]]></description>
       <guid>https://www.sciencenews.org/article/landslides-large-risks-least-afford</guid>
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一架太空望远镜从轨道上坠落。它的救援任务也失败了</title>
-      <link>https://www.sciencenews.org/article/swift-space-telescope-failed-rescue</link>
-      <description><![CDATA[美国宇航局拯救坠落的雨燕望远镜的尝试失败了，揭示了卫星服务领域蓬勃发展的现实。]]></description>
-      <guid>https://www.sciencenews.org/article/swift-space-telescope-failed-rescue</guid>
-      <pubDate>Thu, 27 Aug 2026 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

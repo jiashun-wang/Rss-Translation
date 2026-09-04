@@ -4,13 +4,84 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Fri, 04 Sep 2026 00:50:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:48:29 GMT</lastBuildDate>
+    <item>
+      <title>手机端不能对文章内选中的部分进行打印吗</title>
+      <link>https://ld246.com/article/1788537490454</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788537490454</guid>
+      <pubDate>Fri, 04 Sep 2026 15:58:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>v3.8.2 的删除反应变得奇慢</title>
+      <link>https://ld246.com/article/1788512086859</link>
+      <description><![CDATA[无论是删除块，还是删除文档，有时要等几十秒才出现确认对话框。 ]]></description>
+      <guid>https://ld246.com/article/1788512086859</guid>
+      <pubDate>Fri, 04 Sep 2026 09:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>块引脚注插件异常</title>
+      <link>https://ld246.com/article/1788509107928</link>
+      <description><![CDATA[@Achuan-2 大佬好。块引脚注插件，使用时出现了 2 个问题点。思源版本 V3.8.2，插件版本 1.6.2。还望指导一下如何正确使用，非常感谢。 
+
+点开备注输入框后，默认光标位置在[注]的前面，不能直接输入，每次都需要再鼠标或者键盘移动光标到相应位置后，才能开始输入。 
+侧栏(DECK 栏)打开后，点击对应位置，本来应该是&quot;打开脚注块&quot;&quot;打开原块&quot;的，但鼠标点击没有任何反应。 
+]]></description>
+      <guid>https://ld246.com/article/1788509107928</guid>
+      <pubDate>Fri, 04 Sep 2026 08:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>极空间的思源笔记无法使用存在内存严重溢出</title>
+      <link>https://ld246.com/article/1788509102648</link>
+      <description><![CDATA[极空间的思源笔记无法使用存在内存严重溢出，今天更新了极空间的思源（应用商店上安装），还是不行。已经沟通过极空间官方 ，官方说这个是思源自己的问题。对内存严重溢出处理不到位，已经通知了思源官方，但是目前来看，是没有得到解决。 
+
+]]></description>
+      <guid>https://ld246.com/article/1788509102648</guid>
+      <pubDate>Fri, 04 Sep 2026 08:05:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>任务列表的二级子列表通过 Ctrl+/ 转换表现问题</title>
+      <link>https://ld246.com/article/1788504421223</link>
+      <description><![CDATA[任务列表的二级子列表默认同为任务列表
+
+【预期行为】当我用鼠标选择左侧菜单进行转换时，可转换的块如下，且转换为有序/无序列表时不再保留原任务列表的勾选框
+
+
+【非预期行为】当我用 Ctrl+/ 呼出左侧菜单进行转换时，可转换的块如下，且转换为有序/无序列表时仍保留原任务列表的勾选框
+
+]]></description>
+      <guid>https://ld246.com/article/1788504421223</guid>
+      <pubDate>Fri, 04 Sep 2026 06:47:00 GMT</pubDate>
+    </item>
     <item>
       <title>思源系统默认颜色</title>
       <link>https://ld246.com/article/1788460890776</link>
-      <description><![CDATA[siyuandefaultcolors.css.zip]]></description>
+      <description><![CDATA[siyuandefaultcolors.html.zip
+siyuandefaultcolors.css.zip]]></description>
       <guid>https://ld246.com/article/1788460890776</guid>
-      <pubDate>Thu, 03 Sep 2026 18:41:29 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 06:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>drawio 插件设置了中文不生效，怎么解决</title>
+      <link>https://ld246.com/article/1788492312589</link>
+      <description><![CDATA[更新软件后，里面的一个 drawio 插件部分就变成了英文，设置了中文不生效，怎么解决呢？ 
+]]></description>
+      <guid>https://ld246.com/article/1788492312589</guid>
+      <pubDate>Fri, 04 Sep 2026 03:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>资产管理插件说明书</title>
+      <link>https://ld246.com/article/1788492088313</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788492088313</guid>
+      <pubDate>Fri, 04 Sep 2026 03:21:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>光标上下文行数</title>
+      <link>https://ld246.com/article/1788485875135</link>
+      <description><![CDATA[各位大佬，想问一下，设置 → 编辑器里面，有一个&quot;光标上下文行数&quot;，这个是什么作用呢？修改了，好像文档没有任何变化，还望指教，谢谢。 ]]></description>
+      <guid>https://ld246.com/article/1788485875135</guid>
+      <pubDate>Fri, 04 Sep 2026 01:37:54 GMT</pubDate>
     </item>
     <item>
       <title>Jetson Nano 边缘计算与推理指南</title>
@@ -250,118 +321,6 @@ FP16 量化必做，速度翻倍精度几乎不降
 而且，还有一点很奇怪。当光标在右下角的单元格时，回车不会跳出表格到下一行。 ]]></description>
       <guid>https://ld246.com/article/1788408127922</guid>
       <pubDate>Thu, 03 Sep 2026 05:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>文本菜单行内公式问题</title>
-      <link>https://ld246.com/article/1788407854559</link>
-      <description><![CDATA[
-反斜杠开头的内容，选中后，点击行内公司无法正常转换会报错。 
-从其它地方复制过来的内容（例如豆包），内容中带有两个 $ 符号的行内公式也不能正常转化。 
-
-具体如视频中所演示。 
-软件版本：3.8.2
-
- 浏览器不支持该媒体的播放
-]]></description>
-      <guid>https://ld246.com/article/1788407854559</guid>
-      <pubDate>Thu, 03 Sep 2026 03:57:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>人生不同时期价值观</title>
-      <link>https://ld246.com/article/1788404741136</link>
-      <description><![CDATA[你在人生的不同阶段，都有哪些重大人生观，价值观，或世界观的改变？ 
-高中，大学，初入职场，成家，为人父母，到管理层，退休，老年，哪个阶段都可以。 
-契机优势什么呢？改变前后行为模式又有了怎样由内而外的转变？ 
-默苍离的回答：
-简单挑选几个写写吧。 
-按照年龄阶段由低到高排序。 
-初中前：
-1，一些职业天然值得被尊重（比如教师、医生等等）。 
-转化：遇到了一些不怎么值得尊重的类似职业的从业者。职业只是分工，每个职业都有不同的人，不断告诉我需要被尊重是为了忽悠我不去检查他们做的事情是不是靠谱的、专业的。 
-2，艰苦朴素杜绝浪费是传统美德。 
-转化：这个是看了一些书之后发现，我国古代的上层从来不艰苦朴素，而且不光不艰苦朴素，还故意铺张，流行铺张，所以知道了，艰苦朴素被强调的对象是部分人，而不是所有人。 
-3，&quot;丢人&quot;是一件不好的事情，需要自我谴责的事情。 
-转化：发现这个词，多数情况下被用来攻击，类似于&quot;艹&quot;，所以这个词多数状况下是没有效用的，不值得重视的。 
-4，每个人都是平等的。 
-转化：很显然，分工、位置、技能上每个人都有差异，所以对这个词祛魅了。 
-5，父母大体上是靠得住的。 
-转化：发现他们动机上靠得住，但实践上不是很聪明的样子，总体而言，有善意而无善能。 
-大学前：
-1，意志力是决定性的。 
-转化：发现好多人拼命学习还是考不过我玩着学，于是感受到意志力这玩意就是个骗局，忽悠人不断用事倍功半的方法去学习，于是，意志力这玩意被祛魅了，取而代之的是，方法论迭代、工程化思维和效率至上。这个价值观，多年后又迭代了一次，变成了环境设计 + 认知框架 + 认知姿态 + 高频反馈。 
-2，科学家和学者都非常厉害，推动社会进步。 
-转化：触发点是某次在大众媒体上一些学者给某个玩意背书，而这玩意稍微一琢磨就不靠谱。后来用这个思路去检查了大众媒体上各种学者权威的观点、逻辑，于是对权威和学者祛魅了。 
-3，历史规律非常重要，能学到很多做人和做事的道理，也能帮助自己励志。 
-转化：发现这玩意大量的具备事后诸葛亮和道德贴标签特征，不客观，且逐步发现我们看到的绝大多数书籍都是从正史二创或者演义化的，而正史本身写的非常含糊。 
-4，朋友很重要。 
-转化：发现朋友多了以后，浪费时间，人云亦云，朋友的质量比数量重要得多。 
-大学到工作后：
-1，文科没有毛用。 
-转化：这玩意很有用，但是实践中，多数人无法达到&quot;很有用&quot;的门槛，教学也故意限制他们只能当肉喇叭而无法进入&quot;很有用&quot;的门槛。 
-2，商界大佬都很厉害，很值得学习。 
-转化：接触多了以后发现，择时（什么时间进入退出）、择人（跟什么人保持关系）和择场（在什么赛道玩）比人的实际专业能力的因素要大很多，反推可以知道，商界大佬的事后告诉你的经验，基本没用。 
-3，这世界上有很多人比较坏，恶意很多。 
-转化：发现他们不是坏，他们都有自己的一套&quot;良知&quot;，都觉得自己是&quot;好人&quot;。他们的实际问题是，有很多的过去经历导致的蠢和心理不​​正常。 
-以上。 
-总结来说，对自己祛魅、对规则祛魅、对共识祛魅、对所谓的精英祛魅。 
-知道自己无知，也知道世界上的其他领域相对无知。 
-供参考。 ]]></description>
-      <guid>https://ld246.com/article/1788404741136</guid>
-      <pubDate>Thu, 03 Sep 2026 03:05:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[js] 编辑器只读与可编辑提示 + 鼠标左键三击切换只读可编辑状态</title>
-      <link>https://ld246.com/article/1788400346610</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788400346610</guid>
-      <pubDate>Thu, 03 Sep 2026 02:33:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>在只读模式下多选跨块文本，按 esc 无法实现全选指定块</title>
-      <link>https://ld246.com/article/1788402248374</link>
-      <description><![CDATA[github 上不去了。在链滴里提一下。 
-版本 v3.8.2。 
-无插件、外观及代码片段。 ]]></description>
-      <guid>https://ld246.com/article/1788402248374</guid>
-      <pubDate>Thu, 03 Sep 2026 02:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源中 ai 的配置部分能增加关闭鉴权的功能吗？</title>
-      <link>https://ld246.com/article/1788399902344</link>
-      <description><![CDATA[使用思源中的 ai 配置时，apiKey 前会自动添加 OpenAI 鉴权（自动加 Bearer）,能增加一个关闭鉴权功能吗？也就是 apiKey 前不加 Bearer 前缀]]></description>
-      <guid>https://ld246.com/article/1788399902344</guid>
-      <pubDate>Thu, 03 Sep 2026 01:45:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>提示块不可以改名称了</title>
-      <link>https://ld246.com/article/1788359146004</link>
-      <description><![CDATA[更新到 3.8.2 之后，提示块只能改图标，改不了提示块的名称，请问是版本更新的原因还是出现 bug 了
-
- 浏览器不支持该媒体的播放
-]]></description>
-      <guid>https://ld246.com/article/1788359146004</guid>
-      <pubDate>Wed, 02 Sep 2026 14:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源笔记安卓端几种退出方式会有什么影响</title>
-      <link>https://ld246.com/article/1788358242712</link>
-      <description><![CDATA[1.在应用内点击退出选项
-应该是最稳妥的退出方式吧
-2.直接后台划掉思源笔记，清理思源笔记后台
-a. 落盘时间是什么时候，刚写的数据，立刻在后台划掉思源笔记，会出现数据丢失吗
-b. 进行索引提交（插入索引）的时候，立刻在后台划掉思源笔记，会出现索引损坏吗
-c. 同步进行中被强杀，会留下什么状态？是否下次全量重来？云端快照会否处于不一致状态？ 
-2.1 在应用内部一直点击返回键，直到返回桌面，然后清理思源笔记后台
-同上面的三个小问题 abc]]></description>
-      <guid>https://ld246.com/article/1788358242712</guid>
-      <pubDate>Wed, 02 Sep 2026 14:10:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>每次更新后 win11 的任务栏固定都会丢失</title>
-      <link>https://ld246.com/article/1788355384093</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788355384093</guid>
-      <pubDate>Wed, 02 Sep 2026 13:23:03 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

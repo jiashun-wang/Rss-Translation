@@ -4,7 +4,14 @@
     <title>AI论文简报</title>
     <link>https://ai-brief.liziran.com</link>
     <description>每天3分钟，从源头论文把握AI前沿。</description>
-    <lastBuildDate>Fri, 04 Sep 2026 00:51:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:51:23 GMT</lastBuildDate>
+    <item>
+      <title>一套模型月接1.16亿请求，机器人成功率翻倍</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-09-05-production-traffic-video-pretraining-distillation.html</link>
+      <description><![CDATA[生产流量决定后训练方向：按200多个内部应用的真实请求补齐能力后，一套自托管模型每月承接1.16亿次请求，为退役旧服务和整合GPU创造条件。 无动作视频显着提升机器人泛化，12万小时第一视角视频将真实机器人零样本成功率从36.1%推至77.8%，未见任务受益尤其明显。 像素文本编码需要四项协同设计。动态分辨率、真实图文、版式保留和多语言课程共同支撑泛化，压缩80%视觉token后仍保持稳健。 中期蒸馏会分化推理与记忆收益：按教师预测熵切换训练目标，可将推理表现提升至1.61—1.71倍，同时保留96.7%—96.8%的事实记忆。 GUI Agent的竞争延伸到基础设施，同一闭环覆盖手机、网页和桌面的同时，还需共同扩展环境、任务构造与奖励核验能力。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-09-05-production-traffic-video-pretraining-distillation.html</guid>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>控制协议达100%，循环层省18%计算</title>
       <link>https://ai-brief.liziran.com/zh/daily/2026-09-04-stable-agent-protocols-cheaper-loops.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[27B模型全参微调可压至推理级显存，Agentic ESOpt绕过反向传播和长轨迹逐步归因，WebArena-Lite提升6.69%，但完整轨迹的采样成本仍需等算力核对。 扩散训练的计算最优点约为每参数200个图像token：Abra在三个数量级的计算预算中得到可预测曲线，为模型规模、数据量和训练时长提供配置依据。 稀疏专家让视觉编码器扩容不必激活全部参数；MoE-ViE以76%的延迟匹配体量大1.7倍的编码器，实际收益仍取决于路由、算子和硬件。 市场需求导出的Agent任务暴露了交付断点。 StartupBench中最强模型也只能完整完成约30%的任务，局部进展尚不能转化为可靠交付。]]></description>
       <guid>https://ai-brief.liziran.com/zh/daily/2026-08-21-agent-training-diffusion-scaling-vision-moe.html</guid>
       <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>3D世界构建成功率不足60%</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-18-3d-agent-world-building.html</link>
-      <description><![CDATA[前沿Agent成功率仍不到60%，VibeWorlding用2,616个3D资产和6,828条查询测试完整建造闭环，精确编辑成为主要瓶颈。 认知风险框架应先充当排查地图：它按认知范围梳理评测、权限与治理责任，但因果关系和量化指标仍待实证。 9种persona取代单一驾驶风格轴。 PersonaDrive组合紧迫度与舒适度，使轨迹预测能够按场景控制行为分布。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-18-3d-agent-world-building.html</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

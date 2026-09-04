@@ -4,7 +4,14 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Fri, 04 Sep 2026 00:31:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:24:03 GMT</lastBuildDate>
+    <item>
+      <title>TanML：表格机器学习模型的自动模型验证工具包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.11253</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.11253</guid>
+      <pubDate>Fri, 04 Sep 2026 15:35:54 GMT</pubDate>
+    </item>
     <item>
       <title>regkit：促进挪威健康和人口登记数据的操作、分析和可视化</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.10240</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.09357</guid>
       <pubDate>Wed, 26 Aug 2026 20:08:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>AutoEmulate：用于端到端仿真工作流程的 PyTorch 工具</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10087</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10087</guid>
-      <pubDate>Wed, 26 Aug 2026 17:49:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Fri, 04 Sep 2026 00:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:48:42 GMT</lastBuildDate>
+    <item>
+      <title>本周赛博领鸡蛋（9.4~9.10）：《与你独处》《寻找埃文》</title>
+      <link>https://www.appinn.com/eggs-2694/</link>
+      <description><![CDATA[本周赛博领鸡蛋 Epic Games 商城共有 1 款电脑游戏、1 款手机游戏限时免费领取，分别是电脑端的《与你独处》，以及手机端的《寻找埃文》。其中《寻找埃文》同时提供 Android 和 iOS]]></description>
+      <guid>https://www.appinn.com/eggs-2694/</guid>
+      <pubDate>Fri, 04 Sep 2026 07:03:07 GMT</pubDate>
+    </item>
     <item>
       <title>Radicle – 免费去中心化代码托管，GitHub、GitLab 的替代品</title>
       <link>https://www.appinn.com/radicle/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Steam 最近爆出了一次规模惊人的游戏数据泄漏：超过 12TB、横跨 2003～2013 年的大量游戏数据被公开。 @Appinn 泄漏的内容是 Steam2，里面有《Portal 2》《Left 4]]></description>
       <guid>https://www.appinn.com/steam-12tb-game-data-leak/</guid>
       <pubDate>Mon, 31 Aug 2026 06:28:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>内网穿透，本可以不用那么麻烦</title>
-      <link>https://www.appinn.com/wangyunchuan-2-2/</link>
-      <description><![CDATA[很多人都想随时随地地远程控制在家或办公室的电脑，或者出门在外也能访问 NAS 里的文件、公司内部的 OA 系统，甚至小主机、路由器、打印机等设备。但由于没有公网 IP，这些设备都处于内网，无法直接访问]]></description>
-      <guid>https://www.appinn.com/wangyunchuan-2-2/</guid>
-      <pubDate>Mon, 31 Aug 2026 05:48:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Pick of the Week</title>
     <link>https://blogs.mathworks.com/pick</link>
     <description>Showcasing outstanding MATLAB contributions each week from across the MATLAB ecosystem, including File Exchange, GitHub, MATLAB Answers, and more.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 09:41:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:51:45 GMT</lastBuildDate>
     <item>
       <title>STORX：探索形状和拓扑优化</title>
       <link>https://blogs.mathworks.com/pick/2026/08/12/storx-exploring-shape-and-topology-optimization/?s_tid=feedtopost</link>
@@ -24,7 +24,7 @@ George 本周选择的是 Amir Mirzendehdel（堪萨斯大学）和 Krishnan Sur
     <item>
       <title>MATLAB 中的桑基图</title>
       <link>https://blogs.mathworks.com/pick/2026/07/09/sankey-diagrams-in-matlab/?s_tid=feedtopost</link>
-      <description><![CDATA[迈克本周选择的是刘兆旭的桑基情节 / 由 Yair Altman 提名的诽谤者。桑基图可视化能源、金钱、材料、人员以及任何从一个地方移动到...的事物的流动阅读更多&gt;&gt;]]></description>
+      <description><![CDATA[迈克本周选择的是刘兆旭的桑基情节 / 由 Yair Altman 提名的诽谤者。桑基图可视化能源、金钱、材料、人员以及任何从一个地方移动到...的流动。阅读更多&gt;&gt;]]></description>
       <guid>https://blogs.mathworks.com/pick/2026/07/09/sankey-diagrams-in-matlab/?s_tid=feedtopost</guid>
       <pubDate>Thu, 09 Jul 2026 16:25:13 GMT</pubDate>
     </item>
@@ -40,7 +40,7 @@ Steve Eddins 在 MathWorks 工作了 30 多年，是长期运行的使用 MATLAB
     <item>
       <title>DeepSqueak – 一种基于深度学习的超声波发声检测和分析系统</title>
       <link>https://blogs.mathworks.com/pick/2026/05/14/deepsqueak-a-deep-learning-based-system-for-detection-and-analysis-of-ultrasonic-vocalizations/?s_tid=feedtopost</link>
-      <description><![CDATA[Mike 本周选择的是 Kevin R Coffey 的 DeepSqueak。介绍阿尔斯通的歌唱鼠标本周我了解到有一种会唱歌的老鼠，阿尔斯通的歌唱鼠标Scotinomys teguina）！... 阅读更多&gt;&gt;]]></description>
+      <description><![CDATA[Mike 本周选择的是 Kevin R Coffey 的 DeepSqueak。介绍阿尔斯通的唱歌鼠标这周我了解到有一种会唱歌的老鼠，阿尔斯通的唱歌鼠标Scotinomys teguina）！... 阅读更多&gt;&gt;]]></description>
       <guid>https://blogs.mathworks.com/pick/2026/05/14/deepsqueak-a-deep-learning-based-system-for-detection-and-analysis-of-ultrasonic-vocalizations/?s_tid=feedtopost</guid>
       <pubDate>Thu, 14 May 2026 12:39:37 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@ Mike 本周选择的是 Jacob Honer 的 artemis2_trajectory_simulation。
       <title>MATLAB 用户 John D’Errico 发现了已知最大的可逆素数，有 12,346 位</title>
       <link>https://blogs.mathworks.com/pick/2026/03/16/matlab-user-john-derrico-finds-largest-known-reversible-prime-with-12346-digits/?s_tid=feedtopost</link>
       <description><![CDATA[
-迈克本周选择的是约翰·德埃里科发现的新世界纪录可逆素数的候选者。
+迈克本周的选择是约翰·德里科发现的新的世界纪录可逆素数的候选者。
 可逆素数（也称为 emirp）是产生... 阅读更多 &gt;&gt;]]></description>
       <guid>https://blogs.mathworks.com/pick/2026/03/16/matlab-user-john-derrico-finds-largest-known-reversible-prime-with-12346-digits/?s_tid=feedtopost</guid>
       <pubDate>Mon, 16 Mar 2026 15:14:38 GMT</pubDate>

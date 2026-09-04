@@ -4,13 +4,13 @@
     <title>Journal of Applied Mechanics Open Issues</title>
     <link>https://asmedigitalcollection.asme.org/appliedmechanics</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 00:00:00 GMT</lastBuildDate>
     <item>
-      <title>双稳态曲梁动力学的屈曲或振动伽辽金模式：哪个产生可接受的收敛？</title>
-      <link>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/10/101011/1234784/Buckling-or-Vibration-Galerkin-Modes-for-Bistable</link>
-      <description><![CDATA[摘要动态激励使得双稳态梁能够在小力幅下快速状态切换，而可控切换策略依赖于梁动力学的准确预测。伽辽金方法提供了一种可靠且高效的方法，但试验函数的选择因研究而异，导致效率和准确性的最佳选择尚未解决。本文研究了双稳态曲梁的三种最常用模态组：直梁屈曲模式、直梁振动模式和曲梁振动模式。将这些试验函数代入截断阶数递增的控制方程中，我们对动态响应模式进行数值计算和比较。一模和二模截断在三组中产生相似的模式，但无法完全捕获主谐振和主谐波区域。然而，三模态截断揭示了屈曲模式和两种振动模式之间的次谐波井间区域存在显着差异。这些差异是由屈曲问题中包含的轴向力效应引起的，但在振动问题中被忽略了，这是通过轴向与弯曲能量比分析证实的机制。这表明屈曲模式的收敛速度更快，五模式结果证实了这一点，其中所有预测都收敛并与三模式屈曲预测定性一致。有限元模拟和参数研究进一步验证了这些发现。研究表明，屈曲模态表现出优异的收敛性，并且通常需要五模态截断来捕获完整的动力学，为选择双稳态曲梁的试验函数和截断阶数提供了清晰合理的基础。]]></description>
-      <guid>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/10/101011/1234784/Buckling-or-Vibration-Galerkin-Modes-for-Bistable</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <title>基于模式转向效应的压扭耦合超材料的主动带隙调谐</title>
+      <link>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/11/111001/1234897/Active-Bandgap-Tuning-of-Compression-Torsion</link>
+      <description><![CDATA[摘要模式转向是一种色散带频率在交换能带特性时先会聚然后发散的现象，对于设计动态系统和预测结构行为至关重要。尽管在手性超材料系统中被广泛观察到，但控制这种现象的根本机制仍然没有得到充分的了解，阻碍了有效主动控制策略的发展。这项研究提出了一种主动可调超材料链，由具有双重独立控制机制的压扭耦合振荡器组成：动态可调的振荡器间耦合刚度和可修改的旋转惯量。通过精确的参数调制，实现了扭转平带和纵向色散带之间能量重新分配和偏振切换的连续和可逆调节，从而实现了模式转向的按需诱导。对这一过程的进一步研究表明，这种现象源于能带反转和振荡不兼容之间的固有冲突，这是通过振荡器扭转固有频率的变化解决的悖论。至关重要的是，这种频移和频带轨迹之间的相互作用被认为是控制模式转向的基本机制。此外，这项研究发现非线性压缩扭转耦合效应可以抑制扭转平带引起的能量局域化。这些工作建立了主动弹性波操纵的新范例，在自适应隔振和可编程超材料设计方面具有广阔的应用前景。]]></description>
+      <guid>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/11/111001/1234897/Active-Bandgap-Tuning-of-Compression-Torsion</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

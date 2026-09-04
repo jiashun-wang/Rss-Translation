@@ -1,9 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Fri, 04 Sep 2026 00:31:20 GMT</lastBuildDate>
+    <title>Scientific Data</title>
+    <link>http://feeds.nature.com/sdata/rss/current</link>
+    <description><p><em>Scientific Data</em>&nbsp;is an open access journal dedicated to data, publishing descriptions of research datasets and articles on research data sharing from all areas of natural sciences, medicine, engineering and social sciences. It aims to&nbsp;advance&nbsp;the sharing and reuse of scientific data, promote wider data sharing and reuse, and to credit those that share.</p>
+
+<p>Find out more about the key principles that drive&nbsp;<em>Scientific Data</em></p>
+
+<p><em>Scientific Data</em>&nbsp;primarily publishes Data Descriptors. These provide&nbsp;detailed descriptions of research datasets, including the methods used to collect the data and technical analyses supporting the quality of the measurements. Data Descriptors focus on helping others reuse data, rather than testing hypotheses, or presenting new interpretations, methods or in-depth analyses.</p>
+
+<p><em>Scientific Data</em>&nbsp;also welcomes submissions describing analyses or meta-analyses of existing data, and original articles on systems, technologies and techniques that advance data sharing and reuse to support reproducible research.</p>
+
+<p><em>Scientific Data</em>&nbsp;uses a thorough peer-review process that evaluates the rigour and quality of the experiments used to generate the data and the completeness of the description of the data. The actual data are stored in one or more public, community-recognized repositories, and release of the data is verified as a condition of publication.</p>
+
+<p>Data Descriptors may describe data from new or published studies, and can be published alongside traditional research works. Data Descriptors that describe previously published datasets should&nbsp;provide new content sufficient to merit further publication: for example, updates to important datasets, fuller release of a dataset, or additional information that aids reuse. Please see our policies on&nbsp;complementary&nbsp;and&nbsp;prior&nbsp;publication.</p></description>
+    <lastBuildDate>Fri, 04 Sep 2026 23:24:21 GMT</lastBuildDate>
+    <item>
+      <title>通过创建上下文元数据增强兽医流行病学数据的可重用性</title>
+      <link>https://www.nature.com/articles/s41597-026-08217-9</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 9 月 4 日； doi:10.1038/s41597-026-08217-9通过创建上下文元数据增强兽医流行病学数据的可重用性]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08217-9</guid>
+      <pubDate>Fri, 04 Sep 2026 23:24:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过综合方法实现全球无间隙 1 公里日平均地表温度（70°N–60°S，2003–2023 年）</title>
+      <link>https://www.nature.com/articles/s41597-026-08223-x</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 9 月 4 日； doi:10.1038/s41597-026-08223-x通过综合方法获取全球无间隙1 公里日平均地表温度（70°N–60°S，2003–2023）]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08223-x</guid>
+      <pubDate>Fri, 04 Sep 2026 23:24:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>跨多个组织的烟草长读转录组数据集</title>
+      <link>https://www.nature.com/articles/s41597-026-08258-0</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 9 月 4 日； doi:10.1038/s41597-026-08258-0跨多个组织的烟草长读转录组数据集]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08258-0</guid>
+      <pubDate>Fri, 04 Sep 2026 23:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>条纹跳蚤甲虫<i>Phyllotreta striolata</i>的阶段和性别特异性转录组</title>
+      <link>https://www.nature.com/articles/s41597-026-08255-3</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 9 月 4 日； doi:10.1038/s41597-026-08255-3条纹跳蚤甲虫Phyllotreta striolata的阶段和性别特异性转录组]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08255-3</guid>
+      <pubDate>Fri, 04 Sep 2026 23:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国西北地区蛇咬伤纵向实验室及治疗数据集</title>
+      <link>https://www.nature.com/articles/s41597-026-08250-8</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 9 月 4 日； doi:10.1038/s41597-026-08250-8中国西北蛇咬伤纵向实验室和治疗数据集]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08250-8</guid>
+      <pubDate>Fri, 04 Sep 2026 23:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>养鱼场逃逸数据集</title>
+      <link>https://www.nature.com/articles/s41597-026-08189-w</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 9 月 4 日； doi:10.1038/s41597-026-08189-w养鱼场逃逸数据集]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08189-w</guid>
+      <pubDate>Fri, 04 Sep 2026 23:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于运营管理中因果机器学习的综合生产数据集</title>
+      <link>https://www.nature.com/articles/s41597-026-08235-7</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 9 月 4 日； doi:10.1038/s41597-026-08235-7运营管理中因果机器学习的综合生产数据集]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08235-7</guid>
+      <pubDate>Fri, 04 Sep 2026 23:24:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 LIBS 的陆地和模拟地外条件的风化层模拟数据集</title>
+      <link>https://www.nature.com/articles/s41597-026-08260-6</link>
+      <description><![CDATA[科学数据，在线发布：2026 年 9 月 4 日； doi:10.1038/s41597-026-08260-6使用 LIBS 的陆地和模拟地外条件的风化层模拟数据集]]></description>
+      <guid>https://www.nature.com/articles/s41597-026-08260-6</guid>
+      <pubDate>Fri, 04 Sep 2026 23:24:11 GMT</pubDate>
+    </item>
     </channel>
 </rss>

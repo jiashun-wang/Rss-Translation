@@ -4,7 +4,14 @@
     <title>Blog on Posit Open Source</title>
     <link>https://opensource.posit.co/blog/</link>
     <description>Recent content in Blog on Posit Open Source</description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:34:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:49:13 GMT</lastBuildDate>
+    <item>
+      <title>AI 时事通讯：你可能不想进行微调</title>
+      <link>https://opensource.posit.co/blog/2026-09-04_ai-newsletter/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-09-04_ai-newsletter/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>生命体征 0.4.0</title>
       <link>https://opensource.posit.co/blog/2026-09-03_vitals-0-4-0/</link>
@@ -103,7 +110,7 @@ Posit 和 Polars, Inc. 是不同的公司，但我们的工具有重叠。 Great
       <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>氧气2 8.1.0</title>
+      <title>氧2 8.1.0</title>
       <link>https://opensource.posit.co/blog/2026-08-04_roxygen2-8-1-0/</link>
       <description><![CDATA[]]></description>
       <guid>https://opensource.posit.co/blog/2026-08-04_roxygen2-8-1-0/</guid>
@@ -122,13 +129,6 @@ Posit 和 Polars, Inc. 是不同的公司，但我们的工具有重叠。 Great
       <description><![CDATA[]]></description>
       <guid>https://opensource.posit.co/blog/2026-08-03_quarto-1-10/</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Newsletter：EDA 登录 Posit Assistant</title>
-      <link>https://opensource.posit.co/blog/2026-07-31_ai-newsletter/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://opensource.posit.co/blog/2026-07-31_ai-newsletter/</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
