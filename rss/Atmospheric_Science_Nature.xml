@@ -1,9 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Sat, 05 Sep 2026 00:28:59 GMT</lastBuildDate>
+    <title>Atmospheric science : nature.com subject feeds</title>
+    <link>https://www.nature.com/subjects/atmospheric-science</link>
+    <description>Latest news and research from Nature.com on the topic of Atmospheric science</description>
+    <lastBuildDate>Sat, 05 Sep 2026 09:45:41 GMT</lastBuildDate>
+    <item>
+      <title>作者更正：时间不可逆性作为地球子系统接近临界点的指标</title>
+      <link>https://www.nature.com/articles/s43247-026-04009-6</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43247-026-04009-6</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>水蒸气同位素在改进天气预报中的重要性</title>
+      <link>https://www.nature.com/articles/s43247-026-03917-x</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43247-026-03917-x</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>双重物理路径塑造了北美夏季极端高温的次季节到季节的可预测性</title>
+      <link>https://www.nature.com/articles/s43247-026-03991-1</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43247-026-03991-1</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大山火破纪录</title>
+      <link>https://www.nature.com/articles/s41558-026-02744-4</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41558-026-02744-4</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>秘鲁冰层保持了全球甲烷记录</title>
+      <link>https://www.nature.com/articles/d41586-026-02695-y</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-026-02695-y</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NOx 排放增加和南移导致大气 CH4 高原</title>
+      <link>https://www.nature.com/articles/s41586-026-10983-w</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41586-026-10983-w</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>西南印度洋海洋热浪的驱动因素及其十年抑制</title>
+      <link>https://www.nature.com/articles/s43247-026-03993-z</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43247-026-03993-z</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈德利环流驱动火星上的物质隔离和极对极遥联</title>
+      <link>https://www.nature.com/articles/s41561-026-02090-2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41561-026-02090-2</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>安哥拉上空的弱、浅、干燥对流增加了近海层积云液滴数量浓度</title>
+      <link>https://www.nature.com/articles/s43247-026-03995-x</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43247-026-03995-x</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>氮沉降调节生物圈和大气之间的活性碳交换</title>
+      <link>https://www.nature.com/articles/s43247-026-03987-x</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43247-026-03987-x</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中太平洋厄尔尼诺驱动的太平洋-大西洋遥相关是北大西洋涛动可预测性的重要来源</title>
+      <link>https://www.nature.com/articles/s43247-026-03978-y</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43247-026-03978-y</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>颗粒尺度模拟中夹带矿物气溶胶的阈值</title>
+      <link>https://www.nature.com/articles/s43247-026-03955-5</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43247-026-03955-5</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>二氧化碳含量增加促进了干旱条件下萨凡纳草的生长</title>
+      <link>https://www.nature.com/articles/d41586-026-02480-x</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-026-02480-x</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>19 世纪火山活动破坏了太平洋和印度洋变化的耦合</title>
+      <link>https://www.nature.com/articles/s41467-026-76705-y</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41467-026-76705-y</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>天然卤素化学对全球平流层臭氧消耗演变的作用</title>
+      <link>https://www.nature.com/articles/s41467-026-76600-6</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41467-026-76600-6</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     </channel>
 </rss>

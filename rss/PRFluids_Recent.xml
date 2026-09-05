@@ -4,111 +4,111 @@
     <title>Recent Articles in Phys. Rev. Fluids</title>
     <link>http://journals.aps.org/prfluids/</link>
     <description>Recent articles in Physical Review Fluids</description>
-    <lastBuildDate>Sat, 05 Sep 2026 00:27:38 GMT</lastBuildDate>
-    <item>
-      <title>通过从静态或振动液浴中提取韧带来控制液滴生成</title>
-      <link>http://link.aps.org/doi/10.1103/rb19-76wc</link>
-      <description><![CDATA[作者：Johnathan Hoggarth、Daniel M. Harris、John W. M. Bush 和 Bauyrzhan K. Primkulov我们介绍了一种简单的液滴生成技术，可以在静态和振动浴中快速拉伸液体韧带。通过系统地改变用于形成韧带的圆柱形探针的拉伸距离和半径，我们绘制了韧带夹断并塌陷成单个液滴的参数空间。生成的液滴尺寸遵循体积守恒缩放R∼a2/3L1/3 ，具有出色的再现性（半径变化低于 5%）。[Phys. Rev. Fluids 11, L082001] 于 2026 年 8 月 26 日星期三发布]]></description>
-      <guid>http://link.aps.org/doi/10.1103/rb19-76wc</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:38 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 09:46:03 GMT</lastBuildDate>
     <item>
       <title>滑壁间粘弹性泊肃叶流的聚合物扩散不稳定性</title>
       <link>http://link.aps.org/doi/10.1103/l1vn-44b3</link>
       <description><![CDATA[作者：张斌、李宇克、张红娜、王贵仁、刘蓉、王少伟和丁子敬聚合物扩散不稳定性 (PDI) 为雷诺数消失时粘弹性流的不稳定性提供了一种独特的途径，但现实的壁面条件如何改变其行为仍不清楚。在这里，我们表明壁滑移通过改变主要的不稳定路径来调节粘弹性泊肃叶流中的 PDI。滑移的增加削弱了近壁 PDI-1 机制，有利于剪切驱动的 PDI-2 机制。结合线性稳定性分析和直接数值模拟，我们揭示了这种滑移引起的转变背后的能量传递过程，并为控制聚合物流动不稳定性提供了新的见解。[Phys. Rev. Fluids 11, 083905] 2026 年 8 月 24 日星期一发布]]></description>
       <guid>http://link.aps.org/doi/10.1103/l1vn-44b3</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:38 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 09:46:03 GMT</pubDate>
     </item>
     <item>
-      <title>垂直加速度下卧式圆柱形储罐晃动的规律图</title>
-      <link>http://link.aps.org/doi/10.1103/t48x-53br</link>
-      <description><![CDATA[作者：Francisco Monteiro、Tommaso De Maria、Samuel Ahizi、Ramon Abarca、Giuseppe C. A. Caridi 和 Miguel A. Mendez垂直加速度可以通过参数共振将小的自由表面扰动放大为强烈的非线性晃动，但在水平圆柱形储罐中所产生的状态仍然很难表征。虽然经典的马蒂厄方程预测参数不稳定的开始，但在这里，高速实验与数据驱动的模态分析和分类相结合，揭示了超出不稳定阈值的非线性响应。由此产生的无量纲状态图组织了不同填充水平上的稳定、纵向、断裂和混合模式动态，揭示了主要参数不稳定区域周围丰富的流动现象。[物理。 Rev. Fluids 11, 084804] 2026 年 8 月 28 日星期五发布]]></description>
-      <guid>http://link.aps.org/doi/10.1103/t48x-53br</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>弯管中超声速边界层的湍流结构</title>
-      <link>http://link.aps.org/doi/10.1103/kv7h-484s</link>
-      <description><![CDATA[作者：陈慧锋、杨揖心、孙明波、汪洪波、熊大鹏、梁昌海、龙文骁、李文明本文采用直接数值模拟方法，系统地研究了具有发展的湍流边界层和核心流区。结果表明，边界层在不同方位角处经历复杂的流动模式：驱动条纹从下侧向上移动的二次流；上壁逆压梯度和流动减速共同作用引发分离；下壁上戈特勒不稳定性的增加导致低动量流体的聚集和抬升、类戈特勒涡旋的存在以及湍流输送过程的斜压效应。[物理。 Rev. Fluids 11, 083401] 2026 年 8 月 27 日星期四发布]]></description>
-      <guid>http://link.aps.org/doi/10.1103/kv7h-484s</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>大涡模拟中亚网格湍流的生成人工智能：先验分析</title>
-      <link>http://link.aps.org/doi/10.1103/vb6j-f876</link>
-      <description><![CDATA[作者：程宇和刘天乐大涡模拟中的湍流传输依赖于次网格尺度 (SGS) 闭合，而传统模型通常假设 SGS 应力由解析流唯一确定。我们引入了一个条件扩散模型，该模型可以从高分辨率大气边界层模拟中学习 SGS 应力的条件分布。通过表示条件变异性而不是单一的确定性映射，所提出的框架准确地再现了 SGS 应力统计数据，概括了未见的稳定状态和网格分辨率，并为 SGS 湍流建模提供了新的概率框架。[物理。 Rev. Fluids 11, 084610] 2026 年 8 月 26 日星期三发布]]></description>
-      <guid>http://link.aps.org/doi/10.1103/vb6j-f876</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:37 GMT</pubDate>
+      <title>通过从静态或振动液浴中提取韧带来控制液滴生成</title>
+      <link>http://link.aps.org/doi/10.1103/rb19-76wc</link>
+      <description><![CDATA[作者：Johnathan Hoggarth、Daniel M. Harris、John W. M. Bush 和 Bauyrzhan K. Primkulov我们介绍了一种简单的液滴生成技术，可以在静态和振动浴中快速拉伸液体韧带。通过系统地改变用于形成韧带的圆柱形探针的拉伸距离和半径，我们绘制了韧带夹断并塌陷成单个液滴的参数空间。生成的液滴尺寸遵循体积守恒缩放R∼a2/3L1/3 ，具有出色的再现性（半径变化低于 5%）。[Phys. Rev. Fluids 11, L082001] 于 2026 年 8 月 26 日星期三发布]]></description>
+      <guid>http://link.aps.org/doi/10.1103/rb19-76wc</guid>
+      <pubDate>Sat, 05 Sep 2026 09:46:01 GMT</pubDate>
     </item>
     <item>
       <title>小型减速电池模型的金属垫辊不稳定性理论</title>
       <link>http://link.aps.org/doi/10.1103/5ynm-wdlr</link>
       <description><![CDATA[作者：Pranav Hegde、Wietze Herreman、Jorge César Brändle de Motta、Romain Canu、Marie-Charlotte Renoult 和 Gerrit Maik Horstmann金属轧辊不稳定性限制了铝电解槽的安全高效运行，但实验室规模的模型超出了大多数现有理论的假设。我们开发了一种针对小型矩形两层单元的分析稳定性理论，该理论捕获了有限深度、粘性和毛细管效应，包括界面波阻尼的无参数描述。该理论经过直接数值模拟和实验的验证，为设计和解释小规模 MHD 实验和多相模拟提供了定量基准。[Phys. Rev. Fluids 11, 084803] 2026 年 8 月 26 日星期三发布]]></description>
       <guid>http://link.aps.org/doi/10.1103/5ynm-wdlr</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:37 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 09:45:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>大涡模拟中亚网格湍流的生成人工智能：先验分析</title>
+      <link>http://link.aps.org/doi/10.1103/vb6j-f876</link>
+      <description><![CDATA[作者：程宇和刘天乐大涡模拟中的湍流传输依赖于次网格尺度 (SGS) 闭合，而传统模型通常假设 SGS 应力由解析流唯一确定。我们引入了一个条件扩散模型，该模型可以从高分辨率大气边界层模拟中学习 SGS 应力的条件分布。通过表示条件变异性而不是单一的确定性映射，所提出的框架准确地再现了 SGS 应力统计数据，概括了未见的稳定状态和网格分辨率，并为 SGS 湍流建模提供了新的概率框架。[物理。 Rev. Fluids 11, 084610] 2026 年 8 月 26 日星期三发布]]></description>
+      <guid>http://link.aps.org/doi/10.1103/vb6j-f876</guid>
+      <pubDate>Sat, 05 Sep 2026 09:45:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>弯管中超声速边界层的湍流结构</title>
+      <link>http://link.aps.org/doi/10.1103/kv7h-484s</link>
+      <description><![CDATA[作者：陈慧锋、杨揖心、孙明波、汪洪波、熊大鹏、梁昌海、龙文骁、李文明本文采用直接数值模拟方法，系统地研究了具有发展的湍流边界层和核心流区。结果表明，边界层在不同方位角处经历复杂的流动模式：驱动条纹从下侧向上移动的二次流；上壁逆压梯度和流动减速共同作用引发分离；下壁上戈特勒不稳定性的增加导致低动量流体的聚集和抬升、类戈特勒涡旋的存在以及湍流输送过程的斜压效应。[物理。 Rev. Fluids 11, 083401] 2026 年 8 月 27 日星期四发布]]></description>
+      <guid>http://link.aps.org/doi/10.1103/kv7h-484s</guid>
+      <pubDate>Sat, 05 Sep 2026 09:45:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>垂直加速度下卧式圆柱形储罐晃动的规律图</title>
+      <link>http://link.aps.org/doi/10.1103/t48x-53br</link>
+      <description><![CDATA[作者：Francisco Monteiro、Tommaso De Maria、Samuel Ahizi、Ramon Abarca、Giuseppe C. A. Caridi 和 Miguel A. Mendez垂直加速度可以通过参数共振将小的自由表面扰动放大为强烈的非线性晃动，但在水平圆柱形储罐中所产生的状态仍然很难表征。虽然经典的马蒂厄方程预测参数不稳定的开始，但在这里，高速实验与数据驱动的模态分析和分类相结合，揭示了超出不稳定阈值的非线性响应。由此产生的无量纲状态图组织了不同填充水平上的稳定、纵向、断裂和混合模式动态，揭示了主要参数不稳定区域周围丰富的流动现象。[物理。 Rev. Fluids 11, 084804] 2026 年 8 月 28 日星期五发布]]></description>
+      <guid>http://link.aps.org/doi/10.1103/t48x-53br</guid>
+      <pubDate>Sat, 05 Sep 2026 09:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>冲击波与柔性纤维颗粒幕相互作用的数值研究</title>
+      <link>http://link.aps.org/doi/10.1103/tnfx-8cqz</link>
+      <description><![CDATA[作者：王鹏、韩嘉伟、薛坤和郭宇我们使用耦合离散元法 - 计算流体动力学 (DEM-CFD) 方法对致密柔性纤维幕中的冲击引起的扩散进行了数值研究。与球形粒子幕相比，纤维幕表现出独特的粒子动力学。增加纤维纵横比并降低柔韧性可增强几何互锁并延长集群时间，从而提高抗冲击传播的能力。最后，我们使用有效的纤维纵横比修改缩放定律，以预测帘膨胀的时间演变，考虑纤维伸长和显着的弯曲变形。 Rev. Fluids 11, 084302] 2026 年 8 月 28 日星期五发布]]></description>
+      <guid>http://link.aps.org/doi/10.1103/tnfx-8cqz</guid>
+      <pubDate>Sat, 05 Sep 2026 09:45:53 GMT</pubDate>
     </item>
     <item>
       <title>阵型角度对仿生 $∨$ 阵型阻力的影响</title>
       <link>http://link.aps.org/doi/10.1103/m9ny-j9bd</link>
       <description><![CDATA[作者：Prasoon Suchandra 和 Shabnam Raayai-Ardakani受候鸟飞行的启发，我们研究了经过 V 形圆柱体的流动，研究了队形角度如何影响个体和群体的阻力。在水隧道中使用粒子图像测速技术，我们评估了角度变化对复杂的尾流/尾流-体相互作用的影响，量化了平均值和波动量，并分析了涡动力学。我们发现，与单独的气缸相比，具有流向重叠的构件的阻力显着减小。我们的研究建立了探测流过复杂物体组（如无人机）的基线，并演示了如何优化编队实现所需的性能目标，例如最小阻力。[Phys. Rev. Fluids 11, 084702] 2026 年 8 月 31 日星期一发布]]></description>
       <guid>http://link.aps.org/doi/10.1103/m9ny-j9bd</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>冲击波与柔性纤维颗粒幕相互作用的数值研究</title>
-      <link>http://link.aps.org/doi/10.1103/tnfx-8cqz</link>
-      <description><![CDATA[作者：王鹏、韩嘉伟、薛坤和郭宇我们使用耦合离散元法 - 计算流体动力学 (DEM-CFD) 方法对致密柔性纤维幕中的冲击引起的扩散进行了数值研究。与球形粒子幕相比，纤维幕表现出独特的粒子动力学。增加纤维纵横比并降低柔韧性可增强几何互锁并延长集群时间，从而提高抗冲击传播的能力。最后，我们使用有效的纤维长宽比修改缩放定律，以预测帘膨胀的时间演变，考虑纤维伸长和显着的弯曲变形。 Rev. Fluids 11, 084302] 2026 年 8 月 28 日星期五发布]]></description>
-      <guid>http://link.aps.org/doi/10.1103/tnfx-8cqz</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:36 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 09:45:50 GMT</pubDate>
     </item>
     <item>
       <title>四维量子涡旋的相互作用和重新连接</title>
       <link>http://link.aps.org/doi/10.1103/nmz7-7ym2</link>
       <description><![CDATA[作者：H. A. J. Middleton-Spencer、B. McCanna、D. Proment 和 H. M. Price涡旋重联是量子流体的基础。它们是由拓扑变化定义的量子涡旋的重新连接和通用标度定律给出的不可逆能量转移，从而导致量子湍流。我们通过研究超维量子涡旋的重联来推广这种机制。我们发现了一系列新的涡旋相互作用，具体取决于它们的初始方向——对已知三维情况的四维推广；没有重新连接的涡旋相互作用；以及一种新的类重连接，它保持相同的缩放定律，没有能量转移，这表明三维系统中不允许有一种可逆重连接形式。[Phys. Rev. Fluids 11, 084701] 2026 年 8 月 31 日星期一发布]]></description>
       <guid>http://link.aps.org/doi/10.1103/nmz7-7ym2</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:34 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 09:45:49 GMT</pubDate>
     </item>
     <item>
       <title>粗到平滑阶跃变化后低雷诺数通道流中的标量和动量传递</title>
       <link>http://link.aps.org/doi/10.1103/39bs-fhf8</link>
       <description><![CDATA[作者：Sedat Tardu 和 Benjamin Arrondeau亚临界通道流入口区域中的大型交错粗糙度单元会产生强烈的湍流涡流，当流体进入此处研究的配置的下游平滑通道 (SC) 时，涡流逐渐分解。该流程结合了多种复杂性来源：表面粗糙度、从粗糙到平滑的阶跃变化和再层化。沿 SC 中心线的湍流衰减特征与均匀各向同性湍流的特征相当吻合。由于再层化速度较慢，SC 中大流向距离上的平均努塞尔数仍然接近于等效的完全发展的湍流河道流。[物理。 Rev. Fluids 11, 084611] 2026 年 8 月 31 日星期一发布]]></description>
       <guid>http://link.aps.org/doi/10.1103/39bs-fhf8</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:32 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 09:45:46 GMT</pubDate>
     </item>
     <item>
       <title>布线体系中瑞利-泰勒不稳定性的发展受到抑制</title>
       <link>http://link.aps.org/doi/10.1103/6m6k-tkjy</link>
-      <description><![CDATA[作者：Marek Stastna 和 Andrew P. Grace本文提出了一种简单的实现算法，用于通过非线性状态方程检测分层流体中的强电缆。该算法用于识别强卡宾状态下瑞利-泰勒不稳定性的抑制发展发生的方式。[Phys. Rev. Fluids 11, 084505] 2026 年 8 月 31 日星期一发布]]></description>
+      <description><![CDATA[作者：Marek Stastna 和 Andrew P. Grace本文提出了一种简单的实现算法，用于通过非线性状态方程检测分层流体中的强电缆。该算法用于识别强卡宾状态下瑞利-泰勒不稳定性的抑制发展发生的方式。[Phys. Rev. Fluids 11, 084505] 于 2026 年 8 月 31 日星期一发布]]></description>
       <guid>http://link.aps.org/doi/10.1103/6m6k-tkjy</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>局部表面粗糙度对层流分离气泡的影响</title>
-      <link>http://link.aps.org/doi/10.1103/66xf-d5xs</link>
-      <description><![CDATA[作者：Nianhua Liu 和 Serhiy Yarusevych在空气动力学低雷诺数下运行的升力表面通常具有层流分离气泡 (LSB)，其特性会显着影响性能。我们研究了局部表面粗糙度对 LSB 的影响，这种粗糙度可能是由于制造、局部污染、损坏或结冰而形成的。我们发现，局部粗糙度消除了下游层流分离，并修改了远远超出粗糙度本身的大量展向区域上的 LSB 拓扑和动力学。对空气动力学性能的相关影响远大于仅根据局部粗糙度的相对展向范围所预期的影响。[Phys. Rev. Fluids 11, 093901] 2026 年 9 月 1 日星期二发布]]></description>
-      <guid>http://link.aps.org/doi/10.1103/66xf-d5xs</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:28 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 09:45:45 GMT</pubDate>
     </item>
     <item>
       <title>气体射流冲击作用下液态金属膜流自由表面实验研究</title>
       <link>http://link.aps.org/doi/10.1103/grkq-mmgg</link>
       <description><![CDATA[作者：李临玲、阳倦成、倪明玖与静态液膜相比，气体射流撞击流动的液态金属膜会通过上游液体积累产生更浅的空腔和强烈不对称的轮廓。随着液体雷诺数的增加，上游的逆流耦合和下游的并流耦合导致射流动量的波幅响应在上游减弱，但在下游增强。在脉动射流下，衰减系数将波幅与射流动量相关联，并表征动量传递中明显的空间不对称性。这些研究结果阐明了气体射流如何影响液态金属膜流动，并为液态金属偏滤器的设计提供参考。[Phys. Rev. Fluids 11, 094801] 2026 年 9 月 1 日星期二发布]]></description>
       <guid>http://link.aps.org/doi/10.1103/grkq-mmgg</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:28 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 09:45:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>局部表面粗糙度对层流分离气泡的影响</title>
+      <link>http://link.aps.org/doi/10.1103/66xf-d5xs</link>
+      <description><![CDATA[作者：Nianhua Liu 和 Serhiy Yarusevych在空气动力学低雷诺数下运行的升力表面通常具有层流分离气泡 (LSB)，其特性会显着影响性能。我们研究了局部表面粗糙度对 LSB 的影响，这种粗糙度可能是由于制造、局部污染、损坏或结冰而形成的。我们发现，局部粗糙度消除了下游层流分离，并修改了远远超出粗糙度本身的大量展向区域上的 LSB 拓扑和动力学。对空气动力性能的相关影响远大于仅根据局部粗糙度的相对展向范围所预期的影响。[Phys. Rev. Fluids 11, 093901] 2026 年 9 月 1 日星期二发布]]></description>
+      <guid>http://link.aps.org/doi/10.1103/66xf-d5xs</guid>
+      <pubDate>Sat, 05 Sep 2026 09:45:41 GMT</pubDate>
     </item>
     <item>
       <title>隐藏在视线中：蒸发如何影响悬滴法</title>
       <link>http://link.aps.org/doi/10.1103/9gd1-xljj</link>
       <description><![CDATA[作者：Pim J. Dekker、Christian Diddens、Marjolein N. van der Linden 和 Detlef Lohse表面张力经常使用悬滴法测量，而环境湿度通常是事后才考虑的。通过仔细校准的实验和详细的数值模拟，我们表明蒸发冷却可将液滴温度降低高达 9.5 K，从而使测量的表面张力提高超过 1 mN/m。蒸发驱动和马兰戈尼引起的流动也会使水滴变形，但影响很小。被动湿度控制可以完全消除这些伪影，并揭示 1,2-己二醇水溶液混合物表面张力的浅层最小值。[Phys. Rev. Fluids 11, 094901] 2026 年 9 月 3 日星期四发布]]></description>
       <guid>http://link.aps.org/doi/10.1103/9gd1-xljj</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:27 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 09:45:39 GMT</pubDate>
     </item>
     <item>
       <title>水轮机尾水管旋流射流中的涡流破坏</title>
       <link>http://link.aps.org/doi/10.1103/38kd-t5ym</link>
       <description><![CDATA[作者：Artur Gesla 和 Eunok Yim这项研究通过将其视为简化层流中的不稳定涡流破坏模式，研究了混流式水轮机中螺旋涡绳的形成。涡绳通过超临界 Hopf 分叉从尾水管中的轴对称基流中出现。如果没有壁摩擦，则会形成中央再循环区，从而揭示部分负载条件下的亚临界解决方案和滞后现象。该作品描述了随着螺旋涡流的演变，再循环气泡的循环形成和破裂。当流量接近标称载荷时，稳定解分支在有限雷诺数处经历跨临界分岔。[Phys. Rev. Fluids 11, 094701] 2026 年 9 月 3 日星期四发布]]></description>
       <guid>http://link.aps.org/doi/10.1103/38kd-t5ym</guid>
-      <pubDate>Sat, 05 Sep 2026 00:27:26 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 09:45:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

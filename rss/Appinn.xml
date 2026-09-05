@@ -4,7 +4,14 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Sat, 05 Sep 2026 00:34:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:56:44 GMT</lastBuildDate>
+    <item>
+      <title>uBlock Origin 回来了！第三方开发者将其完整功能移植到 Manifest V3</title>
+      <link>https://www.appinn.com/ublock-origin-mv3/</link>
+      <description><![CDATA[uBlock Origin 回来了！ 在 Chrome/Edge 相继淘汰了 Manifest V2 标准的老旧插件之后，首当其冲就是强大的广告过滤插件 uBlock Origin 被淘汰。原作者也不]]></description>
+      <guid>https://www.appinn.com/ublock-origin-mv3/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:57:12 GMT</pubDate>
+    </item>
     <item>
       <title>本周赛博领鸡蛋（9.4~9.10）：《与你独处》《寻找埃文》</title>
       <link>https://www.appinn.com/eggs-2694/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在停更7周以后，OpenClaw 2.0 终于发布，这次更新被开发者称为「迄今为止 OpenClaw 历史上规模最大的一次更新。此次更新由 933 位贡献者共同完成，其中包括 569 位首次贡献者，并]]></description>
       <guid>https://www.appinn.com/openclaw-2-0/</guid>
       <pubDate>Mon, 31 Aug 2026 09:54:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 12TB 游戏数据泄漏：横跨 10 年，大量未公开内容曝光</title>
-      <link>https://www.appinn.com/steam-12tb-game-data-leak/</link>
-      <description><![CDATA[Steam 最近爆出了一次规模惊人的游戏数据泄漏：超过 12TB、横跨 2003～2013 年的大量游戏数据被公开。 @Appinn 泄漏的内容是 Steam2，里面有《Portal 2》《Left 4]]></description>
-      <guid>https://www.appinn.com/steam-12tb-game-data-leak/</guid>
-      <pubDate>Mon, 31 Aug 2026 06:28:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

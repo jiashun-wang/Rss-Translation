@@ -1,9 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Sat, 05 Sep 2026 00:34:37 GMT</lastBuildDate>
+    <title>链滴</title>
+    <link>https://ld246.com</link>
+    <description>记录生活，连接点滴。</description>
+    <lastBuildDate>Sat, 05 Sep 2026 09:56:34 GMT</lastBuildDate>
+    <item>
+      <title>置顶悬浮窗、AI 生成标题——思源文档助手 v1.6.5 新功能预览</title>
+      <link>https://ld246.com/article/1788600364444</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788600364444</guid>
+      <pubDate>Sat, 05 Sep 2026 09:26:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[css] 思源笔记全局字体设置 CSS 代码片段</title>
+      <link>https://ld246.com/article/1788598600431</link>
+      <description><![CDATA[:root:lang(zh-CN) {
+    --b3-font-family: &quot;XXX&quot;, &quot;苹果SC&quot;, &quot;微软雅黑&quot;;
+    字体样式：正常；
+}
+]]></description>
+      <guid>https://ld246.com/article/1788598600431</guid>
+      <pubDate>Sat, 05 Sep 2026 08:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么行内代码的容器高度与正文对齐这么难?</title>
+      <link>https://ld246.com/article/1788597423334</link>
+      <description><![CDATA[我用以下代码才勉强对齐，还要用到位置微调:
+    font-size: 1em;
+    padding: 0;
+    margin: 0em;
+    border-radius: 2px;
+    line-height: 1;
+    top: -0.02em;
+    position: relative;
+]]></description>
+      <guid>https://ld246.com/article/1788597423334</guid>
+      <pubDate>Sat, 05 Sep 2026 08:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>v3.8.2 文档面板 - 文档 - 更多 - 在上 / 下方新建文档 功能开启，部分笔记本下该功能失效，无法显示该选项</title>
+      <link>https://ld246.com/article/1788581329565</link>
+      <description><![CDATA[
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1788581329565</guid>
+      <pubDate>Sat, 05 Sep 2026 04:08:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源笔记设置布局存在巨大问题，无法配置</title>
+      <link>https://ld246.com/article/1788575624600</link>
+      <description><![CDATA[【设置】布局完全扭曲，无法进行有效配置，看都看不清。请求修复和优化。 
+已经排除是主题皮肤和设备的问题，用官方的皮肤，以及切换多款皮肤，都是一样的结局。 
+测试两台设备 win11、macbook，皆是如此。 
+]]></description>
+      <guid>https://ld246.com/article/1788575624600</guid>
+      <pubDate>Sat, 05 Sep 2026 02:33:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>最新版本安卓端豆包输入法语音输入出现问题</title>
+      <link>https://ld246.com/article/1788575345395</link>
+      <description><![CDATA[版本：3.8.3- Alpha 1。 
+问题：
+在每段开头，如果直接使用豆包输入法语音，会立即输入失败。 
+如果不是开头，比如随便在前面打什个什么字符，再使用豆包输入法的语音输入，就可以正常输入。 
+微信输入法可以正常使用。 
+系统：Android15 Vivo OriginOS 5]]></description>
+      <guid>https://ld246.com/article/1788575345395</guid>
+      <pubDate>Sat, 05 Sep 2026 02:29:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>手机端不能对文章内选中的部分进行打印吗</title>
+      <link>https://ld246.com/article/1788537490454</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788537490454</guid>
+      <pubDate>Fri, 04 Sep 2026 15:58:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>v3.8.2 的删除反应变得奇慢</title>
+      <link>https://ld246.com/article/1788512086859</link>
+      <description><![CDATA[无论是删除块，还是删除文档，有时要等几十秒才出现确认对话框。 ]]></description>
+      <guid>https://ld246.com/article/1788512086859</guid>
+      <pubDate>Fri, 04 Sep 2026 09:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>块引脚注插件异常</title>
+      <link>https://ld246.com/article/1788509107928</link>
+      <description><![CDATA[@Achuan-2 大佬好。块引脚注插件，使用时出现了 2 个问题点。思源版本 V3.8.2，插件版本 1.6.2。还望指导一下如何正确使用，非常感谢。 
+
+点开备注输入框后，默认光标位置在[注]的前面，不能直接输入，每次都需要再鼠标或者键盘移动光标到相应位置后，才能开始输入。 
+侧栏(DECK 栏)打开后，点击对应位置，本来应该是&quot;打开脚注块&quot;&quot;打开原块&quot;的，但鼠标点击没有任何反应。 
+]]></description>
+      <guid>https://ld246.com/article/1788509107928</guid>
+      <pubDate>Fri, 04 Sep 2026 08:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>极空间的思源笔记无法使用存在内存严重溢出</title>
+      <link>https://ld246.com/article/1788509102648</link>
+      <description><![CDATA[极空间的思源笔记无法使用存在内存严重溢出，今天更新了极空间的思源（应用商店上安装），还是不行。已经沟通过极空间官方 ，官方说这个是思源自己的问题。对内存严重溢出处理不到位，已经通知了思源官方，但是目前来看，是没有得到解决。 
+
+]]></description>
+      <guid>https://ld246.com/article/1788509102648</guid>
+      <pubDate>Fri, 04 Sep 2026 08:05:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>任务列表的二级子列表通过 Ctrl+/ 转换表现问题</title>
+      <link>https://ld246.com/article/1788504421223</link>
+      <description><![CDATA[任务列表的二级子列表默认同为任务列表
+
+【预期行为】当我用鼠标选择左侧菜单进行转换时，可转换的块如下，且转换为有序/无序列表时不再保留原任务列表的勾选框
+
+
+【非预期行为】当我用 Ctrl+/ 呼出左侧菜单进行转换时，可转换的块如下，且转换为有序/无序列表时仍保留原任务列表的勾选框
+
+]]></description>
+      <guid>https://ld246.com/article/1788504421223</guid>
+      <pubDate>Fri, 04 Sep 2026 06:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>drawio 插件设置了中文不生效，怎么解决</title>
+      <link>https://ld246.com/article/1788492312589</link>
+      <description><![CDATA[更新软件后，里面的一个 drawio 插件部分就变成了英文，设置了中文不生效，怎么解决呢？ 
+]]></description>
+      <guid>https://ld246.com/article/1788492312589</guid>
+      <pubDate>Fri, 04 Sep 2026 03:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>资产管理插件说明书</title>
+      <link>https://ld246.com/article/1788492088313</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788492088313</guid>
+      <pubDate>Fri, 04 Sep 2026 03:21:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>
+      <link>https://ld246.com/article/1787204819965</link>
+      <description><![CDATA[思源在 v3.8.2 版本的移动端提供集市功能。为避免未适配移动端界面的桌面主题破坏布局、导致无法操作，主题须在 theme.json 中增加 frontends 字段并且显式声明支持移动端。 
+v3.8.0 已支持主题清单中的 frontends，当时缺失该字段会被视为支持所有前端。自移动端支持集市功能起，这条默认规则只对桌面端保留。 
+主题作者需要做什么
+若希望主题出现在移动端集市、并能在移动端被选择和加载，请在 theme.json 中显式声明 frontends。 
+已适配各前端、希望全平台可用时，与内置主题 daylight / midnight 一样写：
+{
+  &quot;name&quot;: &quot;example-theme&quot;,
+  &quot;author&quot;: &quot;example&quot;,
+  &quot;url&quot;: &quot;https://github.com/example/example-theme&quot;,
+  &quot;version&quot;: &quot;1.0.0&quot;,
+  &quot;frontends&quot;: [
+    &quot;all&quot;
+  ],
+  &quot;modes&quot;: [
+    &quot;light&quot;,
+    &quot;dark&quot;
+  ]
+}
+
+只支持部分前端时，列出具体取值。匹配是精确匹配，写 &quot;desktop&quot; 不会自动覆盖 desktop-window 或 browser-desktop。 
+可用取值：
+
+
+
+取值
+含义
+
+
+
+
+all
+所有前端
+
+
+desktop
+桌面端主窗口
+
+
+desktop-window
+桌面端独立窗口
+
+
+mobile
+移动端 App
+
+
+browser-desktop
+浏览器桌面端
+
+
+browser-mobile
+浏览器移动端
+
+
+
+请先确认主题在移动端可用，再声明 mobile、browser-mobile 或 all。未适配时可以不声明。 
+集市包请发新版本（提高 version 并发布 GitHub Release），索引更新后才会生效。本地主题改完 theme.json 后重启思源即可。 
+兼容性规则
+
+
+
+frontends
+桌面端（desktop / desktop-window / browser-desktop）
+移动端（mobile / browser-mobile）
+
+
+
+
+缺失或空数组
+兼容（与现在相同）
+不兼容
+
+
+包含 all
+兼容
+兼容
+
+
+包含当前前端取值
+兼容
+兼容
+
+
+有字段但不包含当前前端
+不兼容
+不兼容
+
+
+
+另外，插件清单里的 frontends 不变：缺失仍视为全平台。本次只收紧主题在移动端的默认行为。 
+不声明时，移动端会怎样
+桌面端继续能搜到、安装、切换这些主题，无需为「只在桌面使用」而改清单。 
+在 mobile 和 browser-mobile 上：
+
+集市会标为不兼容，不能安装或更新
+设置 - 外观 的主题下拉列表不会列出
+若移动端已经使用该主题，新版本不会加载该主题的 CSS 和 JS，界面回退到内置 daylight / midnight
+
+常见写法
+希望全平台可用（含移动端）：
+&quot;frontends&quot;: [&quot;all&quot;]
+
+只做桌面、明确不支持移动端：可以不写 frontends，也可以显式列出桌面相关前端，例如：
+&quot;frontends&quot;: [&quot;desktop&quot;, &quot;desktop-window&quot;, &quot;browser-desktop&quot;]
+
+仅支持移动端界面时：
+&quot;frontends&quot;: [&quot;mobile&quot;, &quot;browser-mobile&quot;]
+
+注意：上面这种写法在桌面端会显示为不兼容。 
+相关议题：Issue #17151 · siyuan-note/siyuan]]></description>
+      <guid>https://ld246.com/article/1787204819965</guid>
+      <pubDate>Thu, 20 Aug 2026 05:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>演示一下 3.8 版本如何划选块</title>
+      <link>https://ld246.com/article/1786962474568</link>
+      <description><![CDATA[3.8 支持了跨块划选文本，改变了原来划选块的行为，我演示一下 3.8.1 划选块的几种方式：
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1786962474568</guid>
+      <pubDate>Mon, 17 Aug 2026 10:27:53 GMT</pubDate>
+    </item>
     </channel>
 </rss>

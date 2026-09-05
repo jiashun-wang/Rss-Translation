@@ -4,7 +4,21 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Fri, 04 Sep 2026 23:48:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:56:27 GMT</lastBuildDate>
+    <item>
+      <title>Codex向部分用户赠送第二张重置卡 GPT-6 Astra也开始推送</title>
+      <link>https://www.landian.news/archives/126688.html</link>
+      <description><![CDATA[#人工智能 Codex 向部分用户赠送第二张重置卡，GPT-6 Astra 也开始陆续向用户推送。目前情况有些混乱：按蒂博的说法今天 Plus、Pro、Ent 用户都收到新重置卡。而 Pro 用户应该已经收到 GPT-6 的推送，但少量 Plus 用户其实也收到推送。所以是否有新重置卡和能否使用 GPT-6 需要用户自行测试。查看全文：https://ourl.co/126688]]></description>
+      <guid>https://www.landian.news/archives/126688.html</guid>
+      <pubDate>Sat, 05 Sep 2026 04:16:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI对存储需求暴增也促进磁带销量暴涨：26Q1磁带存储出货容量增长57%</title>
+      <link>https://www.landian.news/archives/126680.html</link>
+      <description><![CDATA[#行业资讯 AI 行业的存储需求也推动磁带存储销量暴涨：26Q1 磁带存储出货容量同比增长达 57%。磁带主要适合低频存储，即里面的数据不需要经常拿出来读取。 AI 公司的训练数据集、历史模型、日志和冷数据没有必要保存在昂贵的在线存储中，所以磁带存储现在成为香饽饽。查看全文：https://ourl.co/126680]]></description>
+      <guid>https://www.landian.news/archives/126680.html</guid>
+      <pubDate>Sat, 05 Sep 2026 03:52:43 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudflare D1开始强制执行免费额度：超额后数据库查询直接失败 次日0点恢复</title>
       <link>https://www.landian.news/archives/126644.html</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[#系统资讯 微软确认 Windows 11 8 月可选更新导致用户个性化鼠标指针样式丢失和桌面壁纸变纯黑色。微软经过调查后发现是 KB5120998 变更的代码组件引起，该问题只影响非英语系统。代码组件变更导致个性化配置加载出现问题，因此用户重新设置也没用。查看全文：https://ourl.co/126637]]></description>
       <guid>https://www.landian.news/archives/126637.html</guid>
       <pubDate>Thu, 03 Sep 2026 05:26:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟法院经过审理后认为微软预装Microsoft Edge问题不大 可以继续豁免</title>
-      <link>https://www.landian.news/archives/126636.html</link>
-      <description><![CDATA[#行业资讯 欧盟法院审理后认为微软预装 Microsoft Edge 问题不大，可以继续豁免守门人角色，不需要被严格监管。此案件源于 Opera 浏览器起诉欧盟委员会，因为 2024 年欧盟认为 Edge 虽然明面上预装用户多，但实际上没多少人用，所以不需要严格监管。 Opera 不服直接起诉欧盟，现在法院也认为欧盟做法没问题。查看全文：https://ourl.co/126636]]></description>
-      <guid>https://www.landian.news/archives/126636.html</guid>
-      <pubDate>Thu, 03 Sep 2026 03:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Defender错误将谷歌搜索链接标记为恶意 目前正在修复</title>
-      <link>https://www.landian.news/archives/126635.html</link>
-      <description><![CDATA[#软件资讯 Microsoft Defender 日常：错误将谷歌搜索结果链接标记为恶意网址。这个问题目前只影响企业，适用于企业的 Microsoft Defender for Office 365 组件存在安全分类器异常的问题，因此员工打开链接会被直接拦截。与此同时 IT 管理员控制台还会收到错误警报，所以也会给 IT 管理员的工作造成麻烦。查看全文：https://ourl.co/126635]]></description>
-      <guid>https://www.landian.news/archives/126635.html</guid>
-      <pubDate>Thu, 03 Sep 2026 03:00:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

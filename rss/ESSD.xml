@@ -4,7 +4,7 @@
     <title>ESSD - recent papers</title>
     <link>https://essd.copernicus.org/articles/</link>
     <description>Combined list of the recent articles of the journal Earth System Science Data and the recent discussion forum Earth System Science Data Discussions</description>
-    <lastBuildDate>Fri, 04 Sep 2026 23:25:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:43:59 GMT</lastBuildDate>
     <item>
       <title>解决热带气旋问题的全球表面湍流热通量数据集</title>
       <link>https://doi.org/10.5194/essd-18-6421-2026</link>
@@ -13,7 +13,7 @@
                         地球系统。科学。数据，18, 6421–6433，https://doi.org/10.5194/essd-18-6421-2026, 2026
                         本研究解决了高风速条件下现有热通量产品的显着偏差。采用Willoughby提出的热带气旋（TC）区内风速廓线重建再分析数据集中的TC风速，将预先准备的数据集输入到批量算法3.6版本中，得到新的热通量数据集。与其他热通量数据集的比较结果表明，与其他三种产品相比有相当大的改进。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6421-2026</guid>
-      <pubDate>Thu, 03 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>GloPINE 数据集：使用 PINE 仪器对 INP 浓度进行模型测量</title>
@@ -23,7 +23,7 @@
                         地球系统。科学。数据，18, 6465–6483，https://doi.org/10.5194/essd-18-6465-2026, 2026
                         零度以下云中的冰形成受到空气中称为冰成核粒子（INP）的粒子的影响，其浓度在短时间内和空间尺度上变化很大。为了评估 INP 在气候中的作用，全面且一致的全球数据集至关重要。我们的 GloPINE 模型就绪数据集是朝这个方向迈出的重要一步，包括使用单一仪器设计 (PINE) 在 20 个北半球站点运行 70,000 多个小时进行的 36,000 次测量。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6465-2026</guid>
-      <pubDate>Thu, 03 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>欧洲森林类型的网格数据集，用于支持森林监测、建模和报告</title>
@@ -33,7 +33,7 @@
                         地球系统。科学。数据，18, 6435–6463，https://doi.org/10.5194/essd-18-6435-2026, 2026
                         这项研究提供了第一个一致的欧洲森林类型地图。通过使用透明的方法将树种信息和森林地图结合起来，我们确定了整个大陆的主要森林类型。该数据集支持更好的森林监测、保护规划和政策决策，以保护生物多样性和生态系统服务。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6435-2026</guid>
-      <pubDate>Thu, 03 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>对具有复杂洪水风险的城市流域进行高分辨率水文测量和下水道系统监测</title>
@@ -44,7 +44,7 @@
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         提供了来自英国 78 平方公里流域内 497 个新仪表的数据，该流域具有复杂的洪水风险，捕获水位（河流、下水道、道路沟渠和地下水）和降雨量。该数据集解决了当前与数据稀缺相关的挑战，并提高了对城市雨水行为的理解。它开辟了与机器学习和人工智能、传感器网络设计以及其他有助于向“智能”雨水管理过渡的途径相关的研究机会。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-569</guid>
-      <pubDate>Thu, 03 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>南加州低云和陆地气溶胶调查 (SCILLA) 的机载测量</title>
@@ -55,14 +55,14 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         南加州低云和陆地气溶胶调查 (SCILLA) 是 2023 年 6 月进行的一项空中实验。目标是了解南加州湾的风型和岛屿如何影响空气中的颗粒物和云滴。我们总共飞行了 20 个航班。飞机上装有对云、颗粒物、气象和大气气体进行采样的仪器。该文件描述了我们的飞行方式，列出了飞行的仪器，并给出了每次飞行的摘要。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-593</guid>
-      <pubDate>Thu, 03 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>ABCFlux v2：北极-北方 CO2 和 CH4 每月通量观测以及陆地和淡水生态系统的辅助信息</title>
       <link>https://doi.org/10.5194/essd-18-6357-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://doi.org/10.5194/essd-18-6357-2026</guid>
-      <pubDate>Wed, 02 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>孟加拉湾漂流浮标高分辨率海空天气观测数据集</title>
@@ -72,7 +72,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6411–6419，https://doi.org/10.5194/essd-18-6411-2026, 2026
                         了解海气相互作用对于全球气候和天气系统至关重要。然而，高频同步观测极为罕见。我们提供了来自孟加拉湾（2020-2022）五个漂流浮标的独特数据集，捕获了大气和海洋变量。这些数据在四个热带气旋期间每 5 分钟采样一次，为研究海气耦合、验证卫星和改进极端条件下的模型提供了重要记录。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6411-2026</guid>
-      <pubDate>Wed, 02 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>沙特阿拉伯红海新的区域尺度多波束回声测深数据集</title>
@@ -82,7 +82,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6345–6355，https://doi.org/10.5194/essd-18-6345-2026, 2026
                         沙特阿拉伯红海历来缺乏详细的海底测绘，现有数据要么仅限于中央轴向裂谷，要么对于生态和海洋学研究来说过于粗糙。 2022 年，为期五个月的探险队使用分辨率为 5 米和 40 米的多波束回声测深系统对超过 49 万平方公里的海底进行了勘察。该数据集将支持红海的栖息地测绘、深海研究和未来的科学研究。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6345-2026</guid>
-      <pubDate>Wed, 02 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>水文 CTD 剖面记录了 2025 年连续两次春季实地考察期间格陵兰岛西南部峡湾近地表分层的开始情况</title>
@@ -92,7 +92,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6321–6343，https://doi.org/10.5194/essd-18-6321-2026, 2026
                         格陵兰峡湾正在迅速变化，但冬季和早春的观测很少见。我们在 2025 年 3 月和 4 月的两次船舶活动中收集了格陵兰岛西南部峡湾的 73 个温度和盐度剖面。数据显示春季表面清新开始，在冰川滋养的峡湾附近最强，而更深的水域变化不大。开放数据集将有助于改进冰川融化、海洋变化和气候模型的研究。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6321-2026</guid>
-      <pubDate>Wed, 02 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>HERA-WB：欧洲数十年、次日水平衡数据集（1951-2020）</title>
@@ -103,7 +103,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         淡水对自然和人类至关重要，但人类活动和气候变化正在改变淡水的可用性。 70 多年来，我们模拟了欧洲河流、土壤、雪和蒸发中的水运动。我们将数据集与测量数据和类似数据集进行了比较。然后我们评估了不同变量的可靠性。这个长期数据集可以帮助科学家构建更好的预测工具并支持整个欧洲的水资源管理决策。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-674</guid>
-      <pubDate>Wed, 02 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>DEN-SURGE：高频、多年代丹麦风暴潮重建，集成了水动力建模、观测和机器学习</title>
@@ -112,9 +112,9 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                     苏健、Jacob Woge Nielsen、Kristine Skovgaard Madsen 和 Morten Andreas Dahl Larsen
                         地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-693,2026
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
-                        规划沿海防洪需要长期的水位记录，但历史测量往往不完整，而且数值模型低估了风暴峰值。我们将数值模拟与深度学习相结合，为 50 个丹麦地点（1961-2024 年）创建了连续 64 年的风暴潮数据集。该方法修复了缺失的数据，捕获了峰值高度，并将 100 年洪水的不确定性降低了近一半，为指导沿海工程和气候适应提供了开放资源。]]></description>
+                        规划沿海防洪需要长期的水位记录，但历史测量往往不完整，而且数值模型低估了风暴峰值。我们将数值模拟与深度学习相结合，为丹麦 50 个地点（1961-2024 年）创建了连续 64 年的风暴潮数据集。该方法修复了缺失的数据，捕获了峰值高度，并将 100 年洪水的不确定性降低了近一半，为指导沿海工程和气候适应提供了开放资源。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-693</guid>
-      <pubDate>Wed, 02 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>ALPAKAS：高山水位线和岩溶泉水的流域属性</title>
@@ -125,7 +125,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         岩溶含水层是阿尔卑斯山的重要水源，但缺乏可比的泉水流量数据。我们创建了 ALPAKAS，这是第一个专门针对更广泛的阿尔卑斯地区喀斯特泉水的大样本基准数据集。它提供 242 个每日和 183 个每小时的协调和质量控制的排放记录，以及流域划分、气象时间序列、流域属性和喀斯特特定指数。该数据集支持比较分析和模型基准测试。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-707</guid>
-      <pubDate>Wed, 02 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>格陵兰气象站观测数据和重建的地表气温的编译数据集</title>
@@ -136,7 +136,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         格陵兰岛气候观测结果稀疏、异质且分散。我们编译并标准化了 1941 年至今格陵兰岛所有可用的气象站记录，提供了七个关键气候变量和详细的气象站元数据。我们还重建了 1950-2024 年高分辨率的月地表气温数据集。这些数据集为气候研究、模型评估和气候重建提供了宝贵的资源。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-449</guid>
-      <pubDate>Tue, 01 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>一组来自大北海和格陵兰岛的 6 万多张原位浮游动物图像，带有 FAIR 注释</title>
@@ -147,7 +147,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         在本文中，我们使用水下摄像机收集了大北海和格陵兰岛的数百万张海洋浮游动物图像。其中 60,000 多张图像被标记，人工智能经过训练可以通过图像自动对浮游动物进行分类。带注释的数据和分类器帮助我们使用新颖的成像技术更有效地监测浮游动物种群——随着气候变化和海上风电场的建设重塑海洋中上层生态系统，这是一项至关重要的任务。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-614</guid>
-      <pubDate>Tue, 01 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>阿拉斯加气象、能源和传输 (MET) 工具包数据集</title>
@@ -158,7 +158,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         阿拉斯加的电力系统依赖于天气，但气象站却少之又少。我们将国家天气预报模型七年来每小时的输出转化为阿拉斯加全境风力和温度的易于使用的记录，并与 150 多个地点的测量结果进行检查。这些数据通常与观测结果相符，并且可以免费用于支持这个偏远地区的能源规划、弹性电网和人工智能研究。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-680</guid>
-      <pubDate>Tue, 01 Sep 2026 22:02:06 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 03:17:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
