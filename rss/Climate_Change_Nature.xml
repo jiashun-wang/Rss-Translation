@@ -1,9 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Fri, 04 Sep 2026 23:30:09 GMT</lastBuildDate>
+    <title>Climate change : nature.com subject feeds</title>
+    <link>https://www.nature.com/subjects/climate-change</link>
+    <description>Latest news and research from Nature.com on the topic of Climate change</description>
+    <lastBuildDate>Sat, 05 Sep 2026 00:25:55 GMT</lastBuildDate>
+    <item>
+      <title>监测森林生态系统的卫星革命需要知识整合</title>
+      <link>https://www.nature.com/articles/s41561-026-02081-3</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41561-026-02081-3</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>物候波动导致北方森林季节性不对称变暖</title>
+      <link>https://www.nature.com/articles/s41467-026-77464-6</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41467-026-77464-6</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越碳的森林</title>
+      <link>https://www.nature.com/articles/s41561-026-02105-y</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41561-026-02105-y</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新审视北部泥炭地二氧化碳通量的驱动因素：水位-温度相互作用的依赖性</title>
+      <link>https://www.nature.com/articles/s41467-026-77456-6</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41467-026-77456-6</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>降水和土壤磷调节热带森林的干旱后恢复能力</title>
+      <link>https://www.nature.com/articles/s41561-026-02095-x</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41561-026-02095-x</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>双重物理路径塑造了北美夏季极端高温的次季节到季节的可预测性</title>
+      <link>https://www.nature.com/articles/s43247-026-03991-1</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43247-026-03991-1</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>作者更正：改善气候健康成果的八个城市行动领域</title>
+      <link>https://www.nature.com/articles/s44360-026-00203-0</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s44360-026-00203-0</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼泊尔灾难发生前的卫星图像显示警告信号</title>
+      <link>https://www.nature.com/articles/d41586-026-02746-4</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-026-02746-4</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合国最终承认全球变暖将突破 1.5 ℃ 气候极限</title>
+      <link>https://www.nature.com/articles/d41586-026-02753-5</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-026-02753-5</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>气候变化导致欧洲大黄蜂栖息地适宜性下降</title>
+      <link>https://www.nature.com/articles/s41558-026-02734-6</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41558-026-02734-6</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>北极和南极海冰性质和过程的变化</title>
+      <link>https://www.nature.com/articles/s43017-026-00816-9</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43017-026-00816-9</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在扩大的情景空间中通过二氧化碳和甲烷减排来限制变暖</title>
+      <link>https://www.nature.com/articles/s43247-026-03832-1</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43247-026-03832-1</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球变暖通过水文气候变化增强盐度梯度能源潜力</title>
+      <link>https://www.nature.com/articles/s43247-026-04010-z</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s43247-026-04010-z</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>多层土壤水分消耗加剧了干旱对全球生态系统的影响</title>
+      <link>https://www.nature.com/articles/s41561-026-02083-1</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41561-026-02083-1</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>沿海沉积物中大型藻类碳埋藏的全球分布</title>
+      <link>https://www.nature.com/articles/s41467-026-77215-7</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/s41467-026-77215-7</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     </channel>
 </rss>

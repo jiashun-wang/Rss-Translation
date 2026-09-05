@@ -4,7 +4,14 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Fri, 04 Sep 2026 23:24:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 00:26:51 GMT</lastBuildDate>
+    <item>
+      <title>Bristlecone：适合长期生态侦探的 F# 库</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10962</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10962</guid>
+      <pubDate>Sat, 05 Sep 2026 00:16:33 GMT</pubDate>
+    </item>
     <item>
       <title>TanML：表格机器学习模型的自动模型验证工具包</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.11253</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10314</guid>
       <pubDate>Thu, 27 Aug 2026 12:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MeshFL：用于 3D 脑 MRI 分割的联合 MeshNet 框架</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.09357</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.09357</guid>
-      <pubDate>Wed, 26 Aug 2026 20:08:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
