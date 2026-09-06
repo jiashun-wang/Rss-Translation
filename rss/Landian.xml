@@ -4,7 +4,21 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Sat, 05 Sep 2026 09:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:06:45 GMT</lastBuildDate>
+    <item>
+      <title>谷歌浏览器还有隐藏小技能：遇到HSTS网站无法加载时 键盘盲打thisisunsafe即可加载</title>
+      <link>https://www.landian.news/archives/126681.html</link>
+      <description><![CDATA[#软件资讯 谷歌浏览器还有个隐藏小技能：遇到 HSTS 网站无法加载时，通过键盘盲打 thisisunsafe 即可加载。部分网站已经设置 HSTS 严格传输安全，这时候如果证书过期、被吊销或使用自签名证书，Chrome 就会拦截访问且点击高级选项也没用。但如果通过键盘按 thisisunsafe 就可以加载，这个功能主要是面向开发者用于调试，普通用户遇到此类加载问题时应该关闭页面，因为网站服务器可能出现问题或真出现劫持的情况。查看全文：https://ourl.co/126681]]></description>
+      <guid>https://www.landian.news/archives/126681.html</guid>
+      <pubDate>Sun, 06 Sep 2026 04:48:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Kernel 7.1已经结束生命周期不再提供更新 用户应尽快升级到7.2系列</title>
+      <link>https://www.landian.news/archives/126682.html</link>
+      <description><![CDATA[#系统资讯 Linux Kernel 7.1 系列最终版发布：Linux Kernel 7.1.13，至此 7.1 全系列结束生命周期支持。内核团队建议用户立即升级 7.2 系列，不过下游发行版通常维护自己的内核版本并移植补丁。所以用户需要查询使用的发行版网站，看看当前的内核支持状态。查看全文：https://ourl.co/126682]]></description>
+      <guid>https://www.landian.news/archives/126682.html</guid>
+      <pubDate>Sun, 06 Sep 2026 04:33:03 GMT</pubDate>
+    </item>
     <item>
       <title>Codex向部分用户赠送第二张重置卡 GPT-6 Astra也开始推送</title>
       <link>https://www.landian.news/archives/126688.html</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[#行业资讯 开源虚拟化平台 Proxmox VE 在北美成立运营中心，将为美国和加拿大客户提供全天候技术支持。现阶段 PVE 主要按奥地利工作时间提供支持，由于时差问题北美客户经常在工作时间找不到人，现在成立北美运营中心可以解决这个问题。另外 PVE 特别强调支持团队就是自己的工程团队，不会像某些公司那样把技术支持外包给第三方服务商，这里其实说的就是博通 VMware。查看全文：https://ourl.co/126639]]></description>
       <guid>https://www.landian.news/archives/126639.html</guid>
       <pubDate>Thu, 03 Sep 2026 06:05:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软重做财报架构：核心业务换名字 分别是智能体与基础设施和设备与消费者</title>
-      <link>https://www.landian.news/archives/126638.html</link>
-      <description><![CDATA[#行业资讯 微软重做财报架构：核心业务换名字，分别是智能体与基础设施、设备与消费者。其中大多数与 AI 沾边的产品都被放在智能体与基础设施板块，设备与消费者板块只有 Windows、Xbox 和必应搜索及广告业务。此次微软只是对财报架构进行调整，实际团队并未重组。查看全文：https://ourl.co/126638]]></description>
-      <guid>https://www.landian.news/archives/126638.html</guid>
-      <pubDate>Thu, 03 Sep 2026 05:47:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软确认Windows 11更新导致鼠标指针异常和桌面壁纸变成黑色 影响非英语系统</title>
-      <link>https://www.landian.news/archives/126637.html</link>
-      <description><![CDATA[#系统资讯 微软确认 Windows 11 8 月可选更新导致用户个性化鼠标指针样式丢失和桌面壁纸变纯黑色。微软经过调查后发现是 KB5120998 变更的代码组件引起，该问题只影响非英语系统。代码组件变更导致个性化配置加载出现问题，因此用户重新设置也没用。查看全文：https://ourl.co/126637]]></description>
-      <guid>https://www.landian.news/archives/126637.html</guid>
-      <pubDate>Thu, 03 Sep 2026 05:26:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

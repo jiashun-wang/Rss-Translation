@@ -4,9 +4,198 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 00:34:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:06:50 GMT</lastBuildDate>
     <item>
-      <title>【3.8.2】安卓上大纲降级，标题变成“protyle-html”</title>
+      <title>GitHub 账号不幸被封，申诉一周未果，上架插件集市的仓库怎么处理？</title>
+      <link>https://ld246.com/article/1788686675945</link>
+      <description><![CDATA[还有后续更新。 ]]></description>
+      <guid>https://ld246.com/article/1788686675945</guid>
+      <pubDate>Sun, 06 Sep 2026 09:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源笔记 win PC 端怎么设置最小化到托盘或者打开时先锁定，输入密码后才能进入正式编辑界面？</title>
+      <link>https://ld246.com/article/1788686501151</link>
+      <description><![CDATA[现在有这个功能吗？ ]]></description>
+      <guid>https://ld246.com/article/1788686501151</guid>
+      <pubDate>Sun, 06 Sep 2026 09:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>闪念速记输入的标签，在标签面板没有显示</title>
+      <link>https://ld246.com/article/1788684581269</link>
+      <description><![CDATA[闪念速记写到日记里面的内容，输入的标签，在标签面板没有显示，但在标签后加个回车又可以显示]]></description>
+      <guid>https://ld246.com/article/1788684581269</guid>
+      <pubDate>Sun, 06 Sep 2026 08:49:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[css] 思源智能体面板字号调整</title>
+      <link>https://ld246.com/article/1788680788894</link>
+      <description><![CDATA[
+适用版本：SiYuan 3.8.x（桌面端）
+文档由 deepseek-v4-flash 编写，并由本人进行了简单测试。具体可自行询问智能体。 
+
+智能体面板位于右侧停靠栏（桌面端点击停靠栏中的「智能体」即可打开，从底部会话管理可以搜索并切换历史会话）。当前在「设置 → 编辑器 → 字体」中把正文字号调大后，面板内的消息文字、输入框文字却保持原样，和文档编辑器不一致。 
+这是设计使然，而不是 bug：面板样式 _ai_agent.scss 中把面板内各文字区域的字号显式固定为 var(--b3-font-size)（面板级字号变量，默认 14px），其选择器优先级高于编辑器字号的全局注入规则，因此面板与编辑器解耦。本代码片段用于独立控制面板四个文字区域的字号，可自由设定固定数值，也可选择跟随编辑器正文字号。 
+代码片段
+/* ============================================================
+ * 思源笔记 · 智能体面板字号自定义
+ * ------------------------------------------------------------
+ * 可独立控制智能体（右侧停靠栏）面板的四个文字区域：
+ *   ① AI 回复 + 用户消息（共用）
+ *   ② 思考过程正文
+ *   ③ 输入框文字
+ *   ④ 「编辑已发送消息」所用编辑器
+ *
+ * 各区域默认为系统面板字号 14px，按需自行修改 font-size 数值。
+ * 想让某区域跟随「设置 → 编辑器」的正文字号时，
+ * 把数值改为 var(--b3-font-size-editor) 即可（见各块注释）。
+ * ============================================================ */
+
+/* ---------- ① 对话正文：AI 回复 + 用户消息（共用） ----------
+ * 默认 14px | 跟随编辑器：font-size: var(--b3-font-size-editor) !important; */
+.agent-chat__body.b3-typography,
+.agent-chat__msg--user .agent-chat__body.protyle-wysiwyg {
+  font-size: 14px !important;
+}
+
+/* ---------- ② 思考过程正文 ----------
+ * 默认 14px | 跟随编辑器：font-size: var(--b3-font-size-editor) !important; */
+.agent-chat__thinking-chat.b3-typography {
+  font-size: 14px !important;
+}
+
+/* ---------- ③ 输入框 ----------
+ * 默认 14px | 跟随编辑器：font-size: var(--b3-font-size-editor) !important; */
+.agent-chat__composer-host .protyle-wysiwyg {
+  font-size: 14px !important;
+}
+
+/* ---------- ④ 编辑已发送消息的编辑器 ----------
+ * 默认 14px | 跟随编辑器：font-size: var(--b3-font-size-editor) !important; */
+.agent-chat__edit-editor .protyle-wysiwyg {
+  font-size: 14px !important;
+}
+
+可独立控制的四个区域
+
+
+
+编号
+区域
+选择器
+系统默认
+
+
+
+
+①
+AI 回复 + 用户消息（共用）
+.agent-chat__body.b3-typography、.agent-chat__msg--user .agent-chat__body.protyle-wysiwyg
+14px（var(--b3-font-size)）
+
+
+②
+思考过程正文
+.agent-chat__thinking-chat.b3-typography
+14px（var(--b3-font-size)）
+
+
+③
+输入框文字
+.agent-chat__composer-host .protyle-wysiwyg
+14px（var(--b3-font-size)）
+
+
+④
+「编辑已发送消息」所用编辑器
+.agent-chat__edit-editor .protyle-wysiwyg
+14px（var(--b3-font-size)）
+
+
+
+四个区域互不影响，可任意混用固定值和跟随方式。 
+系统默认值说明
+
+四个区域的系统默认字号均为 var(--b3-font-size)，即内置主题（daylight / midnight）的面板级字号变量，默认 14px。 
+系统默认不跟随编辑器字号：var(--b3-font-size) 是独立于编辑器设置的主题变量，二者不联动。 
+若你使用了自定义主题并覆写了 --b3-font-size，则&quot;系统默认&quot;会随该主题变化——即这个变量本身是按主题跟随的。 
+
+如何设置为跟随编辑器字号
+
+SiYuan 会把「设置 → 编辑器 → 字体 → 正文字号」注入为 :root 上的 CSS 变量 --b3-font-size-editor（值为你设置的字号，例如 22px）。 
+将某个区域的 font-size 由固定数值改为 var(--b3-font-size-editor)，该区域即实时跟随编辑器正文字号——修改设置后立即生效，无需重启。 
+示例混用：想让 ①③ 跟随编辑器、②④ 保持固定 16px，只需对应区域分别写 var(--b3-font-size-editor) 和 16px。 
+
+安装方法
+
+打开 设置 → 外观 → 代码片段；
+点击「新增」，在 CSS 页签中粘贴以上代码；
+保存后立即生效；每个片段可单独启用/停用，便于对比和排查。 
+
+版本与兼容性说明
+
+选择器基于 SiYuan 3.8.x 内置样式 _ai_agent.scss（app/src/assets/scss/business/_ai_agent.scss）编写，已在 3.8.2 验证。 
+代码片段加载顺序晚于内置样式，配合 !important 可稳定覆盖面板内置规则；若未来版本面板 DOM 或类名调整，可能需要同步更新选择器。 
+]]></description>
+      <guid>https://ld246.com/article/1788680788894</guid>
+      <pubDate>Sun, 06 Sep 2026 07:50:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前思源智能体部分是否可以调整显示字号</title>
+      <link>https://ld246.com/article/1788677056408</link>
+      <description><![CDATA[全局字号修改似乎与智能体字号是独立的，并且没有在设置中搜到智能体界面怎么调字号。 ]]></description>
+      <guid>https://ld246.com/article/1788677056408</guid>
+      <pubDate>Sun, 06 Sep 2026 06:44:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>想问是否有批量 obsidian 转思源的插件</title>
+      <link>https://ld246.com/article/1788676004106</link>
+      <description><![CDATA[在网上买了别人的资源，想自行整合保存到思源里面。 ]]></description>
+      <guid>https://ld246.com/article/1788676004106</guid>
+      <pubDate>Sun, 06 Sep 2026 06:26:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个功能能够实现吗？</title>
+      <link>https://ld246.com/article/1788671699814</link>
+      <description><![CDATA[文档 a 用新窗口打开了，后面被文档 b 给覆盖到后台了，我点击文档树上的文档 a，让文档 a 重新出现在前台。 ]]></description>
+      <guid>https://ld246.com/article/1788671699814</guid>
+      <pubDate>Sun, 06 Sep 2026 05:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>能禁止 AI 访问指定文档 or 笔记本吗</title>
+      <link>https://ld246.com/article/1788671341743</link>
+      <description><![CDATA[思源现在能禁止内置 AI agent or 外部 AI agent（通过思源 sisyphus MCP &amp; CLI &amp; GIT）访问指定文档/笔记本吗]]></description>
+      <guid>https://ld246.com/article/1788671341743</guid>
+      <pubDate>Sun, 06 Sep 2026 05:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>文档中的任务好像因为没有及时更新索引会在任务管理器插件里疯狂提示</title>
+      <link>https://ld246.com/article/1788666292112</link>
+      <description><![CDATA[有一个专门放任务的文档, 在该文档中新加/删除任务会引起任务管理器插件弹提示框.
+后面在文档树的[更多]里重建索引后才变好. 但是这个貌似不及时, 我再新建一个任务, 插件也依然会报提示, 只不过提示框变少了, 有时候重建索引后能多维持一段时间, 有时候不行
+
+
+]]></description>
+      <guid>https://ld246.com/article/1788666292112</guid>
+      <pubDate>Sun, 06 Sep 2026 03:47:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>从为知笔记迁移 markdown 导入到思源笔记无法自动排版</title>
+      <link>https://ld246.com/article/1788666325165</link>
+      <description><![CDATA[从为知笔记导出了一批 markdown 格式的文件，思源笔记导入之后，无法加载排版
+]]></description>
+      <guid>https://ld246.com/article/1788666325165</guid>
+      <pubDate>Sun, 06 Sep 2026 03:45:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源笔记中的块令人困扰</title>
+      <link>https://ld246.com/article/1788665768327</link>
+      <description><![CDATA[相邻的同一种元素，比如无序列表，什么情况下属于同一个块？什么操作会导致分离成不同的块？如何将相邻的两个块合并？ 
+对于我这个有强迫症的来说，相邻的同一种元素分离成不同的块，导致视觉上行距加大了，框选时背景色出现了空隙，而对于块的真正作用以及是否分离，后续使用上有什么差别，知之甚少，麻烦哪位有闲给解释一下。 ]]></description>
+      <guid>https://ld246.com/article/1788665768327</guid>
+      <pubDate>Sun, 06 Sep 2026 03:36:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>v3.8.2 安卓上大纲降级标题变成“protyle-html”</title>
       <link>https://ld246.com/article/1788654298629</link>
       <description><![CDATA[安卓上，在大纲上点了一下标题降级（H2），确实变成 H3 了，但是标题没了，变成“protyle-html”，不知道什么原因。 ]]></description>
       <guid>https://ld246.com/article/1788654298629</guid>
@@ -86,145 +275,6 @@
 ]]></description>
       <guid>https://ld246.com/article/1788627398362</guid>
       <pubDate>Sat, 05 Sep 2026 17:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>块引脚注插件异常求救</title>
-      <link>https://ld246.com/article/1788619878386</link>
-      <description><![CDATA[各位大佬大家好，思源版本 V3.8.2，插件版本 1.6.2。使用集市块引脚注插件，使用时出现了 2 个问题点。还望指导一下如何正确使用，非常感谢。 
-
-点开备注输入框后，默认光标位置在[注]的前面，不能直接输入，每次都需要再鼠标或者键盘移动光标到相应位置后，才能开始输入。看插件介绍页面，是直接定位到编辑位置的，但不知道什么原因，每次都需要搬运移动才可以使用。 
-侧栏(DECK 栏)打开后，点击对应位置（下图中[1]和锚文本标题），本来应该是&quot;打开脚注块&quot;&quot;打开原块&quot;的，但鼠标点击没有任何反应。 
-
-也发帖问了插件作者，但没有收到任何回复。还望各位不吝赐教，谢谢。 
-@Achuan-2]]></description>
-      <guid>https://ld246.com/article/1788619878386</guid>
-      <pubDate>Sat, 05 Sep 2026 14:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源笔记打开报错，重装也不行，求大佬帮忙</title>
-      <link>https://ld246.com/article/1788615275677</link>
-      <description><![CDATA[
-
-思源笔记打开报错，重装也不行。有人说关闭 siyuan-kernel.exe 这个进程， 但是我的任务管理器里面也没有这个进程，杀毒软件白名单也添加了 ，并且我把杀毒软件都退出了也不行，请大佬们给个解决方法]]></description>
-      <guid>https://ld246.com/article/1788615275677</guid>
-      <pubDate>Sat, 05 Sep 2026 13:34:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT 模型悄悄降智现象逐渐泛滥</title>
-      <link>https://ld246.com/article/1788611039938</link>
-      <description><![CDATA[今天看到某些中转站号称上线了 GPT-6，本来想拿来尝个鲜。但一上手就感觉味道不对，输出几乎完全没有思考过程，也不够聪明。 
-刚好 L 站看到一个相当耸人听闻的帖子。 https://linux.do/t/topic/2858863
-
-我在本地自行测试了一遍，别说 GPT 6 了，就连 5.6 版本的也出现了大量其所述的问题。 
-
-而我自己的 Codex 订阅里就看着正常一些。 （普通 Plus，我猜测可能是因为这个号在使用时几乎只连接来自美国旧金山的节点，从不随意切换，就躲过一劫。）
-
-这时候果断祭出 juicy value 大法。我的 Codex 订阅中的 Juicy 值 4 万多，但切换到其他中转站后就变成了 40。 。 。 
-
-让 DS 写了一个批量测试的脚本。 
-
-不出所料，大部分中转站全部翻车。 
-
-只能说奥特曼现在也越来越会玩了。要是直接封中转站的号，那他们就不得不再想各种主意应对。但是敲咪咪给你降智，那只要用户不反馈，中转站也没有太大的动力去处理。 🙄
-
-UPDATE: 引用某中转站群中的言论，技术上有一定参考价值。 
-
-gpt6 降智的问题经过多轮测试，现已大概率破案。经多渠道多方多站多位使用者联合测试，当 openai 检测到你当前使用的号在并发，无论是中转站、合租 pro 号等等，只要你在并发，那么就会将你当前使用的号路由到 GPT-40 上面去。这是 openai 官方的问题，不管你的使用环境和号来自哪里，是反代、官号、美国纯净家宽 IP 等等，只要并发，就会触发路由和降智。从坏的一面来看，中转站的号是不可能不并发的，所以很大概率你用到的就是降智的模型。但是从好的一面来看，在这样的聚合站中，你依然是有很大概率能抽到当前没有降智的。为了更好的帮助大家节约成本不浪费钱，交给大家一个最简单的办法来辨别真假（前提是商家不掺水不掺假）：在新的会话或者是开始工作前，先问他一句：你的知识训练截至日期是什么时间?如果回答你是 2024 年 6 月，那么你现在在用的 100% 就是 GPT-40。如果他回答不上来，那么恭喜你，你在用的就是
-   GPT-6 Astra,并且你 100% 在接下来的对话中能画出来一个 GPT6 水平的鹈鹕。以上信息仅限当前情况参考，未来 Openai 更新后，以最新情况为准。我觉得以上内容可以改改置顶一下，让大家都能够了解，别再浪费钱画鹈鹕了。我觉得 openai 应该是会修复的，要不然会被骂死。 
-
-在我自己的测试中，我发现即便使用自己理论上“没有降智”的 Codex 做多轮重复测试，偶尔也会输出 40 的 Juice 值。所以这个并发影响降智的猜测估计成立。 ]]></description>
-      <guid>https://ld246.com/article/1788611039938</guid>
-      <pubDate>Sat, 05 Sep 2026 12:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>置顶悬浮窗、AI 生成标题——思源文档助手 v1.6.5 新功能预览</title>
-      <link>https://ld246.com/article/1788600364444</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788600364444</guid>
-      <pubDate>Sat, 05 Sep 2026 09:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[css] 思源笔记全局字体设置 CSS 代码片段</title>
-      <link>https://ld246.com/article/1788598600431</link>
-      <description><![CDATA[:root:lang(zh-CN) {
-    --b3-font-family: &quot;XXX&quot;, &quot;苹果SC&quot;, &quot;微软雅黑&quot;;
-    字体样式：正常；
-}
-]]></description>
-      <guid>https://ld246.com/article/1788598600431</guid>
-      <pubDate>Sat, 05 Sep 2026 08:56:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么行内代码的容器高度与正文对齐这么难?</title>
-      <link>https://ld246.com/article/1788597423334</link>
-      <description><![CDATA[我用以下代码才勉强对齐，还要用到位置微调:
-    font-size: 1em;
-    padding: 0;
-    margin: 0em;
-    border-radius: 2px;
-    line-height: 1;
-    top: -0.02em;
-    position: relative;
-]]></description>
-      <guid>https://ld246.com/article/1788597423334</guid>
-      <pubDate>Sat, 05 Sep 2026 08:40:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>v3.8.2 文档面板 - 文档 - 更多 - 在上 / 下方新建文档 功能开启，部分笔记本下该功能失效，无法显示该选项</title>
-      <link>https://ld246.com/article/1788581329565</link>
-      <description><![CDATA[
-
- 浏览器不支持该媒体的播放
-]]></description>
-      <guid>https://ld246.com/article/1788581329565</guid>
-      <pubDate>Sat, 05 Sep 2026 04:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源笔记设置布局存在巨大问题，无法配置</title>
-      <link>https://ld246.com/article/1788575624600</link>
-      <description><![CDATA[【设置】布局完全扭曲，无法进行有效配置，看都看不清。请求修复和优化。 
-已经排除是主题皮肤和设备的问题，用官方的皮肤，以及切换多款皮肤，都是一样的结局。 
-测试两台设备 win11、macbook，皆是如此。 
-]]></description>
-      <guid>https://ld246.com/article/1788575624600</guid>
-      <pubDate>Sat, 05 Sep 2026 02:33:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新版本安卓端豆包输入法语音输入出现问题</title>
-      <link>https://ld246.com/article/1788575345395</link>
-      <description><![CDATA[版本：3.8.3- Alpha 1。 
-问题：
-在每段开头，如果直接使用豆包输入法语音，会立即输入失败。 
-如果不是开头，比如随便在前面打什个什么字符，再使用豆包输入法的语音输入，就可以正常输入。 
-微信输入法可以正常使用。 
-系统：Android15 Vivo OriginOS 5]]></description>
-      <guid>https://ld246.com/article/1788575345395</guid>
-      <pubDate>Sat, 05 Sep 2026 02:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>手机端不能对文章内选中的部分进行打印吗</title>
-      <link>https://ld246.com/article/1788537490454</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788537490454</guid>
-      <pubDate>Fri, 04 Sep 2026 15:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>v3.8.2 的删除反应变得奇慢</title>
-      <link>https://ld246.com/article/1788512086859</link>
-      <description><![CDATA[无论是删除块，还是删除文档，有时要等几十秒才出现确认对话框。 ]]></description>
-      <guid>https://ld246.com/article/1788512086859</guid>
-      <pubDate>Fri, 04 Sep 2026 09:28:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>块引脚注插件异常</title>
-      <link>https://ld246.com/article/1788509107928</link>
-      <description><![CDATA[@Achuan-2 大佬好。块引脚注插件，使用时出现了 2 个问题点。思源版本 V3.8.2，插件版本 1.6.2。还望指导一下如何正确使用，非常感谢。 
-
-点开备注输入框后，默认光标位置在[注]的前面，不能直接输入，每次都需要再鼠标或者键盘移动光标到相应位置后，才能开始输入。 
-侧栏(DECK 栏)打开后，点击对应位置，本来应该是&quot;打开脚注块&quot;&quot;打开原块&quot;的，但鼠标点击没有任何反应。 
-]]></description>
-      <guid>https://ld246.com/article/1788509107928</guid>
-      <pubDate>Fri, 04 Sep 2026 08:05:07 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>
@@ -341,6 +391,16 @@ frontends
 相关议题：Issue #17151 · siyuan-note/siyuan]]></description>
       <guid>https://ld246.com/article/1787204819965</guid>
       <pubDate>Thu, 20 Aug 2026 05:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>演示一下 3.8 版本如何划选块</title>
+      <link>https://ld246.com/article/1786962474568</link>
+      <description><![CDATA[3.8 支持了跨块划选文本，改变了原来划选块的行为，我演示一下 3.8.1 划选块的几种方式：
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1786962474568</guid>
+      <pubDate>Mon, 17 Aug 2026 10:27:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

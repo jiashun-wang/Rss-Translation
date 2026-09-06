@@ -4,7 +4,14 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Sun, 06 Sep 2026 00:34:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:06:56 GMT</lastBuildDate>
+    <item>
+      <title>WinToastRelay – 将 Windows 系统通知转发到手机｜Codex 跑完，手机会叫你</title>
+      <link>https://www.appinn.com/wintoastrelay/</link>
+      <description><![CDATA[在 Windows 用 Codex 时，会遇到一个小问题： 有些任务几分钟就结束，有些却要跑很久。一直守在电脑前没必要，但去做别的事情，又总忍不住隔一会儿回来看看： “跑完了吗？” 既然 Codex]]></description>
+      <guid>https://www.appinn.com/wintoastrelay/</guid>
+      <pubDate>Sun, 06 Sep 2026 08:09:26 GMT</pubDate>
+    </item>
     <item>
       <title>uBlock Origin 回来了！第三方开发者将其完整功能移植到 Manifest V3</title>
       <link>https://www.appinn.com/ublock-origin-mv3/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[如果你像青小蛙一样，喜欢在浏览器里打开非常多的标签页，然后……不看。时间久了就会产生一种奇怪的焦虑：这么多肯定看不完，但又都舍不得关。 墨萃（InkGist）可以解决这件事：帮你快速阅读这些网页，需要]]></description>
       <guid>https://www.appinn.com/inkgist/</guid>
       <pubDate>Tue, 01 Sep 2026 07:49:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw 2.0 正式发布：史上规模最大的一次更新：933 位贡献者，16000 个拉取请求</title>
-      <link>https://www.appinn.com/openclaw-2-0/</link>
-      <description><![CDATA[在停更7周以后，OpenClaw 2.0 终于发布，这次更新被开发者称为「迄今为止 OpenClaw 历史上规模最大的一次更新。此次更新由 933 位贡献者共同完成，其中包括 569 位首次贡献者，并]]></description>
-      <guid>https://www.appinn.com/openclaw-2-0/</guid>
-      <pubDate>Mon, 31 Aug 2026 09:54:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

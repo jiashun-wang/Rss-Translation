@@ -4,7 +4,101 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 00:34:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:06:29 GMT</lastBuildDate>
+    <item>
+      <title>【开源自荐】XAOCEN ReWiFi 自动恢复 Wi‑Fi 网络。持续监测 Windows 当前连接，在网络异常时帮助恢复无线连接，让重要的网络任务保持顺畅进行。</title>
+      <link>https://meta.appinn.net/t/topic/91329</link>
+      <description><![CDATA[软件名称
+XAOCEN ReWiFi（WiFi自动重置）
+应用平台
+
+Windows
+
+推荐类型
+【开发者自荐】
+是否收费
+免费
+一句简介
+面向无线连接恢复的轻量工具，自动恢复 Wi‑Fi 网络，持续监测 Windows 当前连接，在网络异常时帮助恢复无线连接，让重要的网络任务保持顺畅进行。 
+应用简介
+ReWiFi 专注于无线连接恢复，
+（口水话，codex执行任务时候总是因为网络问题掉线终止任务，这个工具可以检测谷歌和百度的连通性然后自动重置无线网卡）
+
+每 2 秒检查 Windows 当前 Wi‑Fi 状态，保持后台安静运行。 
+发现网络异常后按规则重启 Wi‑Fi 网卡，并重新连接已保存的网络。 （首次使用需要选择WiFi名称）
+网络探测绕过系统代理，避免代理端口异常干扰 Wi‑Fi 状态判断。 
+
+安装与运行要求。 
+
+支持 Windows 10 / 11 及 x64 设备。 
+设备需具备管理员权限及可用的 Wi‑Fi 网卡。 
+系统中需已保存目标 Wi‑Fi 网络配置。 
+发布包采用 self-contained single-file 形式，无需额外安装 .NET 运行时。 
+限制：目标 Wi‑Fi 必须已经由当前 Windows 用户保存过 Profile。谷歌或百度可能受到代理规则、域名策略或服务故障影响，因此“一成功一失败”只记录为部分可达，不会据此重启 Wi‑Fi。 
+
+开发中功能：
+
+账号授权（这个是其他项目拿这个程序开发测试，本项目永久免费无需登录即可使用，已开源，ps：1.5版本不含任何登录以及遥测功能）
+项目地址:  siycaoxgh/xaocen-rewifi
+官方网站：XAOCEN ReWiFi · XAOCEN STUDIO
+
+截图预览：
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91329</guid>
+      <pubDate>Sun, 06 Sep 2026 05:01:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>声迹 LocalScribe：免费的 Mac 本地音视频转文字与字幕工具</title>
+      <link>https://meta.appinn.net/t/topic/91305</link>
+      <description><![CDATA[开发者自荐｜免费开源｜中文界面｜Apple 芯片 Mac
+课程录音想整理成笔记，访谈想导出文字稿，视频想生成字幕——声迹可以在 Mac 本地完成转录、文字校对和导出，不需要注册账号，也不会由应用上传录音。 
+我是声迹的开发者。它把转录和后续编辑放在同一个应用里：导入音视频，选择识别模型，校对文字，再导出文稿或字幕。 
+下载 v1.6.6 · 中文安装指南
+
+需要 macOS 15.5 或更高版本，不支持 Intel Mac。当前安装包未获 Apple Developer ID 签名和公证，首次启动会被拦截；请先阅读安装指南，只在信任项目来源时允许打开。 
+
+
+可以完成哪些工作
+
+**整理文稿与字幕：**转录音视频或麦克风输入，搜索替换、裁剪文字，导出 TXT、Markdown、PDF、SRT 或 WebVTT。 
+**看实时字幕：**在 macOS 26 上，为麦克风或 Mac 正在播放的声音显示悬浮字幕。目前不支持实时字幕同步翻译。 
+**转录后继续处理：**翻译文稿，或按需下载本地 Gemma 模型做校对和摘要；AI 输出需要人工检查。长任务提供进度显示和会话恢复。 
+
+
+较旧系统需手动选择 Whisper、SenseVoice 或 Parakeet，其中后两者目前只支持文件转录；Apple Speech 和实时字幕需要 macOS 26。部分模型和语言资源首次使用时需要联网下载，更新检查也会联网；识别音频、导入文稿和 AI 处理内容不会由应用上传。 
+**项目与源码：**GitHub - maddylaneeee/ShengJi: Native local-first macOS speech-to-text, live captions, subtitle editing, offline translation, and on-device Gemma 4 transcript enhancement. · GitHub
+主仓库采用 MIT 许可，第三方组件和模型遵循各自许可。欢迎先用一段短录音试试；若遇到问题，可以在这里回复你的 macOS 版本、识别模型和具体表现。 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91305</guid>
+      <pubDate>Sun, 06 Sep 2026 01:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keelhaven：macOS 菜单栏的 restic 备份工具，免费开源</title>
+      <link>https://meta.appinn.net/t/topic/91304</link>
+      <description><![CDATA[Keelhaven 是一个纯菜单栏的 macOS 备份应用，没有 Dock 图标，也没有主窗口。备份引擎是 restic，加密、去重、增量都交给它，Keelhaven 负责界面、定时和密码管理。 
+用起来是三步：选要保护的文件夹，选一个自己拥有的存储（外置硬盘、NAS/SFTP，或者任意 S3 协议的对象存储，比如 Backblaze B2、Wasabi、Cloudflare R2），再设一个定时（每小时/每天/每周）。设好之后它就在后台安静地跑，只有出错才弹通知。 
+
+仓库密码只存在 macOS 钥匙串里，不落盘、不写日志，也不会作为命令行参数传给 restic 子进程。写出来的是标准的 restic 仓库，哪天不用 Keelhaven 了，用 restic 命令行本身也能继续读取和恢复，不会被锁死在一个私有格式里。 
+每个计划还会按计划跑一次 restic check（默认每周一次）验证仓库完整性，通过了不吭声，出问题才提醒，避免备份坏了很久都没人发现。 
+restic 需要访问任意目录、网络和 SSH，App Store 的沙盒放不下，所以目前只有 Homebrew 和一行 curl 脚本两种安装方式：
+brew install --cask shenxianpeng/tap/keelhaven
+
+curl -fsSL https://keelhaven.app/install.sh | bash
+
+还没有申请 Apple 开发者证书：上面两条安装命令都会在安装时清掉隔离标记，能直接打开；如果是从官网下载 dmg 双击安装，首次需要手动允许一次。 
+
+GPLv3 开源，界面支持中英文双语，v0.5.0 公测中。 
+官网：https://keelhaven.app
+源码：GitHub - shenxianpeng/keelhaven: Privacy-first macOS menu-bar backup app powered by restic · GitHub
+4 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91304</guid>
+      <pubDate>Sun, 06 Sep 2026 01:23:15 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】Casbin Gateway - 把电脑上所有 AI 编程助手收进一个面板管，还能验一验中转 API 的真假</title>
       <link>https://meta.appinn.net/t/topic/91275</link>
@@ -114,7 +208,7 @@ docker run -p 3000:3000 libredb/libredb-studio
 项目地址：GitHub - libredb/libredb-studio: One browser tab for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, SQLite, Couchbase, ClickHouse, Druid, DuckDB, Turso and more. An open-source SQL IDE with SSO, audit trail and AI-assisted queries MIT licensed, with nothing held back behind an enterprise wall. · GitHub
 在线 demo：https://app.libredb.org
 目前四百多个 star（大约 403），还在继续做。要是你也有「不想到处发数据库密码」这个顾虑，或者想让本地大模型帮你查数据又不担心数据外泄，可以试试，也欢迎提意见。 
-1 个帖子 - 1 位参与者
+2 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91248</guid>
       <pubDate>Sat, 05 Sep 2026 01:08:23 GMT</pubDate>
@@ -221,7 +315,7 @@ AGPL-3.0 开源，上面说的「本地处理」可以自己翻源码验证。
 Chrome：https://chromewebstore.google.com/detail/ikhhoggnlncjhpdbnneekifbnmojpjph
 Edge：Full Page Screenshot - Scrolling Screen Capture &amp; Editor | OpenCapture - Microsoft Edge Add-ons
 Firefox：整页截图 - 网页长截图、截图工具与编辑器，导出 PDF | OpenCapture – 下载 🦊 Firefox 扩展（zh-CN）
-2 个帖子 - 2 位参与者
+4 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91246</guid>
       <pubDate>Sat, 05 Sep 2026 01:05:42 GMT</pubDate>
@@ -351,154 +445,6 @@ Nightly 安装包：nightly.link | Repository benzBrake/NotepadReplacer | Workfl
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/91192</guid>
       <pubDate>Thu, 03 Sep 2026 09:28:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Abiurl.me 短网址与 UTM 生成器免费开发使用！</title>
-      <link>https://meta.appinn.net/t/topic/91188</link>
-      <description><![CDATA[软件名称
-Abi 短网址与 UTM 生成器
-应用平台
-
-Windows
-MacOS
-
-推荐类型
-【开发者自荐】
-是否收费
-完全免费
-一句简介
-“Abiurl” 短网址生成器永久免费，支持一键生成短网址与 UTM 标记！ 
-应用简介
-欢迎使用 Abi 短网址生成器，本工具永久免费，支持一键复制、二维码生成及 UTM 参数设置。内置 Google Safe Browsing 安全浏览功能，能有效拦截恶意网站滥用缩网址，保障域名的安全与合规。非常适合营销人员、自媒体博主及前端工程师使用。 
-
-官方网站
-https://abiurl.me
-3 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91188</guid>
-      <pubDate>Thu, 03 Sep 2026 08:50:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】微信视频号/公众号下载</title>
-      <link>https://meta.appinn.net/t/topic/91183</link>
-      <description><![CDATA[软件名称
-微信视频号下载器
-应用平台
-
-Windows
-MacOS
-
-推荐类型
-【开发者自荐】
-是否收费
-免费
-一句简介
-在视频号页面插入下载按钮，点击即可下载对应的视频
-应用简介
-相比其他视频号下载工具，最大的差别就是在视频号页面增加了一个下载按钮，点击就可以下载，简单高效。 
-另外还提供了视频号部分 API 能力，可以基于 API 实现非常多的功能，包括但不限于
-
-监控某个账号下新发布的视频并下载
-获取某个视频的评论和回复
-根据关键字搜索账号
-
-可以参考 API文档 内提供的接口。 
-最近八月的几次更新增加了非常多功能 
-
-提供了前端页面，支持对下载的内容进行管理
-提供了 MCP 服务，可以在 agent 中使用下载器的所有能力。比如一句话「使用 dm MCP 下载 id 为 xx 的视频号评论到本地」就可以了
-支持下载视频号直播（需要 ffmpeg 全局可用）
-支持 知乎、抖音 的下载（在前端页面输入链接下载）
-支持公众号下载（需要在配置中手动开启后同样插入下载按钮或在前端页面输入链接下载）
-
-项目持续迭代近2年了，后续是准备往 通用内容下载器 或者说 内容归档工具 发展，源码里已经包含了 b站、youtube、番茄小说 等网站的下载能力，测试能稳定使用后也会慢慢开放。如果有想下载的网站可以留言，优先考虑支持 
-
-这个工具唯一的风险就是要安装系统根证书，用于在视频号页面插入下载按钮、hook视频号接口。如果担心风险，也是支持在配置文件中指定使用自己的根证书。代码也是开源的，可以审查。 
-
-
-Windows 用户如果无法正常插入下载按钮，一般是和VPN、XXX软件之类冲突了。其他问题可以到 issue 中搜索
-
-官方网站
-
-
-github.com
-
-
-
-
-GitHub - ltaoo/wx_channels_download: 微信视频号下载器
-微信视频号下载器
-
-
-
-
-
-
-4 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91183</guid>
-      <pubDate>Thu, 03 Sep 2026 07:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】Hotify，支持原生鸿蒙的类Bark统一的自托管推送终端，支持多平台统一管理，Bark，Gotify客户端和短信转发器等消息源直接接入</title>
-      <link>https://meta.appinn.net/t/topic/91174</link>
-      <description><![CDATA[软件名称
-Hotify
-应用平台
-
-Windows
-鸿蒙
-安卓
-ios
-
-推荐类型
-【开发者自荐】
-是否收费
-服务器免费。客户端的个性化功能收费
-一句话简介
-统一的推送平台，兼容Bark，Gotify协议同时可用Gotify+Bark直接接入
-应用简介
-2026年9月2日 已完成功能：
-
-支持 Bark，Gotify及Hotify自有协议
-支持 插件市场，AI智能部署，可实现全部webhook类。 
-支持 自定义通知铃声
-支持 多设备统一管理
-支持 鸿蒙端应用接续，杀后台或切换平台3分钟内恢复
-支持 鸿蒙端可发送图片/文件给其他平台
-支持 Windows / 安卓 / ios / 鸿蒙
-支持 Windows端支持自定义主题
-支持 Windows端支持自定义主题
-Web端支持沉浸光感效果
-
-开发中功能：
-
-Windows，安卓文件传输
-
-截图预览：
-
-
-
-、
-
-
-
-
-
-
-
-
-官方网站
-服务器端：sakura-lolipop/HotifyNEXT-Server-Release: Hotify Server 发行物仓库（二进制/镜像/部署指南）
-鸿蒙端：https://appgallery.huawei.com/app/detail?id=com.smgwy.hotify&amp;channelId=SHARE&amp;source=appshare
-Windows端：sakura-lolipop/gotify_pc: gotify通知的windows端，支持电脑直接查看gotify消息, 支持转发消息到bark ios手机端
-安卓端/苹果端：尚未就绪，可使用Gotify和Bark官方客户端接入
-QQ反馈群：1083847370
-欢迎各位提出宝贵意见！ 
-3 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91174</guid>
-      <pubDate>Thu, 03 Sep 2026 02:50:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
