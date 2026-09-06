@@ -4,7 +4,138 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 09:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:34:34 GMT</lastBuildDate>
+    <item>
+      <title>【3.8.2】安卓上大纲降级，标题变成“protyle-html”</title>
+      <link>https://ld246.com/article/1788654298629</link>
+      <description><![CDATA[安卓上，在大纲上点了一下标题降级（H2），确实变成 H3 了，但是标题没了，变成“protyle-html”，不知道什么原因。 ]]></description>
+      <guid>https://ld246.com/article/1788654298629</guid>
+      <pubDate>Sun, 06 Sep 2026 00:28:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>终于实现利用外观样式自定义选中文本字体！</title>
+      <link>https://ld246.com/article/1788627398362</link>
+      <description><![CDATA[反正「错误红/警告黄/信息蓝/成功绿」这四个样式我肯定不会用到。 
+不理解思源编辑器已经是 HTML 格式了，为什么不直接开放选定文本自定义字体？颜色可以，为什么字体就不可以？ 
+用这四个样式：
+
+
+/* 利用外观样式自定义选中文本字体
+ * 征用颜色槽 1–4（错误红/警告黄/信息蓝/成功绿）作为4个自定义字体样式槽
+ * 粘贴位置：设置 → 外观 → 自定义 CSS
+ * 原理：颜色菜单给选区span写入内联样式
+ *       color 槽   → style=&quot;color: var(--b3-font-colorN)&quot;
+ *       背景槽     → style=&quot;background-color: var(--b3-font-backgroundN)&quot;
+ *       [style*=] 子串匹配抓取这些 span，统一改字体
+ * ============================================================ */
+
+/* ---------- 字体颜色槽 1–4（原错误红/警告黄/信息蓝/成功绿）
+
+    * 信息卡片（错误/警告/信息/成功） *
+    --b3-card-error-color: rgb(243, 153, 147);
+    --b3-card-error-background: #442724;
+    --b3-card-warning-color: rgb(255, 213, 153);
+    --b3-card-warning-background: #554636;
+    --b3-card-info-color: rgb(166, 213, 250);
+    --b3-card-info-background: #28405c;
+    --b3-card-success-color: rgb(183, 223, 185);
+    --b3-card-success-background: #425347;
+
+============================================================ */
+
+/* color1（原错误红）→ 甲骨文 */
+.protyle-wysiwyg span[style*=&quot;--b3-card-error-color&quot;] {
+    color: var(--b3-theme-on-background) !important;  /* 抵消颜色，恢复正文色 */
+    background-color: transparent !important;
+    font-family: &quot;方正甲骨文&quot; !important;
+}
+
+/* color2（原警告黄）→ 金文 */
+.protyle-wysiwyg span[style*=&quot;--b3-card-warning-color&quot;] {
+    color: var(--b3-theme-on-background) !important;  /* 抵消颜色，恢复正文色 */
+    background-color: transparent !important;
+    font-family: &quot;书体坊金文大篆 繁U&quot; !important;
+}
+
+/* color3（原信息蓝）→ 篆文 */
+.protyle-wysiwyg span[style*=&quot;--b3-card-info-color&quot;] {
+    color: var(--b3-theme-on-background) !important;  /* 抵消颜色，恢复正文色 */
+    background-color: transparent !important;
+    font-family: &quot;崇羲篆体&quot; !important;
+}
+
+/* color4（原成功绿）→ 隶文 */
+.protyle-wysiwyg span[style*=&quot;--b3-card-success-color&quot;] {
+    color: var(--b3-theme-on-background) !important;  /* 抵消颜色，恢复正文色 */
+    background-color: transparent !important;
+    font-family: &quot;STLibianTC-Regular&quot; !important;
+}
+
+/* ============================================================
+ * 说明
+ * 1. color/background 两条 !important 用于抵消菜单自带的前景/背景色，
+ *    让槽位变成&quot;纯字体标记&quot;。若想保留彩色高亮做视觉提示，
+ *    删掉对应 color / background-color 那一行即可。
+ * 2. 字体链均按 macOS 优先排（Kaiti SC 等），尾接 Windows 字体名兜底；
+ *    按本机已装字体自行增删。
+ * 3. 操作方式：选中文字 → 工具栏颜色菜单 → 点对应颜色（1–4 槽）。
+ * 4. 导出 HTML / PDF 保留样式；导出 Markdown 会丢失。
+ * 5. 槽位 5–13 未动，颜色菜单原功能照常。
+ * ============================================================ */
+
+]]></description>
+      <guid>https://ld246.com/article/1788627398362</guid>
+      <pubDate>Sat, 05 Sep 2026 17:09:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>块引脚注插件异常求救</title>
+      <link>https://ld246.com/article/1788619878386</link>
+      <description><![CDATA[各位大佬大家好，思源版本 V3.8.2，插件版本 1.6.2。使用集市块引脚注插件，使用时出现了 2 个问题点。还望指导一下如何正确使用，非常感谢。 
+
+点开备注输入框后，默认光标位置在[注]的前面，不能直接输入，每次都需要再鼠标或者键盘移动光标到相应位置后，才能开始输入。看插件介绍页面，是直接定位到编辑位置的，但不知道什么原因，每次都需要搬运移动才可以使用。 
+侧栏(DECK 栏)打开后，点击对应位置（下图中[1]和锚文本标题），本来应该是&quot;打开脚注块&quot;&quot;打开原块&quot;的，但鼠标点击没有任何反应。 
+
+也发帖问了插件作者，但没有收到任何回复。还望各位不吝赐教，谢谢。 
+@Achuan-2]]></description>
+      <guid>https://ld246.com/article/1788619878386</guid>
+      <pubDate>Sat, 05 Sep 2026 14:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源笔记打开报错，重装也不行，求大佬帮忙</title>
+      <link>https://ld246.com/article/1788615275677</link>
+      <description><![CDATA[
+
+思源笔记打开报错，重装也不行。有人说关闭 siyuan-kernel.exe 这个进程， 但是我的任务管理器里面也没有这个进程，杀毒软件白名单也添加了 ，并且我把杀毒软件都退出了也不行，请大佬们给个解决方法]]></description>
+      <guid>https://ld246.com/article/1788615275677</guid>
+      <pubDate>Sat, 05 Sep 2026 13:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 模型悄悄降智现象逐渐泛滥</title>
+      <link>https://ld246.com/article/1788611039938</link>
+      <description><![CDATA[今天看到某些中转站号称上线了 GPT-6，本来想拿来尝个鲜。但一上手就感觉味道不对，输出几乎完全没有思考过程，也不够聪明。 
+刚好 L 站看到一个相当耸人听闻的帖子。 https://linux.do/t/topic/2858863
+
+我在本地自行测试了一遍，别说 GPT 6 了，就连 5.6 版本的也出现了大量其所述的问题。 
+
+而我自己的 Codex 订阅里就看着正常一些。 （普通 Plus，我猜测可能是因为这个号在使用时几乎只连接来自美国旧金山的节点，从不随意切换，就躲过一劫。）
+
+这时候果断祭出 juicy value 大法。我的 Codex 订阅中的 Juicy 值 4 万多，但切换到其他中转站后就变成了 40。 。 。 
+
+让 DS 写了一个批量测试的脚本。 
+
+不出所料，大部分中转站全部翻车。 
+
+只能说奥特曼现在也越来越会玩了。要是直接封中转站的号，那他们就不得不再想各种主意应对。但是敲咪咪给你降智，那只要用户不反馈，中转站也没有太大的动力去处理。 🙄
+
+UPDATE: 引用某中转站群中的言论，技术上有一定参考价值。 
+
+gpt6 降智的问题经过多轮测试，现已大概率破案。经多渠道多方多站多位使用者联合测试，当 openai 检测到你当前使用的号在并发，无论是中转站、合租 pro 号等等，只要你在并发，那么就会将你当前使用的号路由到 GPT-40 上面去。这是 openai 官方的问题，不管你的使用环境和号来自哪里，是反代、官号、美国纯净家宽 IP 等等，只要并发，就会触发路由和降智。从坏的一面来看，中转站的号是不可能不并发的，所以很大概率你用到的就是降智的模型。但是从好的一面来看，在这样的聚合站中，你依然是有很大概率能抽到当前没有降智的。为了更好的帮助大家节约成本不浪费钱，交给大家一个最简单的办法来辨别真假（前提是商家不掺水不掺假）：在新的会话或者是开始工作前，先问他一句：你的知识训练截至日期是什么时间?如果回答你是 2024 年 6 月，那么你现在在用的 100% 就是 GPT-40。如果他回答不上来，那么恭喜你，你在用的就是
+   GPT-6 Astra,并且你 100% 在接下来的对话中能画出来一个 GPT6 水平的鹈鹕。以上信息仅限当前情况参考，未来 Openai 更新后，以最新情况为准。我觉得以上内容可以改改置顶一下，让大家都能够了解，别再浪费钱画鹈鹕了。我觉得 openai 应该是会修复的，要不然会被骂死。 
+
+在我自己的测试中，我发现即便使用自己理论上“没有降智”的 Codex 做多轮重复测试，偶尔也会输出 40 的 Juice 值。所以这个并发影响降智的猜测估计成立。 ]]></description>
+      <guid>https://ld246.com/article/1788611039938</guid>
+      <pubDate>Sat, 05 Sep 2026 12:44:57 GMT</pubDate>
+    </item>
     <item>
       <title>置顶悬浮窗、AI 生成标题——思源文档助手 v1.6.5 新功能预览</title>
       <link>https://ld246.com/article/1788600364444</link>
@@ -94,44 +225,6 @@
 ]]></description>
       <guid>https://ld246.com/article/1788509107928</guid>
       <pubDate>Fri, 04 Sep 2026 08:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>极空间的思源笔记无法使用存在内存严重溢出</title>
-      <link>https://ld246.com/article/1788509102648</link>
-      <description><![CDATA[极空间的思源笔记无法使用存在内存严重溢出，今天更新了极空间的思源（应用商店上安装），还是不行。已经沟通过极空间官方 ，官方说这个是思源自己的问题。对内存严重溢出处理不到位，已经通知了思源官方，但是目前来看，是没有得到解决。 
-
-]]></description>
-      <guid>https://ld246.com/article/1788509102648</guid>
-      <pubDate>Fri, 04 Sep 2026 08:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>任务列表的二级子列表通过 Ctrl+/ 转换表现问题</title>
-      <link>https://ld246.com/article/1788504421223</link>
-      <description><![CDATA[任务列表的二级子列表默认同为任务列表
-
-【预期行为】当我用鼠标选择左侧菜单进行转换时，可转换的块如下，且转换为有序/无序列表时不再保留原任务列表的勾选框
-
-
-【非预期行为】当我用 Ctrl+/ 呼出左侧菜单进行转换时，可转换的块如下，且转换为有序/无序列表时仍保留原任务列表的勾选框
-
-]]></description>
-      <guid>https://ld246.com/article/1788504421223</guid>
-      <pubDate>Fri, 04 Sep 2026 06:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>drawio 插件设置了中文不生效，怎么解决</title>
-      <link>https://ld246.com/article/1788492312589</link>
-      <description><![CDATA[更新软件后，里面的一个 drawio 插件部分就变成了英文，设置了中文不生效，怎么解决呢？ 
-]]></description>
-      <guid>https://ld246.com/article/1788492312589</guid>
-      <pubDate>Fri, 04 Sep 2026 03:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>资产管理插件说明书</title>
-      <link>https://ld246.com/article/1788492088313</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788492088313</guid>
-      <pubDate>Fri, 04 Sep 2026 03:21:27 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>
@@ -248,16 +341,6 @@ frontends
 相关议题：Issue #17151 · siyuan-note/siyuan]]></description>
       <guid>https://ld246.com/article/1787204819965</guid>
       <pubDate>Thu, 20 Aug 2026 05:47:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>演示一下 3.8 版本如何划选块</title>
-      <link>https://ld246.com/article/1786962474568</link>
-      <description><![CDATA[3.8 支持了跨块划选文本，改变了原来划选块的行为，我演示一下 3.8.1 划选块的几种方式：
-
- 浏览器不支持该媒体的播放
-]]></description>
-      <guid>https://ld246.com/article/1786962474568</guid>
-      <pubDate>Mon, 17 Aug 2026 10:27:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,18 +4,25 @@
     <title>New Scientist</title>
     <link>https://www.newscientist.com/</link>
     <description>Science news and science articles from New Scientist</description>
-    <lastBuildDate>Fri, 04 Sep 2026 23:44:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:31:52 GMT</lastBuildDate>
+    <item>
+      <title>AI 代理仅用 11 天就将费马最后定理形式化</title>
+      <link>https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/?utm_campaign=RSS|NSNS&amp;utm_content=home&amp;utm_medium=RSS&amp;utm_source=NSNS</link>
+      <description><![CDATA[将费马大定理的证明转换为计算机可以检查的代码预计需要数年时间。 Anthropic 的 Claude AI 在不到两周的时间内完成了它]]></description>
+      <guid>https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/?utm_campaign=RSS|NSNS&amp;utm_content=home&amp;utm_medium=RSS&amp;utm_source=NSNS</guid>
+      <pubDate>Sat, 05 Sep 2026 11:05:48 GMT</pubDate>
+    </item>
     <item>
       <title>我们应该对英国的入侵蚊子有多担心？</title>
       <link>https://www.newscientist.com/article/2587789-how-worried-should-we-be-about-the-invasive-mosquitoes-in-the-uk/?utm_campaign=RSS|NSNS&amp;utm_content=home&amp;utm_medium=RSS&amp;utm_source=NSNS</link>
-      <description><![CDATA[人们发现，携带登革热、基孔肯雅热和寨卡病毒等病毒的入侵性蚊子在伦敦东部繁殖。]]></description>
+      <description><![CDATA[已发现可携带登革热、基孔肯雅热和寨卡病毒等病毒的入侵性蚊子在伦敦东部繁殖]]></description>
       <guid>https://www.newscientist.com/article/2587789-how-worried-should-we-be-about-the-invasive-mosquitoes-in-the-uk/?utm_campaign=RSS|NSNS&amp;utm_content=home&amp;utm_medium=RSS&amp;utm_source=NSNS</guid>
       <pubDate>Fri, 04 Sep 2026 16:24:46 GMT</pubDate>
     </item>
     <item>
       <title>超级厄尔尼诺现象可能对英国冬季产生意想不到的影响</title>
       <link>https://www.newscientist.com/article/2587719-super-el-nino-could-have-unexpected-effect-on-uk-winter/?utm_campaign=RSS|NSNS&amp;utm_content=home&amp;utm_medium=RSS&amp;utm_source=NSNS</link>
-      <description><![CDATA[通常预计厄尔尼诺现象预示着英国冬季寒冷的结束——但今年可能会有所不同]]></description>
+      <description><![CDATA[通常预计厄尔尼诺现象预示着英国冬季寒冷的结束，但今年可能会有所不同]]></description>
       <guid>https://www.newscientist.com/article/2587719-super-el-nino-could-have-unexpected-effect-on-uk-winter/?utm_campaign=RSS|NSNS&amp;utm_content=home&amp;utm_medium=RSS&amp;utm_source=NSNS</guid>
       <pubDate>Fri, 04 Sep 2026 14:56:07 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[詹姆斯·韦伯太空望远镜似乎发现了比理论预测更多的古老黑洞，现在我们有一种新方法来解释原因]]></description>
       <guid>https://www.newscientist.com/article/2587559-not-quite-primordial-black-holes-may-explain-baffling-jwst-discovery/?utm_campaign=RSS|NSNS&amp;utm_content=home&amp;utm_medium=RSS&amp;utm_source=NSNS</guid>
       <pubDate>Thu, 03 Sep 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>土星的南极周围有一个巨大而奇怪的十边形</title>
-      <link>https://www.newscientist.com/article/2587345-saturn-has-a-big-weird-decagon-around-its-south-pole/?utm_campaign=RSS|NSNS&amp;utm_content=home&amp;utm_medium=RSS&amp;utm_source=NSNS</link>
-      <description><![CDATA[在土星上发现了十边形——一种有 10 条边和 10 个角的几何多边形，但没有人确切知道它是如何到达那里的]]></description>
-      <guid>https://www.newscientist.com/article/2587345-saturn-has-a-big-weird-decagon-around-its-south-pole/?utm_campaign=RSS|NSNS&amp;utm_content=home&amp;utm_medium=RSS&amp;utm_source=NSNS</guid>
-      <pubDate>Wed, 02 Sep 2026 18:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

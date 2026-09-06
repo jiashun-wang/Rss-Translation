@@ -4,7 +4,62 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 09:56:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:34:18 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】Casbin Gateway - 把电脑上所有 AI 编程助手收进一个面板管，还能验一验中转 API 的真假</title>
+      <link>https://meta.appinn.net/t/topic/91275</link>
+      <description><![CDATA[软件名称
+Casbin Gateway
+应用平台
+
+Windows
+macOS
+Linux
+
+推荐类型
+【开发者自荐】
+是否收费
+免费，Apache 2.0 开源。没有付费版、没有内购，也不需要注册或登录账号（它只服务你本机）。 
+一句简介
+把电脑上所有 AI 编程助手收进一个本地面板统一管理，顺便帮你验一验从中转站买的 API 是不是货不对板。 
+应用简介
+它解决什么问题：如果你电脑上装了不止一个 AI 编程助手（Claude Code、Codex、Cursor、Gemini CLI、opencode 这些），你大概会遇到——换一家 API 供应商要挨个去改好几个配置文件，格式还都不一样；同一个 MCP 要在每个工具里装一遍；月底想知道钱花在哪儿了，每家后台只显示自己那份。 
+Casbin Gateway 就是管这个的面板：
+
+换供应商点一下，所有工具一起换。写进配置之前能预览，写坏了能一键还原。 
+花了多少钱一目了然，按天 / 按模型 / 按工具分开算。数据是从这些工具自己存在硬盘上的记录里读的，所以装上就能看到过去的历史，不用先接流量。 
+验一验你买的 API 是不是货不对板。这个是我最想推荐的功能：从中转站买的「Opus 无限量」，实际给你的是不是 Opus，光看返回是看不出来的。它会自动向上游发一组测试问题，看有没有拿便宜模型冒充、有没有把没命中的缓存算成命中、说支持的参数是不是收了钱就丢掉，最后打 0~100 分给 A~F 等级。每道题问了什么、怎么判分全部公开，你能自己改题。一次测试花上游几分钱额度，报告里会写清楚花了多少。 
+技能、MCP、提示词横着排在一起看，从一个工具复制到另一个，不用装五遍。 
+能给每个工具立规矩：不许开终端、不许联网、贵的模型一律拒绝，大约四十个开关。主要用来防手滑——省得哪个工具半夜用最贵的模型跑一整晚。 
+版本能升能回退，升级完发现新版有毛病，一键回到旧版本。 
+同一个工具还能开好几个实例，各登各的账号。 
+
+装起来：一条命令，下载好就自动启动，还会设开机自启。不用装数据库，不用先有 Go 或 Node，数据就是它自己文件夹里的一个文件。装完自己开窗口，关掉窗口在托盘里继续跑；习惯浏览器的话 http://localhost:17000 也是它。 
+界面有中文（中英双语，另有浅色 / 深色主题）。 
+目前认识 29 个 AI 编程工具，每个支持到什么程度是逐项标注的，做不到的地方写「—」，不写「即将支持」。 
+截图预览：
+
+官方网站
+
+
+github.com
+
+
+
+
+GitHub - apache/casbin-gateway: Casbin AI &amp; MCP security gateway for HTTP, online...
+Casbin AI &amp; MCP security gateway for HTTP, online demo: https://door.caswaf.com
+
+
+
+
+
+
+4 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91275</guid>
+      <pubDate>Sat, 05 Sep 2026 13:25:45 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】this2.link：接收者也能接力，同一个链接继续传文件</title>
       <link>https://meta.appinn.net/t/topic/91256</link>
@@ -444,56 +499,6 @@ QQ反馈群：1083847370
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91174</guid>
       <pubDate>Thu, 03 Sep 2026 02:50:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>SmartCDA - 将使用CD音轨作为背景音乐的老游戏便携化的小工具</title>
-      <link>https://meta.appinn.net/t/topic/91172</link>
-      <description><![CDATA[软件名称
-SmartCDA
-应用平台
-Windows
-推荐类型
-【开发者自荐】
-是否收费
-免费开源
-一句话简介
-老游戏辅助小工具，用于将一些使用CD音轨作为背景音乐的游戏便携化。 
-功能特性
-
-模拟音乐CD：通过播放FLAC/OGG/MP3文件实现MCI接口，模拟音乐CD播放功能, 支持游戏内音量控制。 
-文件重定向：简易虚拟光驱，将光盘数据文件重定向到硬盘。 
-内存补丁：修补游戏进程的内存数据，破解其它限制。 
-
-使用方法
-
-提取CD音轨，编码成FLAC/OGG/MP3文件（命名为track02.ogg、track03.ogg等），复制到游戏目录或其子目录。 
-若游戏运行时需访问光盘上的文件，复制这些文件到游戏目录或其子目录。 
-复制smartcda.exe、smartcda.dll、smartcda.ini和audiere.dll文件到游戏目录。 
-编辑smartcda.ini，根据游戏特征调整设置。 
-运行smartcda.exe启动游戏。 
-
-官方网站
-
-
-github.com
-
-
-
-
-GitHub - cdfmr/smartcda: A small utility to make old games with CD sound...
-A small utility to make old games with CD sound tracks portable.
-
-
-
-
-
-
-游戏样例
-一些老游戏的包装示范，这些都是Abandonware，应该不涉及盗版讨论，如有不妥，请版主删除链接。 
-8 个帖子 - 4 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91172</guid>
-      <pubDate>Thu, 03 Sep 2026 02:46:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
