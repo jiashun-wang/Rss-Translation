@@ -4,7 +4,22 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 10:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:46:23 GMT</lastBuildDate>
+    <item>
+      <title>思源智能体是否支持文件输入？</title>
+      <link>https://ld246.com/article/1788696699375</link>
+      <description><![CDATA[正在逐步尝试思源智能体。 
+似乎只看到了图片输入功能，而没有看到外部文件导入的功能]]></description>
+      <guid>https://ld246.com/article/1788696699375</guid>
+      <pubDate>Sun, 06 Sep 2026 12:12:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>过几天就弹出：账号鉴权失败</title>
+      <link>https://ld246.com/article/1788694077046</link>
+      <description><![CDATA[又要重新登陆，怎么老这么烦人]]></description>
+      <guid>https://ld246.com/article/1788694077046</guid>
+      <pubDate>Sun, 06 Sep 2026 11:27:56 GMT</pubDate>
+    </item>
     <item>
       <title>GitHub 账号不幸被封，申诉一周未果，上架插件集市的仓库怎么处理？</title>
       <link>https://ld246.com/article/1788686675945</link>
@@ -193,88 +208,6 @@ SiYuan 会把「设置 → 编辑器 → 字体 → 正文字号」注入为 :ro
 对于我这个有强迫症的来说，相邻的同一种元素分离成不同的块，导致视觉上行距加大了，框选时背景色出现了空隙，而对于块的真正作用以及是否分离，后续使用上有什么差别，知之甚少，麻烦哪位有闲给解释一下。 ]]></description>
       <guid>https://ld246.com/article/1788665768327</guid>
       <pubDate>Sun, 06 Sep 2026 03:36:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>v3.8.2 安卓上大纲降级标题变成“protyle-html”</title>
-      <link>https://ld246.com/article/1788654298629</link>
-      <description><![CDATA[安卓上，在大纲上点了一下标题降级（H2），确实变成 H3 了，但是标题没了，变成“protyle-html”，不知道什么原因。 ]]></description>
-      <guid>https://ld246.com/article/1788654298629</guid>
-      <pubDate>Sun, 06 Sep 2026 00:28:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>终于实现利用外观样式自定义选中文本字体！</title>
-      <link>https://ld246.com/article/1788627398362</link>
-      <description><![CDATA[反正「错误红/警告黄/信息蓝/成功绿」这四个样式我肯定不会用到。 
-不理解思源编辑器已经是 HTML 格式了，为什么不直接开放选定文本自定义字体？颜色可以，为什么字体就不可以？ 
-用这四个样式：
-
-
-/* 利用外观样式自定义选中文本字体
- * 征用颜色槽 1–4（错误红/警告黄/信息蓝/成功绿）作为4个自定义字体样式槽
- * 粘贴位置：设置 → 外观 → 自定义 CSS
- * 原理：颜色菜单给选区span写入内联样式
- *       color 槽   → style=&quot;color: var(--b3-font-colorN)&quot;
- *       背景槽     → style=&quot;background-color: var(--b3-font-backgroundN)&quot;
- *       [style*=] 子串匹配抓取这些 span，统一改字体
- * ============================================================ */
-
-/* ---------- 字体颜色槽 1–4（原错误红/警告黄/信息蓝/成功绿）
-
-    * 信息卡片（错误/警告/信息/成功） *
-    --b3-card-error-color: rgb(243, 153, 147);
-    --b3-card-error-background: #442724;
-    --b3-card-warning-color: rgb(255, 213, 153);
-    --b3-card-warning-background: #554636;
-    --b3-card-info-color: rgb(166, 213, 250);
-    --b3-card-info-background: #28405c;
-    --b3-card-success-color: rgb(183, 223, 185);
-    --b3-card-success-background: #425347;
-
-============================================================ */
-
-/* color1（原错误红）→ 甲骨文 */
-.protyle-wysiwyg span[style*=&quot;--b3-card-error-color&quot;] {
-    color: var(--b3-theme-on-background) !important;  /* 抵消颜色，恢复正文色 */
-    background-color: transparent !important;
-    font-family: &quot;方正甲骨文&quot; !important;
-}
-
-/* color2（原警告黄）→ 金文 */
-.protyle-wysiwyg span[style*=&quot;--b3-card-warning-color&quot;] {
-    color: var(--b3-theme-on-background) !important;  /* 抵消颜色，恢复正文色 */
-    background-color: transparent !important;
-    font-family: &quot;书体坊金文大篆 繁U&quot; !important;
-}
-
-/* color3（原信息蓝）→ 篆文 */
-.protyle-wysiwyg span[style*=&quot;--b3-card-info-color&quot;] {
-    color: var(--b3-theme-on-background) !important;  /* 抵消颜色，恢复正文色 */
-    background-color: transparent !important;
-    font-family: &quot;崇羲篆体&quot; !important;
-}
-
-/* color4（原成功绿）→ 隶文 */
-.protyle-wysiwyg span[style*=&quot;--b3-card-success-color&quot;] {
-    color: var(--b3-theme-on-background) !important;  /* 抵消颜色，恢复正文色 */
-    background-color: transparent !important;
-    font-family: &quot;STLibianTC-Regular&quot; !important;
-}
-
-/* ============================================================
- * 说明
- * 1. color/background 两条 !important 用于抵消菜单自带的前景/背景色，
- *    让槽位变成&quot;纯字体标记&quot;。若想保留彩色高亮做视觉提示，
- *    删掉对应 color / background-color 那一行即可。
- * 2. 字体链均按 macOS 优先排（Kaiti SC 等），尾接 Windows 字体名兜底；
- *    按本机已装字体自行增删。
- * 3. 操作方式：选中文字 → 工具栏颜色菜单 → 点对应颜色（1–4 槽）。
- * 4. 导出 HTML / PDF 保留样式；导出 Markdown 会丢失。
- * 5. 槽位 5–13 未动，颜色菜单原功能照常。
- * ============================================================ */
-
-]]></description>
-      <guid>https://ld246.com/article/1788627398362</guid>
-      <pubDate>Sat, 05 Sep 2026 17:09:07 GMT</pubDate>
     </item>
     <item>
       <title>开发者公告：移动端主题须在 theme.json 中声明 frontends 字段</title>

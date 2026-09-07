@@ -4,7 +4,55 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 10:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:45:44 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】NoteLoom：在浏览器中直接编辑电脑上的 Markdown 文件</title>
+      <link>https://meta.appinn.net/t/topic/91347</link>
+      <description><![CDATA[软件名称
+NoteLoom
+应用平台
+Chrome / Edge / Arc 等 Chromium 桌面浏览器（Windows / macOS / Linux）
+推荐类型
+【开发者自荐】
+一句简介
+在浏览器中直接编辑电脑上的 Markdown 文件。 
+应用简介
+电脑里有一堆 Markdown 笔记，又不太想专门装一个编辑器？ 
+NoteLoom 是一个直接在浏览器里用的 Markdown 笔记工具。打开网页，选中电脑里的笔记文件夹，授权一次，整个文件夹就可以直接在网页里打开、编辑和浏览。 
+最重要的是，它读写的就是磁盘上的原始 .md 文件。改完保存，文件还是原来的文件，换回 Obsidian、Typora 或 VS Code 也可以继续用。 
+主要特点
+
+直接打开本地 Markdown 文件夹，编辑后保存回原文件
+源码、编辑、阅读三种视图随时切换
+全文搜索、标签、[[双链]]、反向链接、关系图
+可以直接打开现成的 Obsidian 仓库，支持 [[笔记]] 和 [[笔记#小节]]
+支持 Obsidian 的 13 种 Callout，包括折叠和自定义标题
+免安装、匿名使用，中文界面
+免费
+
+截图预览
+
+官方网站
+
+
+
+NoteLoom
+
+
+
+NoteLoom · 本地优先的 Markdown 编辑器，浏览器打开就用
+在浏览器里打开你本地的文件夹，直接编辑里面的 .md 文件，每次改动都写回磁盘。是真正的文件，任何编辑器都能打开。无需账号，零安装。 
+
+
+
+
+
+打开就能用：https://app.noteloom.cc
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91347</guid>
+      <pubDate>Sun, 06 Sep 2026 23:46:41 GMT</pubDate>
+    </item>
     <item>
       <title>【开源自荐】XAOCEN ReWiFi 自动恢复 Wi‑Fi 网络。持续监测 Windows 当前连接，在网络异常时帮助恢复无线连接，让重要的网络任务保持顺畅进行。</title>
       <link>https://meta.appinn.net/t/topic/91329</link>
@@ -438,13 +486,6 @@ Nightly 安装包：nightly.link | Repository benzBrake/NotepadReplacer | Workfl
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91196</guid>
       <pubDate>Thu, 03 Sep 2026 10:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】Chorus：macOS 菜单栏控制屏幕和音频，局域网多台 Mac 可同步遥控</title>
-      <link>https://meta.appinn.net/t/topic/91192</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/91192</guid>
-      <pubDate>Thu, 03 Sep 2026 09:28:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>Our World in Data</title>
     <link>https://ourworldindata.org</link>
     <description>Research and data to make progress against the world’s largest problems</description>
-    <lastBuildDate>Mon, 31 Aug 2026 00:57:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:25:17 GMT</lastBuildDate>
+    <item>
+      <title>疟疾永无休止的童年</title>
+      <link>https://ourworldindata.org/a-never-ending-childhood-of-malaria</link>
+      <description><![CDATA[高负担地区的人们感染疟疾的频率有多高？研究表明，许多儿童每年可能会感染五次或更多疟疾。]]></description>
+      <guid>https://ourworldindata.org/a-never-ending-childhood-of-malaria</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>巴西的牛肉生产是近几十年来全球森林砍伐的最大推动因素</title>
       <link>https://ourworldindata.org/beef-production-in-brazil-has-been-the-largest-driver-of-global-deforestation-in-recent-decades</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索不同居住类型的人口分布情况、哪些城市增长最快、城市地区的生活条件如何等等。]]></description>
       <guid>https://ourworldindata.org/we-have-a-new-urbanization-topic-page</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界各地的食品如何进行交易？</title>
-      <link>https://ourworldindata.org/how-does-food-get-traded-around-the-world</link>
-      <description><![CDATA[我们的交互式工具可帮助您了解食品的出口地和去向。]]></description>
-      <guid>https://ourworldindata.org/how-does-food-get-traded-around-the-world</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
