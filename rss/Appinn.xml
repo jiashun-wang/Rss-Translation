@@ -4,7 +4,28 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Mon, 07 Sep 2026 00:46:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:16:12 GMT</lastBuildDate>
+    <item>
+      <title>压箱底办公神器：一键搞定Word、Excel、PDF、PPT、图片的批处理工具，效率翻倍！</title>
+      <link>https://www.appinn.com/inxunoffice-word-excel-pdf-ppt/</link>
+      <description><![CDATA[你是否也曾被这样的场景折磨到崩溃： 一个简单的PDF转word，找的工具要么收费，要么限制超多；100份Word合同，都要统一修改公司信息，手动改到崩溃；上百份图片裁剪、压缩，头都大了…&amp;]]></description>
+      <guid>https://www.appinn.com/inxunoffice-word-excel-pdf-ppt/</guid>
+      <pubDate>Mon, 07 Sep 2026 07:42:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pushin – 没有美国参与的 Git 托管服务</title>
+      <link>https://www.appinn.com/pushin-eu/</link>
+      <description><![CDATA[还记得前几天介绍的：Radicle – 免费去中心化代码托管，GitHub、GitLab 的替代品，作为一款去中心化的 Git 服务，青小蛙表示也不敢用啊。 @Appinn 今天又看到一个选择： Pus]]></description>
+      <guid>https://www.appinn.com/pushin-eu/</guid>
+      <pubDate>Mon, 07 Sep 2026 07:41:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>发现频道：10款大家发现的好评软件[2026年第36期]</title>
+      <link>https://www.appinn.com/faxian-top10-2636/</link>
+      <description><![CDATA[最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 【开发者自荐】macOS 一边打字一边翻译来学习英语 2️⃣ 【开发者自荐】BongoCat &amp;#]]></description>
+      <guid>https://www.appinn.com/faxian-top10-2636/</guid>
+      <pubDate>Mon, 07 Sep 2026 01:00:35 GMT</pubDate>
+    </item>
     <item>
       <title>WinToastRelay – 将 Windows 系统通知转发到手机｜Codex 跑完，手机会叫你</title>
       <link>https://www.appinn.com/wintoastrelay/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[PowerToys v0.101.2432.0 更新了四个小功能，包括预览 SQLite 数据库文件、单独点击键盘映射、命令面板详细信息、屏幕标尺新单位。 @Appinn 具体来看： 速览（Peek）]]></description>
       <guid>https://www.appinn.com/powertoys-v0-101-2432-0/</guid>
       <pubDate>Thu, 03 Sep 2026 04:59:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cleanshot X 5.0 大更新：屏幕录制工作室模式（Studio Mode）</title>
-      <link>https://www.appinn.com/cleanshot-5/</link>
-      <description><![CDATA[Cleanshot X 5.0 今日更新，为屏幕录制带来了工作室模式，可以自动添加平滑缩放、鼠标跟随，带有更丰富的剪辑功能，以及更多的细节调整。没有什么其他功能更新。 @Appinn CleanShot]]></description>
-      <guid>https://www.appinn.com/cleanshot-5/</guid>
-      <pubDate>Wed, 02 Sep 2026 08:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国服务器 VMRack 选购指南：洛杉矶机房的优势</title>
-      <link>https://www.appinn.com/vmrack-vps-us/</link>
-      <description><![CDATA[VMRack 9.99 套餐补货：三网精品 CN2/9929/CMIN2，2 vCPUs、2GB、20GB、500Mbps带宽、1TB月流量 本文深入解析洛杉矶机房的中美直连线路优势。实测洛杉矶机房在]]></description>
-      <guid>https://www.appinn.com/vmrack-vps-us/</guid>
-      <pubDate>Wed, 02 Sep 2026 04:33:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>墨萃 · InkGist – 帮你处理看不完，舍不得关的标签页</title>
-      <link>https://www.appinn.com/inkgist/</link>
-      <description><![CDATA[如果你像青小蛙一样，喜欢在浏览器里打开非常多的标签页，然后……不看。时间久了就会产生一种奇怪的焦虑：这么多肯定看不完，但又都舍不得关。 墨萃（InkGist）可以解决这件事：帮你快速阅读这些网页，需要]]></description>
-      <guid>https://www.appinn.com/inkgist/</guid>
-      <pubDate>Tue, 01 Sep 2026 07:49:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

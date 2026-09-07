@@ -4,7 +4,21 @@
     <title>阿里云公告</title>
     <link>https://www.aliyun.com/notice/list</link>
     <description>阿里云公告</description>
-    <lastBuildDate>Sun, 06 Sep 2026 23:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:51:07 GMT</lastBuildDate>
+    <item>
+      <title>【产品变更】ARMS Prometheus 云服务自监控（arms_cms_ 前缀指标）停止维护升级通知</title>
+      <link>https://www.aliyun.com/notice/118627</link>
+      <description><![CDATA[影响时间2026-10-09, 升级变更内容和影响自 2026 年 10月 09 日 00:00:00 起，因稳定性和体验问题，ARMS Prometheus 将停止维护旧版“云服务自监控”采集云服务指标链路，这类指标以arms_cms_开头，相关功能演进、稳定性治理和问题修复将停止。 应对建议如您的大盘、告警、巡检脚本或报表依赖上述指标稳定的采集和查询服务，建议前往云监控 2.0 接入中心接入对应云产品监控指标，并同步调整 PromQL 和告警规则。其他方式写入的指标不受影响。详细迁移说明可查看文档。 如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
+      <guid>https://www.aliyun.com/notice/118627</guid>
+      <pubDate>Mon, 07 Sep 2026 09:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>【产品变更】实时计算 Flink 版全托管存储（公测）停止新购通知</title>
+      <link>https://www.aliyun.com/notice/118615</link>
+      <description><![CDATA[影响时间2026-09-14 停止新购变更内容和影响变更内容感谢您对阿里云的支持！由于产品策略调整，实时计算 Flink 版全托管存储（公测能力）将于 2026年09月14日 00:00:00 起停止新购。停止新购后，您通过控制台、OpenAPI 或 SDK 新购实时计算 Flink 版时，将无法再选择全托管存储作为存储方案，可以继续选择您自有的 OSS Bucket 作为替代。 变更影响增量影响：自 2026年09月14日 00:00:00 起，您通过控制台、OpenAPI 或 SDK 新购实时计算 Flink 版时，将无法再选择全托管存储，可以继续选择您自有的 OSS Bucket 作为存储方案。 存量影响：已开通并使用全托管存储的用户，当前可继续正常使用该功能，现有业务不受影响。 本次变更为停止新购，不涉及已有服务的下线，无需您进行额外操作。 影响范围本次变更影响的具体 API 如下：影响对象名称说明OpenAPICreateInstance新购实时计算 Flink 版实例时，将无法再选择全托管存储，可继续选择自有 OSS Bucket应对建议如您后续有新增的存储需求，建议您在新购实时计算 Flink 版时，选择使用自有的 OSS Bucket 作为替代方案，可通过控制台、OpenAPI 或 SDK 完成购买配置。 如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
+      <guid>https://www.aliyun.com/notice/118615</guid>
+      <pubDate>Mon, 07 Sep 2026 01:56:32 GMT</pubDate>
+    </item>
     <item>
       <title>【网络优化】2026年9月11日变更通告</title>
       <link>https://www.aliyun.com/notice/118631</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[影响时间北京时间 2026-09-07 00:00:00为应对证书有效期不断缩短的趋势，减少用户运维压力，阿里云数字证书管理服务推出全新的自动化服务售卖规格，计划于 2026-09-07 逐步上线，以售卖页是否显示对应服务规格为准。 原先需要分散购买的公网域名监控、自动托管、云服务器部署等能力，现已整合为一体化的证书运维服务，并打包为基础版、标准版、专业版、旗舰版等服务规格，关联证书订阅，一站式选购。 详情见 【公告】证书自动化服务售卖全新上架]]></description>
       <guid>https://www.aliyun.com/notice/118611</guid>
       <pubDate>Wed, 02 Sep 2026 06:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>【产品变更】'智能体操作系统 ANOLISA'产品名称变更为'智能体操作系统'</title>
-      <link>https://www.aliyun.com/notice/118591</link>
-      <description><![CDATA[2026-09-10起，智能体操作系统 ANOLISA产品的中文名称由&#39;智能体操作系统 ANOLISA&#39;变更为&#39;智能体操作系统&#39;，英文名称由&#39;ANOLISA&#39;变更为&#39;Agentic OS&#39;。 变更后所有相关产商品将使用新名称。 感谢您对阿里云的支持和关注！如您有任何问题，可随时通过工单或者服务热线与我们联系。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118591</guid>
-      <pubDate>Tue, 01 Sep 2026 06:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>【大模型服务平台百炼】Qwen3-VL-Rerank 模型降价通知</title>
-      <link>https://www.aliyun.com/notice/118607</link>
-      <description><![CDATA[影响时间北京时间 2026-08-31 10:13:53 【以实际变更时间为准】变更内容大模型服务平台百炼已于北京时间2026年8月31日10:13:53起，对北京地域 Qwen3-VL-Rerank 模型计费单价进行下调调整。 Qwen3-VL-Rerank重排模型，它能够深入理解文本、图片、视频的丰富多模态信息。在初步检索获得结果后，Qwen3-VL-Rerank 能够运用其先进的跨模态关联能力，对候选项目进行智能化的二次排序，将最相关的结果置于显要位置。通用于提升跨模态搜索的准确率、优化图搜和视频检索的精准度、辅助图像聚类的分组质量、以及实现复杂多模态信息的高效检索和精确打标。 具体如下:计费项调整前（￥/百万tokens）调整后（￥/百万tokens）文本输入0.700.50多模态输入1.800.50点击此处查看阿里云百炼的模型详情和价格信息。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118607</guid>
-      <pubDate>Tue, 01 Sep 2026 01:29:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

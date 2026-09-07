@@ -1,9 +1,394 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
+    <title>EdNovas的小站</title>
+    <link>https://ednovas.xyz/</link>
     <description></description>
-    <lastBuildDate>Mon, 07 Sep 2026 00:45:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:14:54 GMT</lastBuildDate>
+    <item>
+      <title>卡斯贝VPS</title>
+      <link>https://ednovas.xyz/2026/06/12/casbay/</link>
+      <description><![CDATA[本文为商家投稿。 
+Casbay：AS132841，马来西亚服务器，2 核 2GB/40GB SSD，月付 $24.59 起，不限流量Casbay（AS132841）自 2010 年起运营，是一家总部位于马来西亚的老牌服务器与云计算服务商，在 VPS 及独立服务器领域拥有超过 15 年的持续运营记录。其机房部署于马来西亚赛城（Cyber​​jaya）Tier III 认证数据中心，采用 KVM 虚拟化技术，并搭配 SSD/NVMe 固态硬盘，保障性能与稳定性。 
+在产品线方面，Casbay 提供覆盖多种操作系统的云服务器方案，包括 Mac Mini M4 云服务器、Linux 云服务器、Windows 云服务器，以及面向高性能需求的高级云服务器和独立服务器解决方案。所有 VPS 方案均提供共享带宽与不限流量配置，同时附带 IPv4 及马来西亚本地原生 IP 资源。 
+在价格方面，目前基础 Linux VPS 方案月付价格约为 $24.59 起步，若选择季度、年度或更长期限付款，通常可享受更低的平均成本。用户可根据业务需求灵活选择 Linux 或 Windows 操作系统，兼顾多样化应用场景。 
+Casbay 承诺 99.9% 在线率保证，并提供 24/7 全天候客户支持服务。平台与全球超过 2,000 家 ISP 建立互联，网络质量在亚太地区表现较为突出。 
+
+官方网站：https://www.casbay.com/
+支付方式：信用卡、PayPal 以及加密货币（Bitcoin / Ethereum）
+]]></description>
+      <guid>https://ednovas.xyz/2026/06/12/casbay/</guid>
+      <pubDate>Fri, 12 Jun 2026 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何5小时内用AI快速创建一个完整博客</title>
+      <link>https://ednovas.xyz/2026/05/11/ai-blog-creation/</link>
+      <description><![CDATA[详解如何借助 AI 工具（Claude / ChatGPT）在5小时内从零搭建一个拥有数十篇文章的完整博客，包含技术选型、内容生成、SEO优化、部署上线全流程，以及AI博客的利弊分析。]]></description>
+      <guid>https://ednovas.xyz/2026/05/11/ai-blog-creation/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS 完整使用教程（入口搭建 + 小助理操作）</title>
+      <link>https://ednovas.xyz/2026/04/28/aws-tutorial/</link>
+      <description><![CDATA[AWS 完整使用教程，包含入口搭建和小助理操作的详细步骤。]]></description>
+      <guid>https://ednovas.xyz/2026/04/28/aws-tutorial/</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Pages + Workers：部署小项目的终极方案 + 域名省钱指南</title>
+      <link>https://ednovas.xyz/2026/03/10/cloudflare-pages-deploy-domain-guide/</link>
+      <description><![CDATA[注： 本文由AI生成，ednovas编辑并审核发布。 
+Cloudflare Pages + Workers：部署小项目的终极方案用了一段时间后越来越觉得，Cloudflare Pages + Workers 可能是目前部署小项目最舒服的方案——免费、快速、全球 CDN、自带防御，推送即上线。 
+我目前在 Cloudflare 上跑了十几个小项目，从博客到 API 到展示页面一应俱全，全部零服务器成本。本文详细分享这套工作流，以及域名购买的省钱技巧。 
+本文将详细介绍：
+
+🚀 如何将 GitHub 仓库连接到 Cloudflare Pages，实现自动化部署
+🌍 我的实际项目案例
+🛡️ Cloudflare 生态配套功能
+🌐 如何绑定自定义域名
+💰 域名购买的省钱技巧
+
+
+一、Cloudflare Pages 是什么？ Cloudflare Pages 是一个 静态网站托管平台，可以直接从 GitHub 仓库读取代码、自动构建并部署到 Cloudflare 的全球 CDN。 
+免费套餐]]></description>
+      <guid>https://ednovas.xyz/2026/03/10/cloudflare-pages-deploy-domain-guide/</guid>
+      <pubDate>Tue, 10 Mar 2026 16:19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prompt Engineering 实战指南：让 AI 输出质量翻倍的技巧</title>
+      <link>https://ednovas.xyz/2026/03/05/prompt-engineering-guide/</link>
+      <description><![CDATA[注： 本文由AI生成，ednovas编辑并审核发布。 
+Prompt Engineering 实战指南：让 AI 输出质量翻倍的技巧同样一个大模型，不同的提示词（Prompt）可以导致天壤之别的结果。很多人觉得 AI “不好用”、”回答太水”，往往不是模型的问题，而是 提示词写得太随意。 
+本文从实战角度出发，总结了一套系统化的 Prompt 编写方法，适用于 ChatGPT / Claude / DeepSeek / Gemini 等所有主流大模型。 
+
+一、Prompt 的核心原则1.1 好 Prompt 的三个要素
+
+
+要素
+说明
+反面例子
+
+
+
+具体
+明确说出你要什么
+❌ “帮我写个东西”
+
+
+完整
+提供足够的上下文
+❌ “这段代码有 bug”
+
+
+有约束
+限定格式、长度、风格
+❌ “随便写就行”
+
+
+1.2 一句话总结
+🎯 把 AI 当成一个能力很强但完全不了解你背景的新同事——你需要把任务说清楚，把背景交代完整，把期望讲明白。 
+]]></description>
+      <guid>https://ednovas.xyz/2026/03/05/prompt-engineering-guide/</guid>
+      <pubDate>Thu, 05 Mar 2026 14:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Workers + KV 实战：搭建零成本节点健康监控系统</title>
+      <link>https://ednovas.xyz/2026/03/05/cloudflare-workers-kv-monitor/</link>
+      <description><![CDATA[注： 本文由AI生成，ednovas编辑并审核发布。 
+Cloudflare Workers + KV 实战：搭建零成本节点健康监控系统Cloudflare Workers 是一个运行在全球边缘网络的 Serverless 平台，免费套餐每天 10 万次请求，配合 KV 存储，可以零成本搭建各种后端服务。 
+本文将以一个真实项目为例——分布式节点健康监控系统，演示如何利用 Workers + KV 实现：
+
+🔍 接收国内服务器的健康检测上报
+🔄 调用 Cloudflare DNS API 自动切换故障节点 IP
+📱 通过 Telegram Bot 实时告警和查询
+💾 使用 KV 存储最新状态，供 Bot 命令查询
+
+
+一、项目架构┌─────────────────────────┐           ┌────────────────────────────────┐│  🇨🇳 国内检测服务器        │   HTTP    │  ☁️ Cloudflare Worker           ││  (detector.py)          │ ────────→ │  (node-monitor-worker.js)      ││                         │           │                                ││  • TCPing 检测节点端口    │           │  • 验证 Webhook 密钥            ││  • 多端口健康检查         │           │  • 调用 Cloudflare DNS API     ││  • EDNS 运营商分流检测    │           │  • 更新 A 记录 (切换 IP)        ││  • 定时上报状态           │           │  • 发送 Telegram 告警通知       ││                         │           │  • KV 存储检测状态              │└─────────────────────────┘           │  • Telegram Bot 命令处理        │                                      └────────────────────────────────┘                                          │              │                                          ▼              ▼                                   Cloudflare DNS   Telegram API                                   (更新 A 记录)    (告警 + Bot)
+为什么需要这种架构？ 
+
+国内服务器无法直接访问 Cloudflare API 和 Telegram API
+Workers 部署在全球边缘节点，可以同时访问两者
+Workers 作为中间层，接收国内检测结果，执行 DNS 切换和告警转发
+]]></description>
+      <guid>https://ednovas.xyz/2026/03/05/cloudflare-workers-kv-monitor/</guid>
+      <pubDate>Thu, 05 Mar 2026 14:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub Actions 自动化部署 Hexo 博客完全指南</title>
+      <link>https://ednovas.xyz/2026/03/05/hexo-github-actions-deploy/</link>
+      <description><![CDATA[注： 本文由AI生成，ednovas编辑并审核发布。 
+GitHub Actions 自动化部署 Hexo 博客完全指南传统的 Hexo 博客部署流程通常是：本地写文章 → hexo clean &amp;&amp; hexo generate → hexo deploy。这个流程有几个痛点：
+
+🖥️ 换一台电脑就需要重新配置整个 Hexo 环境（Node.js、npm 依赖等）
+🔑 配置文件中包含 API Key 等敏感信息，直接提交到 Git 有安全风险
+⏱️ 每次部署都需要手动执行多个命令，繁琐且容易出错
+
+本文将详细介绍如何使用 GitHub Actions 实现 Hexo 博客的全自动部署：推送代码到 GitHub 仓库后，自动构建并发布到 GitHub Pages，同时妥善保护敏感信息。 
+
+整体架构本地电脑 (写文章)    │    │  git push → dev 分支    ▼GitHub 仓库 (源码)    │    ├──── GitHub Actions 自动触发    │         │    │         ▼    │    ┌─────────────────────────────────┐    │    │  GitHub Actions Runner          │    │    │                                 │    │    │  1. 检出代码                     │    │    │  2. 从模板 + Secrets 生成配置     │    │    │  3. npm install                 │    │    │  4. hexo generate               │    │    │  5. 部署到 gh-pages 分支         │    │    └─────────────────────────────────┘    │         │    │         ▼    │    GitHub Pages (线上博客)    │    └──── Cloudflare Pages 自动触发              │              ▼         ┌─────────────────────────────────┐         │  Cloudflare Pages               │         │                                 │         │  • dev 分支 → Preview 预览环境   │         │  • gh-pages 分支 → Production   │         │  • 自动绑定自定义域名            │         │  • 全球 CDN 加速                │         └─────────────────────────────────┘
+核心思路：
+
+源码存放在 dev 分支（包含模板配置文件，不含敏感信息）
+GitHub Actions 在构建时通过 Secrets + envsubst 动态生成真实配置文件
+构建产物自动推送到 gh-pages 分支
+GitHub Pages 和 Cloudflare Pages 同时从 gh-pages 分支提供服务，互为冗余
+Cloudflare Pages 还会为每个 dev 分支的推送自动生成 Preview 预览环境
+]]></description>
+      <guid>https://ednovas.xyz/2026/03/05/hexo-github-actions-deploy/</guid>
+      <pubDate>Thu, 05 Mar 2026 14:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地 AI 全栈部署：Ollama + Open WebUI + ComfyUI 图像生成</title>
+      <link>https://ednovas.xyz/2026/03/05/dgxspark-ollama-openwebui-comfyui/</link>
+      <description><![CDATA[注： 本文由AI生成，ednovas编辑并审核发布。 
+本地 AI 全栈部署：Ollama + Open WebUI + ComfyUI本文使用 NVIDIA DGX Spark 进行演示，你也可以在其他支持 Docker 的设备上进行部署，推荐ubuntu或者MAC系统。 
+NVIDIA DGX Spark 是 NVIDIA 推出的面向个人/小型团队的桌面级 AI 超级计算机，搭载 Grace Blackwell 架构，拥有 128GB 统一内存，非常适合在本地运行大语言模型和图像生成工作负载。本文将介绍如何在 DGX Spark 上一步步部署 Ollama + Open WebUI + ComfyUI，实现本地 LLM 聊天 + AI 图像生成的全栈 AI 工作站。 
+最终效果
+💬 Open WebUI：一个美观的 ChatGPT 风格 Web 聊天界面，支持多模型切换（通过 Ollama 管理本地模型）
+🖼️ ComfyUI：节点式 Stable Diffusion / FLUX 图像生成工作流引擎，作为 Open WebUI 的图像生成后端
+在 Open WebUI 的聊天中直接输入 Prompt，即可调用 ComfyUI 后端生成图片并展示
+
+
+
+一、前置准备1.1 DGX Spark 基本配置]]></description>
+      <guid>https://ednovas.xyz/2026/03/05/dgxspark-ollama-openwebui-comfyui/</guid>
+      <pubDate>Thu, 05 Mar 2026 13:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>混合托管 VPS 2026</title>
+      <link>https://ednovas.xyz/2026/02/13/blendhosting2026/</link>
+      <description><![CDATA[Blend Hosting：马来西亚动态住宅 VPS（Linux）低至 $14.85/月Blend Hosting 是一家成立于 2005 年的海外服务器与云计算服务商，在 VPS 与服务器领域拥有 20 年以上的持续运营记录。相比偏向短期试用型的平台，Blend Hosting 的整体定位更偏向长期稳定运行与可持续使用的应用场景，目标用户群体也更明确。 
+Blend Hosting 是以高网络质量与 IP 类型为核心进行布局，其核心产品可分为四大类：动态住宅系列，通用VPS，专业应用VPS以及独立服务器。这些产品更适合对IP属性，线路稳定性以及可控性有要求的用户。 
+平台节点采用马来西亚原生住宅 IP，属于直接由当地 ISP 分配的真实住宅地址，相比常见的数据中心IP，在识别率与网络环境上更接近真实用户网络。当前动态住宅系列产品享有 “ 9 折优惠”，折算后的成本约 $14.85/月，在同类长期住宅 IP 方案中属于成本与可用性较为平衡的选择。 
+使用层面，我们所有套餐提供不限流量配置，适合需要常驻运行、持续连接或长期部署的应用环境，减少了因流量限制带来的额外管理成本。 
+
+官方网站：https://www.blendhosting.com/
+支付方式：加密货币，信用卡及PayPal
+动态住宅ISP套餐测试IP: 42.190.66.138 (用于动态住宅ISP套餐而已）]]></description>
+      <guid>https://ednovas.xyz/2026/02/13/blendhosting2026/</guid>
+      <pubDate>Fri, 13 Feb 2026 22:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ServerGigabit马来西亚VPS</title>
+      <link>https://ednovas.xyz/2026/01/27/servergigabit/</link>
+      <description><![CDATA[🚀 超大内存（128GB）马来西亚独立服务器限时优惠 [cite: 1]本款 Deluxe Dedicated Server (MY) v2 部署于马来西亚数据中心，采用企业级硬件配置，专为高并发、高性能及长期稳定运行的业务场景而设计 [cite: 3]。 
+
+💰 价格与访问说明
+月费: USD 249/月 [cite: 2, 19]
+安装费: ❌ 免安装费 [cite: 2, 20]
+特别提醒: 该产品为公司内部指定产品，仅可通过专属链接访问，官网主页暂时无法直接查看 [cite: 21, 32]。 
+
+
+🖥️ 服务器核心配置 [cite: 4]
+
+
+配置项目
+详细参数
+
+
+
+CPU
+Dual Intel® Xeon® Processor E5 (x2)（共 20 核心 / 40 线程） [cite: 5]
+
+
+内存
+128GB ECC RAM [cite: 5]
+
+
+硬盘
+4 × 1.2TB Enterprise-Grade SAS SSD [cite: 5]
+
+
+带宽
+100Mbps 共享带宽 [cite: 5]
+
+
+流量
+不限流量（Unmetered Data Transfer） [cite: 5]
+
+
+IP 地址
+2 个独立 Dedicated IP [cite: 5]
+
+
+管理方式
+Self-Managed（自主管理） [​​cite: 5]
+
+
+数据中心
+马来西亚 [cite: 5]
+
+
+交付时间
+下单后 48 – 72 小时内开通使用 [cite: 5]
+
+
+
+🛠️ 支持的操作系统 (OS Supported) [cite: 6]]]></description>
+      <guid>https://ednovas.xyz/2026/01/27/servergigabit/</guid>
+      <pubDate>Tue, 27 Jan 2026 20:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>VPS Manager Pro（Web SSH 终端）</title>
+      <link>https://ednovas.xyz/2025/12/31/vps-manager-pro/</link>
+      <description><![CDATA[示例网站演示网站https://vps.ednovas.tech
+
+
+
+VPS Manager Pro（Web SSH 终端）简体中文 | 中文说明
+&lt;a name=“english”&gt;&lt;/a&gt;
+🇬🇧 EnglishVPS Manager Pro 是一款功能强大、基于 Web 的 SSH 终端，可让您从浏览器管理多个 VPS 连接。它具有多用户支持、通过 MySQL 保存会话以及直接从终端输出智能检测代理配置 (VMess/SOCKS5)。]]></description>
+      <guid>https://ednovas.xyz/2025/12/31/vps-manager-pro/</guid>
+      <pubDate>Wed, 31 Dec 2025 13:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>E视界 (DongguaTV Enhanced Edition)</title>
+      <link>https://ednovas.xyz/2025/12/31/dongguatv-enhanced/</link>
+      <description><![CDATA[这是一个经过全面重构和升级的现代流媒体聚合播放器，基于 Node.js 和 Vue 3 构建。相比原版 https://github.com/Minerchu/dongguaTV ，本作添加了许多功能。 
+演示网站https://ednovas-test.vercel.app （不包含任何数据）
+
+
+
+
+✨ 核心特性 (Core Features)1. 🎬 双引擎数据驱动
+**TMDb (The Movie Database)**：提供高质量的电影/剧集元数据（海报、背景图、评分、简介、演职员表）。 
+CMS 聚合源 (Maccms)**：可集成多个自定义第三方资源站 API，自动进行全网测速**，智能过滤失效源，确保播放流畅。 
+]]></description>
+      <guid>https://ednovas.xyz/2025/12/31/dongguatv-enhanced/</guid>
+      <pubDate>Wed, 31 Dec 2025 13:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>服务器千兆网络</title>
+      <link>https://ednovas.xyz/2024/04/25/gigabit/</link>
+      <description><![CDATA[简介Server Gigabit是一家马来西亚本土商家，主要就是提供马来西亚境内的服务器和网络解决方案，目前有2个数据中心：分别位于马来西亚吉隆坡的AIMS数据中心和位于马来西亚赛城的Bridge数据中心，Server Gigabit支持贝宝，加密货币和信用卡，提供马来西亚原生IP。 24/7全天候售后服务，中英文沟通，以及7天退款条例。 
+
+Server Gigabit VPS默认是100M共享带宽，不限制流量使用，低延迟，架构(VIRTUAL TYPE)：KVM分为Linux VPS和Windows VPS两种，其中Linux VPS月付$11.59起，套餐整理如下：
+Linux VPS Hosting
+
+
+内存
+CPU
+SSD
+价格
+购买
+
+
+
+1G
+1核
+20G
+$11.59/月
+链接
+
+
+2G
+2核
+40G
+$16.59/月
+链接
+
+
+4G
+4核
+80G
+$34.59/月
+链接
+
+
+8G
+8核
+160G
+$70.59/月
+链接
+
+
+16G
+14核
+200G
+$134.59/月
+链接
+
+
+Windows VPS Hosting
+
+
+内存
+CPU
+SSD
+价格
+购买
+
+
+
+1G
+1核
+20G
+$9.59/月
+链接
+
+
+2G
+2核
+40G
+$20.59/月
+链接
+
+
+3G
+3核
+80G
+$31.59/月
+链接
+
+
+4G
+4核
+100G
+$42.59/月
+链接
+
+
+8G
+8核
+180G
+$86.59/月
+链接
+
+
+官网https://www.servergigabit.com]]></description>
+      <guid>https://ednovas.xyz/2024/04/25/gigabit/</guid>
+      <pubDate>Thu, 25 Apr 2024 22:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>混合托管 VPS</title>
+      <link>https://ednovas.xyz/2023/12/14/blendhosting/</link>
+      <description><![CDATA[简介Blend Hosting https://www.blendhosting.com
+一家成立于2005年的马来西亚托管服务商并提供了全天候的客户服务，以确保伺服器稳定的运行。 Blend Hosting 的数据中心分别有位于吉隆坡的AIMS数据中心, 和位于赛城的 Bridge 数据中心。 
+Blend Hosting 的 VPS 分别有 Linux VPS 和 Windows VPS。 其中附有100Mbps带宽与不限量的数据传输，99%主机在线保证及长达15天的退款保证，且有免费的SSL证书。另外，Linux VPS每月最低仅需 $5.59 而 Windows VPS 每月最低仅需 $9.59。支持的付款方式有 Paypal 或加密货币及信用卡。 
+
+VPS套餐LinuxLinux VPS托管计划 https://www.blendhosting.com/
+SSD VPS 1 
+1GB 内存]]></description>
+      <guid>https://ednovas.xyz/2023/12/14/blendhosting/</guid>
+      <pubDate>Thu, 14 Dec 2023 22:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry + 外接硬盘 用内网穿透 WebDav 作公网 NAS</title>
+      <link>https://ednovas.xyz/2023/02/24/homemadenas/</link>
+      <description><![CDATA[准备工作
+Raspberry（别的支持docker的软路由/家庭服务器等也可以）
+cloudflare账号（用cloudfalre tunnel）
+用作nas的硬盘（插到raspberry上的外接硬盘，需要自供电，raspberry的电量带不动不插电的移动硬盘）
+
+初期raspberry初始化可以看 https://ednovas.xyz/2023/02/19/raspberry/
+注意本教程安装的OMV NAS系统，不能有桌面UI，安装系统的时候请选择没有桌面的lite版本系统。如果选择了有桌面的系统，我们也需要卸载。可以执行以下命令卸载完全各种桌面：
+sudo apt purge xserver* lightdm* raspberrypi-ui-mods vlc* lxde* chromium* desktop* gnome* gstreamer* gtk* hicolor-icon-theme* lx* mesa*sudo apt autoremove
+cloudflare tunnel设置可以看 https://ednovas.xyz/2023/02/24/cloudflaretunnel/
+安装OMVhttps://www.openmediavault.org/
+openmediavault 是一个免费的十分优秀的NAS管理系统，我们可以用来装在raspberry上的。 ]]></description>
+      <guid>https://ednovas.xyz/2023/02/24/homemadenas/</guid>
+      <pubDate>Fri, 24 Feb 2023 22:28:00 GMT</pubDate>
+    </item>
     </channel>
 </rss>

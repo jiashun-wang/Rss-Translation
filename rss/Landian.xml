@@ -4,7 +4,56 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Sun, 06 Sep 2026 10:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:16:03 GMT</lastBuildDate>
+    <item>
+      <title>微软发布安全警告：TerminalFix终端点击钓鱼猖獗 用户不要随意在终端中执行命令</title>
+      <link>https://www.landian.news/archives/126693.html</link>
+      <description><![CDATA[#安全资讯 微软发布安全警告：TerminalFix 终端点击钓鱼骗局猖獗，用户切记不要随意执行命令。 TerminalFix 与 ClickFix 攻击类似，后者要求用户打开运行窗口粘贴命令，而现在的 TerminalFix 则要求用户打开终端或 PowerShell 粘贴执行命令。这类攻击最终结果都是远程下载恶意程序并注入到可信进程中，实现感染、信息窃取、开机启动和持久化。查看全文：https://ourl.co/126693]]></description>
+      <guid>https://www.landian.news/archives/126693.html</guid>
+      <pubDate>Mon, 07 Sep 2026 07:06:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌反重力团队成员与社区用户就封号问题打嘴炮 明明是自己问题死活不承认</title>
+      <link>https://www.landian.news/archives/126692.html</link>
+      <description><![CDATA[#人工智能 谷歌 Antigravity 团队真是非常奇怪：与用户打嘴炮称用户造谣。 2 月份开始社区用户就在讨论反重力封号问题，按谷歌所说用户反代账号或存在其他滥用行为可能导致反重力服务被封禁。但关键在于，谷歌也有权直接封禁用户整个谷歌账号。当时反重力员工澄清说最多只封禁反重力服务，但自己的使用协议一直不更新，还保留着封谷歌账号条款。被社区用户拿出来讨论后，反重力团队员工直接说用户造谣，宁愿打嘴炮也不更新协议。被喷太多后现在反重力更新协议强调不再封禁谷歌账号，但谷歌整个账号体系的使用协议仍然写着有权封号。反重力团队成员称将提供更新，不过这可能要经过法务层层审核，最终能不能更新还是个未知数。查看全文：https://ourl.co/126692]]></description>
+      <guid>https://www.landian.news/archives/126692.html</guid>
+      <pubDate>Mon, 07 Sep 2026 05:35:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[下载] 免费虚拟机软件VMware Workstation 26H1u1发布 修复微软UEFI证书更新问题</title>
+      <link>https://www.landian.news/download/126726.html</link>
+      <description><![CDATA[#软件下载 博通发布免费虚拟机软件 VMware Workstation 26H1u1 Build 25688693 版，该版本主要修复危害等级较高的虚拟机逃逸问题。如果你使用 Windows 10/11 虚拟机也应该更新，新版本修复微软 UEFI 安全启动证书更新方面的错误，虚拟机内需安装 2026 年 7 月或之后的微软补丁。下载地址：https://ourl.co/126725]]></description>
+      <guid>https://www.landian.news/download/126726.html</guid>
+      <pubDate>Mon, 07 Sep 2026 04:57:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Mac虚拟机] VMware Fusion 26H1u1版发布 修复虚拟机逃逸漏洞和安全密钥问题</title>
+      <link>https://www.landian.news/download/126725.html</link>
+      <description><![CDATA[#软件下载 博通发布 macOS 免费虚拟机软件 VMware Fusion 26H1u1 Build 25689522 版，该版本主要修复危害等级较高的虚拟机逃逸问题。如果你使用 Windows 10/11 虚拟机也应该更新，新版本修复微软 UEFI 安全启动证书更新方面的错误，虚拟机内需安装 2026 年 7 月或之后的微软补丁。下载地址：https://ourl.co/126725]]></description>
+      <guid>https://www.landian.news/download/126725.html</guid>
+      <pubDate>Mon, 07 Sep 2026 04:57:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>有开发者分析发现：Codex使用重置卡获得的额度只有正常量的50%</title>
+      <link>https://www.landian.news/archives/126691.html</link>
+      <description><![CDATA[#人工智能 有开发者分析发现：Codex 使用重置卡获得的额度只有正常量的 50%，更糟糕的是使用重置卡后自然重置时间还被顺延 7 天。 Reddit 上有开发者使用重置卡发现额度消耗很快，使用 Codex 分析使用日志后发现用量确实被大幅度缩减。不过额度消耗取决于内容长度、智能体数量、调用的工具数量、任务实际难度等，所以这也没法标准量化。也有其他用户称自己的感觉类似，不过蒂博已经否认这种说法，称重置卡与自然周额度是完全相同的。查看全文：https://ourl.co/126691]]></description>
+      <guid>https://www.landian.news/archives/126691.html</guid>
+      <pubDate>Mon, 07 Sep 2026 04:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软面向开发者推出无干扰的特别版Windows 11 但你通过脚本也能轻松实现类似体验</title>
+      <link>https://www.landian.news/archives/126690.html</link>
+      <description><![CDATA[#系统资讯 微软向开发者推出无干扰的 Windows 11 特别版，名为 Project Zenith 项目，但需要 64GB 内存运行本地 AI 模型。 Project Zenith 项目旨在为开发者提供开箱即编码的使用体验，这并不是新系统，而是经过特别配置的版本。微软其实维护了个适用于开发者的脚本，实现的功能与 Zenith 类似，所以开发者也可以直接使用该脚本获得相同体验，包括禁用 Windows 11 默认设置的那些干扰开发体验的功能。查看全文：https://ourl.co/126690]]></description>
+      <guid>https://www.landian.news/archives/126690.html</guid>
+      <pubDate>Mon, 07 Sep 2026 03:12:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>赛博善人！ Cloudflare Workers放宽代码体积限制 免费和付费套餐均提高至64MiB</title>
+      <link>https://www.landian.news/archives/126689.html</link>
+      <description><![CDATA[#软件资讯 Cloudflare Workers 放宽代码体积限制，免费和付费套餐均提高至 64MiB。以前免费套餐最多 3MB、付费套餐最多 10MB，超过限制将无法正常部署。新规则改成检查未压缩的 Bundle 体积，都是 64MiB，GZIP 压缩体积作为参考信息显示，不再决定能否部署。查看全文：https://ourl.co/126689]]></description>
+      <guid>https://www.landian.news/archives/126689.html</guid>
+      <pubDate>Mon, 07 Sep 2026 02:48:46 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌浏览器还有隐藏小技能：遇到HSTS网站无法加载时 键盘盲打thisisunsafe即可加载</title>
       <link>https://www.landian.news/archives/126681.html</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[#安全资讯 服务器管理销售面板 WHMCS 出现高危安全漏洞，攻击者无需登录即可入侵服务器并获得各类客户资料。目前官方要求使用该版本的服务器提供商升级到 8.13.7 或 9.0.8 版，其他版本都受漏洞影响。查看全文：https://ourl.co/126685]]></description>
       <guid>https://www.landian.news/archives/126685.html</guid>
       <pubDate>Fri, 04 Sep 2026 04:15:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6不再收取超过272K部分超额费用 开发者可以在Codex里直接启用1M窗口</title>
-      <link>https://www.landian.news/archives/126684.html</link>
-      <description><![CDATA[#人工智能 GPT-6 Astra 不再收取超过 272K 部分超额费用，开发者可以在 Codex 里直接启用 1M 上下文窗口。特别注意：此政策仅限于 GPT-6 Astra 模型 + Codex 组合。 GPT-5.4/5.5/5.6 如果输入输出超过 272K，超出部分仍然按照倍率计费，倍率为 1.5~2 倍。查看全文：https://ourl.co/126684]]></description>
-      <guid>https://www.landian.news/archives/126684.html</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Codex接下来将在每天向付费订阅用户赠送1个重置卡 直到GPT-6 Astra可用</title>
-      <link>https://www.landian.news/archives/126683.html</link>
-      <description><![CDATA[#人工智能 Codex 接下来将每天向付费订阅用户赠送 1 个重置卡，直到 GPT-6 Astra 模型可用。目前该模型仅限部分认证机构使用，而不是发布后大家就能立即使用。作为补偿措施，OpenAI 将向用户赠送重置卡，延迟几天才能用那就赠送几张重置卡，每天 1 张。查看全文：https://ourl.co/126683]]></description>
-      <guid>https://www.landian.news/archives/126683.html</guid>
-      <pubDate>Fri, 04 Sep 2026 02:11:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌不仅延长服务器硬件使用寿命 现在还开始拆内存重新利用起来</title>
-      <link>https://www.landian.news/archives/126643.html</link>
-      <description><![CDATA[#人工智能 谷歌不仅延长服务器硬件使用寿命，现在还开始拆内存然后重新利用起来。谷歌云供应链基础设施高级总裁尼基尔透露，公司正在拆解已经退役的服务器，将仍然可用的零部件重新投入到数据中心。尼基尔也透露，说是可用的零部件，其实就是拆内存，谷歌还特地设计硬件适配器可以将 DDR4 等内存连接 AI 服务器。查看全文：https://ourl.co/126643]]></description>
-      <guid>https://www.landian.news/archives/126643.html</guid>
-      <pubDate>Fri, 04 Sep 2026 02:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲核子中心计划将2200台机器都换成Debian 13 原本主要使用RHEL和AlmaLinux</title>
-      <link>https://www.landian.news/archives/126642.html</link>
-      <description><![CDATA[#行业资讯 运营大型强子对撞机的欧洲核子研究中心将在年底前将 2200 台加速器前端控制系统计算机迁移到 Debian 13。原本核子中心主要使用红帽生态系统，即使用 RHEL 和 AlmaLinux。但现在红帽逐步提高 CPU 指令集要求。核子中心的这些工控设备 CPU 都非常老，且设备都绑定专用硬件，更换硬件是不可能的，迁移到 Debian 13 是个不错的选择。查看全文：https://ourl.co/126642]]></description>
-      <guid>https://www.landian.news/archives/126642.html</guid>
-      <pubDate>Fri, 04 Sep 2026 01:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>流媒体套件Plex罕见群发邮件提醒用户立即升级新版本 存在高危安全漏洞</title>
-      <link>https://www.landian.news/archives/126641.html</link>
-      <description><![CDATA[#软件资讯 安全提醒：Plex 桌面版和服务器版都发布更新修复重大安全漏洞，官方提醒用户立即升级新版本。另 NAS 用户请注意，NAS 商店审核较慢，建议用户直接下载离线安装包手动更新，不要等着 NAS 商店审核发布更新后再升级。查看全文：https://ourl.co/126641]]></description>
-      <guid>https://www.landian.news/archives/126641.html</guid>
-      <pubDate>Fri, 04 Sep 2026 01:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>满足欧盟法规要求：微软宣布从明年3月起所有驱动程序都必须提交SBOM和VEX才能获得签名</title>
-      <link>https://www.landian.news/archives/126640.html</link>
-      <description><![CDATA[#行业资讯 满足欧盟网络韧性法案要求：微软宣布从明年 3 月开始驱动程序想要获得微软签名，必须提供 SBOM 和 VEX。 SBOM 需要列出驱动使用的第一方和第三方所有组件，包括库、框架、工具以及依赖。 VEX 则需要说明已经公开的 CVE 漏洞是否影响驱动。相关法案本质上是为了提高网络安全性，这是强制性法律要求，所以微软也在提前做准备。查看全文：https://ourl.co/126640]]></description>
-      <guid>https://www.landian.news/archives/126640.html</guid>
-      <pubDate>Thu, 03 Sep 2026 06:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>虚拟化平台Proxmox VE宣布进军北美市场 成立新办事处提供7x24小时企业支持</title>
-      <link>https://www.landian.news/archives/126639.html</link>
-      <description><![CDATA[#行业资讯 开源虚拟化平台 Proxmox VE 在北美成立运营中心，将为美国和加拿大客户提供全天候技术支持。现阶段 PVE 主要按奥地利工作时间提供支持，由于时差问题北美客户经常在工作时间找不到人，现在成立北美运营中心可以解决这个问题。另外 PVE 特别强调支持团队就是自己的工程团队，不会像某些公司那样把技术支持外包给第三方服务商，这里其实说的就是博通 VMware。查看全文：https://ourl.co/126639]]></description>
-      <guid>https://www.landian.news/archives/126639.html</guid>
-      <pubDate>Thu, 03 Sep 2026 06:05:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

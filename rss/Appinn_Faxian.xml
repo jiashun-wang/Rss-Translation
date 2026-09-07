@@ -4,7 +4,173 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Mon, 07 Sep 2026 00:45:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:15:44 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】Folder Player，一个简约高效的Android音乐播放器，用于播放云端/本地资源</title>
+      <link>https://meta.appinn.net/t/topic/91368</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/91368</guid>
+      <pubDate>Mon, 07 Sep 2026 07:56:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开源自荐】Translation Workbench：给 Codex / Claude Code 用的翻译工作流技能</title>
+      <link>https://meta.appinn.net/t/topic/91358</link>
+      <description><![CDATA[软件名称
+Translation Workbench
+应用平台
+Agent Skill，装进 Codex 或 Claude Code 里用，系统不限（Windows / macOS / Linux）。附带的两个检查脚本需要 Python 3.11，只用标准库。 
+推荐类型
+【开发者自荐】
+是否收费
+免费，MIT 开源。 
+一句简介
+把长篇翻译拆成「取材 → 起草 → 独立审核 → 人工定稿」四步的 Agent Skill：AI 交译文的同时必须交依据，术语和审核结论都要你点头才写进项目文档。 
+应用简介
+
+让AI承担对源语言的理解。我认为译文的好坏取决于译者双语的水平，技能要求AI不仅仅提供翻译译文，而且给出翻译依据，以此来弥补译者源语言的掌握深度。 
+让AI学习你的翻译风格，且持续优化，并在项目中长期保持一致性。 
+
+下面是我翻译的小说里的一个例子：
+
+happen 在这儿是北英格兰方言里的 perhaps，AI 初稿的「不妨」太客气了；「琢磨琢磨，这是为什么」又是英文的挂法。定稿改成「自个儿琢磨琢磨背后的道理」。这一层判断，机翻不会给你。 
+实测范围与限制
+
+只验证过一个语言对（英译中）、一类文本（连载小说）。 
+只测过 Opus 5 和 GPT-5.6 Sol 两个模型。 
+产出流程到「你确认过的定稿 Markdown」为止。 
+
+官方网站
+
+
+github.com
+
+
+
+
+GitHub - Alexu0317-FATHER/translation-workbench: A source-grounded translation workflow skill for...
+A source-grounded translation workflow skill for Codex and Claude Code.
+
+
+
+
+
+
+安装：npx skills add Alexu0317-FATHER/translation-workbench
+用这套流程做完的项目（在线阅读）：《弗兰兹·洛纳的编年史》 · Franz Lohner&#39;s Chronicle
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91358</guid>
+      <pubDate>Mon, 07 Sep 2026 03:30:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>整理和保存儿童画的小工具</title>
+      <link>https://meta.appinn.net/t/topic/91356</link>
+      <description><![CDATA[软件名称
+时光画展 ｜ 时光画廊
+应用平台
+
+Web
+IOS
+
+推荐类型
+【开发者自荐】
+是否收费
+采用免费+付费的模式
+免费（每天有三次免费上传的机会）
+4k文件下载付费（3元/张）
+可以订阅会员全年无限次上传和下载（98元/年）
+一句简介
+一个能够把纸质或拍摄的儿童画自动加工成高清数字版留存的小工具
+应用简介
+2026年8月1日 已完成功能：
+
+支持 上传儿童画照片加工为高清版儿童画
+支持 把儿童画深加工为多种风格的艺术装裱作品
+支持 私有化存储所有上传的儿童画
+支持 把儿童画导出为儿童作品集
+支持 定制儿童画周边产品（装裱画/T恤/画册等）
+
+截图预览：
+
+官方网站
+产品官网：
+时光画展 ｜ 时光入画，童年留痕
+APP下载链接（海外）：https://apps.apple.com/ch/app/时光画展/id6801003309
+写在最后
+已近不惑之年，常有浮生如梦之感。人生叙事过半，多有风雨，而今又困于围城，回首往事，真正快乐的时光少得可怜。感觉自己始终像是在雨中匆匆赶路的行人，停不下来，但竟也毫无方向。 
+近期GAP了，这种破碎感更加真切，独坐凉亭日久，也无法排解。都说美好童年治愈一生，我的人生真正留下的值得慰藉的东西少得有些悲凉。 
+和母亲聊天，她也时常感叹，年轻的时候竟然连一张全家福都没有拍过，小时候她也教过我画画写字，这些东西都已了无痕迹，好像从来没有存在过，而今只剩下一些遥远且愈加模糊的记忆。物质匮乏的年代，大家都在疲于奔命，全力奔跑，哪还顾得上沿路的风景。 
+麦家说：一个人的性格其实是他所处状态的外形。当你困顿时，会滋生出狭隘与自私，当你疲惫时，会变得冷漠和暴躁，当你快乐的时候，会变得包容和乐观。 
+现在的我自感越来越狭隘，我的悲伤来自于能支持我创作和前行的能量太少，这份觉察也是我接下来创业的方向。人生的下半场，我希望能够留住生活中的小美好，传递欢乐。身为人父，我也希望为孩子们留下更多可以停驻欣赏的美好时光。希望大家在困顿与疲惫之时，也能够翻开时光画卷，于漫漫长夜中，拾得一缕来自童年的微光。 
+5 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91356</guid>
+      <pubDate>Mon, 07 Sep 2026 03:10:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>发现频道：10款大家发现的好评软件[2026年第36期]</title>
+      <link>https://meta.appinn.net/t/topic/91350</link>
+      <description><![CDATA[
+最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来：
+
+
+
+序号
+主题
+
+
+
+
+1️⃣
+【开发者自荐】macOS 一边打字一边翻译来学习英语
+
+
+2️⃣
+【开发者自荐】BongoCat - 开源桌宠实时响应鼠标和键盘事件，使用纯C彻底重新实现
+
+
+3️⃣
+【开发者自荐】Snipper – 轻量级 Windows 截图工具：框选、标注、复制，一次搞定
+
+
+4️⃣
+【开发者自荐】现有的 Notepad Replacer 在 Win11 上不好用，于是我重新造了个轮子
+
+
+5️⃣
+Tablite: 又一款浏览器新标签页插件
+
+
+6️⃣
+【开发者自荐】我想一劳永逸解决字幕工作流，所以我做了 MAW【字幕软件】
+
+
+7️⃣
+【开发者自荐】微信视频号/公众号下载
+
+
+8️⃣
+【开发者自荐】AI Novel Writer：把人物、设定、大纲、章节和修稿放进同一个写作项目
+
+
+9️⃣
+易简历 - 26 个模板的免费在线简历制作工具
+
+
+🔟
+一个免费开源的 Windows 键盘鼠标按键映射工具，无需写脚本即可自定义按键和快捷键。 
+
+
+
+上期回顾
+
+发现频道近10日热门排行榜[2026年第35期]
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91350</guid>
+      <pubDate>Mon, 07 Sep 2026 01:00:45 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】NoteLoom：在浏览器中直接编辑电脑上的 Markdown 文件</title>
       <link>https://meta.appinn.net/t/topic/91347</link>
@@ -229,7 +395,7 @@ C 也能往下接力：C 接收并缓存完成后，也可以继续帮助后面�
 
 想体验接力，可以找两位朋友按上面的 A → B → C 步骤试一次。欢迎反馈具体在哪一步遇到问题。 
 工作原理：this2.link 工作原理｜WebRTC 直传与本地加密
-3 个帖子 - 3 位参与者
+5 个帖子 - 3 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91256</guid>
       <pubDate>Sat, 05 Sep 2026 04:23:24 GMT</pubDate>
@@ -376,116 +542,10 @@ https://store.epicgames.com/zh-CN/p/alone-with-you-028a15 Alone With You
 手机游戏：
 https://store.epicgames.com/zh-CN/p/evans-remains-android-ddf101 Evan’s Remains
 https://store.epicgames.com/zh-CN/p/evans-remains-ios-e00ae0 Evan’s Remains
-1 个帖子 - 1 位参与者
+2 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91222</guid>
       <pubDate>Fri, 04 Sep 2026 04:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】InvoiceFlowAI：从邮箱收集电子发票，识别后分类并汇总到 Excel</title>
-      <link>https://meta.appinn.net/t/topic/91217</link>
-      <description><![CDATA[软件名称：InvoiceFlowAI
-应用平台：Windows、macOS
-推荐类型：【开发者自荐】
-是否收费：免费、开源
-
-一句话简介
-从邮箱批量收集电子发票，识别 PDF、OFD 和 XML，分类归档并生成 Excel 汇总。 
-它解决什么问题
-我做 InvoiceFlowAI，是因为每次报销前从邮箱里找 PDF、OFD 和 XML 发票，再改名、分类和汇总，重复又容易漏。它可以从邮箱批量收集电子发票，做 OCR 识别、分类归档并生成 Excel 汇总；识别不确定的地方会保留人工检查，而不是假装所有结果都正确。 
-怎么使用
-
-连接用于接收发票的邮箱，按条件收集电子发票附件。 
-让软件识别发票信息，并对不确定的内容进行人工检查。 
-按规则改名、分类归档，最后导出 Excel 汇总用于报销准备。 
-
-项目提供 Windows 和 macOS 桌面版，也有 DSH 插件入口，采用 Apache-2.0 许可证。它用于整理和报销准备，不替代财务审核或税务判断。 
-项目主页：AI 发票一键整理：邮箱收集、识别、归档与 Excel 汇总 | Ethan
-开源仓库：GitHub - EthanYoQ/Invoice-Downloader: 电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。 · GitHub
-下载地址：Release InvoiceFlowAI v2026.07.29.1 · EthanYoQ/Invoice-Downloader · GitHub
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91217</guid>
-      <pubDate>Fri, 04 Sep 2026 03:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic手机喜加一 《Evan's Remains》截止9.10</title>
-      <link>https://meta.appinn.net/t/topic/91211</link>
-      <description><![CDATA[Android &amp; iOS
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91211</guid>
-      <pubDate>Thu, 03 Sep 2026 19:44:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】AI Novel Writer：把人物、设定、大纲、章节和修稿放进同一个写作项目</title>
-      <link>https://meta.appinn.net/t/topic/91203</link>
-      <description><![CDATA[软件名称：AI Novel Writer
-应用平台：Windows、macOS
-推荐类型：【开发者自荐】
-是否收费：免费、开源
-
-一句话简介
-把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织在同一个项目里的 AI 小说创作桌面软件。 
-它解决什么问题
-我做这个桌面软件，是因为用聊天框写长篇时，最容易丢的不是某一句话，而是人物关系、世界观、伏笔和章节计划。 AI Novel Writer 把灵感、角色、世界观、大纲、章节写作、审稿和修稿放在同一个项目里，作者仍然决定故事怎么发展，AI 负责辅助整理、续写和检查。 
-怎么使用
-
-新建一个小说项目，先整理人物、世界观和故事大纲。 
-按章节写作，让 AI 帮助续写、审稿或修稿。 
-在同一个项目里检查人物关系、伏笔和章节计划，减少长篇写作时的遗忘与矛盾。 
-
-它提供 Windows 和 macOS 桌面版，可以连接 Ollama，也有独立的 DSH 插件预览。项目以 GPL-3.0 开源，不需要先注册账号。它不是一键生成整本小说的按钮，更适合愿意自己规划和修改长篇内容的人。 
-项目主页：AI 小说创作软件：从故事前提到审稿修稿 | AI Novel Writer
-开源仓库：GitHub - EthanYoQ/AI-Novel-Writer: AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。 · GitHub
-下载地址：Release v0.9.2 · EthanYoQ/AI-Novel-Writer · GitHub
-5 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91203</guid>
-      <pubDate>Thu, 03 Sep 2026 14:27:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】现有的 Notepad Replacer 在 Win11 上不好用，于是我重新造了个轮子</title>
-      <link>https://meta.appinn.net/t/topic/91196</link>
-      <description><![CDATA[最近一直在 Windows 11 上使用 Notepad4，也启用了它自带的“替换系统记事本”功能。普通的 notepad.exe 调用可以正常转交给Notepad4，但 Windows 11 新版右键菜单中的“使用记事本打开”属于 Microsoft Store 版 Notepad，并不会被 Notepad4 的替换功能接管。现有的一些 Notepad Replacer 工具也主要处理 notepad.exe 调用，解决不了这个右键菜单的问题，于是干脆自己重新造了一个。 
-我做的 NotepadReplacer 会移除 Microsoft Store 版 Notepad，将系统对 notepad.exe 的调用转发到指定编辑器，并重新注册一个 Windows 11 新版“使用记事本打开”右键菜单。这样无论是程序调用记事本，还是在资源管理器中右键打开文件，最终都会使用自己选择的编辑器。 
-
-
-
-binaryfortress.com
-
-
-
-Notepad Replacer: Replace Notepad the Easy Way by Binary Fortress Software
-Do you use a Notepad alternative, like Notepad++ or Notepad2? Notepad Replacer will allow you to replace the default Windows version of Notepad with whatever alternative you would like to use.
-
-
-
-
-
-项目名称就叫 NotepadReplacer，主要解决两件事：
-
-将系统对 notepad.exe 的调用转发到自己指定的编辑器，例如 Notepad4、Notepad++ 等
-在 Windows 11 新版文件右键菜单中重新提供“使用记事本打开”，不需要进入“显示更多选项”
-支持一次选中多个文件并通过右键菜单打开
-提供安装和卸载程序，安装失败时会自动回滚
-
-
-实现上，notepad.exe 的调用转发使用了 Windows 的 IFEO 机制；新版右键菜单则通过 MSIX 和 IExplorerCommand 扩展实现。右键菜单会直接调用所配置的编辑器，不依赖已经被替换的记事本程序。 
-需要注意：
-
-目前完整功能面向 64 位 Windows 11
-安装程序会移除 Microsoft Store 版记事本
-卸载后不会自动恢复 Store 版记事本，需要的话要从 Microsoft Store 手动安装
-目前还处于早期阶段，建议使用前了解一下 README 中的说明
-
-项目地址：GitHub - benzBrake/NotepadReplacer · GitHub
-Nightly 安装包：nightly.link | Repository benzBrake/NotepadReplacer | Workflow nightly.yml | Branch master | Artifact NotepadReplacer-nightly
-项目使用 C++17 开发，采用 GPLv3-or-later 许可证。欢迎试用、反馈问题或者提交 PR。 
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91196</guid>
-      <pubDate>Thu, 03 Sep 2026 10:52:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
