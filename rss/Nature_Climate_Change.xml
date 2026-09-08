@@ -1,9 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Thu, 03 Sep 2026 00:53:58 GMT</lastBuildDate>
+    <title>Nature Climate Change</title>
+    <link>http://feeds.nature.com/nclimate/rss/current</link>
+    <description>Nature Climate Change is a monthly journal dedicated to publishing high-quality research papers that describe the most significant and cutting-edge research on the causes, impacts and wider implications of global climate change. The journal publishes climate research across the physical, biological and social sciences and strives to integrate and communicate interdisciplinary research. The journal aims to play a leading role in: providing accessibility to a broad audience to research published both within and outside the journal; raising the visibility of climate change research in related research communities as well as the mainstream media; and offering a forum for discussion of the challenges faced by researchers and policy makers (and other interested parties) in understanding the complex mechanisms and impacts associated with the Earth’s changing climate.</description>
+    <lastBuildDate>Tue, 08 Sep 2026 00:50:56 GMT</lastBuildDate>
+    <item>
+      <title>气候变化导致欧洲大黄蜂栖息地适宜性下降</title>
+      <link>https://www.nature.com/articles/s41558-026-02734-6</link>
+      <description><![CDATA[《自然·气候变化》，在线发布：2026 年 9 月 2 日； doi:10.1038/s41558-026-02734-6作者考虑了事实和反事实情景，以隔离气候变化在欧洲大黄蜂适宜栖息地减少中的作用（1901-2019）。平均下降 5%，局部下降高达 19%，高海拔地区的下降部分抵消了损失。]]></description>
+      <guid>https://www.nature.com/articles/s41558-026-02734-6</guid>
+      <pubDate>Tue, 08 Sep 2026 00:50:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>响应生态新奇</title>
+      <link>https://www.nature.com/articles/s41558-026-02742-6</link>
+      <description><![CDATA[《自然·气候变化》，在线发布：2026 年 9 月 2 日； doi:10.1038/s41558-026-02742-6气候变化正在将世界转变为新的生态状态，促使人们讨论人类和物种将如何应对这一新奇事物，包括缓解和适应将如何最终导致进一步的变化。]]></description>
+      <guid>https://www.nature.com/articles/s41558-026-02742-6</guid>
+      <pubDate>Tue, 08 Sep 2026 00:50:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>用耐热珊瑚恢复珊瑚礁</title>
+      <link>https://www.nature.com/articles/s41558-026-02721-x</link>
+      <description><![CDATA[《自然·气候变化》，在线发布：2026 年 9 月 2 日； doi:10.1038/s41558-026-02721-x随着大堡礁遭受连续的毁灭性白化事件的影响，研究人员正在努力通过选择或操纵珊瑚来恢复小片区域的珊瑚，以提高其耐热性。]]></description>
+      <guid>https://www.nature.com/articles/s41558-026-02721-x</guid>
+      <pubDate>Tue, 08 Sep 2026 00:50:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大山火破纪录</title>
+      <link>https://www.nature.com/articles/s41558-026-02744-4</link>
+      <description><![CDATA[《自然·气候变化》，在线发布：2026 年 9 月 2 日； doi:10.1038/s41558-026-02744-4加拿大破纪录的野火]]></description>
+      <guid>https://www.nature.com/articles/s41558-026-02744-4</guid>
+      <pubDate>Tue, 08 Sep 2026 00:50:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>基础设施链接放大影响</title>
+      <link>https://www.nature.com/articles/s41558-026-02747-1</link>
+      <description><![CDATA[《自然·气候变化》，在线发布：2026 年 9 月 2 日； doi:10.1038/s41558-026-02747-1基础设施链接放大影响]]></description>
+      <guid>https://www.nature.com/articles/s41558-026-02747-1</guid>
+      <pubDate>Tue, 08 Sep 2026 00:50:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>适应过程中的权力不对称</title>
+      <link>https://www.nature.com/articles/s41558-026-02745-3</link>
+      <description><![CDATA[《自然·气候变化》，在线发布：2026 年 9 月 2 日； doi:10.1038/s41558-026-02745-3适应中的权力不对称]]></description>
+      <guid>https://www.nature.com/articles/s41558-026-02745-3</guid>
+      <pubDate>Tue, 08 Sep 2026 00:50:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>保单回报</title>
+      <link>https://www.nature.com/articles/s41558-026-02746-2</link>
+      <description><![CDATA[《自然·气候变化》，在线发布：2026 年 9 月 2 日； doi:10.1038/s41558-026-02746-2保单退货]]></description>
+      <guid>https://www.nature.com/articles/s41558-026-02746-2</guid>
+      <pubDate>Tue, 08 Sep 2026 00:50:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>作者更正：树种丰富度与森林光合作用的长期增加有关</title>
+      <link>https://www.nature.com/articles/s41558-026-02761-3</link>
+      <description><![CDATA[《自然·气候变化》，在线发布：2026 年 9 月 7 日； doi:10.1038/s41558-026-02761-3作者更正：树种丰富度与长期森林光合作用增加有关]]></description>
+      <guid>https://www.nature.com/articles/s41558-026-02761-3</guid>
+      <pubDate>Tue, 08 Sep 2026 00:50:51 GMT</pubDate>
+    </item>
     </channel>
 </rss>

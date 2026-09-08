@@ -1,9 +1,296 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Mon, 07 Sep 2026 11:16:05 GMT</lastBuildDate>
+    <title>链滴</title>
+    <link>https://ld246.com</link>
+    <description>记录生活，连接点滴。</description>
+    <lastBuildDate>Tue, 08 Sep 2026 01:00:53 GMT</lastBuildDate>
+    <item>
+      <title>右停靠栏图标来回闪烁</title>
+      <link>https://ld246.com/article/1788822037980</link>
+      <description><![CDATA[昨晚更新到 3.8.3，电脑就关机了
+早晨打开笔记，发现右侧停靠栏：订阅已过期、任务管理器、任务侧栏，三个功能键反复横跳，重启电脑和思源笔记都没解决。 
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1788822037980</guid>
+      <pubDate>Mon, 07 Sep 2026 23:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>智能体回复中断</title>
+      <link>https://ld246.com/article/1788808227382</link>
+      <description><![CDATA[当前使用智能体时，经常会出现回答到一半就断掉的情况，也没有任何提示。 
+这很有可能是我使用的中转站服务不太稳定的原因，但这似乎意味着智能体没有自动的中断重连机制或者足够清晰的中断报错说明？ ]]></description>
+      <guid>https://ld246.com/article/1788808227382</guid>
+      <pubDate>Mon, 07 Sep 2026 19:10:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>“表哥”插件在思源笔记 v3.8.3 版本与部分主题共同开启时，持续闪烁（重启）问题分析报告 from Gemini 3.8 flash</title>
+      <link>https://ld246.com/article/1788792952623</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788792952623</guid>
+      <pubDate>Mon, 07 Sep 2026 14:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>怎么调整“备注框”的大小</title>
+      <link>https://ld246.com/article/1788789241684</link>
+      <description><![CDATA[编辑好备注后，点击有备注的文本会弹出备注框，但是这个框能在哪里调整大小
+]]></description>
+      <guid>https://ld246.com/article/1788789241684</guid>
+      <pubDate>Mon, 07 Sep 2026 13:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>无人知晓的角落，渐进学习插件静悄悄地改版 ~ 随手写写当前的阅读流程</title>
+      <link>https://ld246.com/article/1788785487885</link>
+      <description><![CDATA[
+
+书籍的来源及处理
+
+
+微信文章
+
+
+特点：一至三千字的短篇文章，个中知识点比较集中，且可能与已有的个人知识库相关内容存在重叠。文章本身不重要，其中的知识点具有参考价值。 
+
+使用方式：对于其中有价值的少量知识点，进行手动摘抄分片，使知识点作为文档闪卡，进入闪卡流转池。 
+
+具体操作：
+
+通过思源微信小助手（手机-微信）/网页端的思源剪藏 or 简悦的发送到思源插件，将微信文章导入思源笔记。 
+使用快捷键摘抄背诵，将知识点摘录为文档闪卡。 
+文章本身作为存档资料，放入关闭文件夹中归档。 
+
+
+
+法律条文
+
+
+特点：往往以条、款、项作为单独分片；不适用标题自动拆分/按字数拆分的自动化拆分；法律条文的出处（时间、效力、位阶）具有重要价值，同时具有较强的上下文需求。 
+
+使用方式：对于常用的法律条文，进行手动摘抄分片，同时书籍加入舰队总览的目录。 
+
+具体操作：
+
+
+从权威官方网站中下载对应的法律，复制粘贴进入思源文档，将思源文档转为只读模式。 
+
+将该思源文档，加入（思源的）法律法规数据库，进行统一标记及管理。 
+
+将该思源文档，使用手动分片（不自动切） ，加入书籍目录。 
+
+
+使用快捷键摘抄背诵，将知识点摘录为文档闪卡。 
+
+复访设置（二选一）：
+
+使用（番茄工具箱的）加入阅读点功能，将该法律的阅读（这件事情本身），加入闪卡排期。 
+使用（渐进学习的）复访功能，将该法律加入到待办事项中，定期复访。 
+
+
+
+
+知识性书籍
+
+特点：上下文关联；但每一个章节可以分散式推送和阅读。 
+使用方式：通过自动分片进行加书。视情况进行一次性创建全部分片。 
+
+
+阅读性书籍
+
+特点：线性阅读，随机性漫步，佛系阅读。 
+使用方式：使用（番茄工具箱的）加入阅读点功能，将书籍加入闪卡中。 [佛系阅读]
+
+
+
+目录的跳转
+
+
+渐进学习的目录
+
+
+浮窗：打开本书（分片）目录
+
+浮窗：本书（附属）闪卡
+
+
+
+思源本身的目录
+
+
+大纲（思源本身自带的侧边面板）
+
+
+文档目录（使用文档上下文插件，呼出面板）
+
+
+
+
+阅读的执行
+
+
+轮转的分片
+
+
+指定书籍的分片
+
+
+舰队总览，点击具体书籍
+
+
+具体书籍，浮窗打开本书附属卡
+
+
+
+闪卡总体复习（ALT+0，思源闪卡的总体复习）
+
+
+两点展望：
+
+思源 v3.9.0 闪卡重构后，将加入间隔调度分组配置。渐进学习的闪卡复习，或许可以新增相应的调度分组。 
+当前的笔记写作及汇总，在渐进学习插件中没有一个清晰的流程，未来准备也许可以发展出更完善的渐进写作流程。 
+]]></description>
+      <guid>https://ld246.com/article/1788785487885</guid>
+      <pubDate>Mon, 07 Sep 2026 12:52:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>v3.8.3 正式版更新之前请先关闭任务管理器、叶归、文档层级导航、表哥插件</title>
+      <link>https://ld246.com/article/1788756535088</link>
+      <description><![CDATA[今天 siyuan 已经更新了 3.8.3 正式版，更新了不少好玩的功能（比如页签块、数据库文本字段支持富文本等）值得庆祝~🎉不过也有一些内容需要小伙伴们注意一下：
+在 3.8.3 正式版之前，请关闭任务管理器、叶归、文档层级导航插件，否则会导致严重的卡顿；表哥插件则无法进入思源。请等待插件作者适配新版本~
+
+
+ 浏览器不支持该媒体的播放
+
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1788756535088</guid>
+      <pubDate>Mon, 07 Sep 2026 12:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>任务列表 Ctrl+L 功能出现异常</title>
+      <link>https://ld246.com/article/1788776315171</link>
+      <description><![CDATA[
+版本：v3.8.3
+已用插件：只有【写味】主题插件，无其他插件
+
+问题：任务列表功能的选择框及文字，在某些情况下会切换到第二行；该问题在升级 v3.8.0 后出现，之前并未出现，取消主题插件后问题依旧。 
+1.直接按快捷键 Ctrl+L，直接在第二行
+
+2.框选下级全部文字删除，会自动变第二行
+
+
+3.逐字删除才不会切换到第二行
+]]></description>
+      <guid>https://ld246.com/article/1788776315171</guid>
+      <pubDate>Mon, 07 Sep 2026 10:18:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>版本更新测试问题</title>
+      <link>https://ld246.com/article/1788774301022</link>
+      <description><![CDATA[思源笔记自 3.7 版本以来，从开发过程到功能设计均全面倒向了 AI。新版本的更新节奏与改进数量大幅提升，功能丰富性与日俱增，让人感叹 DV+AI 的开发效率着实是出神入化。而与此同时，社区里对于减缓新功能增速、推出更稳定的版本的呼声也更高了。我认为这件事的重点在于当前的迭代速度下，新特性与新问题同时增加的速度过快，测试、优化始终难以跟上。想改善这个问题需要想办法增加测试投入，而这意味着需要削减新功能开发的投入，将更多资源用于问题测试、缺陷优化、稳定性改进。 
+我个人只是一名普通用户，不能代表社区主流意见。因此发布以下两个投票收集一下大家的使用体验和观点：
+[poll1788749504762]
+[poll1788750259976]
+也希望大家多回帖发表些有实用意义的想法，给出一些符合实际的、具备执行空间的建议。观点共振在投票里有就行了，
+ 发言还是要多一些创新点和工作量(]]></description>
+      <guid>https://ld246.com/article/1788774301022</guid>
+      <pubDate>Mon, 07 Sep 2026 09:46:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>手机和电脑互相导出导入吗？</title>
+      <link>https://ld246.com/article/1788773957345</link>
+      <description><![CDATA[
+]]></description>
+      <guid>https://ld246.com/article/1788773957345</guid>
+      <pubDate>Mon, 07 Sep 2026 09:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么工作空间会出现 corrupted 这个文件夹？</title>
+      <link>https://ld246.com/article/1788771695404</link>
+      <description><![CDATA[而且文件夹与一个笔记本同名，但是是空的：
+]]></description>
+      <guid>https://ld246.com/article/1788771695404</guid>
+      <pubDate>Mon, 07 Sep 2026 09:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>只备份 data 和 conf 这两个文件夹不会有问题吧？</title>
+      <link>https://ld246.com/article/1788770958532</link>
+      <description><![CDATA[我的备份方式是拷贝到另一个移动硬盘。 ]]></description>
+      <guid>https://ld246.com/article/1788770958532</guid>
+      <pubDate>Mon, 07 Sep 2026 08:49:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>请教没办法连续输入 #号</title>
+      <link>https://ld246.com/article/1788764292387</link>
+      <description><![CDATA[习惯了 markdown 快捷输入几个#号去确定标题，但是在思源的输入里面没办法连续输入#号，
+一级标题，一个#可以输入；
+但是二级及以后标题，没办法连续输入#，在其他地方正常。是为什么呢？ 
+哪个网友可以告知如何设置？现在太不方便了。 ]]></description>
+      <guid>https://ld246.com/article/1788764292387</guid>
+      <pubDate>Mon, 07 Sep 2026 06:58:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>插件中是否可以实现超出软件界面范围的浮动的界面？</title>
+      <link>https://ld246.com/article/1788761177442</link>
+      <description><![CDATA[特点：
+]]></description>
+      <guid>https://ld246.com/article/1788761177442</guid>
+      <pubDate>Mon, 07 Sep 2026 06:06:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源笔记 v3.8.3 发布</title>
+      <link>https://ld246.com/article/1788754521111</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788754521111</guid>
+      <pubDate>Mon, 07 Sep 2026 04:15:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>静读天下的划线批注，自动同步进思源笔记了：推荐一个我做的免费插件</title>
+      <link>https://ld246.com/article/1788747939105</link>
+      <description><![CDATA[如果你和我一样：读书用静读天下（Moon+ Reader），笔记用思源笔记——那你大概率也遇到过这个烦人的断层：
+在手机上划了线、写了批注，想整理进思源，只能手动导出、复制、粘贴。书一多，这事就无限拖延，高亮永远躺在阅读器里吃灰。 
+我把这个断层填了：写了一个思源插件 siyuan-moon-sync，已经上架思源官方集市，免费开源。装上配置一次，之后你在静读天下里的每一次划线、每一条批注，都会自动变成思源里的一篇篇读书笔记。 
+它能做什么
+一句话：手机静读天下划线 → WebDAV 自动备份 → 思源笔记自动成文。 
+具体来说：
+
+一本书一篇文档：所有高亮和批注按书整理，自动归到「静读天下」目录下，不乱不重
+批注和高亮都保留：你在阅读器里写的想法单独成行（💬 标出），和划线原文一一对应
+增量同步：只补新内容。老高亮不会重复插入，新划的线下次同步自动跟上
+暂停/取消：同步弹窗里有进度和暂停按钮，随时可控
+不吃流量：每次只下载几 KB 的高亮文件，坚果云流量可以忽略
+
+适合谁用
+满足这几个条件就能用：
+
+读书主力是静读天下（安卓）
+笔记用思源笔记
+手机上开了静读天下的 WebDAV 备份（坚果云免费额度足够；其他 WebDAV 服务也行）
+
+典型场景：读书会摘录党、写书评/公众号需要引用原文的、想把&quot;读过的痕迹&quot;沉淀进知识库的。 
+5 分钟配置步骤
+
+静读天下开 WebDAV 备份：设置 → 其他 → 备份，选 WebDAV（坚果云的话用应用密码，不要用登录密码），确认能备份出 .Moon+/Cache/ 目录
+装插件：思源笔记 → 设置 → 集市 → 插件，搜 moon-sync，安装启用
+填配置：WebDAV 地址、账号、密码（就是静读天下填的那套），文件夹路径保持默认 /moonReader/.Moon+/Cache/
+点顶栏图标同步：第一次会全量导入所有书，之后每次点只补新增
+
+第一次同步完，你的每本书就都在思源里了，之后保持习惯随手划线，隔几天点一下同步（或者等以后加自动同步），笔记永远是最新的。 
+两个诚实的说明
+章节号可能&quot;偏大&quot;。  插件显示的&quot;第 N 章&quot;用的是静读天下内部的章节索引，带前言/导读的书会比出版目录大（比如正文第一章显示成第 9 章）。这是数据源限制——高亮文件里只有这个索引，没有人眼可见的章节标题。正文、划线、批注都完全准确，只是章节标号这一项，介意的话可以忽略。 
+思源端改过的内容不会被覆盖。  插件是&quot;追加式&quot;的：只在文档后面补新高亮，你在思源里整理、改写过的内容它绝不碰。这也意味着删掉阅读器里的旧高亮，思源端不会跟着删——它是你的积累，不是镜像。 
+为什么值得信任它
+这个插件不是玩具：用了真实数据（52 本书、近 400 条高亮）验证过解析和同步的准确性，修掉了重复文档、内容错位、新增丢失等一堆实际 bug，提交思源官方集市时通过了代码审核才上架（中间还因为按钮图标不合格被打回过一次，改完才合并的）。 
+源码全部开源在 GitHub，数据只在你自己的 WebDAV 和思源之间流转，没有任何第三方服务经手。 
+
+
+集市安装：思源笔记 → 设置 → 集市 → 插件 → 搜索 moon-sync
+源码 / 反馈问题：https://github.com/GustavMhaler/siyuan-moon-sync
+
+如果你装好了，欢迎去 GitHub 给个 Star；遇到问题直接提 Issue，我看到就修。 ]]></description>
+      <guid>https://ld246.com/article/1788747939105</guid>
+      <pubDate>Mon, 07 Sep 2026 02:25:38 GMT</pubDate>
+    </item>
     </channel>
 </rss>

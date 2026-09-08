@@ -4,18 +4,25 @@
     <title>Marine: News</title>
     <link>https://marine.copernicus.eu/</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Aug 2026 23:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 00:56:42 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>什么是海洋状况报告？</title>
+      <link>https://marine.copernicus.eu/news/what-ocean-state-report</link>
+      <description><![CDATA[2026年9月30日，第十​​版哥白尼海洋状态报告即将发布，标志着海洋科学权威十年。但什么是海洋状况报告，它是如何产生的，以及为什么它很重要？请继续阅读，了解今年周年纪念版的内容。]]></description>
+      <guid>https://marine.copernicus.eu/news/what-ocean-state-report</guid>
+      <pubDate>Fri, 04 Sep 2026 13:45:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>洋流：地球的隐形引擎</title>
       <link>https://marine.copernicus.eu/news/ocean-currents-earths-invisible-engine</link>
-      <description><![CDATA[洋流是地球的循环系统，将热量、营养物质和生命输送到全球各地，塑造气候并维持渔业。使用 Copernicus Marine MyOcean Viewer 了解它们的工作原理并近乎实时地探索它们。]]></description>
+      <description><![CDATA[洋流是地球的循环系统，在全球范围内输送热量、营养物质和生命，塑造气候并维持渔业。使用 Copernicus Marine MyOcean Viewer 了解它们的工作原理并近乎实时地探索它们。]]></description>
       <guid>https://marine.copernicus.eu/news/ocean-currents-earths-invisible-engine</guid>
       <pubDate>Wed, 12 Aug 2026 15:31:44 GMT</pubDate>
     </item>
     <item>
       <title>冠军用户咨询小组在数字海洋周上为哥白尼海洋服务的未来做出贡献</title>
       <link>https://marine.copernicus.eu/news/cuag-contributes-to-the-future-copernicus-marine-service</link>
-      <description><![CDATA[冠军用户咨询小组 (CUAG) 是由 21 名独立专家组成的小组，塑造哥白尼海事服务公司产品和服务的未来发展，于 6 月 9 日至 12 日齐聚布鲁塞尔，开展数字海洋周。]]></description>
+      <description><![CDATA[冠军用户咨询小组 (CUAG) 是由 21 名独立专家组成的小组，塑造哥白尼海事服务产品和服务的未来发展，于 6 月 9 日至 12 日齐聚布鲁塞尔，开展数字海洋周。]]></description>
       <guid>https://marine.copernicus.eu/news/cuag-contributes-to-the-future-copernicus-marine-service</guid>
       <pubDate>Thu, 06 Aug 2026 12:54:30 GMT</pubDate>
     </item>
@@ -29,14 +36,14 @@
     <item>
       <title>哥白尼海事服务推出 MyOcean Health</title>
       <link>https://marine.copernicus.eu/news/copernicus-marine-service-launches-myocean-health</link>
-      <description><![CDATA[海洋正在发生变化。哥白尼海洋服务公司的新平台使任何人都可以跟踪这些变化。 MyOcean Health 结合数十年的观测结果，提供了关键海洋变量的当前状况和短期预测的概述。]]></description>
+      <description><![CDATA[海洋正在发生变化。哥白尼海洋服务公司的新平台使任何人都可以跟踪这些变化。 MyOcean Health 结合了数十年的观测结果，提供了对关键海洋变量的当前状况和短期预测的概述。]]></description>
       <guid>https://marine.copernicus.eu/news/copernicus-marine-service-launches-myocean-health</guid>
       <pubDate>Thu, 16 Jul 2026 10:06:27 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>哥白尼海事服务在第九届大会上开启增长新篇章</title>
       <link>https://marine.copernicus.eu/news/copernicus-marine-service-embarks-new-chapter-growth-9th-general-assembly</link>
-      <description><![CDATA[随着海洋温度上升、海冰减少以及沿海社区面临越来越大的环境压力，对可靠海洋数据的需求从未如此之大。满足这一需求是第九届哥白尼海洋大会的中心主题，该大会于 6 月 8 日至 10 日在布鲁塞尔举行，是墨卡托海洋国际组织的首届数字海洋周的一部分。]]></description>
+      <description><![CDATA[随着海洋温度上升、海冰减少以及沿海社区面临越来越大的环境压力，对可靠海洋数据的需求从未如此之大。满足这一需求是第九届哥白尼海洋大会的中心主题，该大会于 6 月 8 日至 10 日在布鲁塞尔举行，是墨卡托海洋国际组织举办的首届数字海洋周的一部分。]]></description>
       <guid>https://marine.copernicus.eu/news/copernicus-marine-service-embarks-new-chapter-growth-9th-general-assembly</guid>
       <pubDate>Tue, 23 Jun 2026 12:40:42 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>七月发布：通过全球合作扩大哥白尼海事服务</title>
       <link>https://marine.copernicus.eu/news/july-release-expanding-copernicus-marine-service-through-global-collaboration</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[哥白尼海洋服务公司欢迎新的监测和预报中心 (COLAB MFC) 作为其网络的贡献者，这标志着通过国际数据共享伙伴关系扩大该服务的全球影响力的重要一步。]]></description>
       <guid>https://marine.copernicus.eu/news/july-release-expanding-copernicus-marine-service-through-global-collaboration</guid>
       <pubDate>Fri, 05 Jun 2026 14:38:11 GMT</pubDate>
     </item>
@@ -69,9 +76,9 @@
       <pubDate>Tue, 26 May 2026 11:44:16 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>北大西洋盛开——及其重要性</title>
       <link>https://marine.copernicus.eu/news/north-atlantic-ocean-bloom-and-why-it-matters</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[每年春天，大量浮游植物遍布北大西洋，支持海洋食物网并帮助调节地球气候。 Copernicus Marine Service 集成了卫星观测、海洋颜色数据和建模，允许通过其 MyOcean 可视化工具探索和监测这些季节性的水华。]]></description>
       <guid>https://marine.copernicus.eu/news/north-atlantic-ocean-bloom-and-why-it-matters</guid>
       <pubDate>Fri, 22 May 2026 10:46:26 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 04 May 2026 07:18:45 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>了解我们的海洋 I：海洋观测</title>
       <link>https://marine.copernicus.eu/news/understanding-our-ocean-i-ocean-observing</link>
       <description><![CDATA[本文是一个新系列的一部分，该系列探讨了我们如何观察、理解和建模海洋作为新兴数字海洋系统的一部分。在整个系列中，我们将探索如何收集、组合海洋数据并将其转化为可行的见解，以支持快速变化的气候中的决策。]]></description>
       <guid>https://marine.copernicus.eu/news/understanding-our-ocean-i-ocean-observing</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[哥白尼海洋服务公司发布了第四份年度用户反馈报告，详细介绍了其不断增长的全球用户群如何塑造海洋数据和服务的未来]]></description>
       <guid>https://marine.copernicus.eu/news/copernicus-marine-service-publishes-2025-user-feedback-report</guid>
       <pubDate>Thu, 23 Apr 2026 07:22:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于海洋空间规划的海洋数据：哥白尼海洋服务研讨会的主要成果</title>
-      <link>https://marine.copernicus.eu/news/marine-data-maritime-spatial-planning-key-outcomes-copernicus-marine-service-workshop</link>
-      <description><![CDATA[]]></description>
-      <guid>https://marine.copernicus.eu/news/marine-data-maritime-spatial-planning-key-outcomes-copernicus-marine-service-workshop</guid>
-      <pubDate>Thu, 09 Apr 2026 12:36:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

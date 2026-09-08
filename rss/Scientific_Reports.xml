@@ -1,67 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Scientific Reports</title>
-    <link>http://feeds.nature.com/srep/rss/current</link>
-    <description><p><em>Scientific Reports</em>&nbsp;publishes original research in&nbsp;all areas of the natural and clinical sciences. We believe that if your research is scientifically valid and technically sound then it deserves to be published and made accessible to the research community.</p>
-
-<p>By publishing with us, your research will get the coverage and attention it deserves. Open access and continuous online publication means your work will be published swiftly, ready to be accessed by anyone, anywhere, at any time. Article Level Metrics allow you to follow the conversations your work has started.</p></description>
-    <lastBuildDate>Mon, 07 Sep 2026 11:06:38 GMT</lastBuildDate>
-    <item>
-      <title>气候变化和土地利用变化对中国半湿润季风流域径流动态的对比作用</title>
-      <link>https://www.nature.com/articles/s41598-026-67812-3</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 9 月 7 日； doi:10.1038/s41598-026-67812-3气候变化和土地利用变化对中国半湿润季风流域径流动态的对比作用]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-67812-3</guid>
-      <pubDate>Mon, 07 Sep 2026 11:06:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>RK4与混合RK4-前馈神经网络方法求解二阶常微分方程初值问题的对比分析</title>
-      <link>https://www.nature.com/articles/s41598-026-68140-2</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 9 月 7 日； doi:10.1038/s41598-026-68140-2RK4和混合RK4-前馈神经网络方法求解二阶常微分方程初值问题的比较分析]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-68140-2</guid>
-      <pubDate>Mon, 07 Sep 2026 11:06:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>撤回说明：NLRP3 过度表达加剧了幼年胶原诱导的关节炎中的滑膜组织退化</title>
-      <link>https://www.nature.com/articles/s41598-026-69208-9</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 9 月 7 日； doi:10.1038/s41598-026-69208-9撤回说明：NLRP3 过度表达加剧了幼年胶原诱导的关节炎中的滑膜组织退化]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-69208-9</guid>
-      <pubDate>Mon, 07 Sep 2026 11:06:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>边-边萨格勒布指数在辛烷异构体分析中的预测能力</title>
-      <link>https://www.nature.com/articles/s41598-026-69752-4</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 9 月 7 日； doi:10.1038/s41598-026-69752-4边缘-边缘萨格勒布指数在辛烷异构体分析中的预测能力]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-69752-4</guid>
-      <pubDate>Mon, 07 Sep 2026 11:06:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Lyapunov 验证的安全分析，实现眼底图像隐私的 ROI 感知 4D 超混沌加密</title>
-      <link>https://www.nature.com/articles/s41598-026-69540-0</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 9 月 7 日； doi:10.1038/s41598-026-69540-0通过 Lyapunov 验证的安全分析实现 ROI 感知的 4D 超混沌加密，用于眼底图像隐私]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-69540-0</guid>
-      <pubDate>Mon, 07 Sep 2026 11:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过区块链驱动的可追溯性确保食品供应链的透明度</title>
-      <link>https://www.nature.com/articles/s41598-026-63360-y</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 9 月 7 日； doi:10.1038/s41598-026-63360-y通过区块链驱动的可追溯性确保食品供应链透明度]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-63360-y</guid>
-      <pubDate>Mon, 07 Sep 2026 11:06:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>撤回说明：<i>植物乳杆菌</i> NCU116 的胞外多糖通过 TLR2 在小鼠肠上皮癌细胞中诱导 c-Jun 依赖性 Fas/Fasl 介导的细胞凋亡</title>
-      <link>https://www.nature.com/articles/s41598-026-70078-4</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 9 月 7 日； doi:10.1038/s41598-026-70078-4撤回说明：植物乳杆菌 NCU116 的胞外多糖通过 c-Jun 依赖性 Fas/Fasl 介导的细胞凋亡小鼠肠上皮癌细胞中的TLR2]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-70078-4</guid>
-      <pubDate>Mon, 07 Sep 2026 11:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.nature.com/articles/s41598-026-69177-z</link>
-      <description><![CDATA[科学报告，在线发布：2026 年 9 月 7 日； doi:10.1038/s41598-026-69177-z用于降维到离散空间的蚁群映射]]></description>
-      <guid>https://www.nature.com/articles/s41598-026-69177-z</guid>
-      <pubDate>Mon, 07 Sep 2026 11:06:31 GMT</pubDate>
-    </item>
+    <title></title>
+    <link></link>
+    <description></description>
+    <lastBuildDate>Tue, 08 Sep 2026 00:46:40 GMT</lastBuildDate>
     </channel>
 </rss>

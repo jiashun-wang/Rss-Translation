@@ -4,7 +4,325 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Mon, 07 Sep 2026 11:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 01:00:38 GMT</lastBuildDate>
+    <item>
+      <title>yunMusicPlayer：直连网盘的便携音乐播放器</title>
+      <link>https://meta.appinn.net/t/topic/91410</link>
+      <description><![CDATA[yunMusicPlayer：一个支持直连网盘播放的便携音乐播放器
+软件名
+yunMusicPlayer（网盘音乐播放器）
+一句话简介
+一个用 WPF + .NET 10 + BASS 写的 Windows 音乐播放器：解压即用、数据随身、能直接连坚果云 WebDAV 听歌、自带三层歌词与响度统一。 
+软件介绍（正文）
+市面上的播放器要么臃肿、要么不开源、要么不让你连自己的云盘。 yunMusicPlayer 想做一个「我自己的播放器」：不收集你的数据、不插广告、把你存在坚果云里的歌也能直接播。 
+它从第一天起就定位成个人非商业项目，代码完全公开，你可以审查、自己构建、甚至二次开发。 
+功能亮点
+
+
+真·便携：解压到任意可写目录就能跑，曲库 / 设置 / 播放列表全部写在 exe 同目录下。塞进 U 盘带着走，换一台电脑也不丢配置。 
+
+
+自包含，零安装：已随包打包 .NET 10 运行时，下载后无需安装任何运行库，双击即用。 
+
+
+直连坚果云听歌：内置 WebDAV 浏览，连上坚果云后进入文件夹、选中歌曲即可加入播放列表播放——歌在云上，不必先下到本地。 
+
+
+三层歌词：优先读本地 .lrc / 音频内嵌标签，其次云盘同目录 .lrc，最后联网 API 兜底；歌词还能自动写回，让歌词跟着歌走。 
+
+
+响度统一（ReplayGain）：读取曲目里的 ReplayGain 标签，让不同歌曲之间音量一致，不再被忽大忽小折磨。 
+
+
+格式广泛：基于 BASS 音频引擎，支持 mp3 / wav / flac / ape / alac / opus 等常见无损与有损格式。 
+
+
+开源可查：全部源码公开，更新透明。 
+
+
+获取方式
+
+
+开源地址（含更新日志）： GitHub - Post-85sFIRE/music-player: Cross-platform music player (Windows WPF + .NET 10 + BASS) · GitHub
+
+
+下载（v0.1.0，Windows x64 便携版，约 81MB）： https://github.com/Post-85sFIRE/music-player/releases/download/v0.1.0/MusicPlayer-Desktop-win-x64-v0.1.0.zip
+
+
+使用注意
+
+
+未代码签名：Windows 首次运行会​​被 SmartScreen 拦截，请点「更多信息 → 仍要运行」即可正常启动。这是免费个人项目的正常现象，不是病毒。 
+
+
+请解压到可写目录：不要直接放进 C:\Program Files，否则程序无法写入曲库数据。建议解压到「文档」或任意你有权限的文件夹。 
+
+
+坚果云用「应用专用密码」：连接云盘时填的密码不是网页登录密码，需在坚果云网页端「安全选项 → 应用密码」里生成。这是最常踩的坑。 
+
+
+合规与开源声明
+
+
+本项目为个人非商业项目，音频引擎使用 Un4seen BASS（非商业授权）。 
+
+
+软件仅用于播放你拥有合法权利的音乐，不包含任何搜索、分享、下载他人资源的功能。 
+
+
+欢迎在遵守许可的前提下使用与衍生。 
+
+
+
+附图
+
+
+【截图 1】主界面总览：菜单栏 / 播放控制 / 播放列表 / 歌词区
+
+
+
+
+
+【截图 2】云盘窗口：连接表单（名称 / URL / 用户名 / 应用密码）+ 浏览区
+
+
+
+
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91410</guid>
+      <pubDate>Mon, 07 Sep 2026 15:12:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】月读：透明桌面小说阅读器，整本连续滚动、按段落记进度、一键隐藏 [Windows]</title>
+      <link>https://meta.appinn.net/t/topic/91398</link>
+      <description><![CDATA[月读
+一个安静、轻巧的 Windows 桌面小说阅读器
+应用平台
+
+Windows 10 / 11
+
+推荐类型
+【开发者自荐】
+是否收费
+免费。核心功能（书架、txt 导入、阅读、进度、章节、自动滚动、主题）永久免费且开源；桌面模式、老板键、epub、自定义书源为专业版功能，新安装可试用 7 天，目前测试阶段，试用到期在 GitHub Issues 留言即可免费领激活码。正式版计划 9.9 元买断。 
+一句简介
+整本书连续滚动、按段落记住进度、窗口可以变透明只留文字浮在桌面上的 txt / epub 阅读器。 
+应用简介
+起因是想在电脑上安安静静看 txt，试过的阅读器要么按章翻页很割裂，要么窗口太显眼，就自己写了一个。 
+2026-09-07 v1.0.0 已完成功能：
+
+整本连续滚动：不按章翻页，一个长页面读到底；分块渲染，百万字大书秒开
+进度记忆：按段落记住读到哪里，改字号、重开软件都不会跑位
+章节定位：自动识别“第 X 章”（阿拉伯数字和中文数字都行），输入章节号直达，目录面板可点选、可筛选
+自动滚动：空格开关，十档速度，左右方向键调速
+桌面模式：窗口透明只留文字浮在桌面上，背景浓淡可调，可置顶、毛玻璃、描边
+老板键：全局快捷键一键隐藏 / 恢复，托盘图标常驻
+导入：txt 自动识别 GBK / UTF-8，epub 一键转换，拖进窗口即可
+自定义书源：兼容 so-novel 的书源规则格式，导入规则文件后可联网搜书并整本下载（软件本身不内置任何书源）
+字号、行距、纸张 / 纯白 / 护眼 / 夜间四种主题，窗口大小位置记忆
+
+开发中功能：
+
+看大家反馈决定，欢迎提需求
+
+无需注册，中文界面。 Electron 编写，安装包约 80 MB，未签名，SmartScreen 提示时点“更多信息 → 仍要运行”。 
+截图预览
+阅读界面：
+
+桌面模式（窗口透明，后面是壁纸）：
+
+官方网站
+
+GitHub（开源核心，GPL-3.0）：GitHub - vsh5dvsch7-png/yuedu: 月读 - 安静、轻巧的 Windows 桌面小说阅读器：透明桌面模式、老板键、txt/epub、章节定位、自定义书源 · GitHub
+下载：Releases · vsh5dvsch7-png/yuedu · GitHub
+反馈 / 提需求：Issues · vsh5dvsch7-png/yuedu · GitHub
+
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91398</guid>
+      <pubDate>Mon, 07 Sep 2026 12:54:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】FilmSweep：像扫雷一样玩的每日电影问答，支持简体和繁体中文</title>
+      <link>https://meta.appinn.net/t/topic/91388</link>
+      <description><![CDATA[软件名称
+FilmSweep
+应用平台
+网页，手机或电脑浏览器均可游玩。免费，无需注册即可开始。 
+推荐类型
+〖开发者自荐〗
+一句简介
+一款玩法有点像扫雷的每日电影问答：从电影海报组成的网格里，选出同时符合指定演员和条件的电影。 
+应用简介
+大家好，我叫 Steven，是 FilmSweep 的开发者。这个游戏最初只是我的个人项目，后来慢慢做成了现在的样子，想在这里分享给喜欢电影的朋友。 
+每一局会给出演员和一个条件，比如“片长少于 120 分钟”。你需要在三分钟内，从网格里选出同时满足两项要求的电影。有三次生命，也要避开隐藏的炸弹，点中炸弹会直接结束这一局。 
+每日题目有时挺难，连我自己也经常一连输上好几天。不过，玩着玩着会发现一些小技巧。比如不确定某位演员有没有参演时，可以点开放大电影海报，看看上面有没有演员的脸或名字，不一定全靠记忆。 
+除了当天的题目，也可以玩以前的题目、查看全球排行榜、留言，以及查看个人资料页的游戏统计。我也在做 Letterboxd 集成，不过目前还没有上线。 
+最近加入了多语言支持，包括简体中文、繁体中文、英语、西班牙语、巴西葡萄牙语、法语、日语和印地语。 
+如果你喜欢电影，可以打开试一局。希望你玩得开心，有问题也欢迎告诉我。 
+官方网站
+简体中文：FilmSweep：每日电影知识网格挑战
+繁体中文：FilmSweep：每日电影知识方格挑战
+首页：https://filmsweep.io/
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91388</guid>
+      <pubDate>Mon, 07 Sep 2026 11:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>【自荐】PriTime： 一个可自托管的多端待办任务清单、时间管理应用</title>
+      <link>https://meta.appinn.net/t/topic/91387</link>
+      <description><![CDATA[软件名称
+PriTime
+应用平台
+
+后端 API （已开源发布）
+Web （已开源发布）
+Windows （开发中）
+MacOS（测试版已上线）
+Android（开发中）
+IOS（开发中）
+
+推荐类型
+【开发者自荐】
+是否收费
+后端API + Web 免费开源
+客户端 99 元系列买断
+一句简介
+PriTime 是一款可完全自托管的多端待办任务管理应用。任务、清单、标签、四象限、日历、番茄钟、习惯打卡、共享清单、AI 助手一应俱全，支持 Docker 一键部署，数据 100% 存在你自己的服务器或 NAS 上，并提供 JSON/Excel 全量导出，随时可走
+应用简介
+任务管理
+创建、编辑、完成、删除、拖拽排序；支持描述、优先级、标签。 
+任务清单
+将任务归类到不同清单，内置「工作 / 个人 / 学习」默认清单。 
+彩色标签
+自定义带颜色的标签，按标签快速筛选任务。 
+四级优先级
+无 / 低 / 中 / 高，配合四象限（Eisenhower）视图使用。 
+智能提醒
+准时 / 提前 5 分钟 / 30 分钟 / 1 小时 / 1 天多种提醒方式。 
+任务重复
+不重复 / 每天 / 工作日 / 每周 / 每月 / 每年，满足各种周期。 
+回收站
+软删除、恢复、一键清空，重要任务不再误删。 
+专注模式
+内置番茄钟与专注模式，帮你一次只做一件事。 
+全局搜索
+按标题、描述、标签快速检索全部任务，再也不怕找不到。 
+AI 智能助手
+一句话创建任务、规划清单，AI 帮你把想法变成待办。 
+习惯打卡
+记录每日习惯与连续打卡次数，见证坚持的力量。 
+数据统计
+完成率、趋势与分布一目了然，回顾更有据可依。 
+课程表
+按学期管理课程，课程与任务统一安排，学生党友好。 
+清单分享
+把清单分享给他人，协作与同步更轻松。 
+推送提醒
+到期自动推送提醒，重要任务不错过。 
+纪念日
+记录重要日子，自动计算倒数天数。 
+开发中功能：
+
+IOS 客户端
+
+截图预览：
+
+官方网站
+PriTime — Your Time, Your Privacy
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91387</guid>
+      <pubDate>Mon, 07 Sep 2026 11:41:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>〖开发者自荐〗StatusPerch：把不常用的 Mac 菜单栏图标先收起来</title>
+      <link>https://meta.appinn.net/t/topic/91385</link>
+      <description><![CDATA[
+
+
+
+
+项目
+信息
+
+
+
+
+软件名称
+StatusPerch
+
+
+应用平台
+macOS 13 Ventura 或更高版本；Apple 芯片与 Intel Mac
+
+
+推荐类型
+〖开发者自荐〗
+
+
+是否收费
+免费使用，专有软件，非开源
+
+
+是否需要注册
+不需要
+
+
+是否联网
+核心功能完全在本机运行
+
+
+
+为什么做它
+Mac 上常驻的软件多起来以后，菜单栏很容易被塞满。我的需求其实不复杂：时钟和常用图标留在外面，低频图标平时藏起来，需要时再展开。 
+StatusPerch 就是为这件小事做的。它在菜单栏里提供一个可以移动的边界和箭头。按住 Command，把兼容的低频图标拖到边界左侧，之后点一下箭头就能收起或展开。 
+
+主要功能
+
+一键收起或展开边界左侧的兼容图标；
+展开后可在 5、10 或 30 秒后自动收起；
+支持登录时启动；
+支持简体中文、English 和跟随系统；
+自动适配 macOS 亮色与暗色模式；
+Universal 2 安装包，同时支持 Apple 芯片和 Intel Mac。 
+
+我在权限上做得比较克制：应用不截取屏幕，也不模拟点击其他应用，核心收纳功能不需要屏幕录制或辅助功能权限；没有账号、统计或广告 SDK，也不会上传菜单栏、屏幕或使用数据。 
+使用方法
+
+启动后按住 Command，拖动 StatusPerch 的边界和箭头；
+把低频图标放到边界左侧，把时钟和常用图标留在箭头右侧；
+单击箭头收起或展开，右键箭头可以设置自动收起、登录启动、语言和帮助。 
+
+目前的限制
+有几件事需要提前说明：
+
+部分 Apple 系统图标和第三方应用不支持 Command 拖动；
+StatusPerch 使用原生菜单栏，不会创建或模拟第二行菜单栏；
+公共 GitHub 仓库提供文档、发布说明和官方安装包，不包含应用源码；
+1.0.0 目前尚未经过 Apple 公证。首次运行时，请在“应用程序”中按住 Control 点击 StatusPerch，选择“打开”并再次确认。无需关闭 Gatekeeper，也不建议使用绕过系统安全机制的命令。 
+
+下载与反馈
+
+官网：StatusPerch — Organize your Mac menu bar
+GitHub 公共仓库：GitHub - qingtan-labs/StatusPerch: Hide and organize macOS menu bar icons — lightweight, offline, privacy-friendly, and permission-free. · GitHub
+最新版本：https://github.com/qingtan-labs/StatusPerch/releases/latest
+中文说明：StatusPerch/README.zh-Hans.md at main · qingtan-labs/StatusPerch · GitHub
+问题反馈：Issues · qingtan-labs/StatusPerch · GitHub
+
+目前是 1.0.0，安装包约 2.09 MiB。如果大家愿意试用，欢迎说说它在刘海屏、外接显示器，以及和其他菜单栏工具同时使用时的表现。 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91385</guid>
+      <pubDate>Mon, 07 Sep 2026 11:39:58 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】Folder Player，一个简约高效的Android音乐播放器，用于播放云端/本地资源</title>
       <link>https://meta.appinn.net/t/topic/91368</link>
@@ -102,7 +420,7 @@ APP下载链接（海外）：https://apps.apple.com/ch/app/时光画展/id68010
 和母亲聊天，她也时常感叹，年轻的时候竟然连一张全家福都没有拍过，小时候她也教过我画画写字，这些东西都已了无痕迹，好像从来没有存在过，而今只剩下一些遥远且愈加模糊的记忆。物质匮乏的年代，大家都在疲于奔命，全力奔跑，哪还顾得上沿路的风景。 
 麦家说：一个人的性格其实是他所处状态的外形。当你困顿时，会滋生出狭隘与自私，当你疲惫时，会变得冷漠和暴躁，当你快乐的时候，会变得包容和乐观。 
 现在的我自感越来越狭隘，我的悲伤来自于能支持我创作和前行的能量太少，这份觉察也是我接下来创业的方向。人生的下半场，我希望能够留住生活中的小美好，传递欢乐。身为人父，我也希望为孩子们留下更多可以停驻欣赏的美好时光。希望大家在困顿与疲惫之时，也能够翻开时光画卷，于漫漫长夜中，拾得一缕来自童年的微光。 
-5 个帖子 - 3 位参与者
+6 个帖子 - 4 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91356</guid>
       <pubDate>Mon, 07 Sep 2026 03:10:38 GMT</pubDate>
@@ -399,153 +717,6 @@ C 也能往下接力：C 接收并缓存完成后，也可以继续帮助后面�
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91256</guid>
       <pubDate>Sat, 05 Sep 2026 04:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】为了留住将要流逝的时光 储留光诞生了 一个为记录生活而生的工具</title>
-      <link>https://meta.appinn.net/t/topic/91255</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/91255</guid>
-      <pubDate>Sat, 05 Sep 2026 04:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[开发者自荐] 本地大模型帮你写 SQL，数据不出内网的自建数据库 IDE</title>
-      <link>https://meta.appinn.net/t/topic/91248</link>
-      <description><![CDATA[先把利益关系说清楚：我是 LibreDB Studio 团队的成员，这是一个 MIT 协议的开源项目，下面说的都是我自己平时在用的东西，不是广告。 
-起因是我一直不太舒服一件事。团队里每个人的电脑上都装着数据库客户端，每来一个新人，我就得把生产库的连接地址和密码发给他，让他在自己的笔记本上一台一台配。人一多，密码就等于到处都是，发过的东西想撤也撤不回来，谁的电脑丢了都是麻烦。后来我们换了个思路：与其把编辑器装到每个人的笔记本上，不如把它装到数据库旁边。团队在浏览器里打开一个网址就能用，不用再把真实的数据库密码发给任何人。 
-LibreDB Studio 就是这么个东西：一个开源、自托管、跑在浏览器里的数据库 IDE。 
-关于 AI 这块，是我最想说的。它支持用你自己的模型：可以接 Gemini、OpenAI，也可以接本地的 Ollama，或者任何兼容 OpenAI 接口的端点（LM Studio、LiteLLM、vLLM 都行）。你用自然语言问一句，它会写成 SQL、读结果​​，再给你一份结论都有查询结果支撑的报告。重点是：如果你用本地模型，数据一点都不会离开你自己的网络。对在意隐私、习惯自建的人来说，这点挺关键。而且这个查数据的 AI 是只读的，它只会读，不会动你的数据。 
-一个界面里支持 14 种数据库：PostgreSQL、MySQL、Oracle、SQL Server、SQLite、MongoDB、Redis、Couchbase、ClickHouse、Druid、Elasticsearch、OpenSearch、Apache Trino、Apache Cassandra。靠 wire 协议兼容，这 14 个驱动实际能连到 33 种叫法不同的数据库，比如 MariaDB、TiDB、CockroachDB、Valkey、FerretDB、ScyllaDB。其中 Druid、Elasticsearch、OpenSearch 本身是只读的，产品会老实告诉你「不支持写」，不藏着掖着。 
-功能基本都在免费版里，没有付费墙：SSO（OIDC）、RBAC、完整的查询审计日志、ER 图、schema 对比和 migration 生成、基于 Monaco 的编辑器加能识别表结构的自动补全、可视化 EXPLAIN。全都是 MIT 免费。 
-安装也简单，一个容器就跑起来：
-docker run -p 3000:3000 libredb/libredb-studio
-另外也有 Helm chart 和 npm 包。 
-项目地址：GitHub - libredb/libredb-studio: One browser tab for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, SQLite, Couchbase, ClickHouse, Druid, DuckDB, Turso and more. An open-source SQL IDE with SSO, audit trail and AI-assisted queries MIT licensed, with nothing held back behind an enterprise wall. · GitHub
-在线 demo：https://app.libredb.org
-目前四百多个 star（大约 403），还在继续做。要是你也有「不想到处发数据库密码」这个顾虑，或者想让本地大模型帮你查数据又不担心数据外泄，可以试试，也欢迎提意见。 
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91248</guid>
-      <pubDate>Sat, 05 Sep 2026 01:08:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】AndroMeld：最好的 Android 投屏 Mac 工具，新增远程连接</title>
-      <link>https://meta.appinn.net/t/topic/91247</link>
-      <description><![CDATA[软件名称
-AndroMeld
-应用平台
-macOS 15+
-推荐 Android 14+
-推荐类型
-【开发者自荐】
-是否收费
-同时支持订阅和买断：目前国区买断价格为 88 元（印尼等区价格更低，美区/欧盟等更高）。 
-宽松的免费额度：不付费也可以体验 App 中的所有功能，容量限制非常宽松（每周可启动镜像 30 次，文件写入 5G ，读取不限。额度每周重置）。 
-一句简介
-AndroMeld 是一款的 Android 和 Mac 之间的连续互通工具。 
-官方网站
-官方网址 | Mac App Store：国区｜美区
-应用简介
-AndroMeld 可以做什么
-
-传文件？打开 Finder 就可以看到你的 Android 手机存储。 
-搜照片？在电脑上直接打开你的手机相册 App，拖动照片到 Mac。 
-收短信，发微信？直接在 Mac 打开手机短信、手机微信。在 Android 里打字时直接用 Mac 输入法。 
-复制验证码？通知会自动转发到 Mac 通知中心。 
-连手机热点？低功耗蓝牙通讯帮助你一点即开。 
-同步剪贴板？文本、图片都支持，特别适配微信等传输困难户。 
-
-使用场景
-
-上班摸鱼，显示器直接刷手机短视频
-下班游戏，电脑上多开手机游戏，一个窗口玩，一个窗口查攻略
-文件传输，电脑上管理手机相册
-有些特别 App 不想在电脑上装，直接用手机里的顶上
-远程访问，手机放公司，在家也可以用
-
-
-连接方式
-同时支持 USB 有线和无线连接。 
-有线连接适用于高速传输，摄影发烧友实测超 300G 的照片视频目录，传输遍历不卡顿。 
-（超过 100G 的大量传输推荐使用 USB 3.0 数据线，额外适配算法更高效）
-无线连接更加便捷，让你的手机随叫随到。 
-技术细节：我们同时打通了 mDNS 局域网自动发现、手机 WiFi 桥接、低功耗蓝牙、远程 WebRTC……不论是普通家庭网络还是防火墙严苛的公司，总有一个能跑通。 
-新功能：远程连接
-最近新支持远程连接。配对后，利用 FCM 消息远程唤醒手机，WebRTC 技术点对点通讯，手机不在身边也能使用。 
-国内很多运营商屏蔽了点对点通讯，为此我们开发了开源部署脚本，各位可以一键部署到 Cloudflare，免费流量 1000G 每月。 
-其他还更新了什么？ 
-除了远程连接，我们还添加了非常多酷炫的新功能：
-
-摄像头互通
-
-既可以在 Mac App 中使用 Android 手机摄像头，也可以在 Android 镜像中使用 Mac 笔记本摄像头。 
-
-文件拖拽增强
-
-以前文件拖拽需要 Android 16+，现在我们夜以继日终于攻克下放到了所有 Android 14+ 手机。现在你可以直接拖电脑文件到手机微信发送，也可以直接从 Google Photos 拖照片到 Mac。 
-
-游戏模式
-
-为游戏传输优化，画面更即时，支持 HDR 显示输出。 WASD 键盘可以模拟手机摇杆，屏幕任何区域都可以自定义键盘快捷键。 
-
-更深度的 Mac 系统集成
-
-除了已有的 Handoff、Mac 触控板手势，最近还新接入了 Spotlight、Alfred、Raycast 插件，你可以像启动 Mac 应用一样启动 Android 应用，或者直接把图标摆到 Mac 桌面上。 
-此外，我们还面向未来，适配了 macOS 触摸屏支持。 
-
-AndroMeld 官网： https://andromeld.catchingnow.com
-或 Mac App Store：国区｜美区
-关于我
-古墓派的独立开发者，十年 Android 开发经验。主要作品剪纸堆、Inputting+、冰箱 IceBox、通知滤盒、AndroMeld。 
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91247</guid>
-      <pubDate>Sat, 05 Sep 2026 01:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】OpenCapture：整页长截图，打码后导出 PNG / PDF，处理全在本地</title>
-      <link>https://meta.appinn.net/t/topic/91246</link>
-      <description><![CDATA[自己做的浏览器扩展，用来把整个网页截成一张图，然后标注、打码、导出。 
-整页长截图
-自动滚动，把超出屏幕的部分拼成一张完整图片。固定导航栏、悬浮客服这类元素会在截图前隐藏，不会在图里每隔一屏重复一次。 
-
-截完直接进编辑器：裁剪、箭头、方框、文字、马赛克，每一步都可以撤销。导出 PNG 或 PDF。 PDF 按 CSS 像素对应 pt 出图，打印是 1:1，不会莫名其妙缩一圈。 
-马赛克是真的把像素删了
-不是盖一层半透明色块，是把选区的像素直接丢掉再重绘，导出后没办法还原。 
-不少工具的「模糊」是 CSS 滤镜，原图还完整地留在文件里。发截图前可以自己验一下。 
-
-处理全在本地
-截图和图像处理跑在扩展内置的 Rust / WebAssembly 里，不上传服务器。核心功能不需要注册、不需要登录。 
-价格
-主要功能全部免费、不限次数、不需要账号。 
-只有一个功能收费：把 logo 或文字平铺成水印。 US$5 一次性购买 1000 积分，永久解锁，不是订阅。其余功能不花钱。 
-说明
-
-界面目前只有英文，没有中文界面。 
-AGPL-3.0 开源，上面说的「本地处理」可以自己翻源码验证。 
-
-链接
-官网：https://opencapture.app
-源码：GitHub - Open-Capture/OpenCapture: Free, 100% local full-page screenshot extension for Chrome, Edge and Firefox — capture a whole page as one image, then crop, annotate, blur and export to PNG or PDF. No uploads, no account. Rust/WebAssembly core, AGPL-3.0. · GitHub
-Chrome：https://chromewebstore.google.com/detail/ikhhoggnlncjhpdbnneekifbnmojpjph
-Edge：Full Page Screenshot - Scrolling Screen Capture &amp; Editor | OpenCapture - Microsoft Edge Add-ons
-Firefox：整页截图 - 网页长截图、截图工具与编辑器，导出 PDF | OpenCapture – 下载 🦊 Firefox 扩展（zh-CN）
-4 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91246</guid>
-      <pubDate>Sat, 05 Sep 2026 01:05:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic 免费游戏 2026-9-4</title>
-      <link>https://meta.appinn.net/t/topic/91222</link>
-      <description><![CDATA[电脑游戏：
-https://store.epicgames.com/zh-CN/p/alone-with-you-028a15 Alone With You
-手机游戏：
-https://store.epicgames.com/zh-CN/p/evans-remains-android-ddf101 Evan’s Remains
-https://store.epicgames.com/zh-CN/p/evans-remains-ios-e00ae0 Evan’s Remains
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91222</guid>
-      <pubDate>Fri, 04 Sep 2026 04:26:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
