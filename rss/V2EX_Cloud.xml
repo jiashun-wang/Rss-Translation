@@ -4,7 +4,7 @@
     <title>云计算</title>
     <link>https://www.v2ex.com/</link>
     <description>way to explore</description>
-    <lastBuildDate>Mon, 07 Sep 2026 11:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:32:50 GMT</lastBuildDate>
     <item>
       <title>有没有阿里云代理 不用换号的那种</title>
       <link>https://www.v2ex.com/t/1239529#reply2</link>
@@ -34,28 +34,6 @@ https://github.com/sabialab/oci-arm-hunter]]></description>
       <description><![CDATA[早上发现 Oracle 服务器 4 OCPU / 24 GB 的 A1 实例现在被停止并标记为 disabled ，启动或修改配置都会提示：Instance is disabled and will not accept any action requests. Please contact customer support to reenable.已经成功创建完整 Boot Volume Backup ，但因为免费账户的卷容量限制，无法直接恢复出新卷。 Free Tier 控制台也没有 Create Service Request ，Ask Oracle 机器人一直循环回复。 请问有人遇到并成功解决了吗？ Support Chat 能否临时解锁实例，然后降配到 2 OCPU / 12 GB ？还是只能升级 PAYG ，或者等待旧实例被释放后再从备份恢复？]]></description>
       <guid>https://www.v2ex.com/t/1235469#reply56</guid>
       <pubDate>Wed, 19 Aug 2026 01:20:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS 账单越来越高？先查这 5 项，很多人白花了钱</title>
-      <link>https://www.v2ex.com/t/1234146#reply0</link>
-      <description><![CDATA[AWS 账单突然变高，先别急着换服务器或者买 Savings Plans ，建议先查下面 5 项：
-1.EC2 停机 ≠ 完全停止收费
-​​实例停了，EBS 磁盘、快照、公网 IP 等资源仍可能继续产生费用。
-2.查闲置 EIP / EBS / Snapshot
-很多账号用久了以后，会留下大量测试资源和历史资源。单个看起来不贵，积累起来每月可能就是几百美元。
-3.查公网流量和跨区流量
-Data Transfer 、跨 AZ 、跨 Region 以及 NAT Gateway ，经常是账单里最容易被忽略的一块。
-4.长期运行的 EC2 别一直按 On-Demand 付
-如果服务器长期稳定运行，可以评估 RI 或 Savings Plans 。
-不过建议只覆盖确定长期使用的基础负载，不要为了折扣把全部用量锁死。
-5.账单比较大以后，也别忽略结算成本
-如果一个月 AWS 已经稳定消费几千甚至上万美元，资源侧优化完以后，付款方式、汇率和账单结算方式本身也值得重新算一下。 
-我们目前提供 AWS 账单代付/结算服务，主要适合每月有稳定 AWS 消耗、希望进一步降低实际支付成本的团队。
-如果你现在 AWS 账单已经比较高，可以对比一下现有支付方式和结算方案。
-官网： https://pay4aws.com/
-TG:@m6cloud]]></description>
-      <guid>https://www.v2ex.com/t/1234146#reply0</guid>
-      <pubDate>Thu, 13 Aug 2026 08:18:57 GMT</pubDate>
     </item>
     <item>
       <title>换运营商云服务器好吗？</title>
@@ -193,23 +171,6 @@ contact info:telegram: @awscloud51]]></description>
       <pubDate>Wed, 15 Jul 2026 08:38:04 GMT</pubDate>
     </item>
     <item>
-      <title>AWS 官方代理，账单代付</title>
-      <link>https://www.v2ex.com/t/1226860#reply5</link>
-      <description><![CDATA[AWS 官方代理，账单代付
-优势:
-• 月账单折扣代付
-• 无需实名（提供匿名云账号，最大限度保护客户隐私，无溯源渠道）
-• 无需绑定信用卡（可代付账单）
-• 支持各种付款方式
-• 新旧账号都可代付
-• 7*24 技术支持，专业团队
-contact info:telegram: @m6cloud
-WhatsApp：@6mcloud
-email： support@6mcloud.com]]></description>
-      <guid>https://www.v2ex.com/t/1226860#reply5</guid>
-      <pubDate>Mon, 13 Jul 2026 02:33:52 GMT</pubDate>
-    </item>
-    <item>
       <title>没见过像腾讯云这么恶心的厂</title>
       <link>https://www.v2ex.com/t/1225883#reply11</link>
       <description><![CDATA[没见过像腾讯云这么恶心的厂
@@ -236,6 +197,20 @@ https://global.v2ex.com/t/1220286
 哪有那么多时间等你两三个小时啊，业务全挂了呀]]></description>
       <guid>https://www.v2ex.com/t/1224722#reply10</guid>
       <pubDate>Fri, 03 Jul 2026 03:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>之前那个 mjj 的论坛没了， mjj 们都去哪里了</title>
+      <link>https://www.v2ex.com/t/1224174#reply19</link>
+      <description><![CDATA[以前还在论坛上，等着人打广告，瓦工的限时套餐。 。 。现在没地方去看了]]></description>
+      <guid>https://www.v2ex.com/t/1224174#reply19</guid>
+      <pubDate>Wed, 01 Jul 2026 03:53:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>降本增效之运维费用大幅度缩减。</title>
+      <link>https://www.v2ex.com/t/1223525#reply71</link>
+      <description><![CDATA[生产环境一堆 4c8g 的阿里云机器跑 k8s ，k8s 跑 java 程序，操作系统经常行杀 java 进程，导致生产及其不稳定，也是没谁了，降本增效也不能降运维成本呀。 ]]></description>
+      <guid>https://www.v2ex.com/t/1223525#reply71</guid>
+      <pubDate>Mon, 29 Jun 2026 00:42:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

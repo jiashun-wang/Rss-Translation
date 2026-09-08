@@ -4,7 +4,28 @@
     <title>ESSD - recent papers</title>
     <link>https://essd.copernicus.org/articles/</link>
     <description>Combined list of the recent articles of the journal Earth System Science Data and the recent discussion forum Earth System Science Data Discussions</description>
-    <lastBuildDate>Tue, 08 Sep 2026 00:47:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:20:49 GMT</lastBuildDate>
+    <item>
+      <title>瑞士湖泊的长期温度、氧气和水清澈度趋势</title>
+      <link>https://doi.org/10.5194/essd-18-6527-2026</link>
+      <description><![CDATA[瑞士湖泊的长期温度、氧气和水清澈度趋势
+                    Fabian Bärenbold、Camilla Capelli、Lukas De Ventura、Stefanie Eyring、Elise Folly、Nicole Gallina、Barbara Känel、Peter Keller、Oliver Köster、Fabio Lepori、Robert Lovas、Michela Rogora、David J. Janssen、Damien Bouffard 和 Martin Schmid
+                        地球系统。科学。数据，18, 6527–6544，https://doi.org/10.5194/essd-18-6527-2026, 2026
+                        我们提供了一个公开的数据集，其中包含 21 个瑞士湖泊的物理湖泊监测数据，包括温跃层深度等计算变量。这些数据是由各州当局和研究机构数十年来测量得出的。我们用这些数据比较了瑞士湖泊的演变，发现温度、热含量和分层强度都大幅增加。相比之下，深水氧和温跃层深度在过去几十年中没有显示出明显的趋势。]]></description>
+      <guid>https://doi.org/10.5194/essd-18-6527-2026</guid>
+      <pubDate>Tue, 08 Sep 2026 08:55:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自多源无源微波辐射计数据的北极海冰长期冬季积雪深度数据集（1978-2025）</title>
+      <link>https://doi.org/10.5194/essd-2026-626</link>
+      <description><![CDATA[基于多源无源微波辐射计数据的北极海冰长期冬季积雪深度数据集（1978-2025）
+                    何连、彭新宁、周毅、惠凤鸣、陈卓奇、陈良兵、王贤伟、程晓
+                        地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-626,2026
+ESSD 预印本正在审核中（讨论：开放，0 条评论）
+                        本研究介绍了中山大学雪深数据集（1978-2025），这是覆盖第一年冰和多年冰的最长泛北极海冰雪深记录。它源自无源微波传感器，使用结合了 GRV(37/19)、雪密度和时间因子的新算法，并根据独立观测进行了验证。准确度很高，均方根 (RMSE) 值范围为 ~3 至 17 厘米，为气候和海冰建模提供了重要支持。]]></description>
+      <guid>https://doi.org/10.5194/essd-2026-626</guid>
+      <pubDate>Tue, 08 Sep 2026 08:55:05 GMT</pubDate>
+    </item>
     <item>
       <title>由人工智能驱动的全球表面温度重建，重点是完善南极记录</title>
       <link>https://doi.org/10.5194/essd-18-6503-2026</link>
@@ -13,7 +34,7 @@
                         地球系统。科学。数据，18, 6503–6526，https://doi.org/10.5194/essd-18-6503-2026, 2026
                         我们利用人工智能重建了自 1850 年以来的完整全球温度记录，包括通过填补历史数据的空白和增进对长期气候变化的了解，更好地覆盖自 1961 年以来观测不足的南极地区。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6503-2026</guid>
-      <pubDate>Mon, 07 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>C-PEAT 的全球泥炭地碳数据库（v.2025）</title>
@@ -23,7 +44,7 @@
                         地球系统。科学。数据，18, 6485–6502，https://doi.org/10.5194/essd-18-6485-2026, 2026
                         在过去的几十年里，世界各地进行了大量的实地工作来描述泥炭地生态系统的碳汇能力。在这里，我们提供了一个综合产品，其中包括来自 267 个泥炭地岩心的地层和年代数据。这些数据集中的每一个都可以通过 PANGAEA 单独下载和公开使用。我们还提供脚本（R 和 Python）来下载部分数据库。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6485-2026</guid>
-      <pubDate>Mon, 07 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>2001-2025年青藏高原1 km²以上湖泊月度30 m数据集</title>
@@ -34,7 +55,7 @@
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         这项研究改进了青藏高原大于 1 km² 湖泊的每月 30 m 湖泊测绘，并解决了现有产品的局限性。验证显示空间和湖泊面积高度一致，支持其对水文和气候研究的价值。 2001年至2025年，湖泊数量和面积有所增加，小湖泊推动数量增长，较大湖泊主导面积扩张，夏末出现季节性高峰。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-396</guid>
-      <pubDate>Mon, 07 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>用于稳健面积估计和地图验证的欧洲森林干扰数据库</title>
@@ -45,7 +66,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         我们提供了一个关于森林扰动的欧洲数据库，该数据库是根据卫星数据的手动解释估算得出的。该数据库涵盖 1985 年至 2023 年期间的 35,000 个地点，产生 1,365,000 个地点-年份组合。我们通过估计干扰率和趋势以及将估计值与遥感产品进行比较来举例说明我们数据库的使用。我们的数据库将有助于更好地了解欧洲的森林变化，并减少基于遥感的评估的不确定性。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-422</guid>
-      <pubDate>Mon, 07 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>NASA 浮游生物、气溶胶、云、海洋生态系统任务发射后机载实验 (PACE-PAX)</title>
@@ -56,7 +77,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         我们提供了为验证 NASA 浮游生物、气溶胶、云、海洋生态系统 (PACE) 和 JAXA/ESA 地球、云、气溶胶和辐射探测器 (EarthCARE) 任务生成的大气、海洋和陆地数据产品而收集的数据。我们的现场活动称为 PACE 发射后机载实验 (PACE-PAX)，于 2024 年 9 月使用两架仪表飞机、几艘海洋研究船等进行。数据是免费的并向公众开放。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-541</guid>
-      <pubDate>Mon, 07 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>稳定同位素示踪剂人工智能 (AISIT)：泛北极 δ18O 和辅助数据数据库</title>
@@ -67,7 +88,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         稳定同位素示踪剂人工智能 (AISIT) 项目将不同的泛北极 δ18O 和辅助数据统一到一个人工智能数据库中，在统一的质量控制下进行协调，并遵循可查找、可访问、可互操作和可重复使用的原则。它从存储库、巡航、活动和私人通信中提取数据，拥有 1967 年至 2025 年 99 个数据集的 45,714 个 δ18O 和 5531 个钡测量值，为海洋学家和建模者提供了丰富、统一的资源。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-624</guid>
-      <pubDate>Mon, 07 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>解决热带气旋问题的全球表面湍流热通量数据集</title>
@@ -77,7 +98,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6421–6433，https://doi.org/10.5194/essd-18-6421-2026, 2026
                         本研究解决了高风速条件下现有热通量产品的显着偏差。采用Willoughby提出的热带气旋（TC）区内风速廓线重建再分析数据集中的TC风速，将预先准备的数据集输入到批量算法3.6版本中，得到新的热通量数据集。与其他热通量数据集的比较结果表明，与其他三种产品相比有相当大的改进。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6421-2026</guid>
-      <pubDate>Fri, 04 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>GloPINE 数据集：使用 PINE 仪器对 INP 浓度进行模型测量</title>
@@ -87,7 +108,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6465–6483，https://doi.org/10.5194/essd-18-6465-2026, 2026
                         零度以下云中的冰形成受到空气中称为冰成核粒子（INP）的粒子的影响，其浓度在短时间内和空间尺度上变化很大。为了评估 INP 在气候中的作用，全面且一致的全球数据集至关重要。我们的 GloPINE 模型就绪数据集是朝这个方向迈出的重要一步，包括使用单一仪器设计 (PINE) 在 20 个北半球站点运行 70,000 多个小时进行的 36,000 次测量。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6465-2026</guid>
-      <pubDate>Fri, 04 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>欧洲森林类型的网格数据集，用于支持森林监测、建模和报告</title>
@@ -97,7 +118,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6435–6463，https://doi.org/10.5194/essd-18-6435-2026, 2026
                         这项研究提供了第一个一致的欧洲森林类型地图。通过使用透明的方法将树种信息和森林地图结合起来，我们确定了整个大陆的主要森林类型。该数据集支持更好的森林监测、保护规划和政策决策，以保护生物多样性和生态系统服务。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6435-2026</guid>
-      <pubDate>Fri, 04 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>对具有复杂洪水风险的城市流域进行高分辨率水文测量和下水道系统监测</title>
@@ -108,7 +129,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         提供了来自英国 78 平方公里流域内 497 个新仪表的数据，该流域具有复杂的洪水风险，捕获水位（河流、下水道、道路沟渠和地下水）和降雨量。该数据集解决了当前与数据稀缺相关的挑战，并提高了对城市雨水行为的理解。它开辟了与机器学习和人工智能、传感器网络设计以及其他有助于向“智能”雨水管理过渡的途径相关的研究机会。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-569</guid>
-      <pubDate>Fri, 04 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>南加州低云和陆地气溶胶调查 (SCILLA) 的机载测量</title>
@@ -119,14 +140,14 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         南加州低云和陆地气溶胶调查 (SCILLA) 是 2023 年 6 月进行的一项空中实验。目标是了解南加州湾的风型和岛屿如何影响空气中的颗粒物和云滴。我们总共飞行了 20 个航班。飞机上装有对云、颗粒物、气象和大气气体进行采样的仪器。该文件描述了我们的飞行方式，列出了飞行的仪器，并给出了每次飞行的摘要。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-593</guid>
-      <pubDate>Fri, 04 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>ABCFlux v2：北极-北方 CO2 和 CH4 每月通量观测以及陆地和淡水生态系统的辅助信息</title>
       <link>https://doi.org/10.5194/essd-18-6357-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://doi.org/10.5194/essd-18-6357-2026</guid>
-      <pubDate>Thu, 03 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     <item>
       <title>孟加拉湾漂流浮标高分辨率海空天气观测数据集</title>
@@ -136,27 +157,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6411–6419，https://doi.org/10.5194/essd-18-6411-2026, 2026
                         了解海气相互作用对于全球气候和天气系统至关重要。然而，高频同步观测极为罕见。我们提供了来自孟加拉湾（2020-2022）五个漂流浮标的独特数据集，捕获了大气和海洋变量。这些数据在四个热带气旋期间每 5 分钟采样一次，为研究海气耦合、验证卫星和改进极端条件下的模型提供了重要记录。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6411-2026</guid>
-      <pubDate>Thu, 03 Sep 2026 21:21:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>沙特阿拉伯红海新的区域尺度多波束回声测深数据集</title>
-      <link>https://doi.org/10.5194/essd-18-6345-2026</link>
-      <description><![CDATA[沙特阿拉伯红海新的区域尺度多波束测深仪测深数据集
-                    法比奥·马尔凯塞、玛尔塔·安德烈亚·埃泽塔·瓦茨、梅根·克莱因·布雷特勒·诺兰、娜塔莉·邓恩、凯瑟琳·冯·克鲁森斯蒂恩、克雷格·福伊、马蒂·罗德里格、穆罕默德·库尔班、卡洛斯·曼努埃尔·杜阿尔特、文森特·皮里伯恩和弗朗西斯卡·本佐尼
-                        地球系统。科学。数据，18, 6345–6355，https://doi.org/10.5194/essd-18-6345-2026, 2026
-                        沙特阿拉伯红海历来缺乏详细的海底测绘，现有数据要么仅限于中央轴向裂谷，要么对于生态和海洋学研究来说过于粗糙。 2022 年，为期五个月的探险队使用分辨率为 5 米和 40 米的多波束回声测深系统对超过 49 万平方公里的海底进行了勘察。该数据集将支持红海的栖息地测绘、深海研究和未来的科学研究。]]></description>
-      <guid>https://doi.org/10.5194/essd-18-6345-2026</guid>
-      <pubDate>Thu, 03 Sep 2026 21:21:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>水文 CTD 剖面记录了 2025 年连续两次春季实地考察期间格陵兰岛西南部峡湾近地表分层的开始情况</title>
-      <link>https://doi.org/10.5194/essd-18-6321-2026</link>
-      <description><![CDATA[水文 CTD 剖面记录了 2025 年连续两次春季实地考察期间格陵兰岛西南部峡湾近地表分层的开始情况
-                    Marta Umbert、Nina Hoareau、Júlia Crespin、Maria Sánchez-Urrea、Ferran Hernández-Macià、Carolina Gabarró 和 Eva De-Andrés
-                        地球系统。科学。数据，18, 6321–6343，https://doi.org/10.5194/essd-18-6321-2026, 2026
-                        格陵兰峡湾正在迅速变化，但冬季和早春的观测很少见。我们在 2025 年 3 月和 4 月的两次船舶活动中收集了格陵兰岛西南部峡湾的 73 个温度和盐度剖面。数据显示春季表面清新开始，在冰川滋养的峡湾附近最强，而更深的水域变化不大。开放数据集将有助于改进冰川融化、海洋变化和气候模型的研究。]]></description>
-      <guid>https://doi.org/10.5194/essd-18-6321-2026</guid>
-      <pubDate>Thu, 03 Sep 2026 21:21:51 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 08:55:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

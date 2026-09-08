@@ -4,7 +4,28 @@
     <title>阿里云公告</title>
     <link>https://www.aliyun.com/notice/list</link>
     <description>阿里云公告</description>
-    <lastBuildDate>Mon, 07 Sep 2026 23:51:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:51:17 GMT</lastBuildDate>
+    <item>
+      <title>【产品变更】百炼控制台变更/升级通知</title>
+      <link>https://www.aliyun.com/notice/118635</link>
+      <description><![CDATA[影响时间2026-09-10（以实际变更时间为准）, 变更/升级变更内容和影响为进一步提升使用体验，百炼控制台将进行全新升级，新版将优化页面布局、导航结构及部分功能入口。 后续新增功能将仅在新版控制台中提供，旧版控制台将不再新增功能。建议您优先使用新版控制台，以获得更完整的功能体验。 补充说明：      限额提留：该功能暂仅在旧版控制台中保留，新版不再提供，后续旧版中的限额提留功能也将逐步下线。         模型体验：新旧版本在部分体验记录、功能展示及资产管理方面存在差异。部分新版文本模型体验记录在旧版中可能展示于「模型调试」；网页开发、深度研究等新版能力在旧版中可能无法完整展示；语音、视觉模型在资产名称、删除及同步展示等方面也可能存在差异。   以上差异不影响模型 API 调用及已有业务的正常运行。   应对建议 本次升级不会影响您的功能使用。如需在老版本试用，可以通过返回旧版功能返回旧版工作台如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
+      <guid>https://www.aliyun.com/notice/118635</guid>
+      <pubDate>Tue, 08 Sep 2026 02:31:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>【产品变更】云服务器 ECS 控制台和购买页下线地域化域名公告变更通知</title>
+      <link>https://www.aliyun.com/notice/118575</link>
+      <description><![CDATA[影响时间2026-09-30, 变更变更内容和影响变更内容为了提升服务稳定性与安全性，阿里云计划对云服务器 ECS 控制台和购买页的地域化域名进行统一下线。即日起至地域化域名下线生效前，地域化域名的访问将被自动重定向至通用域名；地域化域名下线生效后，地域化域名将无法访问，请您切换至通用域名。  请您尽快保存并使用新的域名，避免对您的业务产生影响。 变更影响本次变更将下线 55 个地域化域名，主要分为以下两类。  1. ECS 控制台的地域化域名： ecs-{region}.console.aliyun.com 、 ecs4service-{region}.console.aliyun.com 2. ECS 购买页的地域化域名： ecs-buy-{region}.aliyun.com、 ecs-buy4service-{region}.aliyun.com 受影响的地域化域名详细列表可参考附录。 附录即将下线的地域化域名列表：1. ECS 控制台 地域化域名（27 个）：ecs-ap-northeast-1.console.aliyun.comecs-ap-south-1.console.aliyun.comecs-ap-southeast-3.console.aliyun.comecs-ap-southeast-5.console.aliyun.comecs-cn-chengdu.console.aliyun.comecs-cn-guangzhou.console.aliyun.comecs-cn-heyuan.console.aliyun.comecs-cn-huhehaote.console.aliyun.comecs-cn-shenzhen-cloudstone4service.console.aliyun.comecs-cn-wulanchabu.console.aliyun.comecs-cn-zhangjiakou.console.aliyun.comecs-eu-central-1.console.aliyun.comecs-eu-west-1.console.aliyun.comecs-rus-west-1.console.aliyun.comecs4service-ap-northeast-1.console.aliyun.comecs4service-ap-southeast-3.console.aliyun.comecs4service-ap-southeast-5.console.aliyun.comecs4service-cn-chengdu.console.aliyun.comecs4service-cn-guangzhou.console.aliyun.comecs4service-cn-heyuan.console.aliyun.comecs4service-cn-huhehaote.console.aliyun.comecs4service-cn-wulanchabu.console.aliyun.comecs4service-cn-zhangjiakou.console.aliyun.comecs4service-eu-central-1.console.aliyun.comecs4service-eu-west-1.console.aliyun.comecs4service-me-east-1.console.aliyun.comecs4service-rus-west-1.console.aliyun.com2. ECS 购买页 地域化域名（28 个）：ecs-buy-ap-northeast-1.aliyun.comecs-buy-ap-south-1.aliyun.comecs-buy-ap-southeast-3.aliyun.comecs-buy-ap-southeast-5.aliyun.comecs-buy-cn-chengdu.aliyun.comecs-buy-cn-guangzhou.aliyun.comecs-buy-cn-heyuan.aliyun.comecs-buy-cn-huhehaote.aliyun.comecs-buy-cn-wulanchabu.aliyun.comecs-buy-cn-zhangjiakou.aliyun.comecs-buy-eu-central-1.aliyun.comecs-buy-eu-west-1.aliyun.comecs-buy-me-east-1.aliyun.comecs-buy-rus-west-1.aliyun.comecs-buy4service-ap-northeast-1.aliyun.comecs-buy4service-ap-south-1.aliyun.comecs-buy4service-ap-southeast-3.aliyun.comecs-buy4service-ap-southeast-5.aliyun.comecs-buy4service-cn-chengdu.aliyun.comecs-buy4service-cn-guangzhou.aliyun.comecs-buy4service-cn-heyuan.aliyun.comecs-buy4service-cn-huhehaote.aliyun.comecs-buy4service-cn-wulanchabu.aliyun.comecs-buy4service-cn-zhangjiakou.aliyun.comecs-buy4service-eu-central-1.aliyun.comecs-buy4service-eu-west-1.aliyun.comecs-buy4service-me-east-1.aliyun.comecs-buy4service-rus-west-1.aliyun.com应对建议 使用 ECS 控制台或购买页的通用域名访问服务。    1. ECS 控制台的通用域名： 公共账号请访问https://ecs.console.aliyun.com 虚商账号请访问https://ecs4service.console.aliyun.com。    2. ECS 购买页的通用域名： 公共账号请访问https://ecs-buy.aliyun.com 虚商账号请访问 https://ecs-buy4service.aliyun.com。 如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
+      <guid>https://www.aliyun.com/notice/118575</guid>
+      <pubDate>Tue, 08 Sep 2026 01:28:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>【产品变更】云安全中心服务端互联网IP变更通知</title>
+      <link>https://www.aliyun.com/notice/118613</link>
+      <description><![CDATA[影响时间2026-10-12 (UTC+8) 变更变更内容和影响感谢您对阿里云的支持，云安全中心将于2026-10-12日实施服务端互联网IP变更，变更后云安全中心服务端将使用新的公网IP。 如您配置了网络策略管控受防护主机至云安全中心服务端的网络路径，则需要调整策略放行新的公网IP，否则云安全中心主机安全能力将离线失效。 如未配置网络策略，则无需任何操作。 应对建议如您配置了网络策略管控受防护主机至云安全中心服务端的网络路径，则需要调整策略放行新的公网IP，否则云安全中心主机安全能力将离线失效。  如未配置网络策略，则无需任何操作。 中国内地区域需放行IP：47.117.157.2278.153.161.1168.153.86.12106.14.18.21106.14.97.1008.153.93.165139.196.179.1118.153.199.39非中国内地区域需放行IP：47.236.237.1247.236.52.22147.245.118.1647.237.189.17043.106.19.19647.84.136.231如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
+      <guid>https://www.aliyun.com/notice/118613</guid>
+      <pubDate>Tue, 08 Sep 2026 01:28:24 GMT</pubDate>
+    </item>
     <item>
       <title>【产品变更】ARMS Prometheus 云服务自监控（arms_cms_ 前缀指标）停止维护升级通知</title>
       <link>https://www.aliyun.com/notice/118627</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[影响时间北京时间 2026-09-15 00:00:00升级背景根据 Mozilla 新的根证书信任策略，对于用于验证服务器身份的根证书，若该根证书签发时间超过 15 年，则 Mozilla 不再信任该根证书。受此影响，Mozilla Firefox、Google Chrome 等主流浏览器不再信任签发时间超过 15 年的根证书。因此，使用旧版 GlobalSign 根证书（R1/R3/R5/R6）的网站在 Mozilla Firefox、Google Chrome 等主流浏览器届时将会出现安全警告或无法正常访问的情况，直接影响用户体验和业务连续性。 升级内容出于更强安全性和兼容性考虑，自2026年09月15日起，SLS 新增、新签证书将会逐步使用新根&quot;GlobalSign Root R46&quot;来签发。 升级影响若还在使用&quot;GlobalSign Root R1&quot;证书，为了增强证书的兼容性，此次更新的证书会在2027年01月28日前保持对&quot;GlobalSign Root R1&quot;的兼容。对于使用&quot;GlobalSign Root R1&quot;证书的客户端，请务必在2027年1月28日之前升级本地根证书列表。 对于一些较老的客户端如果明确仅信任 GlobalSign Root R3（或特定的中间证书），且其&quot;信任库（Trust Store）&quot;中尚未包含 Root R46——那么一旦服务器开始下发新根签发的证书（2026年09月15日），这些环境可能会遇到 SSL 证书验证失败的问题。 应对建议如您使用的是较老版本的客户端或自定义信任库，请确认本地根证书列表是否已包含&quot;GlobalSign Root R46&quot;，如未包含请在2027年01月28日前完成升级。如有任何相关问题，可随时通过工单或者服务热线与我们联系。 ]]></description>
       <guid>https://www.aliyun.com/notice/118610</guid>
       <pubDate>Thu, 03 Sep 2026 01:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>【产品变更】JVS 产品 JVS Crew功能下线通知</title>
-      <link>https://www.aliyun.com/notice/118603</link>
-      <description><![CDATA[影响时间2027-02-27 下线变更内容和影响感谢您长期以来对阿里云的支持。因产品策略调整，JVS 产品中的 JVS Crew 功能及相关服务将于 2027 年 02 月 27 日正式下线。 我们建议您在下线前迁移至 Qoder Cloud Agents（QCA），继续使用相关 Agent 构建、运行与管理服务。 QCA 将统一承接 JVS Crew 的相关场景，并在 Agent 运行、弹性资源、会话管理、长任务执行及可观测性等方面提供更完善的服务。 下线时间到达后，您将无法继续通过 JVS 控制台使用 JVS Crew，也无法继续调用相关接口，配套的技术支持和维护服务将同步停止。为避免影响现有业务，请您根据迁移通知和操作指引，在规定时间内完成迁移、验证及业务切换。 应对建议如您的线上业务依赖 JVS Crew，建议您尽快迁移至 Qoder Cloud Agents（QCA），并在正式切流前完成资产迁移、接口适配、业务验证及回滚演练。 QCA 的具体使用请参考文档：帮助文档。如迁移过程中遇到能力适配、数据迁移或业务验证问题，请及时联系阿里云技术支持或您的客户经理。 如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118603</guid>
-      <pubDate>Wed, 02 Sep 2026 07:15:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>【大模型服务平台百炼】Qwen3.8-Max升级通知</title>
-      <link>https://www.aliyun.com/notice/118616</link>
-      <description><![CDATA[影响时间北京时间 2026-09-05 10:00:00 【以实际变更时间为准】变更内容大模型服务平台百炼将于北京时间2026年09月05日开始更新升级 qwen3.8-max 模型。升级后，qwen3.8-max 模型自动更新为 qwen3.8-max-0902 快照模型，计费项和价格不变。 Qwen3.8-Max-0902 为 Qwen3.8-Max 2026年09月02日快照。编码深度再突破，可驾驭更复杂的工程级项目与长程自主开发；协作智能体能力显着增强，在多工具调度与端到端交付中表现更从容；视觉理解全面精进，图表推理、文档解析与多模态感知更敏锐准确。延续 100 万上下文、思考模式与完整工具生态，在更高智能水平上持续进化。 模型关系映射说明您可以在北京时间09月05日之前通过指定模型名为 qwen3.8-max-0902 来测试模型效果。 登录大模型服务产品百炼开通体验。本次升级模型详情请参考：qwen3.8-max，qwen3.8-max-0902.]]></description>
-      <guid>https://www.aliyun.com/notice/118616</guid>
-      <pubDate>Wed, 02 Sep 2026 06:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>证书自动化服务售卖全新上架</title>
-      <link>https://www.aliyun.com/notice/118611</link>
-      <description><![CDATA[影响时间北京时间 2026-09-07 00:00:00为应对证书有效期不断缩短的趋势，减少用户运维压力，阿里云数字证书管理服务推出全新的自动化服务售卖规格，计划于 2026-09-07 逐步上线，以售卖页是否显示对应服务规格为准。 原先需要分散购买的公网域名监控、自动托管、云服务器部署等能力，现已整合为一体化的证书运维服务，并打包为基础版、标准版、专业版、旗舰版等服务规格，关联证书订阅，一站式选购。 详情见 【公告】证书自动化服务售卖全新上架]]></description>
-      <guid>https://www.aliyun.com/notice/118611</guid>
-      <pubDate>Wed, 02 Sep 2026 06:49:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

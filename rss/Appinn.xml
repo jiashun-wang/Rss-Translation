@@ -4,7 +4,14 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Tue, 08 Sep 2026 01:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:31:32 GMT</lastBuildDate>
+    <item>
+      <title>给别人发密码、API 密钥，不想留在聊天记录里？试试 binthere</title>
+      <link>https://www.appinn.com/binthere/</link>
+      <description><![CDATA[临时把密码或 API 密钥发给别人，你一般怎么发？直接贴进微信、邮件，事情办完了，但密码却还留在聊天记录里。 另一种办法是使用 Pastebin 类文本分享服务：粘贴内容，生成链接，再把链接发出去。]]></description>
+      <guid>https://www.appinn.com/binthere/</guid>
+      <pubDate>Tue, 08 Sep 2026 02:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>压箱底办公神器：一键搞定Word、Excel、PDF、PPT、图片的批处理工具，效率翻倍！</title>
       <link>https://www.appinn.com/inxunoffice-word-excel-pdf-ppt/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Windows 11 8月份可选更新 KB5120998 带来了两个喜闻乐见、大家都期待的功能：任务栏位置可调上下左右、开始菜单可调大小以及丰富的自定义功能。 @Appinn 如果你不使用自定义鼠标样式]]></description>
       <guid>https://www.appinn.com/windows-11-taskbar-position-start-menu-resize/</guid>
       <pubDate>Thu, 03 Sep 2026 08:26:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>PowerToys v0.101.2432.0 新增 4 个小功能，可以预览 SQLite 了</title>
-      <link>https://www.appinn.com/powertoys-v0-101-2432-0/</link>
-      <description><![CDATA[PowerToys v0.101.2432.0 更新了四个小功能，包括预览 SQLite 数据库文件、单独点击键盘映射、命令面板详细信息、屏幕标尺新单位。 @Appinn 具体来看： 速览（Peek）]]></description>
-      <guid>https://www.appinn.com/powertoys-v0-101-2432-0/</guid>
-      <pubDate>Thu, 03 Sep 2026 04:59:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

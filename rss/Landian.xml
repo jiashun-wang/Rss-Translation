@@ -4,7 +4,56 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Mon, 07 Sep 2026 11:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:31:19 GMT</lastBuildDate>
+    <item>
+      <title>微软透露Windows 11针对8GB内存进行优化并提升启动速度 改进版发布时间未知</title>
+      <link>https://www.landian.news/archives/126733.html</link>
+      <description><![CDATA[#系统资讯 微软透露 Windows 11 针对 8GB 内存进行优化并提升启动速度，不过改进后的版本什么时候发布还不清楚。在 IFA2026 期间，微软操作系统与设备部门副总裁马克林顿称 Windows 11 已经在启动速度和 Windows Hello 响应速度方面取得进展，而最终目标则是优化 Windows 11 的内存占用，让 8GB 设备也能获得流畅体验。查看全文：https://ourl.co/126733]]></description>
+      <guid>https://www.landian.news/archives/126733.html</guid>
+      <pubDate>Tue, 08 Sep 2026 10:14:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>VMware生态系统变得更加封闭 博通下架VDDK开发工具包 客户迁移到其他平台更困难</title>
+      <link>https://www.landian.news/archives/126699.html</link>
+      <description><![CDATA[#软件资讯 VMware 生态系统变得更加封闭，博通撤下 VDDK 开发工具包下载，企业想要从 VMware 迁移到其他平台变得更困难。 VDDK 是很多备份迁移工具依赖的工具包，如果没有这个工具包那迁移工具就无法工作。微软和红帽都已经确认博通撤下 VDDK，由于该工具本身就是博通专有软件，所以红帽也无法提供 VDDK 下载。目前红帽正在研究其他变通方法帮助客户迁移，但现阶段变通方法暂时还没有，可能得学微软在虚拟机里安装客户端代理程序辅助读取磁盘内容。查看全文：https://ourl.co/126699]]></description>
+      <guid>https://www.landian.news/archives/126699.html</guid>
+      <pubDate>Tue, 08 Sep 2026 09:57:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>ICANN批准威瑞信终止.NAME三级域名服务 约有2.2万个域名将被删除</title>
+      <link>https://www.landian.news/archives/126698.html</link>
+      <description><![CDATA[#域名资讯 ICANN 批准威瑞信彻底终止并删除.NAME 三级域名，现有的.NAME 三级域名预计将在 2027 年 2 月被删除。如果你使用.NAME 三级域名则需要尽快迁移，此次调整并非停止新注册，而是所有现有域名都会被删除。 .NAME 三级域名指的是 lan.dian.name 这样的域名，本身.NAME 也已经支持 landian.name 这种顶级域名。查看全文：https://ourl.co/126698]]></description>
+      <guid>https://www.landian.news/archives/126698.html</guid>
+      <pubDate>Tue, 08 Sep 2026 05:20:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌收紧安卓17开发者模式信息访问 读取USB调试和开发者选项始终返回0</title>
+      <link>https://www.landian.news/archives/126697.html</link>
+      <description><![CDATA[#系统资讯 谷歌已经在 Android 17 中禁止普通应用读取开发者选项和 USB 调试状态，现在尝试读取将始终返回 0 (代表关闭)。此前有些应用会通过 API 读取状态作为设备环境检测条件，例如银行类应用检测到用户开启 USB 调试后会禁止登录。谷歌认为普通应用读取此类信息完全没必要，所以始终返回 0 阻止这些应用读取实际状态。查看全文：https://ourl.co/126697]]></description>
+      <guid>https://www.landian.news/archives/126697.html</guid>
+      <pubDate>Tue, 08 Sep 2026 05:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>先兵后礼？ Liquid Network黑客归还3,400枚比特币 保留价值4,700万美元的比特币作为奖金</title>
+      <link>https://www.landian.news/archives/126696.html</link>
+      <description><![CDATA[#加密货币 先兵后礼担心被白嫖：Liquid Network 黑客归还 3,400 枚比特币，将价值 4,700 万美元的 598.5 枚比特币当自己的赏金？昨天 Liquid Network 出现安全事件，储备库中的 4,000 枚比特币被盗，但攻击者自称是白帽黑客，将在漏洞修复后归还比特币。不过黑客可能担心平台白嫖，所以选择转出比特币然后协商赏金，目前尚不清楚保留的 598.5 枚比特币是否算是正式赏金，因为 Liquid Network 还未发布官方消息。查看全文：https://ourl.co/126696]]></description>
+      <guid>https://www.landian.news/archives/126696.html</guid>
+      <pubDate>Tue, 08 Sep 2026 03:52:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软正在开发Windows 11电池与外设小部件 可以放到锁屏界面显示电量和连接状态</title>
+      <link>https://www.landian.news/archives/126695.html</link>
+      <description><![CDATA[#系统资讯 微软正在开发 Windows 11 电池与外设小部件，可以显示连接过的设备剩余电量、可以放到锁屏界面。安卓和 iOS 等都已经有专属的电量小部件，现在微软终于要为 Windows 11 开发类似小部件。从字符串来看，Windows 11 的小部件支持深浅色模式、节能模式开关、显示电量百分比、显示设备连接状态、是否正在充电等。查看全文：https://ourl.co/126695]]></description>
+      <guid>https://www.landian.news/archives/126695.html</guid>
+      <pubDate>Tue, 08 Sep 2026 03:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 10/11桌面变成哈利波特电影宣发广告？这是微软通过必应壁纸投放的</title>
+      <link>https://www.landian.news/archives/126694.html</link>
+      <description><![CDATA[#软件资讯 Windows 10/11 桌面壁纸变成哈利波特广告？没错，这是微软通过必应壁纸投放的广告。近期很多用户发现自己的桌面壁纸变成哈利波特与神奇动物系列电影宣发广告，排查原因发现是必应壁纸干的。必应壁纸原本每天自动更换桌面壁纸，很多用户收到微软推送后安装，然后现在将用户桌面变成广告位。查看全文：https://ourl.co/126694]]></description>
+      <guid>https://www.landian.news/archives/126694.html</guid>
+      <pubDate>Tue, 08 Sep 2026 02:57:15 GMT</pubDate>
+    </item>
     <item>
       <title>微软发布安全警告：TerminalFix终端点击钓鱼猖獗 用户不要随意在终端中执行命令</title>
       <link>https://www.landian.news/archives/126693.html</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[#软件资讯 谷歌浏览器还有个隐藏小技能：遇到 HSTS 网站无法加载时，通过键盘盲打 thisisunsafe 即可加载。部分网站已经设置 HSTS 严格传输安全，这时候如果证书过期、被吊销或使用自签名证书，Chrome 就会拦截访问且点击高级选项也没用。但如果通过键盘按 thisisunsafe 就可以加载，这个功能主要是面向开发者用于调试，普通用户遇到此类加载问题时应该关闭页面，因为网站服务器可能出现问题或真出现劫持的情况。查看全文：https://ourl.co/126681]]></description>
       <guid>https://www.landian.news/archives/126681.html</guid>
       <pubDate>Sun, 06 Sep 2026 04:48:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Kernel 7.1已经结束生命周期不再提供更新 用户应尽快升级到7.2系列</title>
-      <link>https://www.landian.news/archives/126682.html</link>
-      <description><![CDATA[#系统资讯 Linux Kernel 7.1 系列最终版发布：Linux Kernel 7.1.13，至此 7.1 全系列结束生命周期支持。内核团队建议用户立即升级 7.2 系列，不过下游发行版通常维护自己的内核版本并移植补丁。所以用户需要查询使用的发行版网站，看看当前的内核支持状态。查看全文：https://ourl.co/126682]]></description>
-      <guid>https://www.landian.news/archives/126682.html</guid>
-      <pubDate>Sun, 06 Sep 2026 04:33:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Codex向部分用户赠送第二张重置卡 GPT-6 Astra也开始推送</title>
-      <link>https://www.landian.news/archives/126688.html</link>
-      <description><![CDATA[#人工智能 Codex 向部分用户赠送第二张重置卡，GPT-6 Astra 也开始陆续向用户推送。目前情况有些混乱：按蒂博的说法今天 Plus、Pro、Ent 用户都收到新重置卡。而 Pro 用户应该已经收到 GPT-6 的推送，但少量 Plus 用户其实也收到推送。所以是否有新重置卡和能否使用 GPT-6 需要用户自行测试。查看全文：https://ourl.co/126688]]></description>
-      <guid>https://www.landian.news/archives/126688.html</guid>
-      <pubDate>Sat, 05 Sep 2026 04:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI对存储需求暴增也促进磁带销量暴涨：26Q1磁带存储出货容量增长57%</title>
-      <link>https://www.landian.news/archives/126680.html</link>
-      <description><![CDATA[#行业资讯 AI 行业的存储需求也推动磁带存储销量暴涨：26Q1 磁带存储出货容量同比增长达 57%。磁带主要适合低频存储，即里面的数据不需要经常拿出来读取。 AI 公司的训练数据集、历史模型、日志和冷数据没有必要保存在昂贵的在线存储中，所以磁带存储现在成为香饽饽。查看全文：https://ourl.co/126680]]></description>
-      <guid>https://www.landian.news/archives/126680.html</guid>
-      <pubDate>Sat, 05 Sep 2026 03:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare D1开始强制执行免费额度：超额后数据库查询直接失败 次日0点恢复</title>
-      <link>https://www.landian.news/archives/126644.html</link>
-      <description><![CDATA[#行业资讯 Cloudflare D1 数据库免费版开始执行强制免费额度：每日免费额度耗尽后不会产生额外账单，而是直接停掉数据库功能。好消息是这不会导致被刷产生巨额账单，坏消息是如果被刷那业务会出现中断。建议使用 D1 的用户关注每日用量并考虑是否要升级付费版，每日重置额度时间为国内时间早上 8 点整。查看全文：https://ourl.co/126644]]></description>
-      <guid>https://www.landian.news/archives/126644.html</guid>
-      <pubDate>Fri, 04 Sep 2026 05:31:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>啊这？微软商店里的《Grim Trials》游戏并不免费 微软正在撤销玩家授权</title>
-      <link>https://www.landian.news/archives/126687.html</link>
-      <description><![CDATA[#游戏资讯 啊这？微软商店里的 Grim Trials 游戏并不免费，微软正在撤销此前免费领取该游戏的玩家授权。半个月前微软商店出现名为 Grim Trials 的游戏，该游戏可以免费下载畅玩。现在微软证实这是设置失误，该游戏 19.99 美元，只有付费购买的副本才可以继续玩。查看全文：https://ourl.co/126687]]></description>
-      <guid>https://www.landian.news/archives/126687.html</guid>
-      <pubDate>Fri, 04 Sep 2026 04:48:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达以129.303亿美元收购抱抱脸 交易金额暗藏🤗表情字符串</title>
-      <link>https://www.landian.news/archives/126686.html</link>
-      <description><![CDATA[#人工智能 英伟达以 129.303 亿美元收购🤗抱抱脸，为什么收购金额有零有整？因为这里暗藏小彩蛋。 129303 是 U+1F917 的十进制表示，转为十六进制就是 1F917，对应🤗这个表情。若使用十六进制颜色即 #129303 则是绿色，与英伟达的品牌色比较接近。查看全文：https://ourl.co/126686]]></description>
-      <guid>https://www.landian.news/archives/126686.html</guid>
-      <pubDate>Fri, 04 Sep 2026 04:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>服务器管理销售面板WHMCS出现高危安全漏洞 无需登录即可窃取用户资料</title>
-      <link>https://www.landian.news/archives/126685.html</link>
-      <description><![CDATA[#安全资讯 服务器管理销售面板 WHMCS 出现高危安全漏洞，攻击者无需登录即可入侵服务器并获得各类客户资料。目前官方要求使用该版本的服务器提供商升级到 8.13.7 或 9.0.8 版，其他版本都受漏洞影响。查看全文：https://ourl.co/126685]]></description>
-      <guid>https://www.landian.news/archives/126685.html</guid>
-      <pubDate>Fri, 04 Sep 2026 04:15:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

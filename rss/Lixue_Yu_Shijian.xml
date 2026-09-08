@@ -4,111 +4,112 @@
     <title>力学与实践</title>
     <link>https://sns.wanfangdata.com.cn/perio/lxysj</link>
     <description>力学与实践</description>
-    <lastBuildDate>Tue, 08 Sep 2026 00:49:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:00:00 GMT</lastBuildDate>
     <item>
-      <title>剪切散斑干涉在力学实验教学中的设计及应用</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2025-368</link>
-      <description><![CDATA[在新工科建设与“力学3.0”教学改革背景下，系统设计并实现了剪切散斑干涉方法在力学实验教学中的应用。该方法基于剪切干涉原理，具备全场、非接触、实时测量等优势，可实现变形梯度定量分析与缺陷可视化，为传统力学实验提供新技术路径。实验方案包括剪切方向调节、压电相移标定等流程，并通过典型案例（如圆盘加载应变测量、开孔损伤定位与振动分析）验证了方法的可行性与直观性。研究表明，该实验有效拓展了教学内容与形式，强化了学生对实验原理与数据分析的理解，契合新工科建设在基础教学与创新能力培养上的要求，实现了科研方法与教学改革的有机融合。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2025-368</guid>
-      <pubDate>Mon, 10 Aug 2026 11:05:01 GMT</pubDate>
+      <title>核工业腾飞,力学筑基石——核工程力学专题序</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604006</link>
+      <description><![CDATA[核工程作为国家战略科技力量的重要组成,始终站在人类拓展能源边界、探索物质极限的最前沿.从压水堆实现大规模商用,到高温气冷堆的固有安全性被验证;从熔盐堆探索钍基燃料循环新路径,到快堆实现核燃料增殖与嬗变,再到聚变堆迈向终极能源的曙光,先进核能系统正不断向更高温度、更强辐照、更复杂多场耦合以及更长服役寿命的方向发展.每一次核能技术的重要突破,都离不开力学理论和实践的有力支撑.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604006</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>火炮身管力学响应研究进展</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_lxysj2025-207</link>
-      <description><![CDATA[身管是火炮发射系统的核心部件，其结构完整性与服役寿命直接关系到武器系统的射击精度和作战可靠性。在弹丸发射过程中，身管将承受高温、高压、摩擦等耦合作用，造成其变形、疲劳、损伤甚至断裂。因此开展工况下身管力学响应研究具有重要的科学意义和应用价值。本文围绕弹丸发射过程中身管热应力、变形、振动、强度、损伤等典型的力学响应问题，梳理了相关研究进展，以期为理解身管服役行为、阐释失效机理以及开展寿命评估与结构优化提供重要参考。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_lxysj2025-207</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:03 GMT</pubDate>
+      <title>考虑土结相互作用的冷却塔动力特性模拟方法对比与适用性研究</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604011</link>
+      <description><![CDATA[自然通风冷却塔是核电厂关键构筑物,具有高大薄柔的特点,其动力特性受土结相互作用(soil-structure interaction,SSI)影响显着.为分析不同模拟方法及土体条件下SSI效应对冷却塔动力特性的影响,本文以某典型冷却塔为研究对象,建立了固定约束模型、环基等效弹簧约束模型、桩侧土弹簧约束模型和桩侧实体土约束模型.其中,环基等效弹簧和桩侧土弹簧均属于简化弹簧方法.考虑软弱土、中软土、坚硬土、岩石4种土体类型,通过模态分析对比各模型的动力特性.结果表明,冷却塔自振周期与土体卓越周期的相对关系是影响SSI效应的关键因素.其他条件相同时,土体剪切波速越小,土体卓越周期越大、冷却塔自振周期越长、整体平动振型出现阶数越早,说明SSI对冷却塔动力特性的影响越明显.当冷却塔自振周期小于土体卓越周期时,模拟观察到冷却塔、桩基与周围土体发生协同摆动或转动,土体参与形成土-桩-冷却塔振型,SSI改变了冷却塔动力特性.因此,建议当简化弹簧方法计算的冷却塔自振周期小于土体卓越周期时,采用桩侧实体土约束模型,以更好地捕捉土-桩-冷却塔振型,考虑SSI对冷却塔动力特性的影响.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604011</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>钢筋在弹体侵彻钢筋混凝土结构时的影响机理研究</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-097</link>
-      <description><![CDATA[通过试验结合数值模拟的方式，对钢筋混凝土（reinforced concrete, RC）结构中的钢筋在结构阻挡弹体局部侵彻时的阻滞机理进行了研究。首先开展弹体击打钢筋与穿过钢筋孔洞的对比侵彻试验，结果表明弹体直接击打钢筋时的侵彻深度小于其穿过钢筋孔洞工况的侵彻深度，直接验证了钢筋的阻滞效果。进一步对标试验形成了高精度的数值模拟方法，在此基础上对钢筋对于弹体侵彻的阻滞机理开展分析，得到以下结论：（1）钢筋对弹体的阻滞作用具有显着的接触依赖性，无直接接触时，不同钢筋直径的RC结构抗侵彻性能无明显差异，当弹体直接撞击钢筋或钢筋交点时，钢筋阻滞效应较为明显，且阻滞效果随钢筋直径的提升逐步增强；（2）对整个体系的能量变化进行统计发现，弹体打击钢筋交点时除了钢筋的应变能相对较高外，弹体变形吸收了较高的应变能，导致结构的损伤后果相对轻微；（3）钢筋的阻滞作用效果受钢筋布置影响明显，在钢筋间距明显大于弹体尺寸的工况下，钢筋对结构抗侵彻能力的提升作用十分有限。本研究给出了钢筋的接触阻滞机制、能量耗散规律及配筋布局对RC结构的抗侵彻影响规律，可为RC结构抗侵彻优化设计提供理论参考。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-097</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:03 GMT</pubDate>
+      <title>理论力学中的人机协作评测——从竞赛到期末考试</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604017</link>
+      <description><![CDATA[大语言模型正迅速融入高等教育体系,然而其在高风险、高复杂度的理工科专业考核中的量化影响及人机协作机制仍未明确,这为人工智能(artificial intelligence,AI)驱动的教育评价改革留下了缺口.本研究在清华大学理论力学课程中开展了一组互补对照实验:包括针对顶尖本科生、难度超越竞赛水平的&quot;AI挑战赛&quot;,以及针对重修生群体、采用标准难度的&quot;AI协作期末考试试点&quot;.数据显示了显着的协同增益效应:在期末试点中,AI辅助组的平均成绩达到60.2分,不仅显着高于无辅助对照组(41.2分),更远超AI独立作答的基准水平(39.0分),证实了有效的人机协作可突破单一智能体的能力上限.进一步分析表明,策略性的AI使用是决定协作效能的关键因素:通过对交互日志与解题策略的量化分析,发现学生在5个标准化解题环节中对AI依赖度的方差(即&quot;AI使用选择性&quot;)与协作收益呈正相关.高收益学生倾向于仅在部分环节使用AI而在整体上保持认知独立;相反,不加选择地使用AI的低效协作往往会导致较差的效果.本研究结果表明,理工科教育的重心亟需从考核常规算法熟练度,转型为培养学生的独立批判性判断力与对AI输出的监管能力.这项工作为人工智能时代的教育教学提供了基于实证数据的参考.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604017</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>某核电厂取水头部及桩基数值模拟研究</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604012</link>
+      <description><![CDATA[桩基础在常规土木工程领域应用广泛且技术成熟,但在核工程Ⅰ类物项尚未形成大规模化工程应用.某滨海核电厂取水头部采用桩基基础,场地位于回填区与基岩区的过渡地带,土层面分界面倾斜起伏.土与桩相互作用分析、人工边界选型、动水压力模拟为本工程核心技术难点.本文建立土-结-桩三维精细有限元整体模型,采用黏弹性人工边界模拟无限地基辐射效应,利用Housner弹簧质量系统模拟流道内动水压力.通过提取各工况组合下的轴力、剪力、弯矩及位移响应定量评价桩基础的抗震性能.研究成果可为类似滨海核电取水构筑物的桩基设计与抗震评价提供理论和数值支撑.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604012</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>甲烷贮箱推进剂在轨管理装置蓄流稳定性仿真分析</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604014</link>
+      <description><![CDATA[为明确板式贮箱在轨飞行过程中的工作特性及推进剂管理能力,针对板式贮箱推进剂管理装置的蓄流稳定性开展数值研究.基于体积分数法和连续表面张力模型建立板式甲烷贮箱的三维仿真分析模型,分析不同接触角及残余重力加速度条件下气液界面演化规律和液体质心变化特性.结果表明,减小接触角有利于增强装置集液能力,提升蓄流裕度;在0～5×10-3g残余重力加速度范围内,蓄流板夹角及蓄流柱周围能维持液体积聚,表明装置具有良好的抗残余重力加速度能力.本文研究可为板式推进剂管理装置在甲烷贮箱中的应用与结构设计提供参考.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604014</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>某三合一整车风洞流场性能校验</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2025-279</link>
-      <description><![CDATA[针对三合一整车风洞相比常规气动及声学二合一整车风洞高集成度以及流场性能更难控制的特点。通过多级分布式抽吸系统、角度可调式喷口与收集口、隐藏式底盘测功机与阳光模拟的技术方案，有效提升了车辆试验段的流场性能表现，最终校验结果表明相关流场指标优于国标相关要求，且对比国内外相关风洞，在边界层厚度、低频压力脉动、背景噪声及温度均匀性方面具有一定优势。同时，为了验证风洞流场的稳定性，使用车辆分别在风洞内开展了多次风阻、风噪测试，测试结果重复性良好，证明了风洞流场的稳定可靠性，满足汽车空气动力学与风噪性能的开发需求。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2025-279</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>从虚拟激励法到疲劳反应谱方法——振动疲劳的工程实践</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-120</link>
-      <description><![CDATA[“力学发展源泉是工程”是钱令希先生一贯倡导的研究理念，指引着后辈投身于工程力学的科研一线。在钱先生思想的引领下，林家浩教授于20世纪90年代创立了随机振动高效分析的虚拟激励法，此方法沿承至今，在解决工程问题时仍具有突出成效。其后，张亚辉教授秉承钱令希先生与林家浩教授的科研理念，针对工程领域愈发广泛的振动疲劳分析需求，带领团队发展了便捷有效的疲劳反应谱法，为复杂工程结构振动疲劳的高效预示提供了新的途径。本文以虚拟激励法与疲劳反应谱法的核心理论及其在振动疲劳问题中的工程实践为主线，以航空发动机进气道为典型案例，展示二者在工程结构振动疲劳评估中的突出成效，展现钱令希先生思想在当下的传承与发展。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-120</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>核工业腾飞，力学筑基石</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_lxysj-202604xuyan</link>
-      <description><![CDATA[]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_lxysj-202604xuyan</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schmid 定律的张量化表述与多晶等效屈服的教学拓展</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2025-324</link>
-      <description><![CDATA[提出一种以张量语言表述单晶 Schmid 定律并衔接多晶等效屈服的教学框架。在单晶体内，将分解剪切应力写为应力张量与 Schmid 张量的双重内积，从而在不同载荷条件下以统一张量表达判断滑移系是否被激活。在多晶体内，基于 Taylor 统一应变和最小塑性功假设，构建原问题–对偶问题优化模型，确定屈服点应力张量并描述屈服面。该框架揭示了微观滑移机制与宏观屈服条件的内在关联，可为力学教学中“微观–宏观”知识链条的构建提供理论支撑。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2025-324</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>钱令希先生和计算力学研究</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2025-365</link>
-      <description><![CDATA[钱令希先生（1916—2009）是著名力学家、教育家，中国计算力学奠基人。 2026年正值钱令希先生诞辰110周年。为此，本文介绍钱令希先生生平与主要学术贡献，以铭记其丰功伟绩，并激励青年学子。钱令希先生在结构力学、变分原理、板壳理论、极限分析、结构优化设计等方面有深入研究和重要创新成果，主张力学为工程服务并身体力行，在桥梁、水坝、港工、造船、国防等工程领域取得了显著成绩，特别是钱令希先生在中国创建了计算力学学科，发展结构优化设计理论与方法，并倡导、领导研发大型结构分析和优化设计工业软件，1981年共同发起成立国际计算力学协会。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2025-365</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>核电低矮剪力墙功能性态点及其在地震概率安全评估中的应用</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-098</link>
-      <description><![CDATA[核电厂设备通过预埋件与剪力墙相连，设备与墙体之间的相互作用会显着改变墙体的抗震性能。现有抗震设计与概率安全评估（probabilistic safety assessment, PSA）方法均未充分考虑该相互作用，导致性能预测存在偏差。为此，本文基于15片带预埋件试件的拟静力实验，提出综合考虑墙体整体响应与预埋件局部行为的性能评价方法。研究表明，设备锚固使剪力墙功能位移角限值降低17%。实验验证了预埋件性能退化先于主体结构的规律。基于实验统计提出了95%保证率的功能位移角限值，并将功能性态点作为“设备功能丧失”判据，构建了适用于地震PSA的结构易损性模型，为核电厂精细化抗震设计与安全评估提供了关键技术支撑。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-098</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>问工哪得精如许，为有源头力学来</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-063</link>
-      <description><![CDATA[我们向初学者简要介绍力学，包括其历史、主要主题、应用和课程。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-063</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 时代的力学人才培养：专精还是广博？</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-220</link>
-      <description><![CDATA[]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-220</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>近壁面空泡溃灭机理的实验研究与教学</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_lxysj-2025-238</link>
-      <description><![CDATA[基于激光诱导空泡与纹影观测技术，构建了一套集高速摄影与超景深显微分析于一体的综合实验系统，实现了对近壁条件下空泡溃灭过程及其造成的物面损伤的可视化观察与数据采集。该系统可同步捕捉空泡非球状溃灭、高速射流冲击及激波辐射等瞬态演化特征，定量表征微米级壁面空蚀损伤，从而直观揭示近壁条件下空泡非球状溃灭及其诱导空蚀的动力学机理。通过调控空泡与壁面之间的无量纲距离参数，系统分析了不同近壁工况下空泡溃灭模式及空蚀凹坑分布特征。在教学层面，该实验利用可视化技术将 Rayleigh–Plesset 方程与开尔文冲量等抽象力学概念具象化，引导学生完整参与复杂光路精细校准、高速成像采集与多尺度数据分析的实验流程，旨在突破传统教学中难以直接观察并描述瞬态复杂流场的局限，提升学生的实验设计能力与科学素养。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_lxysj-2025-238</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>赵州桥“实体迭代”与力学“数值迭代”</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-136</link>
-      <description><![CDATA[今年是钱令希院士诞辰110周年，为了纪念和追思恩师的业绩，发掘了与赵州桥相关的故事，从中可以提炼出“实体迭代”的概念：以物理实体为载体，通过“试错—验证—修正”的循环路径，实现结构从反复“破坏”—“基本安全”—“更安全”—“最优”的过程。首次正规地讨论了实体迭代，它是数值迭代的前身，弥补了力学产生之前人类工程结构安全的困境，然而实体迭代具有极为昂贵的代价。当今的力学数值迭代替代了实体迭代，它是工程结构设计的必要前提，依托计算力学与结构优化方法，通过数学建模、循环求解与参数迭代，完成现代工程结构的理性设计过程。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2026-136</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>时变载荷作用下圆轮在粗糙水平面上的运动规律解析</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2025-282</link>
-      <description><![CDATA[针对粗糙水平面上的圆轮，考虑滑动摩擦与滚动摩阻，分析了时变载荷作用下圆轮的运动规律。分析结果表明轮子可能出现9种不同运动状态。论文给出了保持不同运动状态时载荷应满足的条件，并借助相空间的概念，以水平力和力矩为状态变量，绘制了运动状态与载荷的关系图，揭示运动状态随载荷的变化规律。在运动状态与载荷关系图中绘制出载荷的路径，根据载荷路径进行积分，即可建立轮心位移与时间的关系。以2025年国际工程力学竞赛的题目为例，通过参数的无量纲化，完成了载荷路径的绘制，分析了外载荷位置以及摩擦对圆轮运动的影响规律。本文的分析方法解决了圆轮在粗糙水平面上受力与运动分析的科学问题。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_LXSJ-2025-282</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:01 GMT</pubDate>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604013</link>
+      <description><![CDATA[针对三合一整车风洞相比常规气动及声学二合一整车风洞高集成度以及流场性能更难控制的特点.通过多级分布式抽吸系统、角度可调式喷口与收集口、隐藏式底盘测功机与阳光模拟的技术方案,有效提升了车辆试验段的流场性能表现,最终校验结果表明相关流场指标优于国标相关要求,且对比国内外相关风洞,在边界层厚度、低频压力脉动、背景噪声及温度均匀性方面具有一定优势.同时,为了验证风洞流场的稳定性,使用车辆分别在风洞内开展了多次风阻、风噪测试,测试结果重复性良好,证明了风洞流场的稳定可靠性,满足汽车空气动力学与风噪性能的开发需求.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604013</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>基于拓扑优化理论的胫骨髓内柄植入体结构优化设计</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj_lxysj-2026-118</link>
-      <description><![CDATA[针对全膝关节置换术中胫骨髓内柄最大应力偏高、骨组织损伤大、植入体质量重等问题，本研究旨在设计一种兼具假体结构安全性与临床实用性的高性能新型胫骨髓内柄。利用Altair Inspire软件，针对直立、不同角度屈膝共5种临床典型工况，对胫骨髓内柄进行拓扑优化、几何重构与多工况强度校核。研究结果表明，新型结构显着降低了植入体应力、骨界面应力及局部过高应变，实现结构轻量化并降低了对骨组织的侵入体积。满足“改善骨界面应力分布、轻量化、人体损伤小”的需求。研究结果为高性能胫骨髓内柄的研发提供了理论依据与技术支撑。]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj_lxysj-2026-118</guid>
-      <pubDate>Mon, 10 Aug 2026 11:03:01 GMT</pubDate>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604015</link>
+      <description><![CDATA[针对全膝关节置换术中胫骨髓内柄最大应力偏高、骨组织损伤大、植入体质量重等问题,本研究旨在设计一种兼具假体结构安全性与临床实用性的高性能新型胫骨髓内柄.利用Altair Inspire软件,针对直立、不同角度屈膝共5种临床典型工况,对胫骨髓内柄进行拓扑优化、几何重构与多工况强度校核.研究结果表明,新型结构显着降低了植入体应力、骨界面应力及局部过高应变,实现结构轻量化并降低了对骨组织的侵入体积.满足&quot;改善骨界面应力分布、轻量化、人体损伤小&quot;的需求.研究结果为高性能胫骨髓内柄的研发提供了理论依据与技术支撑.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604015</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>杆件传力过程的再思考——刚度的作用</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604018</link>
+      <description><![CDATA[以杆件刚度系数归纳了材料、杆件截面、长度以及支持方式对刚度的影响,重温了铁摩辛柯教材有关传力过程的论述,强调了静不定结构中内力按刚度分配的特性.根据拉压和弯曲刚度的不同,讨论了三角形桁架稳定和桁架模型合理性问题;根据支持方式对刚度的影响,讨论了刚架失稳临界载荷与卷尺弯折失稳问题.体现了材料力学方法在工程应用中的优越性,强调了课程学习中全面理解基本概念、系统把握基本规律的重要性.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604018</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从虚拟激励法到疲劳反应谱方法——振动疲劳的工程实践</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604030</link>
+      <description><![CDATA[&quot;力学发展源泉是工程&quot;是钱令希先生一贯倡导的研究理念,指引着后辈投身于工程力学的科研一线.在钱先生思想的引领下,林家浩教授于20世纪90年代创立了随机振动高效分析的虚拟激励法,此方法沿承至今,在解决工程问题时仍具有突出成效.其后,张亚辉教授秉承钱令希先生与林家浩教授的科研理念,针对工程领域愈发广泛的振动疲劳分析需求,带领团队发展了便捷有效的疲劳反应谱法,为复杂工程结构振动疲劳的高效预示提供了新的途径.本文以虚拟激励法与疲劳反应谱法的核心理论及其在振动疲劳问题中的工程实践为主线,以航空发动机进气道为典型案例,展示二者在工程结构振动疲劳评估中的突出成效,展现钱令希先生思想在当下的传承与发展.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604030</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>纪念钱令希先生诞辰110周年专题序</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604026</link>
+      <description><![CDATA[2026年7月16日,是我国著名工程力学家、教育家,中国科学院资深院士,大连工学院原院长钱令希先生诞辰110周年.
+钱先生是中国计算力学学科的奠基人与开拓者.20世纪70年代,电子计算机在国内尚属稀缺,钱先生便率先倡导将其引入力学研究,在大连工学院(今大连理工大学)组织起计算力学队伍,并于1978年在此基础上成立工程力学研究所,开我国计算力学建制化研究之先河.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604026</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>建设适应AI时代的力学课程体系和教材体系</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604002</link>
+      <description><![CDATA[今天,主持人李俊峰教授准备了 4个问题,给我出的题目是:如何建设适应AI时代的力学课程体系和教材体系.这个问题非常简短,但颇有难度.我刚才把这个问题交给两个主流大语言模型,它们的回答可大致归纳为两个逻辑.一是&quot;Mechanics+AI&quot;,侧重拓展教学内容;二是&quot;AI for Mechanics&quot;,侧重AI的工具化应用.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604002</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>平易中见伟大——纪念钱令希先生诞辰110周年</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604027</link>
+      <description><![CDATA[我第一次见到钱令希先生是在&quot;文革&quot;后1979年末,于钱令希先生组织的在大连召开的有限单元法学术交流会上.他给我的第一印象是:一位平易近人个子不高的老头,说话稍带一点南方腔.后来几次由钱令希先生组织的计算力学学术会议,我都参加,进而我被聘为大连工学院(现为大连理工大学)工业装备国家重点实验室的学术委员,与先生的接触便多了起来,也很谈得来.钱令希先生的年龄和我父辈相去不大,但他与我这个晚辈交谈起来完全是平等交流,有时还会向我&quot;请教&quot;.在与钱令希先生交往中,我逐渐了解到钱令希先生的治学和成就.从他身上,我学到了许多,至今受益不尽.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604027</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>《人类文明的脊梁:力学视角下的结构与工程》</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604032</link>
+      <description><![CDATA[内容简介:本书是一部跨越工程技术与人文历史的力学随笔,由我国著名力学家、北京大学武际可教授倾心创作.他将力学原理置于历史与科技背景下展开,巧妙连接工程、科学与技术、历史、生物与医学等,生动诠释了力学如何作为一门融汇技艺与哲思、文韵与匠心的学科,有力地支撑起人类文明的宏伟大厦.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604032</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI时代的力学人才培养:专精还是广博?</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604003</link>
+      <description><![CDATA[人才培养并非专精或广博二选一,数十年前我在斯坦福大学任职期间,院校提出T型人才培养理念:竖线代表专业深耕,横线代表知识面广博,兼顾人才培养的深度与广度.提出该理念的初衷,是推动跨学科合作.力学衔接理科与工科,融合数理基础与各类工程应用,孕育出丰富的交叉研究机遇,拥有无限发展前景,这正是力学学科的生命力所在.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604003</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI赋能的项目制材料力学教学改革探索——以雪载荷概率分析为例</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604023</link>
+      <description><![CDATA[在材料力学本科教学体系中,如何在保持课程知识结构与理论主线相对稳定的前提下,引导学生认识并理解工程问题中广泛存在的不确定性因素,是拔尖创新人才培养过程中亟需回应的重要教学议题.本文构建了人工智能(artificial intelligence,AI)赋能的项目制教学任务框架,将随机分析方法与结构可靠度理论有机融入具体工程问题的求解过程.以一阶可靠度方法(first-order reliability method,FORM)为核心分析工具,选取雪载荷作为典型工程情境,建立载荷-抗力概率模型,并结合双重迭代算法实现结构失效概率的数值求解.教学实践结果表明,该项目制教学模式在不削弱材料力学基础知识教学目标的前提下,有助于提升学生在复杂工程情境中的建模能力与工程决策意识.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604023</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,289 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 01:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:31:01 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】NoLit 科研文献阅读工具</title>
+      <link>https://meta.appinn.net/t/topic/91445</link>
+      <description><![CDATA[软件名称
+NoLit 不读文献
+应用平台
+
+Windows
+MacOS
+Linux
+Android
+
+推荐类型
+【开发者自荐】
+是否收费
+免费 / 付费 / 订阅
+一句简介
+NoLit 是一款面向科研文献的桌面阅读器，从 PDF 导入与元数据整理，到双语阅读、批注笔记和 AI 文献操作，都能在同一套工作流中完成
+应用简介
+2026年9月8日 已完成功能：
+
+
+文献管理和阅读
+PDF 文件选择与拖拽导入
+文件夹、标签、收藏和回收站
+按标题、作者和标签检索
+重复文献检测与已有条目更新
+自动提取标题、作者、年份等元数据
+Crossref 与预印本正式发表信息匹配
+CCF、中科院、JCR 等出版物等级展示
+扫描版论文自动识别
+PDF 分页与连续滚动阅读
+缩放、页码跳转、适合宽度和阅读进度保存
+原文、译文、Markdown 和对照阅读模式
+高亮、划线、评论和颜色设置
+批注编辑、定位与删除
+Markdown 笔记、自动​​保存和原文回跳
+图表、公式和参考文献快速预览
+数字版 PDF 转 Markdown
+扫描版 PDF OCR 与 Markdown 排版
+保留标题、公式、表格、图片和参考文献结构
+保留原排版的译文 PDF
+原文与译文双栏对照阅读
+Markdown 逐段翻译与进度显示
+局部内容重新翻译和保存
+wps和word文献引用插件
+
+
+AI 与 RAG
+多对话 AI 工作区与流式回复
+图片、PDF 和文本附件
+多选文献与笔记作为上下文
+读取元数据、正文、译文、笔记和批注
+自动建立文献及笔记向量索引
+基于本地资料的 RAG 检索问答
+手动、自动和完全三种 AI 权限模式
+AI 提取论文创新点并标注到 PDF
+AI 生成和编辑文献笔记
+联网搜索、网页读取及受限代码执行
+AI 生成图片、可编辑 PPT 和 Draw.io 图表
+
+
+本地运行与服务配置
+NoLit 托管服务
+自定义兼容接口
+本地 OCR、语言模型和向量模型
+完全离线完成 PDF 转 Markdown 与翻译
+Windows CPU 或 Vulkan 加速
+Apple Silicon macOS 本地 MLX 模型
+NoLit 云端双向同步
+WebDAV 双向同步
+文献、PDF、笔记、批注、进度和 AI 对话同步
+同步冲突检测、删除传播与重复数据防护
+账号登录、设备管理、会员与订单查询
+
+
+开发中功能：
+
+IOS 支持
+鸿蒙 支持
+
+截图预览：
+
+
+
+官方网站
+
+
+
+nolit.im
+
+
+NoLit｜把文献变成自己的知识
+NoLit：把文献整理、阅读、翻译、批注和 AI 追问放在同一个工作空间。 
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91445</guid>
+      <pubDate>Tue, 08 Sep 2026 08:46:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】LoginFlip：在 Chrome 里切换同一网站的多个账号</title>
+      <link>https://meta.appinn.net/t/topic/91442</link>
+      <description><![CDATA[大家好，我是 LoginFlip 的开发者 qingtan。 
+做这个扩展的原因很简单：我经常需要在同一个网站的工作号、测试号和个人号之间切换。每次退出再登录不算困难，但次数多了确实打断节奏。 
+LoginFlip 可以把当前网站的登录状态保存成带名称的本地快照。以后打开扩展，点一下对应账号，就会恢复状态并刷新页面。常用账号可以置顶，前四个账号也能用快捷键切换；如果换错了，还可以返回上一个账号。 
+
+账号快照列表：保存后可以直接切换、置顶或返回上一个账号。 
+隐私和边界
+我比较在意这类数据放在哪里，所以它不要求注册 LoginFlip 账号，也没有开发者服务器、云同步、分析统计或广告。登录快照留在本机 Chrome 中，需要换设备时，可以只选择必要的账号，使用口令加密后导出备份。 
+
+登录状态保存在本机浏览器里，扩展没有自己的账号系统和云端后台。 
+需要说明的是，它并不是浏览器多开或多容器工具，同一时间不会隔离运行多个账号。登录过期、SSO、设备验证、Passkey 或网站服务端策略仍然可能要求重新验证；扩展也不会保存密码。 
+基本信息
+
+系统：macOS、Windows
+浏览器：Chrome 132 及以上
+语言：简体中文、英文
+价格：免费
+注册：不需要 LoginFlip 账号
+
+官网：LoginFlip — Local Multi-Account Session Switcher
+Chrome 商店：https://chromewebstore.google.com/detail/mmkolcfdcgnimofbjjnkmmehnhmmonok
+GitHub（官网和公开物料仓库，扩展本体不开源）：GitHub - qingtan-labs/loginflip: Official product website and public materials for LoginFlip. · GitHub
+欢迎试用，也欢迎反馈实际遇到的不兼容网站。 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91442</guid>
+      <pubDate>Tue, 08 Sep 2026 08:34:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>〖开源自荐〗就位：按身高，调整桌椅和显示器</title>
+      <link>https://meta.appinn.net/t/topic/91441</link>
+      <description><![CDATA[软件名称
+就位（Workstation Fit）
+应用平台
+Web，电脑浏览器直接使用。 
+推荐类型
+〖开源自荐〗
+是否收费
+免费。代码采用 MIT License，原创视觉素材采用 CC BY 4.0。 
+是否需要注册
+不需要注册，也没有账户系统。 
+一句简介
+输入身高，获得适合自己的椅子、坐站桌和显示器的高度，再对照自己的身体逐项调整。 
+为什么做它
+桌子、椅子和显示器都能调高度，但很多人并不知道该从哪里开始：椅面调多高、桌面放在哪里、屏幕顶部到什么位置，往往只能凭感觉反复尝试。 
+准备换桌子、椅子或显示器时，也会遇到类似的问题。商品页写了尺寸和调节范围，却很难直接看出这些数字是否适合自己的身高和使用习惯。 
+所以我做了「就位」。它会根据身高给出椅面、坐站桌和显示器的建议起点与参考范围。调整现有设备时，可以先照着设置，再根据脚掌、手肘和视线的位置微调；购买新设备前，也可以拿商品标注的尺寸和调节范围来对照，判断它是否有机会调到适合自己的位置。 
+
+怎么使用
+输入身高后，可以分别查看：
+
+椅面高度
+坐姿桌面高度
+站姿桌面高度
+坐姿和站姿的显示器顶部高度
+显示器观看距离
+
+每项结果都会同时显示「建议起点」和「参考范围」。右侧的 3D 场景会跟着身高和坐站姿态变化，也可以拖动它，单独查看某项尺寸在桌椅和显示器上的位置。 
+拿到基础数值以后，还可以跟着一个大约 30 秒的身体检查，确认双脚是否稳稳落地、肩膀和手肘是否自然、屏幕顶部是否高于视线。计算结果只是设置工位的起点，不是要求照搬的标准答案。 
+数值从哪里来
+项目主要参考 GB/T 10000-2023《中国成年人人体尺寸》，并结合 OSHA、CCOHS、Cornell 和 Mayo Clinic 等机构公开的人体工学资料。 
+网页会列出每项数值采用了什么资料、怎样换算、来源覆盖哪些身高，以及还存在哪些局限。超出原始资料覆盖范围时，也会明确标成趋势估算，不会把项目自己的外推写成标准结论。 
+隐私
+所有计算都在浏览器中完成。身高、使用说明状态和身体检查进度只保存在当前浏览器，不会上传到服务器。项目没有后端、账户系统或远程测量记录。 
+目前的边界
+
+只用身高做第一步估算，无法准确反映每个人的腿长、躯干、手臂和眼高比例。 
+鞋底厚度、坐垫压缩、设备尺寸和具体工作内容都会影响实际设置。 
+结果用于帮助调整普通桌椅与显示器，不能替代专业人体工学评估或医疗建议。 
+
+在线使用与源码
+在线使用：
+
+
+fit.barrybarrywu.com
+
+
+
+就位｜找到适合你的桌椅与显示器高度
+输入身高，查看有出处的椅面、坐站桌与显示器设置建议。 
+
+
+
+
+
+GitHub：
+
+github.com
+
+
+
+
+GitHub - BarryBarrywu/workstation-fit: 就位：输入身高，获得桌椅与显示器的建议起始范围，并通过 3D 场景完成身体校准。 
+就位：输入身高，获得桌椅与显示器的建议起始范围，并通过 3D 场景完成身体校准。 
+
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91441</guid>
+      <pubDate>Tue, 08 Sep 2026 08:33:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>〖开发者自荐〗Keyphore：把 Codex 任务状态显示在 NuPhy 键盘灯光上</title>
+      <link>https://meta.appinn.net/t/topic/91431</link>
+      <description><![CDATA[
+软件名称
+Keyphore
+应用平台
+Apple Silicon Mac · macOS 13 或更高版本
+推荐类型
+〖开发者自荐〗
+是否收费
+免费、开源，采用 GPL v3 许可证。 
+是否需要注册
+不需要 Keyphore 账户。 
+一句简介
+用 NuPhy 键盘背光显示 Codex 当前是在执行任务、等待回应，还是已经完成。 
+为什么做它
+我经常让 Codex 在后台处理任务，然后切到其他窗口继续工作。问题是隔一会儿就要切回去看看：它还在运行，还是正在等我批准某个操作？ 
+Keyphore 把这几个状态放到了键盘灯光上。低头或用余光看一眼，就能知道现在是否需要回到 Codex。 
+当然，上面都是胡诌的，主要是图一乐。 
+四种状态
+
+蓝色：Codex 正在执行任务
+橙色：需要审批或输入
+绿色：任务刚刚完成
+熄灯：当前没有活动任务
+
+颜色、亮度、常亮或慢闪都可以分别设置。完成提示默认显示 5 秒，也可以调整为 1–60 秒。 
+多个 Codex 任务同时运行时，Keyphore 会汇总状态，优先显示“需要回应”，不会因为其中一个任务结束，就盖掉仍在运行的任务。 
+兼容性
+目前 App 支持 Apple Silicon Mac，通过 USB 连接 NuPhy Air65 V3 或 Air75 V3，理论上用同款驱动的键盘也都支持，型号也在项目里列出了。不过没有那么多键盘就无法测试了，如果你正好也在用，也欢迎反馈。 
+隐私与安装
+Keyphore 是原生 macOS 菜单栏 App，不读取提示词、对话正文或工具内容，也不会自动上传遥测和诊断。 
+首次打开时会通过引导连接 Codex、展示需要启用的 Hook，并说明所需的 macOS 权限。 App 和 DMG 已使用 Developer ID 签名并通过 Apple 公证。 
+当前版本为 0.1.2。 
+官网、下载与源码
+官网：
+
+
+keyphore.barrybarrywu.com
+
+
+Keyphore — 把 Codex 状态，显示在键盘上。 
+Keyphore 把 Codex 任务状态显示在 NuPhy 键盘上。免费的原生 Mac 菜单栏 App。 
+
+
+
+
+
+下载：
+https://github.com/BarryBarrywu/Keyphore/releases/latest
+源码：
+
+github.com
+
+
+
+
+GitHub - BarryBarrywu/Keyphore: Codex task status lights for the NuPhy Air65 V3 on...
+Codex task status lights for the NuPhy Air65 V3 on macOS
+
+
+
+
+
+
+4 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91431</guid>
+      <pubDate>Tue, 08 Sep 2026 04:31:42 GMT</pubDate>
+    </item>
     <item>
       <title>yunMusicPlayer：直连网盘的便携音乐播放器</title>
       <link>https://meta.appinn.net/t/topic/91410</link>
@@ -123,6 +405,7 @@ Windows 10 / 11
 自动滚动：空格开关，十档速度，左右方向键调速
 桌面模式：窗口透明只留文字浮在桌面上，背景浓淡可调，可置顶、毛玻璃、描边
 老板键：全局快捷键一键隐藏 / 恢复，托盘图标常驻
+伪装皮肤（v1.1 新增）：一键变成 VS Code 或 Excel 界面，窗口标题同步伪装
 导入：txt 自动识别 GBK / UTF-8，epub 一键转换，拖进窗口即可
 自定义书源：兼容 so-novel 的书源规则格式，导入规则文件后可联网搜书并整本下载（软件本身不内置任何书源）
 字号、行距、纸张 / 纯白 / 护眼 / 夜间四种主题，窗口大小位置记忆
@@ -137,13 +420,20 @@ Windows 10 / 11
 
 桌面模式（窗口透明，后面是壁纸）：
 
+v1.1 更新（9 月 8 日）
+应楼下需求，新增 伪装皮肤：工具栏「伪装」下拉一键切换，界面变成 VS Code 代码编辑器或 Excel 表格，小说段落变成代码注释 / 表格行，章节标题变成函数名 / 高亮行，连窗口标题都同步换成 main.js - Visual Studio Code / 工作簿1 - Excel。点正文可隐藏工具栏。 
+伪装成代码编辑器：
+
+伪装成 Excel：
+
+下载 v1.1.0：Release 月读 v1.1.0 — 伪装皮肤 · vsh5dvsch7-png/yuedu · GitHub
 官方网站
 
 GitHub（开源核心，GPL-3.0）：GitHub - vsh5dvsch7-png/yuedu: 月读 - 安静、轻巧的 Windows 桌面小说阅读器：透明桌面模式、老板键、txt/epub、章节定位、自定义书源 · GitHub
 下载：Releases · vsh5dvsch7-png/yuedu · GitHub
 反馈 / 提需求：Issues · vsh5dvsch7-png/yuedu · GitHub
 
-2 个帖子 - 2 位参与者
+4 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91398</guid>
       <pubDate>Mon, 07 Sep 2026 12:54:07 GMT</pubDate>
@@ -318,7 +608,7 @@ GitHub 公共仓库：GitHub - qingtan-labs/StatusPerch: Hide and organize macOS
 问题反馈：Issues · qingtan-labs/StatusPerch · GitHub
 
 目前是 1.0.0，安装包约 2.09 MiB。如果大家愿意试用，欢迎说说它在刘海屏、外接显示器，以及和其他菜单栏工具同时使用时的表现。 
-1 个帖子 - 1 位参与者
+5 个帖子 - 3 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91385</guid>
       <pubDate>Mon, 07 Sep 2026 11:39:58 GMT</pubDate>
@@ -420,7 +710,7 @@ APP下载链接（海外）：https://apps.apple.com/ch/app/时光画展/id68010
 和母亲聊天，她也时常感叹，年轻的时候竟然连一张全家福都没有拍过，小时候她也教过我画画写字，这些东西都已了无痕迹，好像从来没有存在过，而今只剩下一些遥远且愈加模糊的记忆。物质匮乏的年代，大家都在疲于奔命，全力奔跑，哪还顾得上沿路的风景。 
 麦家说：一个人的性格其实是他所处状态的外形。当你困顿时，会滋生出狭隘与自私，当你疲惫时，会变得冷漠和暴躁，当你快乐的时候，会变得包容和乐观。 
 现在的我自感越来越狭隘，我的悲伤来自于能支持我创作和前行的能量太少，这份觉察也是我接下来创业的方向。人生的下半场，我希望能够留住生活中的小美好，传递欢乐。身为人父，我也希望为孩子们留下更多可以停驻欣赏的美好时光。希望大家在困顿与疲惫之时，也能够翻开时光画卷，于漫漫长夜中，拾得一缕来自童年的微光。 
-6 个帖子 - 4 位参与者
+7 个帖子 - 5 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91356</guid>
       <pubDate>Mon, 07 Sep 2026 03:10:38 GMT</pubDate>
@@ -581,142 +871,6 @@ ReWiFi 专注于无线连接恢复，
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91329</guid>
       <pubDate>Sun, 06 Sep 2026 05:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>声迹 LocalScribe：免费的 Mac 本地音视频转文字与字幕工具</title>
-      <link>https://meta.appinn.net/t/topic/91305</link>
-      <description><![CDATA[开发者自荐｜免费开源｜中文界面｜Apple 芯片 Mac
-课程录音想整理成笔记，访谈想导出文字稿，视频想生成字幕——声迹可以在 Mac 本地完成转录、文字校对和导出，不需要注册账号，也不会由应用上传录音。 
-我是声迹的开发者。它把转录和后续编辑放在同一个应用里：导入音视频，选择识别模型，校对文字，再导出文稿或字幕。 
-下载 v1.6.6 · 中文安装指南
-
-需要 macOS 15.5 或更高版本，不支持 Intel Mac。当前安装包未获 Apple Developer ID 签名和公证，首次启动会被拦截；请先阅读安装指南，只在信任项目来源时允许打开。 
-
-
-可以完成哪些工作
-
-**整理文稿与字幕：**转录音视频或麦克风输入，搜索替换、裁剪文字，导出 TXT、Markdown、PDF、SRT 或 WebVTT。 
-**看实时字幕：**在 macOS 26 上，为麦克风或 Mac 正在播放的声音显示悬浮字幕。目前不支持实时字幕同步翻译。 
-**转录后继续处理：**翻译文稿，或按需下载本地 Gemma 模型做校对和摘要；AI 输出需要人工检查。长任务提供进度显示和会话恢复。 
-
-
-较旧系统需手动选择 Whisper、SenseVoice 或 Parakeet，其中后两者目前只支持文件转录；Apple Speech 和实时字幕需要 macOS 26。部分模型和语言资源首次使用时需要联网下载，更新检查也会联网；识别音频、导入文稿和 AI 处理内容不会由应用上传。 
-**项目与源码：**GitHub - maddylaneeee/ShengJi: Native local-first macOS speech-to-text, live captions, subtitle editing, offline translation, and on-device Gemma 4 transcript enhancement. · GitHub
-主仓库采用 MIT 许可，第三方组件和模型遵循各自许可。欢迎先用一段短录音试试；若遇到问题，可以在这里回复你的 macOS 版本、识别模型和具体表现。 
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91305</guid>
-      <pubDate>Sun, 06 Sep 2026 01:23:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keelhaven：macOS 菜单栏的 restic 备份工具，免费开源</title>
-      <link>https://meta.appinn.net/t/topic/91304</link>
-      <description><![CDATA[Keelhaven 是一个纯菜单栏的 macOS 备份应用，没有 Dock 图标，也没有主窗口。备份引擎是 restic，加密、去重、增量都交给它，Keelhaven 负责界面、定时和密码管理。 
-用起来是三步：选要保护的文件夹，选一个自己拥有的存储（外置硬盘、NAS/SFTP，或者任意 S3 协议的对象存储，比如 Backblaze B2、Wasabi、Cloudflare R2），再设一个定时（每小时/每天/每周）。设好之后它就在后台安静地跑，只有出错才弹通知。 
-
-仓库密码只存在 macOS 钥匙串里，不落盘、不写日志，也不会作为命令行参数传给 restic 子进程。写出来的是标准的 restic 仓库，哪天不用 Keelhaven 了，用 restic 命令行本身也能继续读取和恢复，不会被锁死在一个私有格式里。 
-每个计划还会按计划跑一次 restic check（默认每周一次）验证仓库完整性，通过了不吭声，出问题才提醒，避免备份坏了很久都没人发现。 
-restic 需要访问任意目录、网络和 SSH，App Store 的沙盒放不下，所以目前只有 Homebrew 和一行 curl 脚本两种安装方式：
-brew install --cask shenxianpeng/tap/keelhaven
-
-curl -fsSL https://keelhaven.app/install.sh | bash
-
-还没有申请 Apple 开发者证书：上面两条安装命令都会在安装时清掉隔离标记，能直接打开；如果是从官网下载 dmg 双击安装，首次需要手动允许一次。 
-
-GPLv3 开源，界面支持中英文双语，v0.5.0 公测中。 
-官网：https://keelhaven.app
-源码：GitHub - shenxianpeng/keelhaven: Privacy-first macOS menu-bar backup app powered by restic · GitHub
-4 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91304</guid>
-      <pubDate>Sun, 06 Sep 2026 01:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】Casbin Gateway - 把电脑上所有 AI 编程助手收进一个面板管，还能验一验中转 API 的真假</title>
-      <link>https://meta.appinn.net/t/topic/91275</link>
-      <description><![CDATA[软件名称
-Casbin Gateway
-应用平台
-
-Windows
-macOS
-Linux
-
-推荐类型
-【开发者自荐】
-是否收费
-免费，Apache 2.0 开源。没有付费版、没有内购，也不需要注册或登录账号（它只服务你本机）。 
-一句简介
-把电脑上所有 AI 编程助手收进一个本地面板统一管理，顺便帮你验一验从中转站买的 API 是不是货不对板。 
-应用简介
-它解决什么问题：如果你电脑上装了不止一个 AI 编程助手（Claude Code、Codex、Cursor、Gemini CLI、opencode 这些），你大概会遇到——换一家 API 供应商要挨个去改好几个配置文件，格式还都不一样；同一个 MCP 要在每个工具里装一遍；月底想知道钱花在哪儿了，每家后台只显示自己那份。 
-Casbin Gateway 就是管这个的面板：
-
-换供应商点一下，所有工具一起换。写进配置之前能预览，写坏了能一键还原。 
-花了多少钱一目了然，按天 / 按模型 / 按工具分开算。数据是从这些工具自己存在硬盘上的记录里读的，所以装上就能看到过去的历史，不用先接流量。 
-验一验你买的 API 是不是货不对板。这个是我最想推荐的功能：从中转站买的「Opus 无限量」，实际给你的是不是 Opus，光看返回是看不出来的。它会自动向上游发一组测试问题，看有没有拿便宜模型冒充、有没有把没命中的缓存算成命中、说支持的参数是不是收了钱就丢掉，最后打 0~100 分给 A~F 等级。每道题问了什么、怎么判分全部公开，你能自己改题。一次测试花上游几分钱额度，报告里会写清楚花了多少。 
-技能、MCP、提示词横着排在一起看，从一个工具复制到另一个，不用装五遍。 
-能给每个工具立规矩：不许开终端、不许联网、贵的模型一律拒绝，大约四十个开关。主要用来防手滑——省得哪个工具半夜用最贵的模型跑一整晚。 
-版本能升能回退，升级完发现新版有毛病，一键回到旧版本。 
-同一个工具还能开好几个实例，各登各的账号。 
-
-装起来：一条命令，下载好就自动启动，还会设开机自启。不用装数据库，不用先有 Go 或 Node，数据就是它自己文件夹里的一个文件。装完自己开窗口，关掉窗口在托盘里继续跑；习惯浏览器的话 http://localhost:17000 也是它。 
-界面有中文（中英双语，另有浅色 / 深色主题）。 
-目前认识 29 个 AI 编程工具，每个支持到什么程度是逐项标注的，做不到的地方写「—」，不写「即将支持」。 
-截图预览：
-
-官方网站
-
-
-github.com
-
-
-
-
-GitHub - apache/casbin-gateway: Casbin AI &amp; MCP security gateway for HTTP, online...
-Casbin AI &amp; MCP security gateway for HTTP, online demo: https://door.caswaf.com
-
-
-
-
-
-
-4 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91275</guid>
-      <pubDate>Sat, 05 Sep 2026 13:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】this2.link：接收者也能接力，同一个链接继续传文件</title>
-      <link>https://meta.appinn.net/t/topic/91256</link>
-      <description><![CDATA[我是 this2.link 的开发者，想分享一个浏览器里的临时传文件工具。它支持中文，免费、无需注册，也不用安装客户端；目前每次传文字或单个文件，文件上限 150 MB。 
-官网：https://this2.link/
-重点玩法：同一个链接，接着传
-比如三个人传一份活动资料：
-
-A 发给 B：A 放入文件、打开通道，把链接发给 B，先保持页面在线。 
-B 接收并接棒：B 完整接收，且浏览器成功保存加密缓存后，这个页面会自动成为新的临时来源。 
-A 离开，B 继续发给 C：A 可以关闭页面。 B 把原来那个链接转发给 C，只要 B 的页面还在线，C 就能从 B 获取同一份文件。 
-C 也能往下接力：C 接收并缓存完成后，也可以继续帮助后面的人获取。 
-
-不需要每个人重新上传、重新生成链接。适合活动资料、课堂文件、临时协作素材这类“传完就走”的场景。这里的接力需要有人接收完成、缓存成功并保持在线，不是永久网盘。 
-四位接力码和临时通道
-不方便发完整链接时，可以分享四位接力码。有人来取文件，双方核对页面上的校验标记，由台主选择允许或拒绝。台主意外离线后，符合条件的在线接收者可以接管原来的接力码；手动关闭接力码则不会自动接管。 
-同一通道里也能连续互递文字或单个文件。多位访客分别与台主交流，访客之间看不到彼此的消息。 
-文件在哪里，有哪些限制？ 
-
-加密、解密在设备本地完成；优先通过 WebRTC 直传，严格网络下使用有限额的 WebSocket 密文中继，应用服务端不保存文件。 
-普通文件需要至少一个完整缓存的来源在线；最后一个来源离开后不保证可用。极小内容可以直接随链接携带，因此不依赖在线来源。 
-浏览器缓存可能被清理或保存失败；页面没有成功成为来源时，不能算接棒完成。 
-拿到完整分享链接的人可以访问内容，请只把链接给愿意分享的人。 
-目前是预览版，一次只传一项，不保存离线聊天历史，也不承诺所有网络都能连接。 
-
-想体验接力，可以找两位朋友按上面的 A → B → C 步骤试一次。欢迎反馈具体在哪一步遇到问题。 
-工作原理：this2.link 工作原理｜WebRTC 直传与本地加密
-5 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91256</guid>
-      <pubDate>Sat, 05 Sep 2026 04:23:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
