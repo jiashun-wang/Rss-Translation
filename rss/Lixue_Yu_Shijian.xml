@@ -6,27 +6,6 @@
     <description>力学与实践</description>
     <lastBuildDate>Mon, 07 Sep 2026 16:00:00 GMT</lastBuildDate>
     <item>
-      <title>理论力学中的人机协作评测——从竞赛到期末考试</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604017</link>
-      <description><![CDATA[大语言模型正迅速融入高等教育体系,然而其在高风险、高复杂度的理工科专业考核中的量化影响及人机协作机制仍未明确,这为人工智能(artificial intelligence,AI)驱动的教育评价改革留下了缺口.本研究在清华大学理论力学课程中开展了一组互补对照实验:包括针对顶尖本科生、难度超越竞赛水平的&quot;AI挑战赛&quot;,以及针对重修生群体、采用标准难度的&quot;AI协作期末考试试点&quot;.数据显示了显着的协同增益效应:在期末试点中,AI辅助组的平均成绩达到60.2分,不仅显着高于无辅助对照组(41.2分),更远超AI独立作答的基准水平(39.0分),证实了有效的人机协作可突破单一智能体的能力上限.进一步分析表明,策略性的AI使用是决定协作效能的关键因素:通过对交互日志与解题策略的量化分析,发现学生在5个标准化解题环节中对AI依赖度的方差(即&quot;AI使用选择性&quot;)与协作收益呈正相关.高收益学生倾向于仅在部分环节使用AI而在整体上保持认知独立;相反,不加选择地使用AI的低效协作往往会导致较差的效果.本研究结果表明,理工科教育的重心亟需从考核常规算法熟练度,转型为培养学生的独立批判性判断力与对AI输出的监管能力.这项工作为人工智能时代的教育教学提供了基于实证数据的参考.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604017</guid>
-      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>核工业腾飞,力学筑基石——核工程力学专题序</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604006</link>
-      <description><![CDATA[核工程作为国家战略科技力量的重要组成,始终站在人类拓展能源边界、探索物质极限的最前沿.从压水堆实现大规模商用,到高温气冷堆的固有安全性被验证;从熔盐堆探索钍基燃料循环新路径,到快堆实现核燃料增殖与嬗变,再到聚变堆迈向终极能源的曙光,先进核能系统正不断向更高温度、更强辐照、更复杂多场耦合以及更长服役寿命的方向发展.每一次核能技术的重要突破,都离不开力学理论和实践的有力支撑.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604006</guid>
-      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>考虑土结相互作用的冷却塔动力特性模拟方法对比与适用性研究</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604011</link>
-      <description><![CDATA[自然通风冷却塔是核电厂关键构筑物,具有高大薄柔的特点,其动力特性受土结相互作用(soil-structure interaction,SSI)影响显着.为分析不同模拟方法及土体条件下SSI效应对冷却塔动力特性的影响,本文以某典型冷却塔为研究对象,建立了固定约束模型、环基等效弹簧约束模型、桩侧土弹簧约束模型和桩侧实体土约束模型.其中,环基等效弹簧和桩侧土弹簧均属于简化弹簧方法.考虑软弱土、中软土、坚硬土、岩石4种土体类型,通过模态分析对比各模型的动力特性.结果表明,冷却塔自振周期与土体卓越周期的相对关系是影响SSI效应的关键因素.其他条件相同时,土体剪切波速越小,土体卓越周期越大、冷却塔自振周期越长、整体平动振型出现阶数越早,说明SSI对冷却塔动力特性的影响越明显.当冷却塔自振周期小于土体卓越周期时,模拟观察到冷却塔、桩基与周围土体发生协同摆动或转动,土体参与形成土-桩-冷却塔振型,SSI改变了冷却塔动力特性.因此,建议当简化弹簧方法计算的冷却塔自振周期小于土体卓越周期时,采用桩侧实体土约束模型,以更好地捕捉土-桩-冷却塔振型,考虑SSI对冷却塔动力特性的影响.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604011</guid>
-      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>某核电厂取水头部及桩基数值模拟研究</title>
       <link>https://d.wanfangdata.com.cn/periodical/lxysj202604012</link>
       <description><![CDATA[桩基础在常规土木工程领域应用广泛且技术成熟,但在核工程Ⅰ类物项尚未形成大规模化工程应用.某滨海核电厂取水头部采用桩基基础,场地位于回填区与基岩区的过渡地带,土层面分界面倾斜起伏.土与桩相互作用分析、人工边界选型、动水压力模拟为本工程核心技术难点.本文建立土-结-桩三维精细有限元整体模型,采用黏弹性人工边界模拟无限地基辐射效应,利用Housner弹簧质量系统模拟流道内动水压力.通过提取各工况组合下的轴力、剪力、弯矩及位移响应定量评价桩基础的抗震性能.研究成果可为类似滨海核电取水构筑物的桩基设计与抗震评价提供理论和数值支撑.]]></description>
@@ -41,10 +20,31 @@
       <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>理论力学中的人机协作评测——从竞赛到期末考试</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604017</link>
+      <description><![CDATA[大语言模型正迅速融入高等教育体系,然而其在高风险、高复杂度的理工科专业考核中的量化影响及人机协作机制仍未明确,这为人工智能(artificial intelligence,AI)驱动的教育评价改革留下了缺口.本研究在清华大学理论力学课程中开展了一组互补对照实验:包括针对顶尖本科生、难度超越竞赛水平的&quot;AI挑战赛&quot;,以及针对重修生群体、采用标准难度的&quot;AI协作期末考试试点&quot;.数据显示了显着的协同增益效应:在期末试点中,AI辅助组的平均成绩达到60.2分,不仅显着高于无辅助对照组(41.2分),更远超AI独立作答的基准水平(39.0分),证实了有效的人机协作可突破单一智能体的能力上限.进一步分析表明,策略性的AI使用是决定协作效能的关键因素:通过对交互日志与解题策略的量化分析,发现学生在5个标准化解题环节中对AI依赖度的方差(即&quot;AI使用选择性&quot;)与协作收益呈正相关.高收益学生倾向于仅在部分环节使用AI而在整体上保持认知独立;相反,不加选择地使用AI的低效协作往往会导致较差的效果.本研究结果表明,理工科教育的重心亟需从考核常规算法熟练度,转型为培养学生的独立批判性判断力与对AI输出的监管能力.这项工作为人工智能时代的教育教学提供了基于实证数据的参考.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604017</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>核工业腾飞,力学筑基石——核工程力学专题序</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604006</link>
+      <description><![CDATA[核工程作为国家战略科技力量的重要组成,始终站在人类拓展能源边界、探索物质极限的最前沿.从压水堆实现大规模商用,到高温气冷堆的固有安全性被验证;从熔盐堆探索钍基燃料循环新路径,到快堆实现核燃料增殖与嬗变,再到聚变堆迈向终极能源的曙光,先进核能系统正不断向更高温度、更强辐照、更复杂多场耦合以及更长服役寿命的方向发展.每一次核能技术的重要突破,都离不开力学理论和实践的有力支撑.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604006</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>甲烷贮箱推进剂在轨管理装置蓄流稳定性仿真分析</title>
       <link>https://d.wanfangdata.com.cn/periodical/lxysj202604014</link>
       <description><![CDATA[为明确板式贮箱在轨飞行过程中的工作特性及推进剂管理能力,针对板式贮箱推进剂管理装置的蓄流稳定性开展数值研究.基于体积分数法和连续表面张力模型建立板式甲烷贮箱的三维仿真分析模型,分析不同接触角及残余重力加速度条件下气液界面演化规律和液体质心变化特性.结果表明,减小接触角有利于增强装置集液能力,提升蓄流裕度;在0～5×10-3g残余重力加速度范围内,蓄流板夹角及蓄流柱周围能维持液体积聚,表明装置具有良好的抗残余重力加速度能力.本文研究可为板式推进剂管理装置在甲烷贮箱中的应用与结构设计提供参考.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604014</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>考虑土结相互作用的冷却塔动力特性模拟方法对比与适用性研究</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604011</link>
+      <description><![CDATA[自然通风冷却塔是核电厂关键构筑物,具有高大薄柔的特点,其动力特性受土结相互作用(soil-structure interaction,SSI)影响显着.为分析不同模拟方法及土体条件下SSI效应对冷却塔动力特性的影响,本文以某典型冷却塔为研究对象,建立了固定约束模型、环基等效弹簧约束模型、桩侧土弹簧约束模型和桩侧实体土约束模型.其中,环基等效弹簧和桩侧土弹簧均属于简化弹簧方法.考虑软弱土、中软土、坚硬土、岩石4种土体类型,通过模态分析对比各模型的动力特性.结果表明,冷却塔自振周期与土体卓越周期的相对关系是影响SSI效应的关键因素.其他条件相同时,土体剪切波速越小,土体卓越周期越大、冷却塔自振周期越长、整体平动振型出现阶数越早,说明SSI对冷却塔动力特性的影响越明显.当冷却塔自振周期小于土体卓越周期时,模拟观察到冷却塔、桩基与周围土体发生协同摆动或转动,土体参与形成土-桩-冷却塔振型,SSI改变了冷却塔动力特性.因此,建议当简化弹簧方法计算的冷却塔自振周期小于土体卓越周期时,采用桩侧实体土约束模型,以更好地捕捉土-桩-冷却塔振型,考虑SSI对冷却塔动力特性的影响.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604011</guid>
       <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
@@ -59,6 +59,13 @@
       <link>https://d.wanfangdata.com.cn/periodical/lxysj202604015</link>
       <description><![CDATA[针对全膝关节置换术中胫骨髓内柄最大应力偏高、骨组织损伤大、植入体质量重等问题,本研究旨在设计一种兼具假体结构安全性与临床实用性的高性能新型胫骨髓内柄.利用Altair Inspire软件,针对直立、不同角度屈膝共5种临床典型工况,对胫骨髓内柄进行拓扑优化、几何重构与多工况强度校核.研究结果表明,新型结构显着降低了植入体应力、骨界面应力及局部过高应变,实现结构轻量化并降低了对骨组织的侵入体积.满足&quot;改善骨界面应力分布、轻量化、人体损伤小&quot;的需求.研究结果为高性能胫骨髓内柄的研发提供了理论依据与技术支撑.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604015</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>建设适应AI时代的力学课程体系和教材体系</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604002</link>
+      <description><![CDATA[今天,主持人李俊峰教授准备了 4个问题,给我出的题目是:如何建设适应AI时代的力学课程体系和教材体系.这个问题非常简短,但颇有难度.我刚才把这个问题交给两个主流大语言模型,它们的回答可大致归纳为两个逻辑.一是&quot;Mechanics+AI&quot;,侧重拓展教学内容;二是&quot;AI for Mechanics&quot;,侧重AI的工具化应用.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604002</guid>
       <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
@@ -77,20 +84,6 @@
       <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>建设适应AI时代的力学课程体系和教材体系</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604002</link>
-      <description><![CDATA[今天,主持人李俊峰教授准备了 4个问题,给我出的题目是:如何建设适应AI时代的力学课程体系和教材体系.这个问题非常简短,但颇有难度.我刚才把这个问题交给两个主流大语言模型,它们的回答可大致归纳为两个逻辑.一是&quot;Mechanics+AI&quot;,侧重拓展教学内容;二是&quot;AI for Mechanics&quot;,侧重AI的工具化应用.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604002</guid>
-      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《人类文明的脊梁:力学视角下的结构与工程》</title>
-      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604032</link>
-      <description><![CDATA[内容简介:本书是一部跨越工程技术与人文历史的力学随笔,由我国著名力学家、北京大学武际可教授倾心创作.他将力学原理置于历史与科技背景下展开,巧妙连接工程、科学与技术、历史、生物与医学等,生动诠释了力学如何作为一门融汇技艺与哲思、文韵与匠心的学科,有力地支撑起人类文明的宏伟大厦.]]></description>
-      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604032</guid>
-      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>平易中见伟大——纪念钱令希先生诞辰110周年</title>
       <link>https://d.wanfangdata.com.cn/periodical/lxysj202604027</link>
       <description><![CDATA[我第一次见到钱令希先生是在&quot;文革&quot;后1979年末,于钱令希先生组织的在大连召开的有限单元法学术交流会上.他给我的第一印象是:一位平易近人个子不高的老头,说话稍带一点南方腔.后来几次由钱令希先生组织的计算力学学术会议,我都参加,进而我被聘为大连工学院(现为大连理工大学)工业装备国家重点实验室的学术委员,与先生的接触便多了起来,也很谈得来.钱令希先生的年龄和我父辈相去不大,但他与我这个晚辈交谈起来完全是平等交流,有时还会向我&quot;请教&quot;.在与钱令希先生交往中,我逐渐了解到钱令希先生的治学和成就.从他身上,我学到了许多,至今受益不尽.]]></description>
@@ -102,6 +95,13 @@
       <link>https://d.wanfangdata.com.cn/periodical/lxysj202604003</link>
       <description><![CDATA[人才培养并非专精或广博二选一,数十年前我在斯坦福大学任职期间,院校提出T型人才培养理念:竖线代表专业深耕,横线代表知识面广博,兼顾人才培养的深度与广度.提出该理念的初衷,是推动跨学科合作.力学衔接理科与工科,融合数理基础与各类工程应用,孕育出丰富的交叉研究机遇,拥有无限发展前景,这正是力学学科的生命力所在.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604003</guid>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>《人类文明的脊梁:力学视角下的结构与工程》</title>
+      <link>https://d.wanfangdata.com.cn/periodical/lxysj202604032</link>
+      <description><![CDATA[内容简介:本书是一部跨越工程技术与人文历史的力学随笔,由我国著名力学家、北京大学武际可教授倾心创作.他将力学原理置于历史与科技背景下展开,巧妙连接工程、科学与技术、历史、生物与医学等,生动诠释了力学如何作为一门融汇技艺与哲思、文韵与匠心的学科,有力地支撑起人类文明的宏伟大厦.]]></description>
+      <guid>https://d.wanfangdata.com.cn/periodical/lxysj202604032</guid>
       <pubDate>Fri, 07 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>

@@ -4,7 +4,14 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Wed, 09 Sep 2026 00:48:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:27:39 GMT</lastBuildDate>
+    <item>
+      <title>PolyComp：聚合物的开源场论</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10914</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10914</guid>
+      <pubDate>Wed, 09 Sep 2026 02:02:31 GMT</pubDate>
+    </item>
     <item>
       <title>nsEVDx：用于平稳和非平稳极值建模的 Python 库</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.11187</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10612</guid>
       <pubDate>Thu, 27 Aug 2026 21:07:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>PyMC-Marketing：Python 中的贝叶斯营销组合模型和客户分析</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10805</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10805</guid>
-      <pubDate>Thu, 27 Aug 2026 13:38:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

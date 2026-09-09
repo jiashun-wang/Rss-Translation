@@ -4,13 +4,13 @@
     <title>Journal of Applied Mechanics Open Issues</title>
     <link>https://asmedigitalcollection.asme.org/appliedmechanics</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 00:00:00 GMT</lastBuildDate>
     <item>
-      <title>基于模式转向效应的压扭耦合超材料的主动带隙调谐</title>
-      <link>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/11/111001/1234897/Active-Bandgap-Tuning-of-Compression-Torsion</link>
-      <description><![CDATA[摘要模式转向是一种色散带频率在交换能带特性时先会聚然后发散的现象，对于设计动态系统和预测结构行为至关重要。尽管在手性超材料系统中被广泛观察到，但控制这种现象的根本机制仍然没有得到充分的了解，阻碍了有效主动控制策略的发展。这项研究提出了一种主动可调超材料链，由具有双重独立控制机制的压扭耦合振荡器组成：动态可调的振荡器间耦合刚度和可修改的旋转惯量。通过精确的参数调制，实现了扭转平带和纵向色散带之间能量重新分配和偏振切换的连续和可逆调节，从而实现了模式转向的按需诱导。对这一过程的进一步研究表明，这种现象源于能带反转和振荡不兼容之间的固有冲突，这是通过振荡器扭转固有频率的变化解决的悖论。至关重要的是，这种频移和频带轨迹之间的相互作用被认为是控制模式转向的基本机制。此外，这项研究发现非线性压缩扭转耦合效应可以抑制扭转平带引起的能量局域化。这些工作建立了主动弹性波操纵的新范例，在自适应隔振和可编程超材料设计方面具有广阔的应用前景。]]></description>
-      <guid>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/11/111001/1234897/Active-Bandgap-Tuning-of-Compression-Torsion</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <title>论复模态逆分析：单一生存模式的警示故事</title>
+      <link>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/10/101008/1234369/On-Complex-Modal-Inverse-Analysis-The-Cautionary</link>
+      <description><![CDATA[Abstract机械系统的模态数量通常假定等于其自由度数量。在这项工作中，除非满足限制条件，否则简单的非经典阻尼系统的模态数量少于自由度。当满足这个条件时，虽然存在一整套模式，但它们不是正交的。这些结果适用于非常小的非经典阻尼，可以逃避模态相位共线性度量的检测，并且与存在非经典阻尼的机械系统的系统识别相关。]]></description>
+      <guid>https://asmedigitalcollection.asme.org/appliedmechanics/article/93/10/101008/1234369/On-Complex-Modal-Inverse-Analysis-The-Cautionary</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

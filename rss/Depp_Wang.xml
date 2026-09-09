@@ -4,7 +4,7 @@
     <title>德普王</title>
     <link>https://depp.wang/</link>
     <description>每个人都需要有自己的哈姆雷特</description>
-    <lastBuildDate>Tue, 08 Sep 2026 13:51:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 02:31:53 GMT</lastBuildDate>
     <item>
       <title>AI 写下的那把 Redis 锁</title>
       <link>https://depp.wang/2026/ai-redis-lock/</link>
@@ -21,7 +21,7 @@ Redis 分布式锁└─ 数据库事务
 这把锁不一定有问题。原来的系统是一个后台管理系统，操作人数不多，同一活动很少被多人同时修改。用一把活动级锁，简单，也可能足够安全。 
 但我还是停了下来：
 
-这段代码是真的需要 Redis 锁，还是 AI 只是习惯性地加了一把『大锁』？ 
+这段代码是真的需要 Redis 锁，还是 AI 只是习惯性地加了一把「大锁」？ 
 ]]></description>
       <guid>https://depp.wang/2026/ai-redis-lock/</guid>
       <pubDate>Tue, 08 Sep 2026 13:51:22 GMT</pubDate>

@@ -4,111 +4,111 @@
     <title>Physics of Fluids Current Issue</title>
     <link>https://pubs.aip.org/pof</link>
     <description></description>
-    <lastBuildDate>Fri, 04 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 00:00:00 GMT</lastBuildDate>
     <item>
-      <title>受限变截面微孔双向体积交替空化流场特性</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/096702/3403905/Flow-field-characteristics-of-bidirectional-volume</link>
-      <description><![CDATA[为了揭示受限变截面微孔在体积变化产生的时变压力下空化场的演变和壁空化侵蚀响​​应，本研究研究了直径从 1 mm 过渡到 2 mm 的 Al 1060 变截面微孔。建立了双向体积交替空化（BVAC）数学模型和三维数值流场模型。分析了空化场的演化及其流动特性，明确了交变频率和交变行程对空化场的影响；进行空蚀实验来检查数值流场特征与壁响应之间的对应关系。这些结果表明，经过五个交替循环后，BVAC流场达到动态稳定状态并表现出周期性演化。横截面的突变导致流场中形成大规模、对称分布的涡结构。蒸汽体积分数和流速都随着交变频率和交变冲程的增加而增加。不同交变频率下的空蚀实验显示，交变行程固定为20mm，侵蚀时间为6h，40Hz时整体改善效果最好，大直径、小直径和过渡段的表面粗糙度Ra分别降低了约52.9%、60.7%和30.5%。不同断面粗糙度改善的差异与数值模拟揭示的空化作用的区域差异总体一致。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/096702/3403905/Flow-field-characteristics-of-bidirectional-volume</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>吹吸槽分布对高速磁浮列车瞬态隧道空气动力学的影响</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/096110/3404041/Effects-of-blowing-suction-slot-distribution-on</link>
+      <description><![CDATA[时速600公里的高速磁浮列车在穿越隧道时会受到严重的瞬态空气动力扰动，可能会影响运行安全和乘客舒适度。主动吹/吸流量控制已成为减轻隧道引起的空气动力学效应的一种有前景的方法，但槽分布拓扑对控制性能的影响仍不清楚。为了解决这个问题，提出并系统评估了四种具有相同总开口面积的机载吹/吸配置，即矩形、狭缝、3槽和6槽布局。三维可压缩非定常雷诺平均纳维-斯托克斯方程与重新归一化群 k-ε 湍流模型相结合，使用滑动网格方法求解，以捕获瞬态列车-隧道空气动力相互作用。结果表明，所有配置都有效抑制压力波传播，减少气动载荷，并减弱滑流速度。整体控制性能遵循以下顺序：矩形&gt;矩形。 3槽 ≈ 6槽&gt;狭缝。在所研究的布局中，矩形结构通过将喷流动量集中在机头停滞区域和尾迹核心附近，从而增强压力波衰减和尾流压力恢复，从而实现最高的缓解效率。相比之下，狭缝和分散的多槽配置由于动量分散和流量控制权限减弱而表现出有效性降低。与基线相比，矩形布置使车头和隧道中部的峰值压力分别降低了16.4%和16.0%，头车侧向力幅值降低了19.3%，最大滑流速度降低了31.0%。这项研究进一步阐明了在不同狭缝分布配置下，局部射流动量通量密度（而不是总流量或开口面积）主导着压力波衰减效率。并阐明了槽拓扑与气动控制效果之间的关系，补充了现有高速磁浮隧道气动主动流动控制拓扑设计的研究框架。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/096110/3404041/Effects-of-blowing-suction-slot-distribution-on</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>串联加热模块之间的界面波调制热相互作用</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/092110/3403902/Interfacial-wave-modulated-thermal-interaction</link>
-      <description><![CDATA[本研究使用单加热和双加热测试模块配置，研究明渠流中稳定和机械扰动自由表面条件下的传热行为。扰动是使用由步进电机驱动的 Arduino 控制的齿轮齿条机构产生的。使用努塞尔数 (Nu) 评估传热性能，同时系统地检查施加的波运动和模块间距的影响。对于单个模块，在两种情况下，Nu 都随着功率输入 (Q) 的增加而增加；然而，相对增强从 Q=347 W 时的约 36% 下降到 Q=546 W 时的 18%。在 0.5–0.9 Hz 频率范围和 7–41.8 mm 振幅范围内进一步分析了波特性的影响，其中 Nu 的变化保持在近 17% 以内，表明在研究范围内传热的敏感性较弱。粒子图像测速分析表明，分离剪切层和相干涡旋结构的调制增强了近壁混合和热传输。随后通过改变模块之间的标准化间距来进行双模块研究。在稳定条件下，上游模块表现出几乎不变的 Nu，而下游模块则随着间距的增加而表现出增强的传热。在扰动条件下，上游模块在 Nu 中表现出间距相关的调制。这种调制由尾流对流和施加的自由表面振荡之间的相对时序控制，同步产生传热最大值，去同步产生传热最小值。相比之下，下游模块遵循与稳定条件下类似的趋势，表明其热传输仍然主要受尾流演化控制。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/092110/3403902/Interfacial-wave-modulated-thermal-interaction</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>勘误：“微型昆虫翅膀上保持高空气动力的刚毛间距的分析标准”Phys。流体 37 , 101707 (2025)</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/099904/3404038/Erratum-Analytical-criteria-for-bristle-spacing-on</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/099904/3404038/Erratum-Analytical-criteria-for-bristle-spacing-on</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>底部安装的立方体障碍物对盖驱动腔内再循环和非定常流动的影响</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/094108/3403898/Effects-of-a-bottom-mounted-cubic-obstacle-on</link>
-      <description><![CDATA[使用 Nek5000 进行谱元模拟，以比较在 Re = 1000、3200 和 5000 处有和没有中央底部安装立方体障碍物的三维盖驱动腔。障碍物的边长为 0.2L，仅占无阻碍空腔体积的 0.8%，但直接与主循环的近底部返回分支相交。该分析考虑了平均流、二阶统计量、有限时间 Q 标准占用率以及八探针网络的频谱和相干性。所有坐标均通过型腔边长L进行归一化； z/L = 0.1 表示穿过障碍物的近底部水平截面，y/L = 0.5 表示展向中面。障碍物在其顶部和沿翼展方向的侧面重新分配回流，并修改主再循环关闭位置。在Re = 5000时，一次再循环临界点的总排量达到0.2511L。在Re = 3200时，最大波动动能增加到无障碍情况下的2.88倍，而占总波动动能50%和90%的流体体积分数分别从10.1%增加到20.6%和49.8%增加到67.8%。在Re = 5000处，局部最大值减小，而相应的体积分数从18.0%增加到28.7%，从67.2%增加到74.0%，表明更广泛的空间重新分布。高占有率强旋转事件主要集中在右侧流入、展向旁路和障碍物顶部区域。无量纲频率定义为 f * = fL/U0，其中 f是维度频率，U0 是最大盖子速度。在 Re = 3200 处，峰值探测网络平均相干性从 0.657 增加到 0.883，并转变为 f * = 0.036。在Re = 5000处，局部谱响应分布在多个频带上，峰值相干性从0.494下降到0.266。这些结果表明，局部底部堵塞对封闭腔的平均再循环和不稳定空间组织的影响具有明显的雷诺数依赖性。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/094108/3403898/Effects-of-a-bottom-mounted-cubic-obstacle-on</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>通过动态模式分解的周期性扩展预处理识别混沌空化结构</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/093315/3404037/Identification-of-chaotic-cavitation-structures-by</link>
+      <description><![CDATA[实验空化流是高度非平稳和非线性的，这会降低线性动态模式分解 (DMD) 的性能。本研究提出了一种基于时间图像周期扩展（DMD-PE）的预处理方法，可减轻非平稳性影响以改善模式提取。对于气泡、云和超空泡，周期扩展后的重建误差分别为1.91%、4.55%和2.45%。这些错误不到没有扩展的错误的一半。 DMD模态分析表明气泡空化以低频模式为主，其光谱特征与准周期演化一致。云空化的主导模式集中在高衰减率区域，表明存在强烈的瞬态混沌扰动。超空泡表现出相对较高的模态能量集中，其演化似乎受准周期大规模空腔运动的控制，表明具有较强的相干性和动态稳定性。本研究提出了一种有效的实验空化流DMD数据预处理方法，揭示了三种典型空化状态下动态结构的模态特征，为空化演化机制提供了基于模态的动态解释。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/093315/3404037/Identification-of-chaotic-cavitation-structures-by</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>用于基于导数的涡动力学分析的正则化 Rortex 公式</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/098113/3403897/A-regularized-Rortex-formulation-for-derivative</link>
-      <description><![CDATA[Rortex 矢量（在部分文献中也称为 Liutex）提供了基于旋转轴的局部刚体旋转测量，并支持 Rortex 剪切分解和基于导数的涡动力学分析。然而，原始的 Rortex 场可能在涡旋边界附近表现出非平滑导数，导致梯度、拉普拉斯算子、材料导数、粘性项和 Rortex-剪切相互作用项出现虚假尖峰和振荡。为了提高导数的鲁棒性，引入了正则化的 Rortex 幅度 Rreg。该公式保留了刚体旋转极限和原始 Rortex 确定的主要涡流结构，同时平滑了涡流边界附近的过渡。使用兰姆-奥辛涡旋、二维和三维泰勒-格林涡旋、伯格斯涡旋和二维圆柱尾流来检查其行为。典型案例表明，Rreg 显着减少了一阶和二阶导数中边界引起的伪影，同时保留了主涡旋拓扑。在圆柱尾流中，正则化公式可以对时间、对流、粘性、材料导数和 Rortex-剪切相互作用项进行更稳健的有限差分评估。这些结果表明，所提出的正则化提高了基于 Rortex 的微分诊断的数值鲁棒性，并为涡旋边界和涡旋动力学分析提供了更可靠的基础。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/098113/3403897/A-regularized-Rortex-formulation-for-derivative</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>热烟气强化甲烷回收过程中煤中CO 2 /N 2 /CH 4 竞争吸附的收敛引导分子建模框架</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/096607/3404036/A-convergence-guided-molecular-modeling-framework</link>
+      <description><![CDATA[热烟气注入提高煤层气回收率具有提高甲烷回收率和实现地质 CO2 封存的潜力。分子模拟中CO2/N2/CH4竞争吸附和输运的预测对煤分子模型尺寸、煤阶表示以及温度和压力条件敏感。代表性分子模型的定量标准仍然缺乏。这项工作将煤大分子数选择视为有限尺寸收敛问题，并建立了考虑密度、孔隙结构、吸附容量、等量吸附热和竞争吸附选择性的收敛评分框架。这项工作结合 PoreBlazer、大正则蒙特卡罗和分子动力学模拟，研究了褐煤、烟煤和无烟煤中 CO2/N2/CH4 的吸附、扩散和分子间相互作用。结果显示，褐煤、烟煤和无烟煤的最小代表性模型尺寸分别为 50、40 和 30 个大分子。更大的模型减少了孤立的自由体积伪影，并改善了吸附位点和扩散路径的统计表示。在三元孔隙气体混合物中，压力驱动从高亲和力位点占据到渐进孔隙填充的转变。 CO2在有利位点富集以取代CH4，而N2表现出较弱的相互作用和较高的迁移率。竞争吸附是由位点占据和孔填充的协同作用控制的，温度升高会缩短分子在吸附位点的停留时间，从而抑制吸附。非线性均方位移表示通过连接的自由体积中的间歇捕获而不是不受限制的扩散进行传输。这项工作提供了一种定量收敛标准来替代煤分子模拟中的经验模型尺寸选择。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/096607/3404036/A-convergence-guided-molecular-modeling-framework</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>入口温度对旋流喷雾火焰不稳定热点的影响</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/095123/3403896/Inlet-temperature-effects-on-unsteady-hot-spots-in</link>
-      <description><![CDATA[利用火焰生成歧管燃烧模型的大涡模拟研究了入口空气温度对双级旋流喷雾燃烧器中热点动力学的影响。使用波普准则测试网格分辨率，并使用粒子图像测速测量验证预测的速度。设计了两种提高入口空气温度的火焰工况：403~473 K的等速策略和473~543 K的恒流量策略，其特点是入口速度增加。结果表明，增加入口空气温度可以持续改善两种策略的出口温度均匀性。发现热点的形成是通过扩散火焰主导的热释放来维持的。系统地揭示了热点的形成和消散。初级再循环区 (PRZ) 的入口温度较低，为 403 K，是最弱的，允许深度喷雾穿透和强烈的燃料积累，从而导致聚集为主的热点。这些热点被困在 PRZ 内并持续存在于下游，从而恶化了出口温度的均匀性。对于这两种策略，随着入口温度的升高，热点耗散都按照类似的机制得到增强，即增强的涡流和湍流混合促进热点拉伸和破碎，从而导致更好的温度均匀性。特别是在 543 K 时，热点在到达出口之前会在短轴向距离内迅速消散。这些发现通过对流动火焰动力学的详细分析，为旋流喷雾燃烧器中热点的形成、演变和消散提供了新的见解。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/095123/3403896/Inlet-temperature-effects-on-unsteady-hot-spots-in</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>弹头形状对弹丸垂直破冰入水空腔流动特性的影响</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/093316/3404035/Influence-of-head-shape-on-cavity-flow</link>
+      <description><![CDATA[研究弹丸高速入水过程中的流场演化对于开发用于冰雪覆盖的海洋的先进跨介质武器至关重要。采用欧拉-拉格朗日耦合方法，建立了垂直高速破冰入水数值模型。比较了不同头部形状的弹丸的空腔演化、冲击载荷、结构响应和运动特性，并阐明了控制冰层裂纹扩展的机制。结果表明，封头形状对空腔尺寸和冰孔尺寸的影响顺序为：平头&gt;平头。圆锥形&gt;半球形。随着冰孔尺寸的减小，冰层对空腔闭合的延迟作用增强。平封头产生的环形裂纹面积最大，而锥形封头不产生环形裂纹，径向裂纹也较少。无冰条件下的峰值载荷约为相同速度破冰进入时的峰值载荷的70%。在冰雪覆盖的环境中，圆锥形封头表现出塑性应变，但稳定性最好，而半球形封头的稳定性最差。这些发现为冰海跨介质武器的设计提供了理论指导。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/093316/3404035/Influence-of-head-shape-on-cavity-flow</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>非均匀风场下双箱梁非线性颤振特性及流场三维数值研究</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/095122/3403895/Three-dimensional-numerical-study-of-the-nonlinear</link>
-      <description><![CDATA[为了研究非均匀风场下桥梁梁的非线性颤振问题，通过三维计算流体动力学自由振动数值模拟研究了双箱梁在四种典型风场下的情况：均匀风场（A1）、均匀风速和均匀风攻角（A2）、均匀风速和非均匀风攻角（A3）和非均匀风场（A4）。在所研究的情况下，稳态颤振幅度和脉动气动力表现出相同的趋势，遵循A3 &gt;1。 A1&gt;&gt; A4&gt;&gt; A2。脉动气动力的展向相关性在 A1 和 A3 中最强，其次是 A4，最弱的是 A2。表面压力分析将上表面的前缘识别为影响相关性变化的关键区域。流场分析表明，不均匀风速会削弱展向涡同步并降低气动相关性，而不均匀风攻角会促进涡发展并可能增强非线性气动特性。大尺度主涡（DV）的涡旋脱落频率接近结构振动频率，因此，它们主要与脉动气动力的基本分量相关。较小尺度的从属涡 (SV) 在 DV 内生成，并且仅在 DV 尺度足够大时才表现出周期性脱落，从而导致与高阶谐波分量相关的较高脱落频率。在案例 A3 中，增强的 DV 尺度促进了 SV 的发展和脱落，从而在气动力中产生更明显的高阶谐波特征。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/095122/3403895/Three-dimensional-numerical-study-of-the-nonlinear</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>自曝气浮选机的流体动力学和气体分散特性</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/093317/3404026/Hydrodynamics-and-gas-dispersion-characteristics</link>
+      <description><![CDATA[本研究采用侵入式原位远心视觉探针（TVP）方法测量和分析自充气浮选机下循环区和静止上升区的气泡尺寸分布（BSD）和索特平均气泡直径d32。将群体平衡模型与计算流体动力学 (CFD) 相结合来预测细胞中的 BSD，并根据 TVP 测量值验证预测的 d32，以评估数值模拟的准确性。使用同质多尺寸组模型 (MUSIG) 方法求解群体平衡方程，该模型通过 Martínez-Bazán 破碎核解释气泡破碎和合并 [Martínez-Bazán 等人，“论注入完全发展的湍流中的气泡的破碎。第 1 部分。破碎频率”，J. Fluid Mech。 401, 157–182 (1999)] 和 Prince 和 Blanch 聚结内核 [Prince 和 Blanch, “空气喷射气泡柱中的气泡聚结和破裂”, AIChE J. 36(10), 1485–1499 (1990)]。 BSD 呈现右偏形状，系统分析了叶轮速度对流场、湍流强度、涡度、柯尔莫哥洛夫长度尺度和 BSD 的影响，以阐明浮选池中的气泡破碎行为。 BSD、气泡雷诺数和轴向界面面积通量进一步整合到气体分散评估的统一框架中。这些结果为开发基于 CFD 的浮选动力学多相预测模型提供了基础。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/093317/3404026/Hydrodynamics-and-gas-dispersion-characteristics</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>固液两相流离心泵冲蚀磨损机理及耐磨涂层对比研究</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/093314/3403892/Erosion-wear-mechanism-of-centrifugal-pumps-in</link>
-      <description><![CDATA[固液两相流下离心泵的冲蚀磨损严重限制了流体输送系统的长期稳定运行。目前的研究缺乏对颗粒尺寸-固体浓度对内部流动结构的协同效应以及流动特性和壁侵蚀之间的流体动力学联系的深入了解。这项工作使用单级闭式叶轮离心泵，对三种粒径（0.6、0.9 和 1.5mm）和三种固体体积分数（2.5%、5% 和 7.5%）进行计算流体动力学-离散相模型耦合模拟和系统侵蚀测试。大气等离子喷涂氧化铝和高速氧燃料喷涂碳化钨–10 wt的耐磨性和失效机制。 通过三维 (3D) 光学轮廓测定法、扫描电子显微镜和能量色散光谱法对镍涂层的百分比进行比较分析。主要发现有三个方面。首先，叶轮出口平均速度在高浓度下随着颗粒尺寸的增加而表现出非单调变化，这是由于离心颗粒惯性迁移和团聚引起的流道堵塞之间的竞争造成的。其次，侵蚀热点（叶片压力侧后缘和蜗舌）由内部流动拓扑决定；较高的固体浓度会加剧侵蚀，但不会改变热点位置。第三，涂层失效模式与流动密切相关：通道出口处的小角度高速冲击会导致塑性变形和微切削，而高角度入口冲击则主要导致脆性剥落。该研究阐明了磨损热点的流体动力学形成机制，建立了局部流动参数与涂层失效模式之间的内在对应关系，为离心泵的针对性抗磨损设计提供了物理指导。涂层性能结论在测试条件下有效。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/093314/3403892/Erosion-wear-mechanism-of-centrifugal-pumps-in</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>文丘里型微通道中的空化动力学：实验观察和数值模拟</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/092005/3404025/Cavitation-dynamics-in-Venturi-type-microchannels</link>
+      <description><![CDATA[流体中的空化会严重阻碍相关流动的效率。这种不受欢迎的现象受到局部流动条件、流动方向、边界附近以及饱和时液体/气体特性的强烈影响。当液流严重收缩并发生空化时，发散的微通道可以通过有效的压力恢复来抑制蒸汽的形成；然而，这种微通道在不同几何和操作条件下的行为仍不清楚。这项工作结合了实验数据和计算模型，阐明了文丘里型微通道中制冷剂 (R134a) 流空化引起的相变的复杂流动动力学。使用 OpenFOAM® 中的 interPhaseChangeFoam 求解器进行全场数值模拟，并根据相同系统获得的实验数据验证模型系数。探讨了流速、通道张角和入口横截面几何形状的影响，重点关注压降、速度分布和空化特征（包括蒸气分数）。结果强调了流速、孔口与通道宽度比、孔口尺寸和通道发散角对总压降的作用。 12° 的通道打开角度可最大限度地减少压降，而传统的单相文丘里几何形状的最佳打开角度通常在 5° 到 7° 之间。该研究强调，空化数（包括其符号）是空化严重程度的关键定量指标，其中越来越多的负值对应于微尺度收缩中蒸汽产生的加剧。通过确定操作条件和空化现象之间的关系，这项工作为理解和优化易发生空化的条件下的微通道设计提供了一个框架。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/092005/3404025/Cavitation-dynamics-in-Venturi-type-microchannels</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>改进的冲击射流经验模型和数值模拟应用于下击暴流稳态流</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/096606/3403891/Improved-empirical-model-and-numerical-simulation</link>
-      <description><![CDATA[下击暴流事件会在相当大的区域内产生极端的近地表风，对建筑物造成重大威胁。现有的经验模型通常基于经验方程分别模拟下击暴流的垂直和径向稳态剖面。然而，这些模型难以考虑边界层厚度非线性增长的影响，并且尚未建立包围核心区域的空间风速场。本研究提出了一种基于广义模态分解的新型经验模型。它具有改进的径向速度垂直整形函数和一组基于数据的模型参数特征函数。此外，基于质量连续方程推导了垂直速度场的积分表达式。使用大涡模拟进行详细的计算流体动力学 (CFD) 模拟，以进行模型校准和验证。结果表明，改进的垂直成形函数显着提高了模拟径向速度的精度，特别是在下击暴流中心附近的近壁区域。通过采用经验模型和 CFD 模拟数据，为计算区域构建了下击暴流空间中的连续径向和垂直速度场。这些场与经过验证的CFD模拟和可用的风洞试验数据非常吻合，表明该模型可以为下击暴风下结构的风荷载计算和结构安全评估提供有价值的参考。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/096606/3403891/Improved-empirical-model-and-numerical-simulation</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>内部孤立波中湍流地下核心的传输</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/096608/3404006/Transport-by-turbulent-subsurface-cores-in</link>
+      <description><![CDATA[已知内孤立波 (ISW) 可通过各种机制诱导物质传输，对物理和生态过程具有重要影响。我们报告了在有利于地下核心发展的条件下对 ISW 的直接数值模拟，这种情况特别适合重要的水平传输。结果表明，核心是动态活跃的，具有强烈的三维性，以持续的湍流为特征。基于被动示踪剂的分析表明，岩心表现出环境流体的持续夹带，然后是湍流混合、暂时滞留和最终泄漏。夹带主要发生在上游-上核心边界，并且与在整个波浪演化过程中持续存在的剪切和对流不稳定性密切相关。一旦被夹带，流体就会通过核心内的湍流重新分布，并在被释放到下游之前保持有限的持续时间。将背景剪切强度增加四倍会使夹带增加约 67.4%，而将波幅减小 9.1% 会使夹带减少约 10.4%。我们的模拟表明，剪切流下 ISW 中的地下岩心不应被视为封闭流线型俘获岩心，而应被视为湍流、泄漏的传输系统。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/096608/3404006/Transport-by-turbulent-subsurface-cores-in</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>水泥分层环境中螺旋桨尾流演化和泥浆夹带的数值研究</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/095121/3403890/Numerical-investigation-of-propeller-wake</link>
-      <description><![CDATA[船用螺旋桨与沉积物海床之间的相互作用对于航行安全、环境保护以及浅水区船舶的水动力性能具有重要意义。本研究通过改进的延迟分离涡模拟结合流体体积研究了意大利国家研究委员会-海洋工程研究所（CNR-INM）E779A螺旋桨在水泥分层环境中的尾流演化和泥夹带。首先根据螺旋桨开放水域性能和尾流特性的可用实验数据验证数值方法。随后分析了水-泥界面对螺旋桨水动力载荷、涡流演化、湍流转变和沉积物输送的影响。结果表明，由于螺旋桨尾流与水-泥界面之间的不对称相互作用，泥浆层的存在会引起推力、扭矩和侧向力的明显周期性波动。与开放水域条件相比，泥浆环境通过抑制二次尖端涡配对来重塑螺旋桨尾流演化，引发更早的涡流不稳定和更快的尾流崩溃。相应地，雷诺应力重新分布增强，湍流结构更快地从各向异性状态转变为各向同性状态，促进界面上的动量交换。这些尾流动力学的改变大大增加了沉积物的夹带和运输，导致螺旋桨滑流内的泥浆扩散加剧。本研究揭示了尾流不稳定性在控制水-泥分层环境中沉积物夹带过程中的基本作用，并为浅水区螺旋桨引起的海底相互作用提供了新的见解。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/095121/3403890/Numerical-investigation-of-propeller-wake</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>铅铋共晶流动下圆柱体耦合响应及热-流-固耦合特性</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/093107/3404005/Coupling-response-and-thermal-fluid-structure</link>
+      <description><![CDATA[本文报道了铅铋共晶流动下圆柱体的振动和热-流体-结构相互作用特性，其特性与温度相关。数值模拟在入口雷诺数为 100 和 200、入口壁温比 Tin/Tw 范围为 2.0 至 3.3 和降低速度 Ur 从 3 到 12 变化。根据 Ur 和 Tin/Tw。高振幅振动与近尾流模式的转变相关。振动圆柱体的速度边界层明显比静止圆柱体薄，而热边界层则比静止圆柱体厚得多。然而，速度和热边界层厚度均随 Tin/Tw 增加。初始分支和下部分支出现在 Ur = 3–4 和 Ur &gt; 处。分别为4个。 Ur = 4的临界条件呈现出最大的振动幅度和流体力系数，这与近尾流模式的转变一致。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/093107/3404005/Coupling-response-and-thermal-fluid-structure</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>离心泵非设计运行时压力脉动时空模态动力学及非线性特性</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/095120/3403874/Spatiotemporal-modal-dynamics-and-nonlinear</link>
-      <description><![CDATA[非设计运行通过旋转叶轮排放与固定蜗壳之间的相互作用重新组织离心泵压力脉动。为了阐明非均匀叶轮出口压力场如何在蜗壳中集中和调节，我们在 0.8Qd、1.0Qd 和 1.2Qd 和 1.2Qd。快速傅里叶变换、本征正交分解 (POD)、变分模态分解、样本熵、排列熵和 Lempel-Ziv 复杂度被结合起来，以表征压力响应的频率内容、空间组织、时间尺度和复杂性。 1.2Qd 条件产生了最强的脉动。叶轮响应由轴频率 fr = 29.17 Hz 及其低阶谐波决定，而蜗壳响应由叶片通过频率 fimp = 175 Hz 及其低阶谐波决定。谐波。前四种 POD 模式分别捕获叶轮和蜗壳中 91% 和 90% 的脉动压力能。叶轮模态在空间上分布且具有相移，而蜗壳模态位于舌部和叶轮出口附近。主叶轮本征模态函数保留了 96.2% 和 96.5% 的分解能量，并保持接近轴频尺度；主要蜗壳成分超过 85%，集中在 fimp 和 2fimp 附近。复杂性分析揭示了叶轮中具有低能量高频复杂性的有序低频主干，但在叶片通过频率、谐波和蜗壳中的高频尺度上具有更强的复杂性。蜗壳舌以区域相关的多尺度响应集中和调节不均匀的叶轮出口压力场。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/095120/3403874/Spatiotemporal-modal-dynamics-and-nonlinear</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>输送两相流的悬臂管道系统动力学</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/094109/3404004/Dynamics-of-cantilevered-piping-system-conveying</link>
+      <description><![CDATA[这项工作探讨了悬臂管道中两相流的动力学，强调了流型转变在系统稳定性中的作用。建立了一个将流动参数与振动方程耦合的统一模型，以精确的段塞流模型和状态转变条件为基础。方程通过 Galerkin 方法离散化，四阶龙格-库塔用于求解非线性动态响应。使用实验数据和已发表的结果对该模型进行验证，并与改进的漂移通量模型 (DFM) 进行比较。理论分析表明，DFM预测的临界颤振速度低于段塞动力学模型的临界颤振速度。当表观气体速度增加且流型转变为环流时，DFM 无法预测由流速和持液率重新分布引起的重新稳定。在 DFM 下，以表面液体速度为变量，观察到不稳定-再稳定-不稳定模式。因此，在界面相互作用较弱的流动模式下，DFM 的可靠性值得怀疑。非线性分析表明，两个模型都表现出周期性运动的颤振不稳定性。耗散对稳定性的影响与质量有关：在一定程度上，耗散增强了稳定性，但当无量纲质量超过临界值时，就会产生负面影响。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/094109/3404004/Dynamics-of-cantilevered-piping-system-conveying</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>真实生理呼吸下气管狭窄对雾化药物输送影响的计算机模拟研究</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/091903/3403873/In-silico-investigation-of-tracheal-stenosis</link>
-      <description><![CDATA[气管狭窄会显着改变呼吸气流并影响吸入药物颗粒的输送和沉积。本研究以数值方式研究了在真实吸入操作下轻度（15%）、中度（45%）和极度（70%）狭窄的疾病特异性气管支气管气道中的气溶胶输送、颗粒沉积和薄膜形成。这项研究的新颖性在于其对生理条件下不同程度气管狭窄的气雾剂药物输送进行疾病特异性评估。此外，结合的欧拉壁膜和离散相模型 (DPM) 可以捕获颗粒沉积和沉积后液膜行为，与传统的基于 DPM 的方法相比，可以更真实地表示吸入药物的转运。该研究评估了 1、5 和 10μm 气溶胶颗粒的气流特性、沉积效率、薄膜厚度和面积覆盖率。结果表明，狭窄严重程度的增加会显着改变气流不对称性，导致定向偏向射流形成和明显的颗粒沉积行为。沿着狭窄的峰值速度幅度从近 4.2 增加到 12 m/s，导致随着严重程度从轻度到极端增加，涡度产生同样强劲地增加（4000 到 12 000 s−1）。结果，药物沉积不对称性也发生显着变化，导致极端情况下右肺膜厚度增加 7.51 倍，而类似的中度和轻度狭窄情况分别为 2.49 倍和 0.07 倍。临床上，由于喷射引起的不对称颗粒传输，极度狭窄会促进局部药物积累和气溶胶输送不均匀，这凸显了针对患者特定的吸入治疗优化的需要。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/091903/3403873/In-silico-investigation-of-tracheal-stenosis</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>粘弹性流体中二维单气泡的上升行为</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/097402/3404003/Rising-behavior-of-a-two-dimensional-single-bubble</link>
+      <description><![CDATA[两相流系统中气泡的上升行为是一种基本现象；然而，非牛顿流体特性对气泡路径稳定性的影响仍然复杂且尚未完全了解。在这项研究中，我们使用 BASILISK 框架内的自适应网格细化的流体体积方法，对 Oldroyd-B 粘弹性流体中单个气泡的上升进行了二维数值模拟。通过系统地改变伽利略数 (Ga) 和 Eötvös 数 (Eo)，我们构建了 Ga–Eo 相图来阐明气泡行为跨越不同的流体状态。结果表明，流体粘弹性对气泡动力学产生复杂且非单调的影响。有两个因素导致气泡路径不稳定：粘弹性应力的振荡破坏气泡对称性，导致不稳定，而气泡周围的高应力集中抑制流动分离，从而抑制不稳定。关于气泡破裂机制，我们证明弱弹性有利于中心破裂，同时由于弹性记忆效应和颈缩拉伸流之间的相互作用而形成微气泡。相反，强弹性抑制中心破裂，导致由“弹性应力塞区”驱动的“收缩之字形”轨迹以及随后的对称性破裂。外围破碎被减弱的尾流涡流单调抑制，但在中间 Wi 处，应力振荡不对称会产生先前未报道过的单侧裙边破碎。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/097402/3404003/Rising-behavior-of-a-two-dimensional-single-bubble</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>近地表翼型的波致频率锁定和相干结构</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/093313/3403872/Wave-induced-frequency-locking-and-coherent</link>
-      <description><![CDATA[自由表面波强烈改变靠近波状表面的近机翼流场。本文采用基于流体体积法的数值模拟研究了国家航空咨询委员会6412翼型在不同水面间隙和攻角下近波面的气动、尾流和模态特性。结果表明，攻角越大、水面间隙越小，平均升力越高，升力波动越强，非定常气动特性越明显。受波浪自由面周期性运动的影响，升力系数随波相位周期性变化。此外，升力信号的主频率几乎与波浪频率相同，表明波浪运动是非定常气动力的主要来源。当波面上升并接近翼型的下侧时，翼型下方的流道变窄，导致表面压力的重新分布以及相应的与相位相关的升力变化。进一步的高阶动态模式分解分析表明，波浪频率捕获了主模式的基频，导致近尾流结构表现出与波浪运动一致的周期性演化。迎角的增加扩大了后缘和近尾流区域主模态的高振幅分布，表明受波致相干结构影响的区域扩大。这些结果为波浪环境下近地表地效飞行器的气动载荷评估和流动机理分析提供了有益的指导。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/093313/3403872/Wave-induced-frequency-locking-and-coherent</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>旋转可压缩天然气流中轻质烃的物种解析非平衡冷凝</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/096111/3404002/Species-resolved-non-equilibrium-condensation-of</link>
+      <description><![CDATA[快速膨胀的天然气流中的轻质烃凝结将有限速率的多组分相变与物种相关的过饱和度和潜热反馈耦合起来。它在旋转可压缩通道中的响应仍未得到充分解决。针对经历低温膨胀的贫CH4/C2H6/C3H8/N2混合物制定了物种解析的非平衡冷凝模型。该公式在径向流入通道的三维雷诺平均可压缩流框架中结合了基于分压的过饱和准则、真实气体平衡校正、物种解析源项和潜热反馈。在研究条件下，丙烷主导均匀成核并建立主要液滴群，而乙烷主要通过在现有液滴上生长而凝结；在最低入口温度下，下游乙烷生长可以提供更大的液体质量贡献。对于基线成分，冷凝在低于 ∼ 210 K 时明显，并且随着入口总温度从 180 K 增加到 220 K 而减弱。在 180 K 时，非冷凝计算分别高估了等熵和多变效率 2.84 和 2.74 个百分点；随着凝结减弱，差异变得可以忽略不计。在 220 K 时，丙烷摩尔分数从 0.69 增加到 2.07 mol。 ％将出口液体质量分数从接近零提高到约4.31％。凝结前沿由物质分压、饱和压力、相弛豫和通道尺度空气动力学的耦合演化控制。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/096111/3404002/Species-resolved-non-equilibrium-condensation-of</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>流线型箱梁中央垂直安定面颤振控制机构</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/098112/3403870/Flutter-control-mechanism-of-central-vertical</link>
-      <description><![CDATA[中央垂直稳定器被广泛用于增强流线型箱梁大跨度桥梁的空气动力稳定性，但其有效性的基本机制，特别是关于密实度的关键作用，仍然不完全理解和争论。本研究全面研究了中央垂直安定面的颤振控制机制，明确评估了密实度的影响。通过将双峰颤振分析与表面压力测量相结合，该研究为耦合甲板运动期间自激力的时空分布提供了新的见解。结果表明，中央垂直安定面显着增加了非耦合扭转气动阻尼，有效抑制了耦合颤振。然而，不足的实心比（在本例中低于 50%）会大大削弱这种稳定效果。压力分布分析表明，自激力主要由甲板部分的迎风边缘产生，而垂荡和扭转运动产生的自激力的特性主要在于其相对于运动的相位不同。此外，人们发现中央垂直稳定器从根本上改变了甲板上的流动模式：它们破坏了大规模的分离气泡，将其分裂并延迟了下游的重新附着。这种涡流重组会导致中央垂直安定面后面的自激力出现临界相移（在本例中为 30°–40° 滞后）。这种相移被认为是驱动观察到的局部气动阻尼增加和该区域内刚度降低的主要机制，从而增强了整体颤振稳定性。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/098112/3403870/Flutter-control-mechanism-of-central-vertical</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>突水隧道震后地下水水力行为</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/096703/3404001/Post-earthquake-groundwater-hydraulic-behavior-in</link>
+      <description><![CDATA[在震后工程环境中，隧道突水不仅受到水源的控制，还受到断层和裂缝路径、开挖边界和运营条件如何重塑地下水压力的影响。在这里，我们提出了一个集成阿尔蒙型分布式滞后模型、水化学和同位素约束、矿物饱和度筛选和三维地下水模拟的源路径约束框架，以表征中国西南磨子茶园隧道震后地下水水力行为。事件调整的分布式滞后模型确定了隧道 1/隧道 1&#39; 中主要的显着降雨排水响应窗口为 35-76 天，而隧道 2 没有显示出明显的延迟响应，证实降雨主要作为延迟补给而不是立即触发。水化学相、同位素来源的补给高度和饱和指数模式表明，涌水主要是由邻近集水区和浅层裂隙含水层提供的大气水，没有证据表明主要是深层盐水或热液贡献。模拟结果揭示了明显的流体力学转变：开挖将隧道转变为近零压力的排水边界，而衬砌和8米全断面注浆则在运营过程中在变线段建立了约70-110米压头的承压边界。在所有模拟条件下，与断层相关的损坏区和路线改变部分仍然是压力水头重新分布的主要区域。 4100米处的本地压力计验证得出的相对误差分别为2.09%和5.45%，支持了震后隧道地下水响应评估框架的可靠性。该框架支撑了磨子茶园隧道的安全运营和压力控制设计，为评估地震多发区隧道地下水响应提供了可借鉴的参考。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/096703/3404001/Post-earthquake-groundwater-hydraulic-behavior-in</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>超音速入口瞬态打开过程中压力波反馈和激波演化机制</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/095119/3403867/Mechanisms-of-pressure-wave-feedback-and-shock</link>
-      <description><![CDATA[研究了超音速入口打开过程中由移动边界引起的瞬态激波演化、压力波动力学和激波/边界层相互作用 (SBLI)。开发了基于动态网格的数值框架，将入口盖的旋转运动与非稳态可压缩流场耦合起来。使用整体固体火箭冲压发动机作为代表性应用，系统地研究了转动惯量、弹簧预紧力和传入马赫数的影响。结果表明，入口盖运动主要受空气动力载荷控制，在整个打开过程中，空气动力扭矩仍然远大于弹簧预紧扭矩和重力力矩。转动惯量被认为是主要的结构参数。虽然它不改变瞬态激波演化的顺序，但它改变了动边界演化的特征时间尺度，调节了几何开口、激波演化、压力波传播和SBLI发展之间的同步性。相比之下，弹簧预紧力仅稍微改变打开历史，并且对随后的瞬态流动演变几乎没有影响。在Ma = 2.8–3.2的研究范围内，输入马赫数在所考虑的参数中对瞬态激波演化的影响最强。增加马赫数可增强空气动力载荷和流动压缩性，加速移动边界演化、压力波传播和 SBLI 发展，从而促进更早的激波位移和更强的流动分离。结果进一步表明，SBLI 是连接压力波传播与瞬态冲击演化的关键中介机制。总体而言，瞬态流动演化受移动边界演化与内部可压缩流动动力学之间的耦合相互作用控制，为时变几何约束下的移动边界可压缩流动提供了新的物理见解。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/095119/3403867/Mechanisms-of-pressure-wave-feedback-and-shock</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>使用物理信息神经网络进行湍流建模：训练点分布和超参数的重要性</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/095125/3404000/Turbulence-modeling-using-physics-informed-neural</link>
+      <description><![CDATA[物理信息神经网络 (PINN) 用于通过标准 k-ω 湍流模型求解一段时间内的纳维-斯托克斯方程，重点关注训练点和超参数的空间放置如何影响精度。壁界湍流建模面临挑战，因为特定耗散率 (ω) 等变量表现出高近壁梯度。为了解决这个问题，研究分三个阶段进行。首先，研究了学习率（LR）和优化器迭代，分析表明增加迭代次数并不一定会提高预测精度，需要特定的LR调度来提高精度。其次，同时分析了随机、剪切对齐和对流的各种网络容量和采样方法，发现随机和对流采样无法捕获近壁湍流特征，导致 ω 出现相当大的预测误差。虽然剪切对齐点选择可以实现较低的 ω 误差，但它需要流场的先验知识。第三，开发了一种新颖的多目标蒙特卡罗主动学习（MOMCAL）算法来解决这个问题。它评估空间梯度、偏微分方程残差和当前误差，以半随机地选择新的训练点。通过应用 MOMCAL，神经网络可以轻松学习高度敏感的 ω 场。它大大减少了 ω 预测误差。 MOMCAL 的普适性在另外两个几何结构上得到了证实，实现了 ω 误差的类似降低，并且与现有自适应细化方法的比较证明了其优越的性能。最终，这项工作表明，智能 LR 调度与物理感知点选择相结合对于构建可靠、高精度 PINN 湍流模型至关重要。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/095125/3404000/Turbulence-modeling-using-physics-informed-neural</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>矩形微通道中壁相关滑移的动态掩蔽：两个限制维度中滑移长度的竞争</title>
-      <link>https://pubs.aip.org/aip/pof/article/38/9/092004/3403866/Dynamic-masking-of-wall-dependent-slippage-in</link>
-      <description><![CDATA[矩形微通道的微加工技术通常会产生异质表面纹理，导致侧壁和顶/底壁具有明显的粗糙度和滑动特性。这种表面特性的各向异性改变了流体-壁相互作用，并对流动动力学产生重要影响，特别是在确定有效滑移长度和通道渗透率方面。在实践中，从沿单一限制方向的速度测量推断出的滑移长度通常无法与观察到的流速相一致，这表明存在未解决的多维效应。在这项工作中，推导了具有各向异性滑移边界条件的矩形微通道中振荡牛顿流的精确解析解。在侧壁和顶/底壁处规定了不同的滑移长度，以量化它们对速度场和体积流量的耦合影响。该解决方案揭示了一种掩蔽效应，其中由于次壁处存在差异滑移，由主滑移长度引起的流速甚至可以有效地降低一个数量级或放大两倍。基于此分析，获得了有效滑移长度的显式相关性，该有效滑移长度解释了局部壁相关滑移长度之间的相互作用。这些结果提供了一个实用的框架来协调局部速度测量和全局流速之间的差异，并能够间接估计沿二次约束方向的滑移特性，这通常是无法通过实验获得的。所提出的公式提供了一种易于处理的途径，可以将异质表面效应纳入振荡力下微流体和多孔系统的表征和设计中。]]></description>
-      <guid>https://pubs.aip.org/aip/pof/article/38/9/092004/3403866/Dynamic-masking-of-wall-dependent-slippage-in</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <title>经过可变形圆柱体的无惯性泰勒-库埃特流中的弹性流体动力学不稳定性</title>
+      <link>https://pubs.aip.org/aip/pof/article/38/9/094110/3403999/Elastohydrodynamic-instability-in-an-inertia-less</link>
+      <description><![CDATA[本研究利用线性稳定性理论研究了经过涂有弹性介质的圆柱体的泰勒-库埃特流 (TCF) 的稳定性。流动由刚性内圆柱体的旋转产生，而静止的外圆柱体涂有可变形固体介质，被描述为新胡克弹性固体。当内圆柱体的转速超过临界值时，流固相互作用使得经过可变形固体层的无惯性 TCF 变得不稳定。二维和三维扰动的比较表明，（r，θ）平面中的二维非轴对称扰动是最不稳定（或最不稳定）的模式。这种不稳定性归因于流固界面上平均流所做的功，导致能量从平均流转移到行进扰动。在薄流体间隙极限下，经过可变形固体的平面库埃特流 (PCF) 的稳定性行为得到恢复。增加流体间隙对流动具有稳定作用，导致不稳定开始的临界转速增加。除了流体间隙之外，临界速度还受到固体层厚度和界面张力的影响。对于固定的流体间隙，增加固体层厚度会降低内筒的临界转速。不稳定性是由有限波模式和短波扰动模式激发的，分别由基流中的流体剪切速率和固体中的第一法向应力差驱动。在没有界面张力的情况下，相对于流体层厚度而言，较薄的固体层会发生从有限波不稳定到短波不稳定的转变。界面张力的存在往往会减弱短波不稳定性。与 PCF 相比，具有弯曲流线的 Taylor-Couette 结构延迟了不稳定的发生，因为界面剪切速率降低，并且触发弹流动力学不稳定所需的相关剪切功也降低了。]]></description>
+      <guid>https://pubs.aip.org/aip/pof/article/38/9/094110/3403999/Elastohydrodynamic-instability-in-an-inertia-less</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

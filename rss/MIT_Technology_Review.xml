@@ -4,7 +4,28 @@
     <title>MIT Technology Review</title>
     <link>https://www.technologyreview.com</link>
     <description></description>
-    <lastBuildDate>Wed, 09 Sep 2026 01:05:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:33:22 GMT</lastBuildDate>
+    <item>
+      <title>电池刚刚在美国打破了另一项记录</title>
+      <link>https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/</link>
+      <description><![CDATA[2026 年第二季度，美国电池装机量创下新纪录。根据一份新报告，总共新增容量 20.2 吉瓦时。这足以满足约70万户家庭的日常用电需求。这一激增使该国的发电量有望达到 71 吉瓦时。]]></description>
+      <guid>https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/</guid>
+      <pubDate>Wed, 09 Sep 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解便携式电源的热上限</title>
+      <link>https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/</link>
+      <description><![CDATA[将手机插入现代充电器后，前 10 分钟的体验令人印象深刻。接下来的 20 个不是。这不是缺陷。这是连接的设备在保护自己。随着充电过程中温度升高，智能手机的电池管理系统会减少其接受的电流，因为热量会加速化学降解，从而永久降低电池的性能。]]></description>
+      <guid>https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/</guid>
+      <pubDate>Wed, 09 Sep 2026 08:18:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的最新争议告诉我们数学的未来</title>
+      <link>https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/</link>
+      <description><![CDATA[OpenAI 最新的数学里程碑很快就陷入了争议。今天，该公司宣布其代理人已经解决了千年奖问题之一，这是数学中一些最重要的开放问题。在正常情况下，该解决方案将成为 OpenAI 的一大亮点。但这一声明被指控所掩盖。]]></description>
+      <guid>https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/</guid>
+      <pubDate>Wed, 09 Sep 2026 03:10:08 GMT</pubDate>
+    </item>
     <item>
       <title>下载：今年 35 名 35 岁以下创新者</title>
       <link>https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[AI推理时代已经到来。想象一下，一个医疗保健系统可以实时分析数百万个数据点，以加速挽救生命的医学研究，或者一个智能助理可以立即解决数千个复杂的客户需求。这些现实世界的突破依赖于先进的基础设施作为持续智能的引擎，为实时服务提供支持，同时……]]></description>
       <guid>https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/</guid>
       <pubDate>Fri, 04 Sep 2026 18:39:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载：出售战场无人机数据和AI重塑语言</title>
-      <link>https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/</link>
-      <description><![CDATA[这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。来自乌克兰无人机的数据正在推动一个新的狂野西部市场的发展——墨尔本大学研究人工智能对民主影响的研究员科里·阿尔珀特（Cory Alpert）曾在“狂野西部”市场任职。]]></description>
-      <guid>https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/</guid>
-      <pubDate>Fri, 04 Sep 2026 12:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰无人机的数据正在推动新的狂野西部市场</title>
-      <link>https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/</link>
-      <description><![CDATA[乌克兰战场上散落着无人机的残骸，无人机现已成为现代战争的关键武器。但在所有这些残骸的背后，有一个国防部门的新金矿。无人机产生的数据将远远超过它们用于战斗的战争，并日益成为人类社会的一部分。]]></description>
-      <guid>https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/</guid>
-      <pubDate>Fri, 04 Sep 2026 09:25:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载：重新思考儿童安全和化石燃料农业</title>
-      <link>https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/</link>
-      <description><![CDATA[这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。儿童监控应用程序可能需要重新启动数字危害已成为美国父母最担心的问题。作为回应，他们越来越多地转向内容监控应用程序来扫描孩子的文本、照片、电子邮件等。]]></description>
-      <guid>https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/</guid>
-      <pubDate>Thu, 03 Sep 2026 12:10:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

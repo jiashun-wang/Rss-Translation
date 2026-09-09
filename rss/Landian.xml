@@ -4,7 +4,77 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Wed, 09 Sep 2026 01:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:36:58 GMT</lastBuildDate>
+    <item>
+      <title>[已完成修复] 微信爆出高危漏洞 只需要发起通话(无需接听)即可控制对方账号</title>
+      <link>https://www.landian.news/archives/126782.html</link>
+      <description><![CDATA[#安全资讯 [已修复] 微信被爆超高危安全漏洞，只需要向你发起视频通话，数秒后即可接管你的账号，不需要你接听。目前腾讯已经修复该漏洞，所以研究人员披露该漏洞的少量细节。漏洞位于 VoIP 通话组件中，研究人员开发了名为 WeWorm 的蠕虫病毒，可以攻击目标后接管受害者微信账号。接下来再读取受害者好友清单，继续发起攻击。该漏洞可以完全接管微信账号并读取和发送消息，但不能直接接管整个设备。如果要接管 Android 或 iOS 并获得系统级权限，那攻击者还需要配合使用其他安全漏洞。查看全文：https://ourl.co/126782]]></description>
+      <guid>https://www.landian.news/archives/126782.html</guid>
+      <pubDate>Wed, 09 Sep 2026 06:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软在今天修复974个安全漏洞 再次刷新历史记录 微软提醒用户尽快更新</title>
+      <link>https://www.landian.news/archives/126781.html</link>
+      <description><![CDATA[#安全资讯 微软今天修复 974 个安全漏洞，再次刷新历史记录，微软提醒用户尽快更新。本次更新包含 2 个已经被黑客利用的安全漏洞，还有 20 个漏洞具备蠕虫化条件。对于使用 Windows Server 的用户来说必须立即安装更新，这类暴露在公网的服务器风险更高。查看全文：https://ourl.co/126781]]></description>
+      <guid>https://www.landian.news/archives/126781.html</guid>
+      <pubDate>Wed, 09 Sep 2026 05:43:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>深度求索宣布DS V4 Flash从10日中午调价 降幅60% 但与8月17日相比还是更贵</title>
+      <link>https://www.landian.news/archives/126780.html</link>
+      <description><![CDATA[#人工智能 先涨价再降价：深度求索宣布 DS V4 Flash 从明天中午 12 点调降价格，其中缓存命中降幅 60%。然而相比 8 月 17 日涨价前还是要贵，此次调整只有闲时缓存命中 / 未命中与 8 月 17 日持平，其他模式仍然贵 100%~300%。查看全文：https://ourl.co/126780]]></description>
+      <guid>https://www.landian.news/archives/126780.html</guid>
+      <pubDate>Wed, 09 Sep 2026 04:48:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI推出图像生成模型Images 2.5 生成速度提升50%/改进透明背景/支持多轮编辑</title>
+      <link>https://www.landian.news/archives/126779.html</link>
+      <description><![CDATA[#人工智能 OpenAI 推出 Images 2.5 图像生成模型，生成速度提升 50%、改进透明背景、支持多轮编辑等。其中透明背景方面得到专门的加强，现在模型可以处理更加复杂的版式和透明背景图片。生成的主体和背景分离更加可靠，适合制作 LOGO、商品素材、网站元素、插图等。查看全文：https://ourl.co/126779]]></description>
+      <guid>https://www.landian.news/archives/126779.html</guid>
+      <pubDate>Wed, 09 Sep 2026 04:09:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[下载] 英特尔发布24.70.0版WiFi/蓝牙驱动程序 修复安全问题和提升连接稳定性</title>
+      <link>https://www.landian.news/download/126803.html</link>
+      <description><![CDATA[#驱动程序 英特尔发布无线网络驱动程序 24.70.0 版，包含 WiFi 驱动程序和蓝牙驱动程序，修复安全漏洞、改善稳定性和提升性能等。该驱动程序适用于 WiFi 7 BE、WiFi 6E、WiFi 6、Intel AC 等无线网卡设备，使用英特尔无线网卡的用户记得下载更新。查看全文：https://ourl.co/126803]]></description>
+      <guid>https://www.landian.news/download/126803.html</guid>
+      <pubDate>Wed, 09 Sep 2026 03:34:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[下载] 微软发布Windows 11 24H2/25H2 KB5124008 修复鼠标样式丢失问题</title>
+      <link>https://www.landian.news/archives/126778.html</link>
+      <description><![CDATA[#系统资讯 微软发布 Windows 11 24H2/25H2 最新例行安全更新 KB5124008，修复桌面壁纸变黑和鼠标个性化设置全部丢失问题。以上问题是在 8 月可选更新中带来的，现在微软已经完成修复。遇到以上问题的用户安装最新更新即可重新设置个性化。下载地址：https://ourl.co/126778]]></description>
+      <guid>https://www.landian.news/archives/126778.html</guid>
+      <pubDate>Wed, 09 Sep 2026 03:17:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>即日起谷歌浏览器改成每两周发布新版本 以快速提供安全更新修复漏洞</title>
+      <link>https://www.landian.news/archives/126777.html</link>
+      <description><![CDATA[#软件资讯 即日起谷歌浏览器改成每两周发布新版本，以快速提供安全更新修复漏洞。今天谷歌推出 Chrome 153 版，也是从今天开始后续每两周谷歌将发布新的正式版。这里的更新指的是大版本而非子版本更新，日常子版本更新谷歌会按照需要继续发布。其他版本例如企业扩展稳定版和测试版保持原有更迭节奏。查看全文：https://ourl.co/126777]]></description>
+      <guid>https://www.landian.news/archives/126777.html</guid>
+      <pubDate>Wed, 09 Sep 2026 03:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>拖延症严重的微软终于准备为 Windows 11 开发深浅色自动切换功能</title>
+      <link>https://www.landian.news/archives/126776.html</link>
+      <description><![CDATA[#系统资讯 拖延症严重的微软终于准备为 Windows 11 开发深浅色自动切换，用户可以编排时间或根据用户所在地日出日落时间自动切换。主流操作系统都提供深浅色模式和自动切换，但 Windows 11 到现在还不能自动切换，用户要么手动切换要么靠第三方软件。现在微软终于准备提供系统级的自动切换功能。查看全文：https://ourl.co/126776]]></description>
+      <guid>https://www.landian.news/archives/126776.html</guid>
+      <pubDate>Wed, 09 Sep 2026 02:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果发布iOS 26.6.2版更新 修复无法通过蜂窝网络下载系统更新的问题</title>
+      <link>https://www.landian.news/archives/126775.html</link>
+      <description><![CDATA[#系统资讯 苹果发布 iOS 26.6.2 和 iPadOS 26.6.2 版更新，重点解决无法通过蜂窝网络下载系统更新的问题，为 iOS 27 发布做好准备。部分用户没有 WiFi 连接，所以主要靠蜂窝网络，如果无法通过蜂窝网络下载更新那系统就没法升级了。 iOS 27 正式版将在下周发布，苹果这也算是提前做好准备。查看全文：https://ourl.co/126775]]></description>
+      <guid>https://www.landian.news/archives/126775.html</guid>
+      <pubDate>Wed, 09 Sep 2026 02:33:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Asahi Linux正式支持苹果M3系列设备 多数硬件已经可以使用 但GPU和休眠还未完成</title>
+      <link>https://www.landian.news/archives/126774.html</link>
+      <description><![CDATA[#系统资讯 Asahi Linux 正式支持苹果 M3 系列设备，多数硬件已经可以正常使用，但 GPU 和休眠等功能还未完成。目前最大的问题就是 GPU 和完整的 DCP 显示控制器支持，由于完整的 DCP 支持尚未接入，目前搭载 M3 芯片的设备无法正常休眠。另外配备 HDMI 接口的 MacBook 暂时也无法使用该接口，这些还需要团队继续工作。查看全文：https://ourl.co/126774]]></description>
+      <guid>https://www.landian.news/archives/126774.html</guid>
+      <pubDate>Wed, 09 Sep 2026 02:05:54 GMT</pubDate>
+    </item>
     <item>
       <title>深度求索测试DS V4.1 Flash模型的中间版本 原生多模态支持/速度更快/成本更低</title>
       <link>https://www.landian.news/archives/126773.html</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[#系统资讯 谷歌已经在 Android 17 中禁止普通应用读取开发者选项和 USB 调试状态，现在尝试读取将始终返回 0 (代表关闭)。此前有些应用会通过 API 读取状态作为设备环境检测条件，例如银行类应用检测到用户开启 USB 调试后会禁止登录。谷歌认为普通应用读取此类信息完全没必要，所以始终返回 0 阻止这些应用读取实际状态。查看全文：https://ourl.co/126697]]></description>
       <guid>https://www.landian.news/archives/126697.html</guid>
       <pubDate>Tue, 08 Sep 2026 05:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>先兵后礼？ Liquid Network黑客归还3,400枚比特币 保留价值4,700万美元的比特币作为奖金</title>
-      <link>https://www.landian.news/archives/126696.html</link>
-      <description><![CDATA[#加密货币 先兵后礼担心被白嫖：Liquid Network 黑客归还 3,400 枚比特币，将价值 4,700 万美元的 598.5 枚比特币当自己的赏金？昨天 Liquid Network 出现安全事件，储备库中的 4,000 枚比特币被盗，但攻击者自称是白帽黑客，将在漏洞修复后归还比特币。不过黑客可能担心平台白嫖，所以选择转出比特币然后协商赏金，目前尚不清楚保留的 598.5 枚比特币是否算是正式赏金，因为 Liquid Network 还未发布官方消息。查看全文：https://ourl.co/126696]]></description>
-      <guid>https://www.landian.news/archives/126696.html</guid>
-      <pubDate>Tue, 08 Sep 2026 03:52:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软正在开发Windows 11电池与外设小部件 可以放到锁屏界面显示电量和连接状态</title>
-      <link>https://www.landian.news/archives/126695.html</link>
-      <description><![CDATA[#系统资讯 微软正在开发 Windows 11 电池与外设小部件，可以显示连接过的设备剩余电量、可以放到锁屏界面。安卓和 iOS 等都已经有专属的电量小部件，现在微软终于要为 Windows 11 开发类似小部件。从字符串来看，Windows 11 的小部件支持深浅色模式、节能模式开关、显示电量百分比、显示设备连接状态、是否正在充电等。查看全文：https://ourl.co/126695]]></description>
-      <guid>https://www.landian.news/archives/126695.html</guid>
-      <pubDate>Tue, 08 Sep 2026 03:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 10/11桌面变成哈利波特电影宣发广告？这是微软通过必应壁纸投放的</title>
-      <link>https://www.landian.news/archives/126694.html</link>
-      <description><![CDATA[#软件资讯 Windows 10/11 桌面壁纸变成哈利波特广告？没错，这是微软通过必应壁纸投放的广告。近期很多用户发现自己的桌面壁纸变成哈利波特与神奇动物系列电影宣发广告，排查原因发现是必应壁纸干的。必应壁纸原本每天自动更换桌面壁纸，很多用户收到微软推送后安装，然后现在将用户桌面变成广告位。查看全文：https://ourl.co/126694]]></description>
-      <guid>https://www.landian.news/archives/126694.html</guid>
-      <pubDate>Tue, 08 Sep 2026 02:57:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软发布安全警告：TerminalFix终端点击钓鱼猖獗 用户不要随意在终端中执行命令</title>
-      <link>https://www.landian.news/archives/126693.html</link>
-      <description><![CDATA[#安全资讯 微软发布安全警告：TerminalFix 终端点击钓鱼骗局猖獗，用户切记不要随意执行命令。 TerminalFix 与 ClickFix 攻击类似，后者要求用户打开运行窗口粘贴命令，而现在的 TerminalFix 则要求用户打开终端或 PowerShell 粘贴执行命令。这类攻击最终结果都是远程下载恶意程序并注入到可信进程中，实现感染、信息窃取、开机启动和持久化。查看全文：https://ourl.co/126693]]></description>
-      <guid>https://www.landian.news/archives/126693.html</guid>
-      <pubDate>Mon, 07 Sep 2026 07:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌反重力团队成员与社区用户就封号问题打嘴炮 明明是自己问题死活不承认</title>
-      <link>https://www.landian.news/archives/126692.html</link>
-      <description><![CDATA[#人工智能 谷歌 Antigravity 团队真是非常奇怪：与用户打嘴炮称用户造谣。 2 月份开始社区用户就在讨论反重力封号问题，按谷歌所说用户反代账号或存在其他滥用行为可能导致反重力服务被封禁。但关键在于，谷歌也有权直接封禁用户整个谷歌账号。当时反重力员工澄清说最多只封禁反重力服务，但自己的使用协议一直不更新，还保留着封谷歌账号条款。被社区用户拿出来讨论后，反重力团队员工直接说用户造谣，宁愿打嘴炮也不更新协议。被喷太多后现在反重力更新协议强调不再封禁谷歌账号，但谷歌整个账号体系的使用协议仍然写着有权封号。反重力团队成员称将提供更新，不过这可能要经过法务层层审核，最终能不能更新还是个未知数。查看全文：https://ourl.co/126692]]></description>
-      <guid>https://www.landian.news/archives/126692.html</guid>
-      <pubDate>Mon, 07 Sep 2026 05:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[下载] 免费虚拟机软件VMware Workstation 26H1u1发布 修复微软UEFI证书更新问题</title>
-      <link>https://www.landian.news/download/126726.html</link>
-      <description><![CDATA[#软件下载 博通发布免费虚拟机软件 VMware Workstation 26H1u1 Build 25688693 版，该版本主要修复危害等级较高的虚拟机逃逸问题。如果你使用 Windows 10/11 虚拟机也应该更新，新版本修复微软 UEFI 安全启动证书更新方面的错误，虚拟机内需安装 2026 年 7 月或之后的微软补丁。下载地址：https://ourl.co/126725]]></description>
-      <guid>https://www.landian.news/download/126726.html</guid>
-      <pubDate>Mon, 07 Sep 2026 04:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Mac虚拟机] VMware Fusion 26H1u1版发布 修复虚拟机逃逸漏洞和安全密钥问题</title>
-      <link>https://www.landian.news/download/126725.html</link>
-      <description><![CDATA[#软件下载 博通发布 macOS 免费虚拟机软件 VMware Fusion 26H1u1 Build 25689522 版，该版本主要修复危害等级较高的虚拟机逃逸问题。如果你使用 Windows 10/11 虚拟机也应该更新，新版本修复微软 UEFI 安全启动证书更新方面的错误，虚拟机内需安装 2026 年 7 月或之后的微软补丁。下载地址：https://ourl.co/126725]]></description>
-      <guid>https://www.landian.news/download/126725.html</guid>
-      <pubDate>Mon, 07 Sep 2026 04:57:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有开发者分析发现：Codex使用重置卡获得的额度只有正常量的50%</title>
-      <link>https://www.landian.news/archives/126691.html</link>
-      <description><![CDATA[#人工智能 有开发者分析发现：Codex 使用重置卡获得的额度只有正常量的 50%，更糟糕的是使用重置卡后自然重置时间还被顺延 7 天。 Reddit 上有开发者使用重置卡发现额度消耗很快，使用 Codex 分析使用日志后发现用量确实被大幅度缩减。不过额度消耗取决于内容长度、智能体数量、调用的工具数量、任务实际难度等，所以这也没法标准量化。也有其他用户称自己的感觉类似，不过蒂博已经否认这种说法，称重置卡与自然周额度是完全相同的。查看全文：https://ourl.co/126691]]></description>
-      <guid>https://www.landian.news/archives/126691.html</guid>
-      <pubDate>Mon, 07 Sep 2026 04:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软面向开发者推出无干扰的特别版Windows 11 但你通过脚本也能轻松实现类似体验</title>
-      <link>https://www.landian.news/archives/126690.html</link>
-      <description><![CDATA[#系统资讯 微软向开发者推出无干扰的 Windows 11 特别版，名为 Project Zenith 项目，但需要 64GB 内存运行本地 AI 模型。 Project Zenith 项目旨在为开发者提供开箱即编码的使用体验，这并不是新系统，而是经过特别配置的版本。微软其实维护了个适用于开发者的脚本，实现的功能与 Zenith 类似，所以开发者也可以直接使用该脚本获得相同体验，包括禁用 Windows 11 默认设置的那些干扰开发体验的功能。查看全文：https://ourl.co/126690]]></description>
-      <guid>https://www.landian.news/archives/126690.html</guid>
-      <pubDate>Mon, 07 Sep 2026 03:12:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>赛博善人！ Cloudflare Workers放宽代码体积限制 免费和付费套餐均提高至64MiB</title>
-      <link>https://www.landian.news/archives/126689.html</link>
-      <description><![CDATA[#软件资讯 Cloudflare Workers 放宽代码体积限制，免费和付费套餐均提高至 64MiB。以前免费套餐最多 3MB、付费套餐最多 10MB，超过限制将无法正常部署。新规则改成检查未压缩的 Bundle 体积，都是 64MiB，GZIP 压缩体积作为参考信息显示，不再决定能否部署。查看全文：https://ourl.co/126689]]></description>
-      <guid>https://www.landian.news/archives/126689.html</guid>
-      <pubDate>Mon, 07 Sep 2026 02:48:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

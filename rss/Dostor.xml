@@ -4,7 +4,21 @@
     <title>存储在线-存储专业媒体</title>
     <link>https://www.dostor.com</link>
     <description></description>
-    <lastBuildDate>Wed, 09 Sep 2026 01:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:37:56 GMT</lastBuildDate>
+    <item>
+      <title>Agent时代，存储需求会迎来新一轮增长吗？</title>
+      <link>https://www.dostor.com/p/101028.html</link>
+      <description><![CDATA[2022年底以来，生成式AI基础设施建设的核心关键词一直都是算力。 GPU数量、集群规模、训练效率以及Token吞吐等指标受到高度关注，如何获得更多算力、提高算力利用效率，成为产业投入的重要方向。 从2025年下半年开始，AI逐步从大规模训练...]]></description>
+      <guid>https://www.dostor.com/p/101028.html</guid>
+      <pubDate>Wed, 09 Sep 2026 10:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>打通从数据到智能的“最后一公里”，自戴尔科技智能数据平台开始</title>
+      <link>https://www.dostor.com/p/101014.html</link>
+      <description><![CDATA[企业都在追逐智能化，如何才能够快速见效？ 如果“拿来主义”可行，事情是否就简单了很多？ 诚然，理想丰满，现实骨感。对企业而言，智能化并非能够拿来即用的“舶来品”，真正决定智能应用能否落地的，在于企业能否将自身的数据与业务场景有效结合。通用模...]]></description>
+      <guid>https://www.dostor.com/p/101014.html</guid>
+      <pubDate>Wed, 09 Sep 2026 03:29:50 GMT</pubDate>
+    </item>
     <item>
       <title>京东未来三年助力300个品牌接入JoyInside 让AI家电家居走进千家万户</title>
       <link>https://www.dostor.com/p/101009.html</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[9月1日，MLCommons 正式发布 MLPerf® Storage Benchmark 3.0（简称 MLPerf Storage）基准测试结果。 XSKY星辰天合旗下 MeshFS 首次参赛，在并行文件存储赛道获得九项第一。 MLPer...]]></description>
       <guid>https://www.dostor.com/p/100982.html</guid>
       <pubDate>Tue, 01 Sep 2026 01:24:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>华科大王芳教授：面向智算的高性能存算系统——从三大难题到协同突破</title>
-      <link>https://www.dostor.com/p/100956.html</link>
-      <description><![CDATA[2026年8月26日，在2026全球闪存峰会上，华中科技大学教授、计算机学院存储所所长王芳发表了题为《面向智算的高性能存算系统》的演讲。她指出，随着人工智能成为战略性技术，医疗、自动驾驶等关键领域对模型精度的要求越来越高，这直接推动了模型和...]]></description>
-      <guid>https://www.dostor.com/p/100956.html</guid>
-      <pubDate>Mon, 31 Aug 2026 05:38:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>慧荣科技刘耀仁：边缘AI时代，存储如何决定体验</title>
-      <link>https://www.dostor.com/p/100953.html</link>
-      <description><![CDATA[2026年8月，在2026全球闪存峰会上，慧荣科技产品企划部经理刘耀仁发表了题为《引领未来：智能存储与边缘AI趋势》的演讲。他指出，AI已经从流行词汇变成真正改变工作与生活方式的技术，而AI的价值真正落地，必须依靠边缘设备——PC、手机、汽...]]></description>
-      <guid>https://www.dostor.com/p/100953.html</guid>
-      <pubDate>Mon, 31 Aug 2026 05:35:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

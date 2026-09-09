@@ -4,7 +4,42 @@
     <title>小众软件</title>
     <link>https://www.appinn.com</link>
     <description>分享免费、小巧、实用、有趣、绿色的软件</description>
-    <lastBuildDate>Wed, 09 Sep 2026 01:08:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:37:14 GMT</lastBuildDate>
+    <item>
+      <title>iTerm2 发布 iOS 客户端 iTerm2 Buddy，但它不是 iPhone 版终端</title>
+      <link>https://www.appinn.com/iterm2-buddy/</link>
+      <description><![CDATA[用了很多年 iTerm2 的同学，可能没想到，这款只能在 Mac 使用的老牌终端工具，终于推出 iPhone 客户端了。不过，有点不太一样，它不是一款 iPhone 终端，而是连接到 macOS 的辅]]></description>
+      <guid>https://www.appinn.com/iterm2-buddy/</guid>
+      <pubDate>Wed, 09 Sep 2026 09:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折</title>
+      <link>https://www.appinn.com/qiewenpaper-codex-2/</link>
+      <description><![CDATA[程序员被 Codex 彻底改变了，不用一行行敲代码，把需求丢给 AI，让它自己写代码、跑测试、修 Bug、闭环交付。 那么问题来了：科研人员天天干的活，不也是”配环境、跑实验、复现代码、查]]></description>
+      <guid>https://www.appinn.com/qiewenpaper-codex-2/</guid>
+      <pubDate>Wed, 09 Sep 2026 08:31:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek 涨价 24 天后，V4-Flash 模型降价了，V4-Pro 指向 V4.1 Flash 了！</title>
+      <link>https://www.appinn.com/deepseek-flash-price-cut-24-days-after-price-hike/</link>
+      <description><![CDATA[几十分钟以前，DeepSeek 团队成员 @Tianyi Cui 说： 鉴于 DS V4.1 Flash 模型在性能、费用、速度、总用时等各项指标上都全面超越了 V4 Pro。再以更高的价格、更慢的速]]></description>
+      <guid>https://www.appinn.com/deepseek-flash-price-cut-24-days-after-price-hike/</guid>
+      <pubDate>Wed, 09 Sep 2026 07:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软 2026 年 9 月“周二补丁日”再创更新记录：修复 974 个漏洞，并开始催更 Windows，最好 3 天内更新</title>
+      <link>https://www.appinn.com/microsoft-september-2026-patch-tuesday-974-cves/</link>
+      <description><![CDATA[微软2026年9月“周二补丁日”更新已经发布，本次再创记录，一共 974 个 Microsoft CVE，其中 Windows 有 723 个。 具体修复了哪些已经不重要了，重要的是，微软同时修改了]]></description>
+      <guid>https://www.appinn.com/microsoft-september-2026-patch-tuesday-974-cves/</guid>
+      <pubDate>Wed, 09 Sep 2026 04:19:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>StartPad – Windows 上的 macOS 风格全屏启动器</title>
+      <link>https://www.appinn.com/startpad-win/</link>
+      <description><![CDATA[给电脑，一点果味。 这是 macOS 上的老款启动器： 而这，是 Windows 上的“同款”启动器： 还是有那么点味道的。 来自发现频道的 @hackbyte 推荐了自己的应用：https://me]]></description>
+      <guid>https://www.appinn.com/startpad-win/</guid>
+      <pubDate>Wed, 09 Sep 2026 03:30:21 GMT</pubDate>
+    </item>
     <item>
       <title>给别人发密码、API 密钥，不想留在聊天记录里？试试 binthere</title>
       <link>https://www.appinn.com/binthere/</link>
@@ -39,41 +74,6 @@
       <description><![CDATA[在 Windows 用 Codex 时，会遇到一个小问题： 有些任务几分钟就结束，有些却要跑很久。一直守在电脑前没必要，但去做别的事情，又总忍不住隔一会儿回来看看： “跑完了吗？” 既然 Codex]]></description>
       <guid>https://www.appinn.com/wintoastrelay/</guid>
       <pubDate>Sun, 06 Sep 2026 08:09:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>uBlock Origin 回来了！第三方开发者将其完整功能移植到 Manifest V3</title>
-      <link>https://www.appinn.com/ublock-origin-mv3/</link>
-      <description><![CDATA[uBlock Origin 回来了！ 在 Chrome/Edge 相继淘汰了 Manifest V2 标准的老旧插件之后，首当其冲就是强大的广告过滤插件 uBlock Origin 被淘汰。原作者也不]]></description>
-      <guid>https://www.appinn.com/ublock-origin-mv3/</guid>
-      <pubDate>Sat, 05 Sep 2026 08:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周赛博领鸡蛋（9.4~9.10）：《与你独处》《寻找埃文》</title>
-      <link>https://www.appinn.com/eggs-2694/</link>
-      <description><![CDATA[本周赛博领鸡蛋 Epic Games 商城共有 1 款电脑游戏、1 款手机游戏限时免费领取，分别是电脑端的《与你独处》，以及手机端的《寻找埃文》。其中《寻找埃文》同时提供 Android 和 iOS]]></description>
-      <guid>https://www.appinn.com/eggs-2694/</guid>
-      <pubDate>Fri, 04 Sep 2026 07:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Radicle – 免费去中心化代码托管，GitHub、GitLab 的替代品</title>
-      <link>https://www.appinn.com/radicle/</link>
-      <description><![CDATA[代码一定要保存在 GitHub、GitLab 上？或者托管在某一家商业公司的服务器上吗？ 无论是 GitHub 还是 GitLab，都曾出现因政策、制裁或地区限制导致用户封号的情况发生。甚至青小蛙自己]]></description>
-      <guid>https://www.appinn.com/radicle/</guid>
-      <pubDate>Thu, 03 Sep 2026 14:25:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>高性价比（廉价）SSD VPS 提供商 CloudCone 补货，最低 96 元人民币/年</title>
-      <link>https://www.appinn.com/cloudcone-ssd-vps/</link>
-      <description><![CDATA[CloudCone 发来了最新邮件，提醒最近的 Turns 9 Sale 活动补货，最低档只需要年付96元（14.24美元），支持支付宝。 推荐两个套餐 （均包含1个IPv4和3个IPv6） 套餐（可]]></description>
-      <guid>https://www.appinn.com/cloudcone-ssd-vps/</guid>
-      <pubDate>Thu, 03 Sep 2026 09:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 任务栏位置终于移动到屏幕四周了，开始菜单大小也可以更改</title>
-      <link>https://www.appinn.com/windows-11-taskbar-position-start-menu-resize/</link>
-      <description><![CDATA[Windows 11 8月份可选更新 KB5120998 带来了两个喜闻乐见、大家都期待的功能：任务栏位置可调上下左右、开始菜单可调大小以及丰富的自定义功能。 @Appinn 如果你不使用自定义鼠标样式]]></description>
-      <guid>https://www.appinn.com/windows-11-taskbar-position-start-menu-resize/</guid>
-      <pubDate>Thu, 03 Sep 2026 08:26:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

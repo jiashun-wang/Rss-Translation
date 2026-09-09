@@ -4,265 +4,289 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 01:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:37:04 GMT</lastBuildDate>
     <item>
-      <title>3.8.3 版本的移动端卡在启动界面，pc 端可以进去</title>
-      <link>https://ld246.com/article/1788915819469</link>
-      <description><![CDATA[
-]]></description>
-      <guid>https://ld246.com/article/1788915819469</guid>
-      <pubDate>Wed, 09 Sep 2026 01:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置标题收起就报错 Field [id] is required</title>
-      <link>https://ld246.com/article/1788911426481</link>
-      <description><![CDATA[
- 浏览器不支持该媒体的播放
-
-不影响使用，但是我担心什么时候数据结构坏了，请问是什么原因啊]]></description>
-      <guid>https://ld246.com/article/1788911426481</guid>
-      <pubDate>Tue, 08 Sep 2026 23:50:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能体似乎无法填写模板列表达式</title>
-      <link>https://ld246.com/article/1788896585037</link>
-      <description><![CDATA[创建数据库时，由 deepseek-v4-flash 探索的情况。 
-]]></description>
-      <guid>https://ld246.com/article/1788896585037</guid>
-      <pubDate>Tue, 08 Sep 2026 19:43:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望能够加入在文档上手写批注的功能</title>
-      <link>https://ld246.com/article/1788885650615</link>
-      <description><![CDATA[具体的使用场景就是电脑做完笔记之后，同步到平板端，然后用手写的方式批注去思考的话，更能够激发灵感]]></description>
-      <guid>https://ld246.com/article/1788885650615</guid>
-      <pubDate>Tue, 08 Sep 2026 16:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>3.8.3 页签块功能移动端编辑有问题</title>
-      <link>https://ld246.com/article/1788883691928</link>
-      <description><![CDATA[很喜欢 3.8.3 的页签块功能，但是还是有 2 个 bug，见视频：
-
- 浏览器不支持该媒体的播放
-
-
- 浏览器不支持该媒体的播放
-]]></description>
-      <guid>https://ld246.com/article/1788883691928</guid>
-      <pubDate>Tue, 08 Sep 2026 16:09:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>新上架插件微信读书笔记同步插件</title>
-      <link>https://ld246.com/article/1788880693346</link>
-      <description><![CDATA[发现以前有大佬做过，后来不知道为何下架了。故做了一个新的，可以同步画线内容 + 笔记
-由于微信读书设置限制，必须是写过文字的才可以进行同步下载，只是画线的不能同步
-效果如下
-
-
-欢迎试用，欢迎交流]]></description>
-      <guid>https://ld246.com/article/1788880693346</guid>
-      <pubDate>Tue, 08 Sep 2026 15:19:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>WiFi 无法联网：DHCP 被禁用导致获取 169.254 APIPA 地址</title>
-      <link>https://ld246.com/article/1788879181751</link>
-      <description><![CDATA[问题描述
-　　电脑在 WiFi 模式下无法联网，无法获取 IPv4 地址。 
-诊断过程
-1. 检查 WiFi 连接状态
-netsh wlan show interfaces
-
-　　结果：WiFi 已连接到 ​HUAWEI-CR，信号 88%，状态正常。 
-2. 检查网络接口配置
-netsh interface ip show config
-
-　　发现问题：
-
-
-
-接口
-DHCP
-IP 地址
-说明
-
-
-
-
-WLAN
-❌ 关闭
-169.254.136.30
-APIPA 地址，无效
-
-
-WLAN 5
-❌ 关闭
-169.254.158.163
-APIPA 地址，无效
-
-
-以太网 2
-✅ 开启
-192.168.1.2
-正常
-
-
-
-　　根因：WLAN 接口的 DHCP 被禁用，导致自动分配了 169.254.x.x 的 APIPA 地址，无法与路由器通信。 
-修复方案
-# 启用 DHCP 并刷新
-netsh interface ip set address &quot;WLAN&quot; dhcp
-netsh interface ip set dns &quot;WLAN&quot; dhcp
-
-修复结果
-
-
-
-项目
-修复前
-修复后
-
-
-
-
-DHCP
-❌ 关闭
-✅ 开启
-
-
-IP 地址
-169.254.136.30
-192.168.3.26
-
-
-默认网关
-无
-192.168.3.1
-
-
-DNS
-无
-192.168.3.1
-
-
-外网连通
-❌
-✅ ping 延迟 17ms
-
-
-
-常见原因
-　　某些软件（VPN、虚拟机、网络优化工具）可能会禁用 DHCP，导致此问题反复出现。如反复发生，检查近期安装的相关软件。 
-适用命令速查
-# 查看 WiFi 状态
-netsh wlan show interfaces
-
-# 查看所有接口 IP 配置
-netsh interface ip show config
-
-# 为指定接口启用 DHCP
-netsh interface ip set address &quot;接口名&quot; dhcp
-netsh interface ip set dns &quot;接口名&quot; dhcp
-
-# 释放/续租 IP
-ipconfig /release &quot;WLAN&quot;
-ipconfig /renew &quot;WLAN&quot;
-
-# 刷新 DNS 缓存
-ipconfig /flushdns
-
-# 测试连通性
-ping -n 4 223.5.5.5
-ping -n 4 www.baidu.com
-]]></description>
-      <guid>https://ld246.com/article/1788879181751</guid>
-      <pubDate>Tue, 08 Sep 2026 14:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>平板端合并超级块闪到最上面</title>
-      <link>https://ld246.com/article/1788877125339</link>
-      <description><![CDATA[我平板是荣耀 MagicPad 3 Pro， 13.3 最新版，从荣耀应用商店下载的最新版，选中两个块后，我想合并超级块，点击菜单的时候就会闪到文档最顶端，但是选择合并超级块后，还会弹回来，触发概率：偶发，有视频
-视频因为显示过大已上传到网盘，链接如下如果不方便查看我可以采用其他方式，谢谢：【超级会员 V1】通过百度网盘分享的文件：VID_2026…
-  链接:https://pan.baidu.com/s/1MuFq0leDy728jFZpyCRqcA 
-  提取码:5yav
-  复制这段内容打开「百度网盘 APP 即可获取」]]></description>
-      <guid>https://ld246.com/article/1788877125339</guid>
-      <pubDate>Tue, 08 Sep 2026 14:18:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源卡在同一界面了怎么办</title>
-      <link>https://ld246.com/article/1788875645079</link>
-      <description><![CDATA[
-显示成现在这样是因为当时正在用智能体做事情，然后左边卡住了，我没办法就强退了。然后重新打开，思源提示用安全模式打开，然后我打开之后左边还是转了几下就卡在同一个地方了，整个界面的所有按键都点不了。 ]]></description>
-      <guid>https://ld246.com/article/1788875645079</guid>
-      <pubDate>Tue, 08 Sep 2026 13:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>日记加密</title>
-      <link>https://ld246.com/article/1788871847533</link>
-      <description><![CDATA[咱就说软件支持笔记和日记，日记是比较隐私的东西，能不能给日记加一个加密的功能啊，总有些东西不想让其他人看的。或者支持单独给某个分类或笔记加密的功能]]></description>
-      <guid>https://ld246.com/article/1788871847533</guid>
-      <pubDate>Tue, 08 Sep 2026 12:50:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>内置 pdf 编辑器</title>
-      <link>https://ld246.com/article/1788867650649</link>
-      <description><![CDATA[经常用思源开 pdf 教案，想进行简单的注释，但是却需要额外打开 edge 进行编辑有些麻烦。不知道有没有大佬开发相关的插件。或者有什么推荐的方法解决]]></description>
-      <guid>https://ld246.com/article/1788867650649</guid>
-      <pubDate>Tue, 08 Sep 2026 11:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源内置的智能体相关</title>
-      <link>https://ld246.com/article/1788862733107</link>
-      <description><![CDATA[能否可以添加&quot;设置请求头&quot;的功能?
-opencode 最近限制了调用:
-  网络异常，请稍后再试: Error from provider (Console Go): Request is missing x-opencode-session and cannot be routed efficiently. Please see https://opencode.ai/docs/go/#where-can-i-use-it
-需要修改请求头才能正常用]]></description>
-      <guid>https://ld246.com/article/1788862733107</guid>
-      <pubDate>Tue, 08 Sep 2026 10:18:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>手机端一键分享到思源笔记解决方案</title>
-      <link>https://ld246.com/article/1788860834154</link>
-      <description><![CDATA[众所周知，思源没办法把本地文件、图片或选中文本一键分享到思源笔记。如果你是订阅用户，倒是可以用收集箱功能。如果非订阅用户，可能无法实现。有些大佬也实现了轻量级的分享界面，可能是 Web 版，虽然也可以，但还是不够方便。 
-最近在做了一款云剪贴板功能，方便跨设备的分享，主要是 Web 版。但有个问题，在手机端必须先打开 Web 页，再粘贴或上传文件，还是比较麻烦。于是就找到了一款安卓端的软件 Automate，它可以通过自己设定指定流程脚本。实现一键分享图片、文件、文本到云剪切板，而且全程不需要打开 Web 页面。 
-然后我在想，一键分享到思源笔记，肯定也是可以的，思路和云剪切板类似（缺点：不适合超大文件）。 
-思路如下：
-文件/图片/文本 -&gt; automate 流程脚本 -&gt; 远端服务器 -&gt; 思源同步脚本拉取云端数据到思源笔记
-
-粗略看了一下，思源收集箱大致也是这样的流程。 
-这里的远端服务器，有很多免费的 VPS 或者虚拟主机或容器或 Serverless 等，问 AI 一般会根据你的要求推荐合适的服务器。我目前用的是 https://heliohost.org，1GB 空间，支持多种数据库，python/nodejs/php 等。唯一的缺点是每个月要登录后台一次，可以用脚本提醒一下，官方在到期前也会发送邮件通知。但注意的是，每次登录都会重置登录周期起点。当然你喜欢折腾也可以用 CF+KV/D1+R2。 
-automate 流程脚本，你只需要告诉 AI 帮你生成.flo 文件，然后你导入 automate 即可，都不需要自己去去手动添加流程块（我是让 GPT 生成的），注意要给相应的权限，不懂问 AI 就好。同类软件还有 Tasker，但没有 Automate 直观简单，且收费，Automate 可以免费 30 个 block，小流程够用了。 iOS 的话可以用快捷指令，同样可以让 AI 生成。 
-思源同步远端的同步脚本，这个用 JS 代码片段或者插件都可以实现，同样可以让 AI 生成。 
-总之，感觉这个办法还是可行的，我暂时没有大量的分享需求，可能偶尔用一下，目前用云剪切板感觉已经够用了，暂时不想折腾，有兴趣的可以试一下。或者哪位大佬有更好的方案，也可以分享一下。 
-PS：为什么不用 PWA？ 
-  确实尝试了，但是由于国内手机对 PWA 支持度不好，导致无法安装为应用，只能安装为快捷方式，所以无法实现一键分享。 ]]></description>
-      <guid>https://ld246.com/article/1788860834154</guid>
-      <pubDate>Tue, 08 Sep 2026 09:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>升级到 v3.8.3 之后 QYL 主题界面显示异常</title>
-      <link>https://ld246.com/article/1788858898963</link>
-      <description><![CDATA[
-
-使用的 QYL 主题，在笔记主界面标签栏中会显示一个主题设置按钮，升级之前，这个按钮在上方右侧，升级之后，更新到左侧，且显示不完整
-
-
-使用集市中的​KeePass 密码管理器 插件，在标签栏中应该会有一个入口，打开密码管理页面，但升级之后没有这个入口了
-
-
-
-鼠标悬停在搜索、插件和命令按钮上，会不停闪烁，并且不是每次点击都能够响应
-
-]]></description>
-      <guid>https://ld246.com/article/1788858898963</guid>
-      <pubDate>Tue, 08 Sep 2026 09:14:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>向量求导为什么有时是行向量，有时是列向量？ ——分子布局与分母布局</title>
-      <link>https://ld246.com/article/1788858658860</link>
+      <title>Python 中容易被忽略的原地操作：从 PyTorch Tensor 的 `-=` 说起</title>
+      <link>https://ld246.com/article/1788949575488</link>
       <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788858658860</guid>
-      <pubDate>Tue, 08 Sep 2026 09:10:57 GMT</pubDate>
+      <guid>https://ld246.com/article/1788949575488</guid>
+      <pubDate>Wed, 09 Sep 2026 10:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在【人工智能】的 mcp 服务中是这么设置的，是否有问题？</title>
+      <link>https://ld246.com/article/1788949229901</link>
+      <description><![CDATA[
+]]></description>
+      <guid>https://ld246.com/article/1788949229901</guid>
+      <pubDate>Wed, 09 Sep 2026 10:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>让 AI Agent 直接读取并编辑某个思源文档，有什么好方法？</title>
+      <link>https://ld246.com/article/1788947733604</link>
+      <description><![CDATA[我使用 Codex 或 Reasonix，可以直接把思源笔记工作空间中的 *.sy 文件路径发给它。可以正常读取并编辑。但是每次编辑后，都需要重建索引，才能在思源笔记中正常显示（刷新或重启文档都不行），有点麻烦。 
+另外，我让 Agent 编辑前，会让它先备份一个 *.sy 文件，以免出问题。 
+有没有更方便、安全的方式，实现这些操作呢？ ]]></description>
+      <guid>https://ld246.com/article/1788947733604</guid>
+      <pubDate>Wed, 09 Sep 2026 09:55:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在索引数据仓库，遍历数据，持续一天了还没结束</title>
+      <link>https://ld246.com/article/1788946044128</link>
+      <description><![CDATA[占用大量 CPU 和内存，并且软件非常卡，用一会儿会卡死闪退。 
+中间软件有提示数据仓库太多，可以删除本地数据仓库，但删除了也没有用。 
+目录重建索引，也没有用。 
+
+
+
+]]></description>
+      <guid>https://ld246.com/article/1788946044128</guid>
+      <pubDate>Wed, 09 Sep 2026 09:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mac 版左上角的红绿灯上边距和左边距不相等</title>
+      <link>https://ld246.com/article/1788937903424</link>
+      <description><![CDATA[红灯最好与圆角成同心圆，等边距。 
+]]></description>
+      <guid>https://ld246.com/article/1788937903424</guid>
+      <pubDate>Wed, 09 Sep 2026 07:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>飞牛 NAS 商店版多久能更新啊</title>
+      <link>https://ld246.com/article/1788936557679</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1788936557679</guid>
+      <pubDate>Wed, 09 Sep 2026 06:49:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源笔记中人工智能或是插件中的自定智能中怎么上传附件？</title>
+      <link>https://ld246.com/article/1788935968547</link>
+      <description><![CDATA[我没有找到可以上传附件的地方。 ]]></description>
+      <guid>https://ld246.com/article/1788935968547</guid>
+      <pubDate>Wed, 09 Sep 2026 06:39:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>怎么测试人工智能中的 mcp 服务是否正常运行？</title>
+      <link>https://ld246.com/article/1788934893606</link>
+      <description><![CDATA[另外，思源中的 skill 放在哪个目录下才可以被调用？ ]]></description>
+      <guid>https://ld246.com/article/1788934893606</guid>
+      <pubDate>Wed, 09 Sep 2026 06:21:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>手机端的反链面板和电脑端的反链面板列出的内容不一致，建议都统一成电脑内容</title>
+      <link>https://ld246.com/article/1788932877819</link>
+      <description><![CDATA[如下，手机端的反链面板列出的反链是包含了文档块的反链和正文内容的反链。 
+
+
+而下图中电脑端的反链面板列出的反链只包含了文档块的反链。 
+
+@88250
+@Vanessa]]></description>
+      <guid>https://ld246.com/article/1788932877819</guid>
+      <pubDate>Wed, 09 Sep 2026 05:49:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议手机端点击块右上角的反链计数小标时，从手机底部弹出窗口</title>
+      <link>https://ld246.com/article/1788931367517</link>
+      <description><![CDATA[
+如上图，当点击红色框里的数字时，能像下图那样，从手机底部弹出被引用内容窗口。 
+
+@88250
+@Vanessa]]></description>
+      <guid>https://ld246.com/article/1788931367517</guid>
+      <pubDate>Wed, 09 Sep 2026 05:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>移动端点击块链接能打开文档，但滚动不到目标块（长文档）</title>
+      <link>https://ld246.com/article/1788926741289</link>
+      <description><![CDATA[环境：SiYuan 3.8.3，Android 客户端
+现象
+  在 AI 对话（Agent）的回答里点击块链接（siyuan://blocks/... 形式），文档能正确打开，但视口停的位置不对，没有定位到链接指向的那个块。短文档基本没问题，长文档几乎必现。 
+复现（不需要特定文档）
+
+准备一篇内容较长的文档（数千个块以上），目标段落放在文档中部或靠后位置。 
+从另一处（例如 AI 对话）点击指向该段落的块链接。 
+文档被打开，但没有滚动到目标段落。 
+
+补充观察
+
+同一篇长文档里，如果目标是靠近文档顶部的标题块，定位是准的；只有位于文档较深处的段落会偏。 
+换成一两百个块的短文档，同样的操作定位完全准确。 
+内核日志里没有相关报错，看起来是前端行为。 
+
+猜测
+  可能和移动端编辑器的「动态加载」有关：目标块不在已加载范围内时，滚动定位就失效或偏移。 
+想请教
+
+有没有人遇到同样的情况？是已知问题吗？ 
+关掉设置里的「动态加载」是否能缓解？ （我还没确认这个开关的准确名称）
+有没有更好的临时办法，比如先用搜索定位？ 
+]]></description>
+      <guid>https://ld246.com/article/1788926741289</guid>
+      <pubDate>Wed, 09 Sep 2026 04:05:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>原生实现直接以页签形式打开闪卡</title>
+      <link>https://ld246.com/article/1788925679211</link>
+      <description><![CDATA[背景信息：
+思源笔记的里程碑显示，其计划在 3.9.0 完成闪卡重构。借闪卡重构的契机，我提议思源笔记原生实现全局性的闪卡默认打开方式（见：打开闪卡，允许调整默认打开方式（无论是文档闪卡，还是全局闪卡） · Issue #19189 · siyuan-note/siyuan）。 
+依据社区反馈，D 大认为该 issue 需求量较小，暂定后续如果还有类似需求的话再考虑。 
+然而，在思源闪卡重构完成之前，原生闪卡功能较弱。 
+
+思源笔记的闪卡使用者往往会结合间隔重复系统插件、番茄工具箱插件等增强闪卡能力的插件来使用思源。 
+插件调用闪卡复习，则会给出使用 OpenTab（以新页签的形式打开）来打开闪卡界面。 
+
+所以我疑心思源笔记的闪卡实际使用者较少使用以弹窗的形式打开闪卡复习，或选择绕路通过插件的形式来打开闪卡复习，从而形成“这一 issue 需求量较小”的假象。 
+
+例证：
+   我本人就一直使用番茄工具箱的打开闪卡功能，因其在全局闪卡的打开上可以直接“以新页签的方式”打开闪卡复习界面。会有这一 issue，是因为打开文档闪卡，只能用思源原生的弹窗形式打开。否则我也一直默认当前的思源闪卡打开形式。 
+
+为打一个 issue 复活赛，在链滴里开一个投票统计。 
+[poll1788925636541]
+[poll1788924322265]
+[poll1788924667751]
+
+当前思源笔记原生的打开闪卡，只有一种默认选择：以弹窗（dialog）的形式打开，如下图。 
+
+思源内部本身具有其他的打开方式选择：
+]]></description>
+      <guid>https://ld246.com/article/1788925679211</guid>
+      <pubDate>Wed, 09 Sep 2026 03:48:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>超级块拖动报错</title>
+      <link>https://ld246.com/article/1788924424151</link>
+      <description><![CDATA[超级块的编辑 + 移动无法通过撤销退回之前的状态
+]]></description>
+      <guid>https://ld246.com/article/1788924424151</guid>
+      <pubDate>Wed, 09 Sep 2026 03:27:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>页面导出时报错</title>
+      <link>https://ld246.com/article/1788922355458</link>
+      <description><![CDATA[页面内容只有一个数据库，导出时报错。页面创建副本后，再导出正常。 
+]]></description>
+      <guid>https://ld246.com/article/1788922355458</guid>
+      <pubDate>Wed, 09 Sep 2026 02:52:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>v3.7.x 时期创建的属性视图行在升级后全部无法编辑；详情面板保存 select/mSelect/relation 字段报 `resolve attribute view carrier: block [...] not found</title>
+      <link>https://ld246.com/article/1788922059681</link>
+      <description><![CDATA[标题
+[v3.8.3 升级回归] v3.7.x 时期创建的属性视图行在升级后全部无法编辑；详情面板保存 select/mSelect/relation 字段报 resolve attribute view carrier: block [...] not found
+环境
+
+SiYuan：3.8.3
+升级前版本：v3.7.x
+操作系统：Windows（数据路径 E:\Siyuan\...）
+同步方式：云端同步
+
+问题描述
+从 v3.7.x 升级到 v3.8.3 后，所有在老版本创建的属性视图行（row）都无法在详情面板里保存 select / mSelect / relation 字段，桌面通知弹出 resolve attribute view carrier: block [...] not found 错误；嵌入式视图（嵌在文档里的 av 块）也无法正常渲染。 
+复现步骤
+
+在 v3.7.x 版本下创建一个属性视图（含 ≥ 1 行带 select / mSelect / relation 字段的数据，row 直接在数据库中新增即可，不需要手动建文档子 block）
+升级 SiYuan 到 v3.8.3
+打开该属性视图（&quot;在数据库中打开&quot;）
+点击任意一行右侧的&quot;展开详情&quot;
+尝试修改任意一个 select / mSelect / relation 字段
+点击保存
+
+期望行为
+
+select / mSelect 下拉菜单正常打开，选项齐全
+选择后保存，值正常写入
+嵌入式视图（嵌在文档中的 av 块）正常渲染
+
+实际行为
+
+select / mSelect / relation 字段保存时桌面通知弹出 resolve attribute view carrier: block [...] not found
+字段值无法保存
+嵌入式 av 块渲染异常（DOM 中只剩空容器，所有 cell 不显示）
+
+Kernel 日志（关键证据）
+W transaction.go:2137: not found block [&lt;row-block-id&gt;]
+W tree.go:338: searching tree on filesystem [id=&lt;row-block-id&gt;]
+I tree.go:342: tree not found on filesystem [id=&lt;row-block-id&gt;]
+
+（&lt;row-block-id&gt; 形如 20260903151937-hovw48o —— 这些是 av row 的 blockID）
+根因分析（API 实测确认）
+v3.7.x 模型：row 可以以 isDetached: true 状态存在 —— row 数据完整存在 av JSON 文件中（/data/storage/av/&lt;av-id&gt;.json），但 row blockID 在 blocks 表中不存在。 
+v3.8.3 行为变更：强制要求 row 必须有真实 block 载体。我用 database.item_add 实测：
+
+
+
+调用
+结果
+
+
+
+
+database.item_add（不传 blockID）
+❌ 报错：blockID is required for non-detached rows
+
+
+database.item_add（传 heading block ID）
+✅ 成功
+
+
+
+这意味着：
+
+老版本（v3.7.x）创建的 detached row 在 v3.8.3 下变成了&quot;非法状态&quot;
+升级时没有自动迁移（没给老 row 自动补 carrier block）
+新行也受影响 —— SiYuan 客户端前端代码可能未完全适配 v3.8.3 的强制约束，详情面板新建行经常失败或新建后立刻报&quot;找不到块&quot;
+
+受影响的操作路径
+
+
+
+操作
+走的路径
+v3.8.3 状态
+
+
+
+
+表格视图直接点 cell 编辑
+直接改 av JSON
+✅ 正常
+
+
+详情面板保存 select
+block.update 路径（更新 row block）
+❌ 报&quot;找不到块&quot;
+
+
+嵌入式视图渲染
+block tree 解析
+❌ 渲染失败
+
+
+
+影响范围
+
+我自己（升级用户）共 4 个属性视图、约 120 行受影响 
+  
+程序修改记录表：100 行
+项目情况：4 行
+实施任务：约 11 行
+补丁记录：3 行
+
+升级到 v3.8.3 的老用户大概率都受影响（如果有 v3.7.x 时期创建的 av）
+
+临时解决方案
+
+手动逐行修复：在 SiYuan 客户端里给每行创建一个对应 heading block，然后通过「在数据库中打开」进入详情，把行的 blockID 绑定到新 heading
+降级 + 云端恢复：备份数据 → 降级到 v3.7.x → 同步从云端拉回老数据
+
+建议官方修复（按优先级）
+
+【必须】升级时自动迁移 detached row：检测 av JSON 中所有 isDetached: true 的 row，自动为每行创建 carrier block 并重新绑定
+【推荐】保留 v3.7.x 的 detached 行为兼容老数据，或在保存时给清晰的错误提示
+【可选】统一 row 存储模型：要么全部 detached 要么全部 bound，避免混用导致前端渲染路径分叉
+]]></description>
+      <guid>https://ld246.com/article/1788922059681</guid>
+      <pubDate>Wed, 09 Sep 2026 02:47:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

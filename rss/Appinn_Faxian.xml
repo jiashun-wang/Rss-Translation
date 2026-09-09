@@ -4,7 +4,346 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 01:08:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:36:45 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】周迹 WEEKTRACE：把长期目标落到每一周的 Windows 计划与复盘工具</title>
+      <link>https://meta.appinn.net/t/topic/91507</link>
+      <description><![CDATA[软件名称
+周迹 WEEKTRACE
+应用平台
+Windows 10/11（x64）
+推荐类型
+〖开发者自荐〗
+一句简介
+把长期目标、周目标、每日计划、实际输出和复盘放进同一套周循环。 
+应用简介
+我做周迹，是因为普通待办通常只回答“还有什么没做”，但很难回答“这一周为什么做这些、实际产出了什么、下周该怎么调整”。 
+周迹用“长期目标 → 周目标 → 每日计划 → 输出与复盘 → 历史归档”的结构，把方向、行动和回顾放在同一条周时间线上。它不是复杂的团队项目管理系统，更适合个人持续推进工作、学习或独立项目。 
+主要功能
+
+按工作、学习、健康等领域整理长期目标
+把长期方向拆成本周可完成的周目标
+每天记录少量计划、完成项和实际输出
+在每日与每周复盘中记录卡点、结论和下一步
+自动保存本地记录，并保留备份
+支持导出当前周或全部记录为 Markdown / JSON
+
+价格与数据
+
+当前版本：V2.0.4
+价格：免费
+注册：无需注册
+数据：核心记录保存在本机
+
+适合与不适合
+适合想认真做个人周计划、工作复盘、学习规划或独立项目推进，但不想维护复杂系统的人。 
+如果你需要多人协作、跨端同步、移动端或日历提醒，目前的周迹并不适合。 
+官网与下载
+官网：
+
+
+WEEKTRACE 周迹
+
+
+周迹｜把长期目标落到每一周
+免费的 Windows 本地周计划与复盘软件。长期目标、周目标、每日计划、输出与复盘，一处完成。 
+
+
+
+
+
+官网轻量版直链（需已安装 .NET 8 Desktop Runtime）：
+https://weektrace.pages.dev/downloads/WEEKTRACE-2.0.4-light-win-x64.zip
+不想安装运行时的用户，可以在官网点击主下载按钮获取自带运行环境的完整版本。 
+3 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91507</guid>
+      <pubDate>Wed, 09 Sep 2026 07:35:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】免费、无广告、无水印的全平台投屏工具</title>
+      <link>https://meta.appinn.net/t/topic/91505</link>
+      <description><![CDATA[软件名称
+幕映 MuCast（商店分发名：幕映投屏）
+应用平台
+Android TV / Android 盒子（接收端）
+Windows / Android / iOS（发送端客户端）
+推荐类型
+【开发者自荐】
+是否收费
+免费
+一句简介
+免费、无广告、无水印的全平台投屏工具，投屏不限时长，让任何设备都能把画面投射到电视上
+应用简介
+把手机、电脑上的视频、照片和整个屏幕，投到电视上播放。免费，没有广告，没有水印，也不限制投屏时长。 
+看视频——手机里下载好的剧和电影，投到电视上看，屏幕大，声音也正。 
+镜像屏幕——手机打游戏、电脑开视频会议、上网课，整个屏幕同步到电视，别人看到的就是你屏幕上的画面
+截图预览
+手机客户端
+
+Windows 客户端
+
+电视端
+
+官网
+
+
+
+showdoc.com.cn
+
+
+ShowDoc
+一个非常适合IT团队的在线API文档、技术文档工具。你可以使用Showdoc来编写在线API文档、技术文档、数据字典、在线手册
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91505</guid>
+      <pubDate>Wed, 09 Sep 2026 07:24:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>茶话间/Teahouse：局域网通讯软件</title>
+      <link>https://meta.appinn.net/t/topic/91504</link>
+      <description><![CDATA[软件名称
+茶话间/Teahouse
+应用平台
+
+Windows 7 SP1 起
+MacOS 12 起
+统信 UOS 20 及以上
+Linux 构建支持
+
+推荐类型
+【用户推荐】
+是否收费
+免费
+一句简介
+局域网通讯软件，是界面更友好的飞秋/iptux，免费的飞鸽，跨平台支持的内网通
+应用简介
+
+打开就用，不用配置 —— UDP 广播自动发现同网段在线的人，节点之间直连，不装服务器、不填地址。 
+聊天 —— 单聊和讨论组，文本、图片、表情、截图粘贴、窗口震动都有；消息带送达状态，对方离线先存着、上线自动补发，能撤回、转发、群里 @ 人；记录存在本地，可导出、换机能迁移。 
+传文件 —— TCP 点对点直传，跑满内网带宽；单文件、整个文件夹、拖进窗口就发，断了能续传，留传输记录。 
+只在内网里跑 —— 不连外网、不上报数据、不自动检查更新，跟联网有关的行为默认全关。 
+撑老机器和国产系统 —— 最低支持 Windows 7 SP1、Debian 10、UOS 20；一套代码，Windows / Linux / macOS 一致体验。 
+软件作者：github@skyjt
+
+官网链接：
+
+
+github.com
+
+
+
+
+GitHub - skyjt/teahouse: 茶话间（teahouse）：纯内网、基于 IP 的局域网即时通讯与文件传输工具
+茶话间（teahouse）：纯内网、基于 IP 的局域网即时通讯与文件传输工具
+
+
+
+
+
+
+截图预览：
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91504</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】开源 9 张 Agent Skills 榜单，挑选出最流行的 Skills</title>
+      <link>https://meta.appinn.net/t/topic/91495</link>
+      <description><![CDATA[软件名称
+github: best-skills
+访问：github.com/LinklyAI/best-skills
+应用平台
+
+WEB
+
+推荐类型
+【开发者自荐】
+是否收费
+开源 / 免费
+一句简介
+这个开源项目综合了 skills.sh,clawhub,skillshub,X,bluesky,hacknews,GitHub 等的数据，每日统计一次，计算出 9 个 top 100 Skills 榜单
+应用简介
+每个 Skills 注册平台只能看到自己的生态。 skills.sh 统计 Claude/Vercel CLI 安装量，ClawHub 统计 OpenClaw 下载量，腾讯 SkillHub 统计中国区安装量——而它们都无法反映社交热度。 Best Skills 将这些视角合并成一个跨生态全景：你可以并排查看每个 Skill 的全球安装量、中国区安装量和社交提及量。没有其他排行榜能做到这一点。 
+开发中功能：
+
+主题榜单
+
+截图预览：
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91495</guid>
+      <pubDate>Wed, 09 Sep 2026 05:24:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>汉字吧www.hanzi8.com：一个集10万+汉字字典、词典、笔顺、古诗文库于一体的综合性免费汉语学习平台</title>
+      <link>https://meta.appinn.net/t/topic/91494</link>
+      <description><![CDATA[软件名称
+汉字吧（www.hanzi8.com）——在线新华字典 · 汉语词典 · 成语大全 · 笔顺演示 · 古诗文 · 韵书词牌
+应用平台
+Web 网页端 / iOS 移动端
+推荐类型
+【开发者自荐】
+是否收费
+免费（无需注册，所有功能免费使用）
+一句简介
+一个集10万+汉字字典、词典、笔顺、古诗文库于一体的综合性免费汉语学习平台
+应用简介
+这是一个宝藏级的免费汉语学习网站，收录了超过10万个汉字的详尽信息。在汉字吧查一个字，你能得到：
+
+
+汉字小百科：每个字都提供拼音（带真人读音点读）、部首、笔画数、五笔编码和动态笔顺动画。往下翻，还能看到这个字在《现代汉语词典》第7版、《康熙字典》、《说文解字》、《中华大字典》、台湾《国语辞典》、两岸通用词典里的全部释义，一页全齐。一个字，就是一部微缩文化史。 
+
+
+笔顺演示：给 2.7万多个汉字做了笔顺动态演示——一笔一画按书写顺序缓缓写出，配米字格，还可以逐笔分步查看。哪笔先写哪笔后写、横要顿笔还是出锋，一目了然。 
+
+
+海量古诗文：收录了 84万多篇古诗文，从先秦诗经到明清诗词曲赋，按朝代、作者、体裁、主题标签都能浏览。经典名篇（如《将进酒》《岳阳楼记》）除了原文，还配了白话译文、逐句注释、创作背景和名家赏析。还有 5300多条名句大全，每条都标了作者和出处。 
+
+
+诗词创作工具：把平水韵106部、词林正韵19部、中华新韵14部全部做成在线查询。更有 818个词牌的格律谱——《浣溪沙》《水调歌头》每个词牌几种体式、哪平哪仄、哪里押韵哪里断句，排成一张张小方格谱，照着填就行。 
+
+
+32万词条词典：近义词、反义词一站辨析。 
+
+
+网站最初是开发者做给自家孩子用的，上线后受到大家欢迎，就完善后免费提供给大家使用。覆盖小学到高中各个年级的学习内容，既适用于初学者，也适用于进阶者。 
+网站截图
+
+官网链接：https://www.hanzi8.com
+7 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91494</guid>
+      <pubDate>Wed, 09 Sep 2026 04:49:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】一款免费的A股策略交易回测软件，无需编写代码，自定义可视化构建策略</title>
+      <link>https://meta.appinn.net/t/topic/91483</link>
+      <description><![CDATA[软件名称
+AMarketTool
+应用平台
+Windows
+推荐类型
+开发者自荐
+一句简介
+一款免费的策略交易回测系统，无需开发环境、无需编程经验和编写代码，允许您使用可视化界面构建复杂的买卖条件表达式，帮助您在历史数据上验证交易策略的有效性。 
+应用简介
+工具将回测流程整合为“配置→策略→运行→分析”的闭环操作，兼具低使用门槛与高扩展灵活度，适用于无开发及编程经验的个人投资者使用。 
+1、基础配置：支持设置回测日期范围，勾选主板、科创板、创业板、ETF等多板块，支持直接指定个股进行精准回测，并可按照市值区间、市盈率区间、股价区间对股票池进行多层过滤筛选，灵活圈定回测范围。 
+2、策略配置：在回测页面的策略选项卡中，可分别为“添加关注（0→1）”、“买入（1→2）”、“删除关注（1→0）”、“卖出（2→0）”四个独立交易阶段分别设置自定义触发条件，各阶段相互独立，用户可根据自身交易体系分别精细调优，满足全周期策略需求。 
+3、回测结果：回测完成后，结果表格逐笔展示每笔交易详情，包括股票名称、代码、买入日期及价格、卖出日期及价格、持有天数、单笔收益率等；顶部信息栏同步输出总交易次数、胜率、总收益率、平均收益率等核心绩效指标；右键点击任意交易记录，还可调取该笔交易对应的买卖点K线图，直观复盘进出场位置与价格走势关系。 
+4、自定义策略编辑器：采用可视化条件构建买卖逻辑表达式。用户可逐条添加规则，支持自由组合多层嵌套结构。内置近百种参数，还可自定义公式编辑器，通过四则运算和括号引用任意参数构建个性化参数。 
+申明
+本软件仅对自定义策略筛选展示，无特定投资诱导，供学习研究，不构成任何投资建议
+截图预览
+
+项目地址
+https://gitee.com/huangdong12111/amarket-tool
+3 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91483</guid>
+      <pubDate>Wed, 09 Sep 2026 03:06:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开源自荐】Unfour：把 API、SSH 和数据库放进同一个后端排障工作区</title>
+      <link>https://meta.appinn.net/t/topic/91482</link>
+      <description><![CDATA[【开源自荐】Unfour：一个集成 API、SSH 和数据库的后端排障工具
+大家好，我是 Unfour 的开发者。 
+Unfour 是一个面向后端开发者的桌面工具，主要想解决排查后端问题时，需要在 API 客户端、SSH 终端和数据库工具之间来回切换的问题。 
+一个比较常见的排障过程是：
+复现 API 请求 → SSH 查看服务日志 → 查询数据库状态 → 修复后重新验证
+Unfour 把这些能力放在同一个本地工作区里，方便围绕同一个项目和环境连续排查。 
+主要功能
+
+
+API Client
+创建、保存和发送 HTTP 请求，支持环境变量、认证、脚本、历史记录等。 
+
+
+SSH
+SSH 终端、SFTP、历史命令和可复用 Task。 
+
+
+Database
+支持 PostgreSQL、MySQL 和 SQLite，可浏览表数据、执行 SQL 等。 
+
+
+MCP
+可以让 Codex、Cursor 等支持 MCP 的 Coding Agent 使用 Unfour 中已经保存的 API、SSH 和数据库连接。 
+
+
+Workspace / Environment
+按项目组织 API、服务器、数据库和不同环境的上下文。 
+
+
+免费开源、 Pro可选
+Unfour 的核心桌面功能免费并开源，不登录也可以使用 API、SSH、Database 和本地 MCP 等核心功能。 
+可选的 Pro 目前主要提供 Cloud Sync，用于在不同设备之间同步支持的工作区数据。 
+使用 Pro 需要通过 GitHub 登录。 
+Pro：$2.99/月
+支持平台
+
+Windows：Microsoft Store / 独立安装包
+macOS：Apple Silicon / Intel
+
+项目目前还处于比较早期的阶段，我比较希望获得真实使用反馈，尤其是：
+
+API / SSH / Database 放在一起是否真的减少了排障时的切换；
+哪些操作还不够顺手；
+有没有什么问题会直接影响你在真实项目里使用。 
+
+官网：
+
+
+
+Unfour
+
+
+
+Unfour — Local-first Backend Workspace: API, SSH &amp; Database
+Unfour is a local-first backend workspace for API, SSH, and databases. Use it yourself, or let Codex and Cursor investigate the running backend through MCP.
+
+
+
+
+
+GitHub：
+
+
+github.com
+
+
+
+
+GitHub - zyqzyq/Unfour: Local-first backend troubleshooting workspace for...
+Local-first backend troubleshooting workspace for tracing failures across API, SSH, and databases, with MCP-assisted runtime evidence.
+
+
+
+
+
+
+核心功能可以直接下载使用，不需要先注册账号。 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91482</guid>
+      <pubDate>Wed, 09 Sep 2026 02:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cosmonapse - 不画图、不写循环，用事件总线构建多智能体系统的开源平台</title>
+      <link>https://meta.appinn.net/t/topic/91481</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/91481</guid>
+      <pubDate>Wed, 09 Sep 2026 02:30:44 GMT</pubDate>
+    </item>
     <item>
       <title>【开发中自荐】ToolSide-浏览器侧边栏超级工具箱</title>
       <link>https://meta.appinn.net/t/topic/91455</link>
@@ -53,13 +392,25 @@ B站 的 AI 字幕要登录后才抓得到，加 --cookies-from-browser chrome �
 对应的文字稿：
 [00:00] 这是阅读,一个安静的桌面小说阅读器。整本书连续滚动,按段落记住进度。第二个画面是桌面模式,窗口变透明,只留文字浮在桌面上。第三个画面是伪装皮肤,一键变成代码编辑器。最后是伪装成表格的样子。
 
+v0.1.1 更新（9 月 9 日）
+自己用下来觉得默认抽帧间隔太长，这版把画面密度提高了一倍以上：
+
+默认间隔：1 分钟内每 2 秒一帧，3 分钟内 3 秒，10 分钟内 6 秒，30 分钟内 12 秒，更长 20 秒；上限 150 帧（原来 60）
+新增 --interval 秒，直接指定每隔几秒抽一帧，比如 --interval 2
+同一个 6 分钟的 B站 视频，从 31 帧变成 63 帧、7 张九宫格，全程 111 秒
+
+升级：pip install -U yueying
+v0.1.2 更新（9 月 9 日）
+采纳楼下 @dshuiewhui 的建议：抽帧后自动去掉和前一帧几乎相同的画面（缩略图上变化的像素不到 2% 就算重复），编号顺延，--no-dedupe 可关闭。幻灯片、录屏这类静态画面多的视频重复帧会少很多，画面一直在变的视频不受影响。 
+v0.1.3 更新（9 月 9 日）
+也是楼下 @dshuiewhui 提的：支持多视频。一条命令可以传多个文件或链接，各出各的文件夹，父目录下多一份 index.md 总目录，某一个失败不影响其他；B站 分 P / 合集加 --all 全部处理（默认只取第一个）。 
 官方网站
 
 GitHub（开源，MIT）：GitHub - vsh5dvsch7-png/yueying: 阅影：让 Claude Code / Cursor 等 AI 编程助手看懂视频。本地语音识别多语言文字稿 + 场景关键帧九宫格，全程离线。 · GitHub
 PyPI：Client Challenge
 反馈 / 提需求：Issues · vsh5dvsch7-png/yueying · GitHub
 
-3 个帖子 - 3 位参与者
+13 个帖子 - 3 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91454</guid>
       <pubDate>Tue, 08 Sep 2026 10:42:16 GMT</pubDate>
@@ -163,7 +514,7 @@ NoLit：把文献整理、阅读、翻译、批注和 AI 追问放在同一个�
 
 
 
-3 个帖子 - 2 位参与者
+5 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91445</guid>
       <pubDate>Tue, 08 Sep 2026 08:46:17 GMT</pubDate>
@@ -438,405 +789,6 @@ yunMusicPlayer（网盘音乐播放器）
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91410</guid>
       <pubDate>Mon, 07 Sep 2026 15:12:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】月读：透明桌面小说阅读器，整本连续滚动、按段落记进度、一键隐藏 [Windows]</title>
-      <link>https://meta.appinn.net/t/topic/91398</link>
-      <description><![CDATA[月读
-一个安静、轻巧的 Windows 桌面小说阅读器
-应用平台
-
-Windows 10 / 11
-
-推荐类型
-【开发者自荐】
-是否收费
-免费。核心功能（书架、txt 导入、阅读、进度、章节、自动滚动、主题）永久免费且开源；桌面模式、老板键、epub、自定义书源为专业版功能，新安装可试用 7 天，目前测试阶段，试用到期在 GitHub Issues 留言即可免费领激活码。正式版计划 9.9 元买断。 
-一句简介
-整本书连续滚动、按段落记住进度、窗口可以变透明只留文字浮在桌面上的 txt / epub 阅读器。 
-应用简介
-起因是想在电脑上安安静静看 txt，试过的阅读器要么按章翻页很割裂，要么窗口太显眼，就自己写了一个。 
-2026-09-07 v1.0.0 已完成功能：
-
-整本连续滚动：不按章翻页，一个长页面读到底；分块渲染，百万字大书秒开
-进度记忆：按段落记住读到哪里，改字号、重开软件都不会跑位
-章节定位：自动识别“第 X 章”（阿拉伯数字和中文数字都行），输入章节号直达，目录面板可点选、可筛选
-自动滚动：空格开关，十档速度，左右方向键调速
-桌面模式：窗口透明只留文字浮在桌面上，背景浓淡可调，可置顶、毛玻璃、描边
-老板键：全局快捷键一键隐藏 / 恢复，托盘图标常驻
-伪装皮肤（v1.1 新增）：一键变成 VS Code 或 Excel 界面，窗口标题同步伪装
-导入：txt 自动识别 GBK / UTF-8，epub 一键转换，拖进窗口即可
-自定义书源：兼容 so-novel 的书源规则格式，导入规则文件后可联网搜书并整本下载（软件本身不内置任何书源）
-字号、行距、纸张 / 纯白 / 护眼 / 夜间四种主题，窗口大小位置记忆
-
-开发中功能：
-
-看大家反馈决定，欢迎提需求
-
-无需注册，中文界面。 Electron 编写，安装包约 80 MB，未签名，SmartScreen 提示时点“更多信息 → 仍要运行”。 
-截图预览
-阅读界面：
-
-桌面模式（窗口透明，后面是壁纸）：
-
-v1.1 更新（9 月 8 日）
-应楼下需求，新增 伪装皮肤：工具栏「伪装」下拉一键切换，界面变成 VS Code 代码编辑器或 Excel 表格，小说段落变成代码注释 / 表格行，章节标题变成函数名 / 高亮行，连窗口标题都同步换成 main.js - Visual Studio Code / 工作簿1 - Excel。点正文可隐藏工具栏。 
-伪装成代码编辑器：
-
-伪装成 Excel：
-
-下载 v1.1.0：Release 月读 v1.1.0 — 伪装皮肤 · vsh5dvsch7-png/yuedu · GitHub
-官方网站
-
-GitHub（开源核心，GPL-3.0）：GitHub - vsh5dvsch7-png/yuedu: 月读 - 安静、轻巧的 Windows 桌面小说阅读器：透明桌面模式、老板键、txt/epub、章节定位、自定义书源 · GitHub
-下载：Releases · vsh5dvsch7-png/yuedu · GitHub
-反馈 / 提需求：Issues · vsh5dvsch7-png/yuedu · GitHub
-
-4 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91398</guid>
-      <pubDate>Mon, 07 Sep 2026 12:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】FilmSweep：像扫雷一样玩的每日电影问答，支持简体和繁体中文</title>
-      <link>https://meta.appinn.net/t/topic/91388</link>
-      <description><![CDATA[软件名称
-FilmSweep
-应用平台
-网页，手机或电脑浏览器均可游玩。免费，无需注册即可开始。 
-推荐类型
-〖开发者自荐〗
-一句简介
-一款玩法有点像扫雷的每日电影问答：从电影海报组成的网格里，选出同时符合指定演员和条件的电影。 
-应用简介
-大家好，我叫 Steven，是 FilmSweep 的开发者。这个游戏最初只是我的个人项目，后来慢慢做成了现在的样子，想在这里分享给喜欢电影的朋友。 
-每一局会给出演员和一个条件，比如“片长少于 120 分钟”。你需要在三分钟内，从网格里选出同时满足两项要求的电影。有三次生命，也要避开隐藏的炸弹，点中炸弹会直接结束这一局。 
-每日题目有时挺难，连我自己也经常一连输上好几天。不过，玩着玩着会发现一些小技巧。比如不确定某位演员有没有参演时，可以点开放大电影海报，看看上面有没有演员的脸或名字，不一定全靠记忆。 
-除了当天的题目，也可以玩以前的题目、查看全球排行榜、留言，以及查看个人资料页的游戏统计。我也在做 Letterboxd 集成，不过目前还没有上线。 
-最近加入了多语言支持，包括简体中文、繁体中文、英语、西班牙语、巴西葡萄牙语、法语、日语和印地语。 
-如果你喜欢电影，可以打开试一局。希望你玩得开心，有问题也欢迎告诉我。 
-官方网站
-简体中文：FilmSweep：每日电影知识网格挑战
-繁体中文：FilmSweep：每日电影知识方格挑战
-首页：https://filmsweep.io/
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91388</guid>
-      <pubDate>Mon, 07 Sep 2026 11:41:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】PriTime： 一个可自托管的多端待办任务清单、时间管理应用</title>
-      <link>https://meta.appinn.net/t/topic/91387</link>
-      <description><![CDATA[软件名称
-PriTime
-应用平台
-
-后端 API （已开源发布）
-Web （已开源发布）
-Windows （开发中）
-MacOS（测试版已上线）
-Android（开发中）
-IOS（开发中）
-
-推荐类型
-【开发者自荐】
-是否收费
-后端API + Web 免费开源
-客户端 99 元系列买断
-一句简介
-PriTime 是一款可完全自托管的多端待办任务管理应用。任务、清单、标签、四象限、日历、番茄钟、习惯打卡、共享清单、AI 助手一应俱全，支持 Docker 一键部署，数据 100% 存在你自己的服务器或 NAS 上，并提供 JSON/Excel 全量导出，随时可走
-应用简介
-任务管理
-创建、编辑、完成、删除、拖拽排序；支持描述、优先级、标签。 
-任务清单
-将任务归类到不同清单，内置「工作 / 个人 / 学习」默认清单。 
-彩色标签
-自定义带颜色的标签，按标签快速筛选任务。 
-四级优先级
-无 / 低 / 中 / 高，配合四象限（Eisenhower）视图使用。 
-智能提醒
-准时 / 提前 5 分钟 / 30 分钟 / 1 小时 / 1 天多种提醒方式。 
-任务重复
-不重复 / 每天 / 工作日 / 每周 / 每月 / 每年，满足各种周期。 
-回收站
-软删除、恢复、一键清空，重要任务不再误删。 
-专注模式
-内置番茄钟与专注模式，帮你一次只做一件事。 
-全局搜索
-按标题、描述、标签快速检索全部任务，再也不怕找不到。 
-AI 智能助手
-一句话创建任务、规划清单，AI 帮你把想法变成待办。 
-习惯打卡
-记录每日习惯与连续打卡次数，见证坚持的力量。 
-数据统计
-完成率、趋势与分布一目了然，回顾更有据可依。 
-课程表
-按学期管理课程，课程与任务统一安排，学生党友好。 
-清单分享
-把清单分享给他人，协作与同步更轻松。 
-推送提醒
-到期自动推送提醒，重要任务不错过。 
-纪念日
-记录重要日子，自动计算倒数天数。 
-开发中功能：
-
-IOS 客户端
-
-截图预览：
-
-官方网站
-PriTime — Your Time, Your Privacy
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91387</guid>
-      <pubDate>Mon, 07 Sep 2026 11:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>〖开发者自荐〗StatusPerch：把不常用的 Mac 菜单栏图标先收起来</title>
-      <link>https://meta.appinn.net/t/topic/91385</link>
-      <description><![CDATA[
-
-
-
-
-项目
-信息
-
-
-
-
-软件名称
-StatusPerch
-
-
-应用平台
-macOS 13 Ventura 或更高版本；Apple 芯片与 Intel Mac
-
-
-推荐类型
-〖开发者自荐〗
-
-
-是否收费
-免费使用，专有软件，非开源
-
-
-是否需要注册
-不需要
-
-
-是否联网
-核心功能完全在本机运行
-
-
-
-为什么做它
-Mac 上常驻的软件多起来以后，菜单栏很容易被塞满。我的需求其实不复杂：时钟和常用图标留在外面，低频图标平时藏起来，需要时再展开。 
-StatusPerch 就是为这件小事做的。它在菜单栏里提供一个可以移动的边界和箭头。按住 Command，把兼容的低频图标拖到边界左侧，之后点一下箭头就能收起或展开。 
-
-主要功能
-
-一键收起或展开边界左侧的兼容图标；
-展开后可在 5、10 或 30 秒后自动收起；
-支持登录时启动；
-支持简体中文、English 和跟随系统；
-自动适配 macOS 亮色与暗色模式；
-Universal 2 安装包，同时支持 Apple 芯片和 Intel Mac。 
-
-我在权限上做得比较克制：应用不截取屏幕，也不模拟点击其他应用，核心收纳功能不需要屏幕录制或辅助功能权限；没有账号、统计或广告 SDK，也不会上传菜单栏、屏幕或使用数据。 
-使用方法
-
-启动后按住 Command，拖动 StatusPerch 的边界和箭头；
-把低频图标放到边界左侧，把时钟和常用图标留在箭头右侧；
-单击箭头收起或展开，右键箭头可以设置自动收起、登录启动、语言和帮助。 
-
-目前的限制
-有几件事需要提前说明：
-
-部分 Apple 系统图标和第三方应用不支持 Command 拖动；
-StatusPerch 使用原生菜单栏，不会创建或模拟第二行菜单栏；
-公共 GitHub 仓库提供文档、发布说明和官方安装包，不包含应用源码；
-1.0.0 目前尚未经过 Apple 公证。首次运行时，请在“应用程序”中按住 Control 点击 StatusPerch，选择“打开”并再次确认。无需关闭 Gatekeeper，也不建议使用绕过系统安全机制的命令。 
-
-下载与反馈
-
-官网：StatusPerch — Organize your Mac menu bar
-GitHub 公共仓库：GitHub - qingtan-labs/StatusPerch: Hide and organize macOS menu bar icons — lightweight, offline, privacy-friendly, and permission-free. · GitHub
-最新版本：https://github.com/qingtan-labs/StatusPerch/releases/latest
-中文说明：StatusPerch/README.zh-Hans.md at main · qingtan-labs/StatusPerch · GitHub
-问题反馈：Issues · qingtan-labs/StatusPerch · GitHub
-
-目前是 1.0.0，安装包约 2.09 MiB。如果大家愿意试用，欢迎说说它在刘海屏、外接显示器，以及和其他菜单栏工具同时使用时的表现。 
-5 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91385</guid>
-      <pubDate>Mon, 07 Sep 2026 11:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】Folder Player，一个简约高效的Android音乐播放器，用于播放云端/本地资源</title>
-      <link>https://meta.appinn.net/t/topic/91368</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/91368</guid>
-      <pubDate>Mon, 07 Sep 2026 07:56:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开源自荐】Translation Workbench：给 Codex / Claude Code 用的翻译工作流技能</title>
-      <link>https://meta.appinn.net/t/topic/91358</link>
-      <description><![CDATA[软件名称
-Translation Workbench
-应用平台
-Agent Skill，装进 Codex 或 Claude Code 里用，系统不限（Windows / macOS / Linux）。附带的两个检查脚本需要 Python 3.11，只用标准库。 
-推荐类型
-【开发者自荐】
-是否收费
-免费，MIT 开源。 
-一句简介
-把长篇翻译拆成「取材 → 起草 → 独立审核 → 人工定稿」四步的 Agent Skill：AI 交译文的同时必须交依据，术语和审核结论都要你点头才写进项目文档。 
-应用简介
-
-让AI承担对源语言的理解。我认为译文的好坏取决于译者双语的水平，技能要求AI不仅仅提供翻译译文，而且给出翻译依据，以此来弥补译者源语言的掌握深度。 
-让AI学习你的翻译风格，且持续优化，并在项目中长期保持一致性。 
-
-下面是我翻译的小说里的一个例子：
-
-happen 在这儿是北英格兰方言里的 perhaps，AI 初稿的「不妨」太客气了；「琢磨琢磨，这是为什么」又是英文的挂法。定稿改成「自个儿琢磨琢磨背后的道理」。这一层判断，机翻不会给你。 
-实测范围与限制
-
-只验证过一个语言对（英译中）、一类文本（连载小说）。 
-只测过 Opus 5 和 GPT-5.6 Sol 两个模型。 
-产出流程到「你确认过的定稿 Markdown」为止。 
-
-官方网站
-
-
-github.com
-
-
-
-
-GitHub - Alexu0317-FATHER/translation-workbench: A source-grounded translation workflow skill for...
-A source-grounded translation workflow skill for Codex and Claude Code.
-
-
-
-
-
-
-安装：npx skills add Alexu0317-FATHER/translation-workbench
-用这套流程做完的项目（在线阅读）：《弗兰兹·洛纳的编年史》 · Franz Lohner&#39;s Chronicle
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91358</guid>
-      <pubDate>Mon, 07 Sep 2026 03:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>整理和保存儿童画的小工具</title>
-      <link>https://meta.appinn.net/t/topic/91356</link>
-      <description><![CDATA[软件名称
-时光画展 ｜ 时光画廊
-应用平台
-
-Web
-IOS
-
-推荐类型
-【开发者自荐】
-是否收费
-采用免费+付费的模式
-免费（每天有三次免费上传的机会）
-4k文件下载付费（3元/张）
-可以订阅会员全年无限次上传和下载（98元/年）
-一句简介
-一个能够把纸质或拍摄的儿童画自动加工成高清数字版留存的小工具
-应用简介
-2026年8月1日 已完成功能：
-
-支持 上传儿童画照片加工为高清版儿童画
-支持 把儿童画深加工为多种风格的艺术装裱作品
-支持 私有化存储所有上传的儿童画
-支持 把儿童画导出为儿童作品集
-支持 定制儿童画周边产品（装裱画/T恤/画册等）
-
-截图预览：
-
-官方网站
-产品官网：
-时光画展 ｜ 时光入画，童年留痕
-APP下载链接（海外）：https://apps.apple.com/ch/app/时光画展/id6801003309
-写在最后
-已近不惑之年，常有浮生如梦之感。人生叙事过半，多有风雨，而今又困于围城，回首往事，真正快乐的时光少得可怜。感觉自己始终像是在雨中匆匆赶路的行人，停不下来，但竟也毫无方向。 
-近期GAP了，这种破碎感更加真切，独坐凉亭日久，也无法排解。都说美好童年治愈一生，我的人生真正留下的值得慰藉的东西少得有些悲凉。 
-和母亲聊天，她也时常感叹，年轻的时候竟然连一张全家福都没有拍过，小时候她也教过我画画写字，这些东西都已了无痕迹，好像从来没有存在过，而今只剩下一些遥远且愈加模糊的记忆。物质匮乏的年代，大家都在疲于奔命，全力奔跑，哪还顾得上沿路的风景。 
-麦家说：一个人的性格其实是他所处状态的外形。当你困顿时，会滋生出狭隘与自私，当你疲惫时，会变得冷漠和暴躁，当你快乐的时候，会变得包容和乐观。 
-现在的我自感越来越狭隘，我的悲伤来自于能支持我创作和前行的能量太少，这份觉察也是我接下来创业的方向。人生的下半场，我希望能够留住生活中的小美好，传递欢乐。身为人父，我也希望为孩子们留下更多可以停驻欣赏的美好时光。希望大家在困顿与疲惫之时，也能够翻开时光画卷，于漫漫长夜中，拾得一缕来自童年的微光。 
-7 个帖子 - 5 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91356</guid>
-      <pubDate>Mon, 07 Sep 2026 03:10:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>发现频道：10款大家发现的好评软件[2026年第36期]</title>
-      <link>https://meta.appinn.net/t/topic/91350</link>
-      <description><![CDATA[
-最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来：
-
-
-
-序号
-主题
-
-
-
-
-1️⃣
-【开发者自荐】macOS 一边打字一边翻译来学习英语
-
-
-2️⃣
-【开发者自荐】BongoCat - 开源桌宠实时响应鼠标和键盘事件，使用纯C彻底重新实现
-
-
-3️⃣
-【开发者自荐】Snipper – 轻量级 Windows 截图工具：框选、标注、复制，一次搞定
-
-
-4️⃣
-【开发者自荐】现有的 Notepad Replacer 在 Win11 上不好用，于是我重新造了个轮子
-
-
-5️⃣
-Tablite: 又一款浏览器新标签页插件
-
-
-6️⃣
-【开发者自荐】我想一劳永逸解决字幕工作流，所以我做了 MAW【字幕软件】
-
-
-7️⃣
-【开发者自荐】微信视频号/公众号下载
-
-
-8️⃣
-【开发者自荐】AI Novel Writer：把人物、设定、大纲、章节和修稿放进同一个写作项目
-
-
-9️⃣
-易简历 - 26 个模板的免费在线简历制作工具
-
-
-🔟
-一个免费开源的 Windows 键盘鼠标按键映射工具，无需写脚本即可自定义按键和快捷键。 
-
-
-
-上期回顾
-
-发现频道近10日热门排行榜[2026年第35期]
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91350</guid>
-      <pubDate>Mon, 07 Sep 2026 01:00:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

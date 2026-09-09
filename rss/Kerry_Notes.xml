@@ -4,7 +4,15 @@
     <title>Kerry的学习笔记</title>
     <link>https://kerrynotes.com</link>
     <description>好好学习，Day Day Up!</description>
-    <lastBuildDate>Wed, 09 Sep 2026 01:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:35:58 GMT</lastBuildDate>
+    <item>
+      <title>Codex 桌面版迟迟没有 GPT-6 Astra？我踩了两个 CLI 的坑</title>
+      <link>https://kerrynotes.com/codex-desktop-cli-update-gpt-6-astra/</link>
+      <description><![CDATA[我的 Codex 桌面版一直看不到 GPT-6 Astra，原以为是账号还没收到推送。但是我的网页端已经有了， […]
+&lt;p&gt;The post Codex 桌面版迟迟没有 GPT-6 Astra？我踩了两个 CLI 的坑 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
+      <guid>https://kerrynotes.com/codex-desktop-cli-update-gpt-6-astra/</guid>
+      <pubDate>Wed, 09 Sep 2026 04:47:56 GMT</pubDate>
+    </item>
     <item>
       <title>Perplexity 忘记取消订阅自动续费后怎么退款？</title>
       <link>https://kerrynotes.com/perplexity-refund/</link>
@@ -76,14 +84,6 @@
 &lt;p&gt;The post 闲聊下机场客户端和订阅阅后即焚 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
       <guid>https://kerrynotes.com/airport-client-choice/</guid>
       <pubDate>Sat, 11 Jul 2026 14:48:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个机场测速观察站</title>
-      <link>https://kerrynotes.com/speedtest-site/</link>
-      <description><![CDATA[最近我把自己用来记录机场测速的数据，整理成了一个独立网站：机场观察手记。 它不是排行榜，也不是“闭眼买”推荐。 […]
-&lt;p&gt;The post 我做了一个机场测速观察站 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
-      <guid>https://kerrynotes.com/speedtest-site/</guid>
-      <pubDate>Mon, 06 Jul 2026 15:27:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

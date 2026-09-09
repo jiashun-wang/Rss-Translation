@@ -4,7 +4,28 @@
     <title>MIT 科技评论 - 本周热榜</title>
     <link>https://www.mittrchina.com/hot</link>
     <description>MIT 科技评论 - 本周热榜 - Powered by RSSHub</description>
-    <lastBuildDate>Tue, 08 Sep 2026 10:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:33:17 GMT</lastBuildDate>
+    <item>
+      <title>这家初创想用微生物重新做一遍农药</title>
+      <link>https://www.mittrchina.com/news/detail/16916</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.mittrchina.com/news/detail/16916</guid>
+      <pubDate>Mon, 07 Sep 2026 12:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>收了一家还不够，Anthropic或将继续收购AI生物公司</title>
+      <link>https://www.mittrchina.com/news/detail/16915</link>
+      <description><![CDATA[Anthropic 最近的一则招聘，透露了它在生命科学领域的下一步：寻找专门负责人，推进 AI 生物公司的收购、投资和合作。目标领域包括药物发现、临床开发、医学文书、实验室自动化及医疗数据基础设施，尚未披露具体交易对象。 在此之前，Anthropic 其实已经有过类似的举措。今年 4 月，有媒体报道称，Anthropic 以约 4 亿美元股票收购了 Coefficient Bio；接近交易的人士随后向 TechCrunch 确认交易已经完成，但没有确认具体金额。 Coefficient Bio 成立约 8 个月，团队约 10 人，两名创始人此前都在 Genentech 的 Prescient Design 团队从事计算药物发现，团队预计加入 Anthropic 的医疗与生命科学部门。 在先前的文章里，我们分析过美国三家前沿 AI 公司为什么同时押注生命科学。而 Anthropic 近期的动作，让这个话题有了更具体的落点：模型提出一个研究方案之后，谁负责把它变成一次真正执行的实验？ 图丨相关岗位的 JD（来源：Anthropic）6 月底推出的 Claude Science 和 8 月底发布的模型硬件标准 MHS，正在衔接这两端。前者把科研软件和分析任务组织起来，后者尝试让 AI 操作物理设备。此次招聘中的实验室自动化和数据基础设施，也与这条路径相呼应。 Claude Science 是一款科研工作台。研究人员可以在同一个环境里检索文献、分析数据、调用专业模型，并检查结果对应的代码和过程记录。它还通过英伟达的 BioNeMo 工具连接 Evo 2、Boltz-2、OpenFold3 等模型与库。 这延续了 Claude 在编程领域的一部分产品思路：把分散的工具组织到一个能持续执行任务的环境里。对于科研，Anthropic 不必自己重做每一个专业模型，也有机会成为研究人员发起任务、调用其他工具的入口。 但计算结果送进实验室，还隔着一段复杂的工程工作。设备来自不同厂商，控制方式各异，同一个实验可能需要同时协调移液设备、读板仪和机械臂。研究方案写出来，并不意味着这些设备就能照着运行。 8 月 27 日，Anthropic 发布 MHS（Model Hardware Standard，模型硬件标准）研究预览，尝试用统一的设备描述和控制接口减少这类接入工作。该项目起于它与霍华德·休斯医学研究所 Janelia 研究园区的合作，目前仍有限开放，设计上也不绑定 Claude。 官方展示的一个实验场景颇能说明问题：机械臂、移液设备和读板仪分别运行在三台计算机上，有的依靠旧式脚本接口，有的只能通过图形界面操作。 MHS 尝试把这些不同控制方式统一起来，让 AI 能协调设备、读取结果，再调整后续操作。 它首先试图解决的是实验执行的接入与协调成本。只有把这些环节接上，模型才可能更频繁地获得现实反馈：方案能不能执行，结果是否符合预期，下一轮应该改什么。 这也是近期动作与此前人才、模型布局的区别。 Anthropic 正在补充一套执行环境，让模型能力能够沿着软件、计算和设备传递下去。 而收购可以加快这个过程。通用模型能力之外，实验室还有大量具体经验：某台设备的限制，一套流程为什么总在某一步失败，什么样的数据才足以支持下一轮判断。这些知识散落在团队、代码和日常操作中，需要长期积累。 招聘要求候选人分辨有持久竞争力的 AI 原生业务与简单模型封装，同时考察科学、数据和合规状况。这样的标准意味着，Anthropic 看中的可能包括成熟的实验流程、专业团队和客户交付能力，具体偏好仍要由后续交易验证。 从商业角度看，科研工作台与设备接口还能相互加强。如果研究人员习惯从 Claude 发起任务，越来越多工具又能被它调用，Claude 就有机会参与更长的工作过程。这未必要求 Anthropic 拥有所有专业工具，却可能改变这些工具触达用户的方式。 开放接口也有双重作用。 MHS 不绑定模型，有利于降低合作方的接入顾虑，但同样允许其他模型使用。 Anthropic 能否获得优势，仍取决于 Claude 在实际执行中的可靠性，不能把一个标准的发布直接等同于控制了实验室。 而且，设备连通只是开始。自动执行更多实验，不保证得到更好的科学结论；留下完整记录，也不保证结果正确。样本差异、测量误差和实验设计的问题，仍然需要科学家判断。 因此，观察 Anthropic 接下来的进展，比收购金额更有意义的，是这些系统能否跨设备、跨实验室重复使用，以及研究人员究竟省下了多少接入、排错和复核时间。 参考资料：1.https://job-boards.greenhouse.io/anthropic/jobs/53581100082.https://www.anthropic.com/news/claude-science-ai-workbench3.https://www.anthropic.com/news/model-hardware-standard-research-preview运营/排版：何晨龙注：封面/首图由 AI 辅助生成]]></description>
+      <guid>https://www.mittrchina.com/news/detail/16915</guid>
+      <pubDate>Mon, 07 Sep 2026 12:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>猪肾在人体存活271天刷新纪录，异种器官首次成功“桥接”人类移植</title>
+      <link>https://www.mittrchina.com/news/detail/16914</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.mittrchina.com/news/detail/16914</guid>
+      <pubDate>Mon, 07 Sep 2026 11:59:23 GMT</pubDate>
+    </item>
     <item>
       <title>AI会制造一个“新封建主义”社会吗？</title>
       <link>https://www.mittrchina.com/news/detail/16909</link>
@@ -48,32 +69,11 @@
       <pubDate>Sat, 05 Sep 2026 11:42:34 GMT</pubDate>
     </item>
     <item>
-      <title>人类首次获得雄性果蝇完整“脑回路图”，16.6万个神经元揭示性别如何影响行为</title>
-      <link>https://www.mittrchina.com/news/detail/16902</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.mittrchina.com/news/detail/16902</guid>
-      <pubDate>Sat, 05 Sep 2026 11:36:28 GMT</pubDate>
-    </item>
-    <item>
       <title>又一名韩松弟子创业，MIT博士李沐阳联手朱俊彦推出多模态推理“加速器”</title>
       <link>https://www.mittrchina.com/news/detail/16901</link>
       <description><![CDATA[]]></description>
       <guid>https://www.mittrchina.com/news/detail/16901</guid>
       <pubDate>Sat, 05 Sep 2026 10:20:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>清华姚班校友发起，Claude用11天完成费马大定理首个完整的形式化证明</title>
-      <link>https://www.mittrchina.com/news/detail/16900</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.mittrchina.com/news/detail/16900</guid>
-      <pubDate>Sat, 05 Sep 2026 03:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国拟封堵中国AI海外算力通道，东南亚数据中心或受审查</title>
-      <link>https://www.mittrchina.com/news/detail/16899</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.mittrchina.com/news/detail/16899</guid>
-      <pubDate>Fri, 04 Sep 2026 11:50:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
