@@ -4,7 +4,17 @@
     <title>Student Lounge</title>
     <link>https://blogs.mathworks.com/student-lounge</link>
     <description>The student lounge blog focuses on student success stories.   Winning student teams share their knowledge and the MathWorks student programs team shares best practices and workflows using MATLAB and Simulink.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 08:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:10:00 GMT</lastBuildDate>
+    <item>
+      <title>克莱姆森大学的学生如何建造一辆时速 180 英里的无人驾驶赛车</title>
+      <link>https://blogs.mathworks.com/student-lounge/2026/09/08/how-clemson-students-built-a-180-mph-driverless-racecar/?s_tid=feedtopost</link>
+      <description><![CDATA[
+该博客是与克莱姆森大学深橙学生开发团队和 New Eagle 合作的。
+
+克莱姆森大学深橙项目的研究生不...了解更多&gt;&gt;]]></description>
+      <guid>https://blogs.mathworks.com/student-lounge/2026/09/08/how-clemson-students-built-a-180-mph-driverless-racecar/?s_tid=feedtopost</guid>
+      <pubDate>Tue, 08 Sep 2026 14:26:46 GMT</pubDate>
+    </item>
     <item>
       <title>学习 MATLAB – 学生指南</title>
       <link>https://blogs.mathworks.com/student-lounge/2026/08/24/learn-matlab-a-students-guide/?s_tid=feedtopost</link>
@@ -28,7 +38,7 @@
       <link>https://blogs.mathworks.com/student-lounge/2026/07/27/building-janus-how-a-first-robotics-team-engineered-a-championship-robot/?s_tid=feedtopost</link>
       <description><![CDATA[
 
-在本周的博客文章中，我们将重点介绍来自 FIRST 机器人竞赛的 FRC Team 2040，他们回顾了自己的 2026 年赛季，并分享了他们如何使用 Simulink 和 WPILib 来协调他们的... 了解更多&gt;&gt;]]></description>
+在本周的博客文章中，我们将重点介绍来自 FIRST 机器人竞赛的 FRC Team 2040，他们回顾了 2026 年赛季，并分享了他们如何使用 Simulink 和 WPILib 来协调他们的... 了解更多&gt;&gt;]]></description>
       <guid>https://blogs.mathworks.com/student-lounge/2026/07/27/building-janus-how-a-first-robotics-team-engineered-a-championship-robot/?s_tid=feedtopost</guid>
       <pubDate>Mon, 27 Jul 2026 14:12:35 GMT</pubDate>
     </item>
@@ -46,7 +56,7 @@
       <link>https://blogs.mathworks.com/student-lounge/2026/06/22/mathworks-minidrone-competition-europe-2025-model%e2%80%91based-design-for-autonomous-uavs/?s_tid=feedtopost</link>
       <description><![CDATA[
 
-MathWorks 剑桥办事处主办了 2025 年欧洲版 MathWorks 迷你无人机竞赛，欢迎来自欧洲各地大学的学生。 2025 年版本吸引了来自...的申请了解更多&gt;&gt;]]></description>
+MathWorks 剑桥办事处主办了 2025 年欧洲版 MathWorks 迷你无人机竞赛，欢迎来自欧洲各地大学的学生。 2025 年版吸引了来自...的申请了解更多&gt;&gt;]]></description>
       <guid>https://blogs.mathworks.com/student-lounge/2026/06/22/mathworks-minidrone-competition-europe-2025-model%e2%80%91based-design-for-autonomous-uavs/?s_tid=feedtopost</guid>
       <pubDate>Mon, 22 Jun 2026 11:44:42 GMT</pubDate>
     </item>
@@ -81,18 +91,9 @@ MathWorks 剑桥办事处主办了 2025 年欧洲版 MathWorks 迷你无人机�
       <link>https://blogs.mathworks.com/student-lounge/2026/04/20/how-team-endurance-racing-engineered-a-winning-electric-baja-powertrain-model-in-simscape/?s_tid=feedtopost</link>
       <description><![CDATA[
 
-在今天的博客中，我们邀请了来自浦那 Vishwakarma 理工学院的 Team Endurance Racing 团队，他们在 BAJA SAEINDIA：MathWorks 电动动力系统模拟挑战赛中获得第一名... 了解更多&gt;&gt;]]></description>
+在今天的博客中，来自浦那 Vishwakarma 理工学院的 Team Endurance Racing 团队在 BAJA SAEINDIA：MathWorks 电动动力系统仿真挑战赛中获得第一名... 了解更多&gt;&gt;]]></description>
       <guid>https://blogs.mathworks.com/student-lounge/2026/04/20/how-team-endurance-racing-engineered-a-winning-electric-baja-powertrain-model-in-simscape/?s_tid=feedtopost</guid>
       <pubDate>Mon, 20 Apr 2026 15:48:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>从真实道路到真实模拟：TwinX 团队如何赢得 2025 年智能印度黑客马拉松</title>
-      <link>https://blogs.mathworks.com/student-lounge/2026/04/06/from-real-roads-to-real-simulations-how-team-twinx-won-smart-india-hackathon-2025/?s_tid=feedtopost</link>
-      <description><![CDATA[
-
-智能印度黑客马拉松 (SIH) 是一项全国性举措，旨在让学生参与解决日常生活中一些最紧迫的挑战。成立的目的是促进...了解更多&gt;&gt;]]></description>
-      <guid>https://blogs.mathworks.com/student-lounge/2026/04/06/from-real-roads-to-real-simulations-how-team-twinx-won-smart-india-hackathon-2025/?s_tid=feedtopost</guid>
-      <pubDate>Mon, 06 Apr 2026 04:23:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

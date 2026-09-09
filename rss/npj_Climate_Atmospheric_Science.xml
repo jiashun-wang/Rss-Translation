@@ -1,9 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <lastBuildDate>Tue, 08 Sep 2026 00:50:56 GMT</lastBuildDate>
+    <title>npj Climate and Atmospheric Science</title>
+    <link>http://feeds.nature.com/npjclimatsci/rss/current</link>
+    <description><p>Open for Submissions</p> <p>Publishing high-quality research on complex atmospheric processes and their impact on the climate.</p> <p><em>npj Climate and Atmospheric Science</em> is a fully open-access journal that aims to highlight the latest developments in the physical, chemical and biological components of atmospheric and climate science.</p> <p><em>npj Climate and Atmospheric Science</em> covers topics including, but not limited to, climate dynamics, climate variability, weather and climate prediction, climate change, ocean dynamics, weather extremes, air pollution, atmospheric chemistry including aerosols, the hydrological cycle and atmosphere–ocean and atmosphere–land interactions, and the techniques used to study these, including numerical and statistical modeling, <em>in situ</em> observational techniques and remote sensing.</p> <p>In addition to original research, the journal welcomes critical Reviews, Meeting Reports, and thought-provoking Perspectives and Comment articles.</p></description>
+    <lastBuildDate>Wed, 09 Sep 2026 00:54:35 GMT</lastBuildDate>
+    <item>
+      <title>强热带气旋通过与海洋地下相互作用，有更加逐渐增加的趋势</title>
+      <link>https://www.nature.com/articles/s41612-026-01534-1</link>
+      <description><![CDATA[npj 气候与大气科学，在线发布：2026 年 9 月 4 日； doi:10.1038/s41612-026-01534-1Strong tropical cyclones have a more gradual increase trend through interaction with ocean subsurface]]></description>
+      <guid>https://www.nature.com/articles/s41612-026-01534-1</guid>
+      <pubDate>Wed, 09 Sep 2026 00:54:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>修订后的柯本气候分类揭示了热液对青藏高原生态气候的控制</title>
+      <link>https://www.nature.com/articles/s41612-026-01539-w</link>
+      <description><![CDATA[npj 气候与大气科学，在线发布：2026 年 9 月 5 日； doi:10.1038/s41612-026-01539-w修订后的柯本气候分类揭示了热液对青藏高原生态气候的控制]]></description>
+      <guid>https://www.nature.com/articles/s41612-026-01539-w</guid>
+      <pubDate>Wed, 09 Sep 2026 00:54:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>船舶速度降低对新鲜船舶羽流成分和示踪剂覆盖范围的潜在气溶胶权衡</title>
+      <link>https://www.nature.com/articles/s41612-026-01532-3</link>
+      <description><![CDATA[npj 气候与大气科学，在线发布：2026 年 9 月 5 日； doi:10.1038/s41612-026-01532-3船舶速度降低对新鲜船舶羽流成分和示踪剂覆盖范围的潜在气溶胶权衡]]></description>
+      <guid>https://www.nature.com/articles/s41612-026-01532-3</guid>
+      <pubDate>Wed, 09 Sep 2026 00:54:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>气候变化下的冰雹轨迹：阐明水分、融化水平和上升气流运动学的作用</title>
+      <link>https://www.nature.com/articles/s41612-026-01519-0</link>
+      <description><![CDATA[npj 气候与大气科学，在线发布：2026 年 9 月 7 日； doi:10.1038/s41612-026-01519-0气候变化下的冰雹轨迹：理清水分、融化水平和上升运动学的作用]]></description>
+      <guid>https://www.nature.com/articles/s41612-026-01519-0</guid>
+      <pubDate>Wed, 09 Sep 2026 00:54:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有证据表明过去千年中大规模火山喷发导致欧亚冬季变暖或变冷具有统计意义</title>
+      <link>https://www.nature.com/articles/s41612-026-01535-0</link>
+      <description><![CDATA[npj 气候与大气科学，在线发布：2026 年 9 月 7 日； doi:10.1038/s41612-026-01535-0没有证据表明过去千年大规模火山喷发导致欧亚冬季变暖或变冷具有统计意义]]></description>
+      <guid>https://www.nature.com/articles/s41612-026-01535-0</guid>
+      <pubDate>Wed, 09 Sep 2026 00:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>FuXi-TC：集成深度学习和基于物理的模型的生成框架，用于改进热带气旋预报</title>
+      <link>https://www.nature.com/articles/s41612-026-01501-w</link>
+      <description><![CDATA[npj 气候与大气科学，在线发布：2026 年 9 月 8 日； doi:10.1038/s41612-026-01501-wFuXi-TC：集成深度学习和基于物理的模型以改进热带气旋预报的生成框架]]></description>
+      <guid>https://www.nature.com/articles/s41612-026-01501-w</guid>
+      <pubDate>Wed, 09 Sep 2026 00:54:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>半干旱非洲稀树草原区域和地方对环境异戊二烯控制的季节性变化</title>
+      <link>https://www.nature.com/articles/s41612-026-01540-3</link>
+      <description><![CDATA[npj 气候与大气科学，在线发布：2026 年 9 月 8 日； doi:10.1038/s41612-026-01540-3半干旱非洲稀树草原区域和地方对环境异戊二烯控制的季节性变化]]></description>
+      <guid>https://www.nature.com/articles/s41612-026-01540-3</guid>
+      <pubDate>Wed, 09 Sep 2026 00:54:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>混合相云结构组织冬季回程电流和极性</title>
+      <link>https://www.nature.com/articles/s41612-026-01537-y</link>
+      <description><![CDATA[npj 气候与大气科学，在线发布：2026 年 9 月 8 日； doi:10.1038/s41612-026-01537-y混合相云结构组织冬季回程电流和极性]]></description>
+      <guid>https://www.nature.com/articles/s41612-026-01537-y</guid>
+      <pubDate>Wed, 09 Sep 2026 00:54:23 GMT</pubDate>
+    </item>
     </channel>
 </rss>

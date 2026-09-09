@@ -4,7 +4,212 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 10:31:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:08:30 GMT</lastBuildDate>
+    <item>
+      <title>3.8.3 版本的移动端卡在启动界面，pc 端可以进去</title>
+      <link>https://ld246.com/article/1788915819469</link>
+      <description><![CDATA[
+]]></description>
+      <guid>https://ld246.com/article/1788915819469</guid>
+      <pubDate>Wed, 09 Sep 2026 01:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>设置标题收起就报错 Field [id] is required</title>
+      <link>https://ld246.com/article/1788911426481</link>
+      <description><![CDATA[
+ 浏览器不支持该媒体的播放
+
+不影响使用，但是我担心什么时候数据结构坏了，请问是什么原因啊]]></description>
+      <guid>https://ld246.com/article/1788911426481</guid>
+      <pubDate>Tue, 08 Sep 2026 23:50:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>智能体似乎无法填写模板列表达式</title>
+      <link>https://ld246.com/article/1788896585037</link>
+      <description><![CDATA[创建数据库时，由 deepseek-v4-flash 探索的情况。 
+]]></description>
+      <guid>https://ld246.com/article/1788896585037</guid>
+      <pubDate>Tue, 08 Sep 2026 19:43:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望能够加入在文档上手写批注的功能</title>
+      <link>https://ld246.com/article/1788885650615</link>
+      <description><![CDATA[具体的使用场景就是电脑做完笔记之后，同步到平板端，然后用手写的方式批注去思考的话，更能够激发灵感]]></description>
+      <guid>https://ld246.com/article/1788885650615</guid>
+      <pubDate>Tue, 08 Sep 2026 16:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>3.8.3 页签块功能移动端编辑有问题</title>
+      <link>https://ld246.com/article/1788883691928</link>
+      <description><![CDATA[很喜欢 3.8.3 的页签块功能，但是还是有 2 个 bug，见视频：
+
+ 浏览器不支持该媒体的播放
+
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1788883691928</guid>
+      <pubDate>Tue, 08 Sep 2026 16:09:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>新上架插件微信读书笔记同步插件</title>
+      <link>https://ld246.com/article/1788880693346</link>
+      <description><![CDATA[发现以前有大佬做过，后来不知道为何下架了。故做了一个新的，可以同步画线内容 + 笔记
+由于微信读书设置限制，必须是写过文字的才可以进行同步下载，只是画线的不能同步
+效果如下
+
+
+欢迎试用，欢迎交流]]></description>
+      <guid>https://ld246.com/article/1788880693346</guid>
+      <pubDate>Tue, 08 Sep 2026 15:19:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>WiFi 无法联网：DHCP 被禁用导致获取 169.254 APIPA 地址</title>
+      <link>https://ld246.com/article/1788879181751</link>
+      <description><![CDATA[问题描述
+　　电脑在 WiFi 模式下无法联网，无法获取 IPv4 地址。 
+诊断过程
+1. 检查 WiFi 连接状态
+netsh wlan show interfaces
+
+　　结果：WiFi 已连接到 ​HUAWEI-CR，信号 88%，状态正常。 
+2. 检查网络接口配置
+netsh interface ip show config
+
+　　发现问题：
+
+
+
+接口
+DHCP
+IP 地址
+说明
+
+
+
+
+WLAN
+❌ 关闭
+169.254.136.30
+APIPA 地址，无效
+
+
+WLAN 5
+❌ 关闭
+169.254.158.163
+APIPA 地址，无效
+
+
+以太网 2
+✅ 开启
+192.168.1.2
+正常
+
+
+
+　　根因：WLAN 接口的 DHCP 被禁用，导致自动分配了 169.254.x.x 的 APIPA 地址，无法与路由器通信。 
+修复方案
+# 启用 DHCP 并刷新
+netsh interface ip set address &quot;WLAN&quot; dhcp
+netsh interface ip set dns &quot;WLAN&quot; dhcp
+
+修复结果
+
+
+
+项目
+修复前
+修复后
+
+
+
+
+DHCP
+❌ 关闭
+✅ 开启
+
+
+IP 地址
+169.254.136.30
+192.168.3.26
+
+
+默认网关
+无
+192.168.3.1
+
+
+DNS
+无
+192.168.3.1
+
+
+外网连通
+❌
+✅ ping 延迟 17ms
+
+
+
+常见原因
+　　某些软件（VPN、虚拟机、网络优化工具）可能会禁用 DHCP，导致此问题反复出现。如反复发生，检查近期安装的相关软件。 
+适用命令速查
+# 查看 WiFi 状态
+netsh wlan show interfaces
+
+# 查看所有接口 IP 配置
+netsh interface ip show config
+
+# 为指定接口启用 DHCP
+netsh interface ip set address &quot;接口名&quot; dhcp
+netsh interface ip set dns &quot;接口名&quot; dhcp
+
+# 释放/续租 IP
+ipconfig /release &quot;WLAN&quot;
+ipconfig /renew &quot;WLAN&quot;
+
+# 刷新 DNS 缓存
+ipconfig /flushdns
+
+# 测试连通性
+ping -n 4 223.5.5.5
+ping -n 4 www.baidu.com
+]]></description>
+      <guid>https://ld246.com/article/1788879181751</guid>
+      <pubDate>Tue, 08 Sep 2026 14:53:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>平板端合并超级块闪到最上面</title>
+      <link>https://ld246.com/article/1788877125339</link>
+      <description><![CDATA[我平板是荣耀 MagicPad 3 Pro， 13.3 最新版，从荣耀应用商店下载的最新版，选中两个块后，我想合并超级块，点击菜单的时候就会闪到文档最顶端，但是选择合并超级块后，还会弹回来，触发概率：偶发，有视频
+视频因为显示过大已上传到网盘，链接如下如果不方便查看我可以采用其他方式，谢谢：【超级会员 V1】通过百度网盘分享的文件：VID_2026…
+  链接:https://pan.baidu.com/s/1MuFq0leDy728jFZpyCRqcA 
+  提取码:5yav
+  复制这段内容打开「百度网盘 APP 即可获取」]]></description>
+      <guid>https://ld246.com/article/1788877125339</guid>
+      <pubDate>Tue, 08 Sep 2026 14:18:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>思源卡在同一界面了怎么办</title>
+      <link>https://ld246.com/article/1788875645079</link>
+      <description><![CDATA[
+显示成现在这样是因为当时正在用智能体做事情，然后左边卡住了，我没办法就强退了。然后重新打开，思源提示用安全模式打开，然后我打开之后左边还是转了几下就卡在同一个地方了，整个界面的所有按键都点不了。 ]]></description>
+      <guid>https://ld246.com/article/1788875645079</guid>
+      <pubDate>Tue, 08 Sep 2026 13:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>日记加密</title>
+      <link>https://ld246.com/article/1788871847533</link>
+      <description><![CDATA[咱就说软件支持笔记和日记，日记是比较隐私的东西，能不能给日记加一个加密的功能啊，总有些东西不想让其他人看的。或者支持单独给某个分类或笔记加密的功能]]></description>
+      <guid>https://ld246.com/article/1788871847533</guid>
+      <pubDate>Tue, 08 Sep 2026 12:50:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>内置 pdf 编辑器</title>
+      <link>https://ld246.com/article/1788867650649</link>
+      <description><![CDATA[经常用思源开 pdf 教案，想进行简单的注释，但是却需要额外打开 edge 进行编辑有些麻烦。不知道有没有大佬开发相关的插件。或者有什么推荐的方法解决]]></description>
+      <guid>https://ld246.com/article/1788867650649</guid>
+      <pubDate>Tue, 08 Sep 2026 11:40:49 GMT</pubDate>
+    </item>
     <item>
       <title>思源内置的智能体相关</title>
       <link>https://ld246.com/article/1788862733107</link>
@@ -58,136 +263,6 @@ PS：为什么不用 PWA？
       <description><![CDATA[]]></description>
       <guid>https://ld246.com/article/1788858658860</guid>
       <pubDate>Tue, 08 Sep 2026 09:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新 v3.8.0 后在多层级编辑中出现了异常</title>
-      <link>https://ld246.com/article/1788858422702</link>
-      <description><![CDATA[
-目前版本 v3.8.4，该问题在更新 v3.8.0 后出现
-已用插件：「写味」主题插件，除此之外没有其他
-
-1.如图，「二级 2」下有 3 个三级内容并收起，当删除「一级 2」及部分「二级 2」标题后，该二级下的 3 个三级内容数量会变 0，但是聚焦仍显示 3 个。 
-
-2.接上面问题 1，这时「Alt+ 左键」展开 b 时，该「二级 2」内容数量 0 会消失，且进行撤销功能时，右上角会提示找不到数据
-
-3.接上面问题 2，此时按 Enter 键无法切换下一行，只能重启软件才可以，但重启后，该二级下的三级内容消失，且无法找回（因为会提示找不到数据）
-
- 浏览器不支持该媒体的播放
-
-]]></description>
-      <guid>https://ld246.com/article/1788858422702</guid>
-      <pubDate>Tue, 08 Sep 2026 09:07:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源更新到 3.8.2 之后“加密文本”挂件打不开</title>
-      <link>https://ld246.com/article/1788847186967</link>
-      <description><![CDATA[原有的密钥输入框和解锁按钮都不见了，变成一片空白，有没有人遇到，该怎么办。 
-手机端升级到最新版本之后也打不开了。 。 。 
-用同样挂件的伙伴谨慎升级！ ！ ！ 
-更新之后的样子
-
-更新之前的样子
-]]></description>
-      <guid>https://ld246.com/article/1788847186967</guid>
-      <pubDate>Tue, 08 Sep 2026 05:59:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>番茄工具箱的聚焦文档树快捷键是不是没了？</title>
-      <link>https://ld246.com/article/1788841231187</link>
-      <description><![CDATA[记得以前番茄工具箱有个快捷键，可以一键实现：【打开文档树 + 折叠其他文档 + 定位打开文档】，现在这个快捷键是不是没了？有什么办法可以自己实现平替么（最好是同样用“快捷键”实现，而不是用“点击快捷按钮”实现）
-]]></description>
-      <guid>https://ld246.com/article/1788841231187</guid>
-      <pubDate>Tue, 08 Sep 2026 04:20:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源笔记后续是否会继续保留文档制卡功能</title>
-      <link>https://ld246.com/article/1788839932252</link>
-      <description><![CDATA[以往版本点击文档旁边按钮，会有「对文档制卡」的选项，但是新版本这里没有了，可是使用快捷键依旧能进行制卡
-]]></description>
-      <guid>https://ld246.com/article/1788839932252</guid>
-      <pubDate>Tue, 08 Sep 2026 03:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>能恢复 Ctrl+ 鼠标滚轮缩放编辑区的功能吗</title>
-      <link>https://ld246.com/article/1788839799932</link>
-      <description><![CDATA[旧版 ctrl+ 鼠标滚轮缩放编辑区字号，使用起来非常顺手、丝滑。感觉已经离不开这个便捷的设定。但从 3.8.2 起，该功能被移除了。能否在后续版本中恢复？ 强烈期待]]></description>
-      <guid>https://ld246.com/article/1788839799932</guid>
-      <pubDate>Tue, 08 Sep 2026 03:56:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据库关联选择项单元格内容过长时显示不全</title>
-      <link>https://ld246.com/article/1788838285000</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788838285000</guid>
-      <pubDate>Tue, 08 Sep 2026 03:31:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>喜讯！ 《块级横向滚动条》插件现已开源</title>
-      <link>https://ld246.com/article/1788835882318</link>
-      <description><![CDATA[各位思源笔记用户、开发者与社区关注者：
-我们很高兴地宣布，《块级横向滚动条》插件自即日起正式开源。该插件长期服务于思源笔记中代码块、表格、公式等块级元素的横向滚动体验，现以开放源代码方式回馈社区。 
-一、开源背景与动机
-在当前的开发环境下，AI 辅助编程能力快速提升，类似功能的插件往往可以在极短时间内被复现。继续维持闭源已难以构成技术护城河，闭源保护的实际意义已经明显减弱。与其在封闭状态下重复投入，不如将代码开放，借助社区力量共同完善。 
-二、为什么选择现在开源
-
-闭源护城河已经消失
-   现在借助 AI 编码工具，五分钟内复现一个功能相近的插件并非难事。继续闭源并不能阻止功能被模仿，反而会增加维护成本与沟通成本。 
-开源有利于获得更高性能
-   闭源发布通常需要对代码进行混淆处理，而混淆过程可能引入额外的运行时开销，也会增加调试与性能分析的难度。开源后不再需要混淆，代码可以保持更清晰的结构，有利于性能优化和问题定位。 
-思源笔记迭代快速，社区协同维护更可持续
-   思源笔记本身仍在日新月异地演进，插件需要不断适配内核变化。开源后，部分维护职责可以由社区分担，遇到兼容性问题时，其他开发者也可以直接提交修复或建议，避免插件因作者个人精力有限而滞后。 
-
-三、关于代码质量与同行评审
-由于部分社区成员长期性地，反复性地，有组织地对本人插件的价值（以及本人人品）和代码质量进行过不合理批评及诽谤，需要特别说明的是，即使在闭源阶段，本插件的代码也并非“黑盒”。闭源期间的代码已经交由 “Winsons” 和 “阿菜” 进行过同行评审。在此对两位的认真审阅与宝贵意见表示诚挚感谢。 
-四、关于盈利情况的说明
-我的所有插件自发布以来，作者从未通过插件获取过任何利润。它并非商业产品，也没有设置付费墙或任何形式的强制收费。截至发稿前，作者从插件收到的捐款总数小于等于 50 元人民币。 
-五、开源后的维护方式
-开源后，插件将继续在思源笔记插件集市中提供安装与更新。代码仓库将作为主要协作平台，欢迎社区开发者提交 Issue、Pull Request 或参与讨论。作者仍会在能力范围内继续维护，但不再是一个人单打独斗。 
-六、结语
-《块级横向滚动条》插件的开源，是对当前开发环境变化、思源笔记生态演进以及社区协作价值的一次回应。感谢所有使用过、反馈过、评审过该插件的用户与开发者。 
-开源地址：见思源笔记插件集市或 GitHub 仓库（链接）。 
-  特此公告。 
-《块级横向滚动条》插件作者
-  2026 年 9 月]]></description>
-      <guid>https://ld246.com/article/1788835882318</guid>
-      <pubDate>Tue, 08 Sep 2026 02:51:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新了 v3.8.3 之后发现导出 pdf 时无法自动选择上一次的文件夹</title>
-      <link>https://ld246.com/article/1788833716475</link>
-      <description><![CDATA[请问该如何设置]]></description>
-      <guid>https://ld246.com/article/1788833716475</guid>
-      <pubDate>Tue, 08 Sep 2026 02:15:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>思源笔记导出 word 失败</title>
-      <link>https://ld246.com/article/1788833203288</link>
-      <description><![CDATA[思源笔记导出 word 失败，反复安装最新版和其他版本都不能解决这个问题。 
-
-
-这个 pandoc 文件我也装了好几回，还是解决不了这个问题。 
-  请教如何解决这问题。 ]]></description>
-      <guid>https://ld246.com/article/1788833203288</guid>
-      <pubDate>Tue, 08 Sep 2026 02:06:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>右停靠栏图标来回闪烁</title>
-      <link>https://ld246.com/article/1788822037980</link>
-      <description><![CDATA[昨晚更新到 3.8.3，电脑就关机了
-早晨打开笔记，发现右侧停靠栏：订阅已过期、任务管理器、任务侧栏，三个功能键反复横跳，重启电脑和思源笔记都没解决。 
-
- 浏览器不支持该媒体的播放
-]]></description>
-      <guid>https://ld246.com/article/1788822037980</guid>
-      <pubDate>Mon, 07 Sep 2026 23:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能体回复中断</title>
-      <link>https://ld246.com/article/1788808227382</link>
-      <description><![CDATA[当前使用智能体时，经常会出现回答到一半就断掉的情况，也没有任何提示。 
-这很有可能是我使用的中转站服务不太稳定的原因，但这似乎意味着智能体没有自动的中断重连机制或者足够清晰的中断报错说明？ ]]></description>
-      <guid>https://ld246.com/article/1788808227382</guid>
-      <pubDate>Mon, 07 Sep 2026 19:10:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>德普王</title>
     <link>https://depp.wang/</link>
     <description>每个人都需要有自己的哈姆雷特</description>
-    <lastBuildDate>Mon, 31 Aug 2026 02:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:51:56 GMT</lastBuildDate>
+    <item>
+      <title>AI 写下的那把 Redis 锁</title>
+      <link>https://depp.wang/2026/ai-redis-lock/</link>
+      <description><![CDATA[
+配套代码：transaction-lock-demo。文中的代码位置都可以直接跳转到 GitHub 查看。 
+
+一个具体的技术问题最近看 AI 写的一段后台代码时，我遇到一个具体、也很容易被忽略的技术问题。 
+代码里有这样一行：
+HjEventDtos.CreateResult result = lockService.inTransaction(        idemKey, () -&gt; {            // 创建活动            // 创建行程            return result;        });
+方法名叫 inTransaction，第一眼看起来只是「把操作放进数据库事务」。但继续看它的实现，才发现它先获取了一把 Redis 分布式锁，然后才开启数据库事务：
+public &lt;T&gt; T inTransaction(String key, Supplier&lt;T&gt; action) {    RLock lock = redissonClient.getLock(&quot;activity:&quot; + key);    lock.lock();    try {        return transactionTemplate.execute(status -&gt; action.get());    } finally {        lock.unlock();    }}
+也就是说，它实际做的是：
+Redis 分布式锁└─ 数据库事务
+这把锁不一定有问题。原来的系统是一个后台管理系统，操作人数不多，同一活动很少被多人同时修改。用一把活动级锁，简单，也可能足够安全。 
+但我还是停了下来：
+
+这段代码是真的需要 Redis 锁，还是 AI 只是习惯性地加了一把『大锁』？ 
+]]></description>
+      <guid>https://depp.wang/2026/ai-redis-lock/</guid>
+      <pubDate>Tue, 08 Sep 2026 13:51:22 GMT</pubDate>
+    </item>
     <item>
       <title>读《万历十五年》：人物、制度与一个王朝的问题</title>
       <link>https://depp.wang/2026/1587-a-Year-of-No-Significance/</link>
@@ -44,7 +65,7 @@
       <description><![CDATA[
 01 为什么转主要是因为价格与动态 IPv4 公网 IP。 
 我原来用的是电信融合宽带，99 元一个月，300M 的宽带，但是只有 20G 流量。 
-之前给我装电信宽带的师傅后来跳到移动了，上上个月他问我合约期到了没有，要不要换移动宽带。我这边是不想换移动宽带的，因为移动宽带口碑太差了。我就查了我的合约期，了解到我这个宽带合约期确实要到期了。 
+之前给我装电信宽带的师傅后来跳到移动了，上个月他问我合约期到了没有，要不要换移动宽带。我这边是不想换移动宽带的，因为移动宽带口碑太差了。我就查了我的合约期，了解到我这个宽带合约期确实要到期了。 
 我就问电信合约到期之后能不能降费，电信这边并不给我降。 
 我就了解了一下其他宽带，联通这边 79 元一个月，是 1000 兆宽带，其实宽带速度我这边并不是太 care，因为正常来说，下载速度更多地取决于服务商的速度，而不是宽带的速度，基本上都跑不满。 
 除此之外，它还有 100G 全国不限速流量，而且可以开四张副卡（加 1 张副卡加 1 元的费用）。这样家里面的人也可以一起共用这个流量，可以给家里面省下一些流量费用。 
@@ -159,14 +180,6 @@ eSIM 漫游流量简单来说就是让外国人来中国用的漫游流量，可
 最近给家里的 Mac 加了个新显示器，对比了几款产品，也做了点功课。显示器这东西参数一大堆，但真正影响日常体验的其实就那么几个点。先说结论，如果预算充足，又是 Mac 用户，直接上 Studio Display 就行，省心。以下内容更适合像我这样对预算不足（1000 元左右预算），对显示器要求也不很高的人。我最终买的是红米 A27U 4K 节能版，下面说说我在挑显示器时主要考虑的几个方面，以及为什么我没买看起来更好的 Type-C 版。 ]]></description>
       <guid>https://depp.wang/2026/27-inch-display/</guid>
       <pubDate>Sat, 11 Apr 2026 14:12:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我写了个从 Obsidian 自动发布文章到微信公众号的工具</title>
-      <link>https://depp.wang/2026/obsidian-to-wechat/</link>
-      <description><![CDATA[
-我之前写过一篇如何使用 Obsidian 管理个人知识库，里面提到我的文章创建与编辑都在 Obsidian 中完成，然后通过脚本自动同步到 Hexo 博客。最近我又把这套流程扩展到了微信公众号——写完文章，打个标签，运行脚本，草稿就自动出现在公众号后台了，不用复制粘贴，不用手动排版。 ]]></description>
-      <guid>https://depp.wang/2026/obsidian-to-wechat/</guid>
-      <pubDate>Sun, 22 Mar 2026 15:30:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

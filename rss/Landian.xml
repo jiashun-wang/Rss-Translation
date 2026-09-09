@@ -4,7 +4,14 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Tue, 08 Sep 2026 10:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:08:21 GMT</lastBuildDate>
+    <item>
+      <title>深度求索测试DS V4.1 Flash模型的中间版本 原生多模态支持/速度更快/成本更低</title>
+      <link>https://www.landian.news/archives/126773.html</link>
+      <description><![CDATA[#人工智能 深度求索测试 DS V4.1 Flash 模型的中间版本，原生多模态支持、能力更强、速度更快、成本也更低。目前这个中间版本仅限内测用户调用，有内测用户分享的信息称，该模型速度非常夸张，最低也有 300tok/s，最高能到 600tok/s。这应该是单独部署的版本所以速度才能如此快，正式上线应该不至于如此夸张。查看全文：https://ourl.co/126773]]></description>
+      <guid>https://www.landian.news/archives/126773.html</guid>
+      <pubDate>Tue, 08 Sep 2026 10:56:39 GMT</pubDate>
+    </item>
     <item>
       <title>微软透露Windows 11针对8GB内存进行优化并提升启动速度 改进版发布时间未知</title>
       <link>https://www.landian.news/archives/126733.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[#软件资讯 Cloudflare Workers 放宽代码体积限制，免费和付费套餐均提高至 64MiB。以前免费套餐最多 3MB、付费套餐最多 10MB，超过限制将无法正常部署。新规则改成检查未压缩的 Bundle 体积，都是 64MiB，GZIP 压缩体积作为参考信息显示，不再决定能否部署。查看全文：https://ourl.co/126689]]></description>
       <guid>https://www.landian.news/archives/126689.html</guid>
       <pubDate>Mon, 07 Sep 2026 02:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌浏览器还有隐藏小技能：遇到HSTS网站无法加载时 键盘盲打thisisunsafe即可加载</title>
-      <link>https://www.landian.news/archives/126681.html</link>
-      <description><![CDATA[#软件资讯 谷歌浏览器还有个隐藏小技能：遇到 HSTS 网站无法加载时，通过键盘盲打 thisisunsafe 即可加载。部分网站已经设置 HSTS 严格传输安全，这时候如果证书过期、被吊销或使用自签名证书，Chrome 就会拦截访问且点击高级选项也没用。但如果通过键盘按 thisisunsafe 就可以加载，这个功能主要是面向开发者用于调试，普通用户遇到此类加载问题时应该关闭页面，因为网站服务器可能出现问题或真出现劫持的情况。查看全文：https://ourl.co/126681]]></description>
-      <guid>https://www.landian.news/archives/126681.html</guid>
-      <pubDate>Sun, 06 Sep 2026 04:48:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

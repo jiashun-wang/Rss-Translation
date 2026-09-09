@@ -4,7 +4,14 @@
     <title>阿里云公告</title>
     <link>https://www.aliyun.com/notice/list</link>
     <description>阿里云公告</description>
-    <lastBuildDate>Tue, 08 Sep 2026 09:51:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:51:24 GMT</lastBuildDate>
+    <item>
+      <title>《阿里云产品服务协议》—【认证服务】【睿译宝】【睿呼宝】专用说明变更公告</title>
+      <link>https://www.aliyun.com/notice/118638</link>
+      <description><![CDATA[影响时间北京时间 2026-09-09 00:00:00变更内容尊敬的阿里云用户：《阿里云产品服务协议》专用说明将做出如下更新，本次更新将于2026年9月16日生效。 第57章【阿里云认证服务】：删除57.1条款，原条款描述的规则已体现在产品页面，请以产品页面规则为准。 第83章【服务数字员工】：产品名称由“服务数字员工”变更为“睿呼宝”。 第91章【睿译宝】：新增91.3数据合规条款。 此次更新给你带来了产品服务协议条款和结构变更的影响，请您详细阅读。 感谢您对阿里云的支持和关注！如您有任何问题，可随时通过工单或者服务热线与我们联系。 ]]></description>
+      <guid>https://www.aliyun.com/notice/118638</guid>
+      <pubDate>Tue, 08 Sep 2026 10:27:24 GMT</pubDate>
+    </item>
     <item>
       <title>【产品变更】百炼控制台变更/升级通知</title>
       <link>https://www.aliyun.com/notice/118635</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[影响时间北京时间 2026-08-05 14:00:00变更内容实时计算 Flink 版中国站菲律宾（马尼拉）区域按量付费 CU 单价修正。 原价格：0.5859 元/CU/小时修正后价格：0.5849 元/CU/小时变更影响新购：自生效时间起，新购实例将按照新版定价计费规则执行。 存量：存量生效的订单，继续按原价格与权益执行。再次续费的订单将会按照修正后价格执行。 如您对存续合同有疑问，请通过商务经理或提交工单联系实时计算 Flink 版产品，感谢您对实时计算 Flink 版产品的支持。  ]]></description>
       <guid>https://www.aliyun.com/notice/118528</guid>
       <pubDate>Thu, 03 Sep 2026 04:04:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>【产品变更】日志服务 SLS SSL 证书根证书升级通知</title>
-      <link>https://www.aliyun.com/notice/118610</link>
-      <description><![CDATA[影响时间北京时间 2026-09-15 00:00:00升级背景根据 Mozilla 新的根证书信任策略，对于用于验证服务器身份的根证书，若该根证书签发时间超过 15 年，则 Mozilla 不再信任该根证书。受此影响，Mozilla Firefox、Google Chrome 等主流浏览器不再信任签发时间超过 15 年的根证书。因此，使用旧版 GlobalSign 根证书（R1/R3/R5/R6）的网站在 Mozilla Firefox、Google Chrome 等主流浏览器届时将会出现安全警告或无法正常访问的情况，直接影响用户体验和业务连续性。 升级内容出于更强安全性和兼容性考虑，自2026年09月15日起，SLS 新增、新签证书将会逐步使用新根&quot;GlobalSign Root R46&quot;来签发。 升级影响若还在使用&quot;GlobalSign Root R1&quot;证书，为了增强证书的兼容性，此次更新的证书会在2027年01月28日前保持对&quot;GlobalSign Root R1&quot;的兼容。对于使用&quot;GlobalSign Root R1&quot;证书的客户端，请务必在2027年1月28日之前升级本地根证书列表。 对于一些较老的客户端如果明确仅信任 GlobalSign Root R3（或特定的中间证书），且其&quot;信任库（Trust Store）&quot;中尚未包含 Root R46——那么一旦服务器开始下发新根签发的证书（2026年09月15日），这些环境可能会遇到 SSL 证书验证失败的问题。 应对建议如您使用的是较老版本的客户端或自定义信任库，请确认本地根证书列表是否已包含&quot;GlobalSign Root R46&quot;，如未包含请在2027年01月28日前完成升级。如有任何相关问题，可随时通过工单或者服务热线与我们联系。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118610</guid>
-      <pubDate>Thu, 03 Sep 2026 01:51:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

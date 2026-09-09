@@ -4,7 +4,66 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 10:31:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:08:04 GMT</lastBuildDate>
+    <item>
+      <title>【开发中自荐】ToolSide-浏览器侧边栏超级工具箱</title>
+      <link>https://meta.appinn.net/t/topic/91455</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/91455</guid>
+      <pubDate>Tue, 08 Sep 2026 10:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>阅影：让 Claude Code 这类 AI 编程助手「看」视频，本地离线，开源免费</title>
+      <link>https://meta.appinn.net/t/topic/91454</link>
+      <description><![CDATA[阅影
+让 Claude Code、Cursor 这类 AI 编程助手看懂视频的小工具
+应用平台
+
+Windows / macOS / Linux（Python 3.9+，命令行工具 + Claude Code 技能）
+
+推荐类型
+【开发者自荐】
+是否收费
+免费，开源（MIT）。全程本地运行，不需要任何 API Key。 
+一句简介
+一条命令把本地视频或 B站 / YouTube 链接变成带时间戳的文字稿 + 关键帧九宫格，AI 编程助手读完就能照着教程干活、整理笔记、回答问题。 
+应用简介
+用 Claude Code 写东西时经常遇到一个尴尬：想让它照着一个 B站 教程做，或者把一节课的视频整理成笔记，它读不了视频（只能读图片和文字）。所以做了「阅影」，把视频拆成它能读的东西：
+
+文字稿：优先抓平台自带字幕；没有就本地跑语音识别（faster-whisper），中、英、日、韩、法、德、俄等几十种语言自动检测，带时间戳，输出 txt 和 srt
+关键帧：在画面明显变化的地方抽帧，每张左下角烧上编号和时间，再拼成九宫格总览图，AI 一眼看完全片走向；需要看清某一刻的代码、PPT 再打开单帧大图
+一份 report.md：简介、章节、画面总览、关键帧清单、按段落的文字稿，AI 读这一个文件就能开始干活
+支持本地文件和 B站 / YouTube / 抖音 / 小红书 等链接（yt-dlp 能下的都行）
+有 NVIDIA 显卡自动用 GPU（一个 6 分钟的 B站 视频从下载到出报告约 90 秒），没有就退回 CPU，可以换小模型
+
+装好之后在 Claude Code 里直接说「帮我看看这个视频，把步骤整理成笔记」，它会自己调用，引用内容时还会带上时间点方便回看。 
+安装
+pip install yueying
+yueying --install-skill
+
+Windows 也可以下载仓库后双击 install.cmd，会自动创建独立环境并装好一切。 ffmpeg 自带，不用单独装。第一次做语音识别会下载模型（约 1.6 GB），之后全程离线。 
+已知问题
+
+语音识别会把专有名词、同音字听错（下面截图里「月读」就被听成了「阅读」），画面上有字的话 AI 会对照纠正
+B站 的 AI 字幕要登录后才抓得到，加 --cookies-from-browser chrome 即可；不登录就走本地语音识别
+
+截图预览
+一段 24 秒演示视频（月读的四张截图配中文旁白）跑出来的九宫格：
+
+对应的文字稿：
+[00:00] 这是阅读,一个安静的桌面小说阅读器。整本书连续滚动,按段落记住进度。第二个画面是桌面模式,窗口变透明,只留文字浮在桌面上。第三个画面是伪装皮肤,一键变成代码编辑器。最后是伪装成表格的样子。
+
+官方网站
+
+GitHub（开源，MIT）：GitHub - vsh5dvsch7-png/yueying: 阅影：让 Claude Code / Cursor 等 AI 编程助手看懂视频。本地语音识别多语言文字稿 + 场景关键帧九宫格，全程离线。 · GitHub
+PyPI：Client Challenge
+反馈 / 提需求：Issues · vsh5dvsch7-png/yueying · GitHub
+
+3 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91454</guid>
+      <pubDate>Tue, 08 Sep 2026 10:42:16 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】NoLit 科研文献阅读工具</title>
       <link>https://meta.appinn.net/t/topic/91445</link>
@@ -104,7 +163,7 @@ NoLit：把文献整理、阅读、翻译、批注和 AI 追问放在同一个�
 
 
 
-1 个帖子 - 1 位参与者
+3 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91445</guid>
       <pubDate>Tue, 08 Sep 2026 08:46:17 GMT</pubDate>
@@ -211,7 +270,7 @@ GitHub - BarryBarrywu/workstation-fit: 就位：输入身高，获得桌椅与�
 
 
 
-1 个帖子 - 1 位参与者
+4 个帖子 - 3 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91441</guid>
       <pubDate>Tue, 08 Sep 2026 08:33:43 GMT</pubDate>
@@ -282,7 +341,7 @@ Codex task status lights for the NuPhy Air65 V3 on macOS
 
 
 
-4 个帖子 - 3 位参与者
+5 个帖子 - 4 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91431</guid>
       <pubDate>Tue, 08 Sep 2026 04:31:42 GMT</pubDate>
@@ -375,7 +434,7 @@ yunMusicPlayer（网盘音乐播放器）
 
 
 
-1 个帖子 - 1 位参与者
+2 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91410</guid>
       <pubDate>Mon, 07 Sep 2026 15:12:41 GMT</pubDate>
@@ -778,99 +837,6 @@ Tablite: 又一款浏览器新标签页插件
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91350</guid>
       <pubDate>Mon, 07 Sep 2026 01:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】NoteLoom：在浏览器中直接编辑电脑上的 Markdown 文件</title>
-      <link>https://meta.appinn.net/t/topic/91347</link>
-      <description><![CDATA[软件名称
-NoteLoom
-应用平台
-Chrome / Edge / Arc 等 Chromium 桌面浏览器（Windows / macOS / Linux）
-推荐类型
-【开发者自荐】
-一句简介
-在浏览器中直接编辑电脑上的 Markdown 文件。 
-应用简介
-电脑里有一堆 Markdown 笔记，又不太想专门装一个编辑器？ 
-NoteLoom 是一个直接在浏览器里用的 Markdown 笔记工具。打开网页，选中电脑里的笔记文件夹，授权一次，整个文件夹就可以直接在网页里打开、编辑和浏览。 
-最重要的是，它读写的就是磁盘上的原始 .md 文件。改完保存，文件还是原来的文件，换回 Obsidian、Typora 或 VS Code 也可以继续用。 
-主要特点
-
-直接打开本地 Markdown 文件夹，编辑后保存回原文件
-源码、编辑、阅读三种视图随时切换
-全文搜索、标签、[[双链]]、反向链接、关系图
-可以直接打开现成的 Obsidian 仓库，支持 [[笔记]] 和 [[笔记#小节]]
-支持 Obsidian 的 13 种 Callout，包括折叠和自定义标题
-免安装、匿名使用，中文界面
-免费
-
-截图预览
-
-官方网站
-
-
-
-NoteLoom
-
-
-
-NoteLoom · 本地优先的 Markdown 编辑器，浏览器打开就用
-在浏览器里打开你本地的文件夹，直接编辑里面的 .md 文件，每次改动都写回磁盘。是真正的文件，任何编辑器都能打开。无需账号，零安装。 
-
-
-
-
-
-打开就能用：https://app.noteloom.cc
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91347</guid>
-      <pubDate>Sun, 06 Sep 2026 23:46:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开源自荐】XAOCEN ReWiFi 自动恢复 Wi‑Fi 网络。持续监测 Windows 当前连接，在网络异常时帮助恢复无线连接，让重要的网络任务保持顺畅进行。</title>
-      <link>https://meta.appinn.net/t/topic/91329</link>
-      <description><![CDATA[软件名称
-XAOCEN ReWiFi（WiFi自动重置）
-应用平台
-
-Windows
-
-推荐类型
-【开发者自荐】
-是否收费
-免费
-一句简介
-面向无线连接恢复的轻量工具，自动恢复 Wi‑Fi 网络，持续监测 Windows 当前连接，在网络异常时帮助恢复无线连接，让重要的网络任务保持顺畅进行。 
-应用简介
-ReWiFi 专注于无线连接恢复，
-（口水话，codex执行任务时候总是因为网络问题掉线终止任务，这个工具可以检测谷歌和百度的连通性然后自动重置无线网卡）
-
-每 2 秒检查 Windows 当前 Wi‑Fi 状态，保持后台安静运行。 
-发现网络异常后按规则重启 Wi‑Fi 网卡，并重新连接已保存的网络。 （首次使用需要选择WiFi名称）
-网络探测绕过系统代理，避免代理端口异常干扰 Wi‑Fi 状态判断。 
-
-安装与运行要求。 
-
-支持 Windows 10 / 11 及 x64 设备。 
-设备需具备管理员权限及可用的 Wi‑Fi 网卡。 
-系统中需已保存目标 Wi‑Fi 网络配置。 
-发布包采用 self-contained single-file 形式，无需额外安装 .NET 运行时。 
-限制：目标 Wi‑Fi 必须已经由当前 Windows 用户保存过 Profile。谷歌或百度可能受到代理规则、域名策略或服务故障影响，因此“一成功一失败”只记录为部分可达，不会据此重启 Wi‑Fi。 
-
-开发中功能：
-
-账号授权（这个是其他项目拿这个程序开发测试，本项目永久免费无需登录即可使用，已开源，ps：1.5版本不含任何登录以及遥测功能）
-项目地址:  siycaoxgh/xaocen-rewifi
-官方网站：XAOCEN ReWiFi · XAOCEN STUDIO
-
-截图预览：
-
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91329</guid>
-      <pubDate>Sun, 06 Sep 2026 05:01:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
