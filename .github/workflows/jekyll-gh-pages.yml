@@ -5,9 +5,10 @@ name: Deploy
 on:
 
   schedule:
-  - cron: '0 2 * * *'    # 北京时间每天 10:00（UTC 02:00）
-  - cron: '0 9 * * *'    # 北京时间每天 17:00（UTC 09:00)
-
+    # 每周一北京时间 10:00（UTC 周一 02:00）
+    - cron: '0 2 * * 1'
+    # 每周一北京时间 17:00（UTC 周一 09:00）
+    - cron: '0 9 * * 1'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 

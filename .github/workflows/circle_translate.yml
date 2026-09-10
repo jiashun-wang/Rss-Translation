@@ -4,9 +4,10 @@ name: circle_translate
 on:
 
   schedule:
-   - cron: '0 23 * * *'    # 北京时间每天 7:00（UTC 前一天 23:00）
-   - cron: '0 6 * * *'     # 北京时间每天 14:00（UTC 06:00）
-  # Allows you to run this workflow manually from the Actions tab
+    # 每周一北京时间 7:00（UTC 周日 23:00）
+    - cron: '0 23 * * 0'
+    # 每周一北京时间 14:00（UTC 周一 06:00）
+    - cron: '0 6 * * 1'
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
