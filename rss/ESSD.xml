@@ -4,7 +4,7 @@
     <title>ESSD - recent papers</title>
     <link>https://essd.copernicus.org/articles/</link>
     <description>Combined list of the recent articles of the journal Earth System Science Data and the recent discussion forum Earth System Science Data Discussions</description>
-    <lastBuildDate>Wed, 09 Sep 2026 10:28:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:47:14 GMT</lastBuildDate>
     <item>
       <title>用于及时检测短期质量变化（MC）的全球卫星重力数据产品</title>
       <link>https://doi.org/10.5194/essd-18-6589-2026</link>
@@ -13,7 +13,7 @@
                         地球系统。科学。数据，18, 6589–6611，https://doi.org/10.5194/essd-18-6589-2026, 2026
                         这项研究提出了一个新的全球数据集，通过使用 GRACE（重力恢复和气候实验）航天器记录的重力信号来量化地球的质量变化。该数据集捕获瞬时质量变化，并可以揭示标准月度数据产品无法提供的短期动态。这使得能够及时检测突发干旱和洪水等快速事件，并提供关键信息以支持改进对短期水和质量变化的监测。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6589-2026</guid>
-      <pubDate>Wed, 09 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Tue, 08 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>EGO：全球 0.05° 每小时 GPP 数据集，用于监测昼夜光合作用动态</title>
@@ -21,9 +21,9 @@
       <description><![CDATA[EGO：全球 0.05° 每小时 GPP 数据集，用于监测昼夜光合作用动态
                     刘曦、李星、郝大雷、肖景峰、周亚楠、赵岑良、刁子康、曲富强、林尚荣、刘向卓、张兆英、刘新杰、张鹤林
                         地球系统。科学。数据，18, 6613–6636，https://doi.org/10.5194/essd-18-6613-2026, 2026
-                        植被光合作用（量化为总初级生产力（GPP））在一天中快速变化。我们通过将塔观测与先进的人工智能相结合，开发了一个名为 EGO（基于涡流协方差站点的 Global hOurly）的全球每小时 GPP 数据集，该数据集解释了因果效应，优于现有的每小时 GPP 产品，并很好地捕获了昼夜光合作用动态。它将为研究日常生态系统过程和基准地球系统模型提供可靠的基础。]]></description>
+                        植被光合作用（量化为总初级生产力（GPP））全天快速变化。我们通过将塔观测与先进的人工智能相结合，开发了一个名为 EGO（基于涡流协方差站点的 Global hOurly）的全球每小时 GPP 数据集，该数据集解释了因果效应，优于现有的每小时 GPP 产品，并很好地捕获了昼夜光合作用动态。它将为研究日常生态系统过程和基准地球系统模型提供可靠的基础。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6613-2026</guid>
-      <pubDate>Wed, 09 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Tue, 08 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>基于卫星的全球甲烷通量反演：GOSAT-2 测量的能力和影响</title>
@@ -33,7 +33,7 @@
                         地球系统。科学。数据，18, 6565–6588，https://doi.org/10.5194/essd-18-6565-2026, 2026
                         本研究评估了 GOSAT-2 卫星观测大气甲烷和估算全球排放量的能力。通过全球分析，我们表明 GOSAT-2 提供比早期任务更广泛的覆盖范围，并产生与独立参考一致的排放估算。结果表明，卫星数据提供了有关甲烷来源的有用信息，特别是在地面测量很少的地区。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6565-2026</guid>
-      <pubDate>Wed, 09 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Tue, 08 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>用于影响建模的全球每小时 ISIMIP3 气候强迫数据集</title>
@@ -43,7 +43,7 @@
                         地球系统。科学。数据，18, 6637–6648，https://doi.org/10.5194/essd-18-6637-2026, 2026
                         许多气候影响取决于一天内发生的情况：热应激在下午达到峰值，太阳能或风能每小时都在上升和下降。然而，全球气候预测通常仅以每日平均值的形式发布。我们将它们转换为全球陆地面积的每小时数据，涵盖 1850 年至 2100 年以及几种未来情景。该数据集免费提供，让研究人员能够更加真实地估计对健康、水和能源的影响。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6637-2026</guid>
-      <pubDate>Wed, 09 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Tue, 08 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>ABRACOS 数据集：热带大西洋西部多学科海洋生态系统基线（2015-2017 年）</title>
@@ -54,7 +54,18 @@
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         了解海洋生态系统需要观察环境、生物体和相互作用。我们于 2015 年和 2017 年在巴西东北部海域进行了考察，测量海洋状况、利用声学绘制分布图，并采集浮游生物和深海鱼类样本。我们鉴定了 172,000 个样本，使用化学示踪剂分析了食物网，并测量了污染物。该数据集将海洋物理学与不同深度的生物多样性联系起来，提供热带海洋生态系统的综合视图。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-512</guid>
-      <pubDate>Wed, 09 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Tue, 08 Sep 2026 22:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>整合地质、地球物理和岩石物理约束的南亚平宁山脉（意大利）3D 地壳模型</title>
+      <link>https://doi.org/10.5194/essd-2026-513</link>
+      <description><![CDATA[整合地质、地球物理和岩石物理约束的南亚平宁山脉（意大利）3D 地壳模型
+                    Maddalena Perrini、Grazia De Landro、Gianluca Gola、Filippo Accomando、Maurizio Fedi、Vanja Kastelic、Pietro Tizzani、Deborah Di Naccio、Michele Matteo Cosimo Carafa、Giuseppe Falcone、Matteo Taroni、Aldo Zollo 和 Raffaele Castaldo
+                        地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-513,2026
+ESSD 预印本正在审核中（讨论：开放，0 条评论）
+                        我们展示了意大利南亚平宁山脉下方地壳的免费三维模型，该模型是通过结合地质图、地球物理观测、实验室测量和钻孔数据创建的。该数据集有完整记录并可公开访问，使研究人员能够重现该模型并将其重新用于地震、自然资源、地热能和该地区地质演化的研究。]]></description>
+      <guid>https://doi.org/10.5194/essd-2026-513</guid>
+      <pubDate>Tue, 08 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>用于天气研究和预报模型中城市模拟的高分辨率、广覆盖城市冠层参数</title>
@@ -62,10 +73,10 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
       <description><![CDATA[用于天气研究和预报模型中的城市模拟的高分辨率广覆盖城市冠层参数
                     Melissa R. Allen-Dumas、Pouya Vahmani、Bhartendu Pandey、Chris Vernon、Levi T. Sweet-Breu 和 Em Rexer
                         地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-710,2026
-ESSD 预印本正在审核中（讨论：即将发布，0 条评论）
+ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         这里提供的四个数据集是第一个从城市到多县范围的数据集，包含 132 个 100 米分辨率的城市参数，用于天气研究和预报 (WRF) 模型。每个数据集的范围跨越城市到多个县。它们是使用我们的城市弹性未来邻里自适应组织 (NATURF) 工具生成的，该工具允许用户指定给定研究问题所需参数的输出分辨率。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-710</guid>
-      <pubDate>Wed, 09 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Tue, 08 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>利用卫星数据构建海上石油和天然气开采平台数据集（2017-2023）</title>
@@ -75,7 +86,7 @@ ESSD 预印本正在审核中（讨论：即将发布，0 条评论）
                         地球系统。科学。数据，18, 6545–6564，https://doi.org/10.5194/essd-18-6545-2026, 2026
                         我们构建了海上石油和天然气平台的数据集，以提高对海上人类活动及其环境影响的了解。利用 Sentinel-1 和 Sentinel-2 任务的卫星图像，我们在 2017 年至 2023 年间识别了六个主要近海盆地的 5000 多个平台，并记录了它们的位置和状态。该开放数据集扩展了现有记录并支持环境监测、海上基础设施管理和缓解策略规划。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6545-2026</guid>
-      <pubDate>Tue, 08 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>瑞士湖泊的长期温度、氧气和水清澈度趋势</title>
@@ -85,7 +96,7 @@ ESSD 预印本正在审核中（讨论：即将发布，0 条评论）
                         地球系统。科学。数据，18, 6527–6544，https://doi.org/10.5194/essd-18-6527-2026, 2026
                         我们提供了一个公开的数据集，其中包含 21 个瑞士湖泊的物理湖泊监测数据，包括温跃层深度等计算变量。这些数据是由各州当局和研究机构数十年来测量得出的。我们用这些数据比较了瑞士湖泊的演变，发现温度、热含量和分层强度都大幅增加。相比之下，深水氧和温跃层深度在过去几十年中没有显示出明显的趋势。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6527-2026</guid>
-      <pubDate>Tue, 08 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>来自多源无源微波辐射计数据的北极海冰长期冬季积雪深度数据集（1978-2025）</title>
@@ -96,7 +107,7 @@ ESSD 预印本正在审核中（讨论：即将发布，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         本研究介绍了中山大学雪深数据集（1978-2025），这是覆盖第一年冰和多年冰的最长泛北极海冰雪深记录。它源自无源微波传感器，使用结合了 GRV(37/19)、雪密度和时间因子的新算法，并根据独立观测进行了验证。准确度很高，均方根 (RMSE) 值范围为 ~3 至 17 厘米，为气候和海冰建模提供了重要支持。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-626</guid>
-      <pubDate>Tue, 08 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>由人工智能驱动的全球表面温度重建，重点是完善南极记录</title>
@@ -106,7 +117,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6503–6526，https://doi.org/10.5194/essd-18-6503-2026, 2026
                         我们利用人工智能重建了自 1850 年以来的完整全球温度记录，包括通过填补历史数据的空白和增进对长期气候变化的了解，更好地覆盖自 1961 年以来观测不足的南极地区。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6503-2026</guid>
-      <pubDate>Mon, 07 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Sun, 06 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>C-PEAT 的全球泥炭地碳数据库（v.2025）</title>
@@ -116,7 +127,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         地球系统。科学。数据，18, 6485–6502，https://doi.org/10.5194/essd-18-6485-2026, 2026
                         在过去的几十年里，世界各地进行了大量的实地工作来描述泥炭地生态系统的碳汇能力。在这里，我们提供了一个综合产品，其中包括来自 267 个泥炭地岩心的地层和年代数据。这些数据集中的每一个都可以通过 PANGAEA 单独下载和公开使用。我们还提供脚本（R 和 Python）来下载部分数据库。]]></description>
       <guid>https://doi.org/10.5194/essd-18-6485-2026</guid>
-      <pubDate>Mon, 07 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Sun, 06 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>2001-2025年青藏高原1 km²以上湖泊月度30 m数据集</title>
@@ -127,7 +138,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         这项研究改进了青藏高原大于 1 km² 湖泊的每月 30 m 湖泊测绘，并解决了现有产品的局限性。验证显示空间和湖泊面积高度一致，支持其对水文和气候研究的价值。 2001年至2025年，湖泊数量和面积有所增加，小湖泊推动数量增长，较大湖泊主导面积扩张，夏末出现季节性高峰。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-396</guid>
-      <pubDate>Mon, 07 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Sun, 06 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>用于稳健面积估计和地图验证的欧洲森林干扰数据库</title>
@@ -138,7 +149,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         我们提供了一个关于森林扰动的欧洲数据库，该数据库是根据卫星数据的手动解释估算得出的。该数据库涵盖 1985 年至 2023 年期间的 35,000 个地点，产生 1,365,000 个地点-年份组合。我们通过估计干扰率和趋势以及将估计值与遥感产品进行比较来举例说明我们数据库的使用。我们的数据库将有助于更好地了解欧洲的森林变化，并减少基于遥感的评估的不确定性。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-422</guid>
-      <pubDate>Mon, 07 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Sun, 06 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     <item>
       <title>NASA 浮游生物、气溶胶、云、海洋生态系统任务发射后机载实验 (PACE-PAX)</title>
@@ -149,18 +160,7 @@ ESSD 预印本正在审核中（讨论：开放，0 条评论）
 ESSD 预印本正在审核中（讨论：开放，0 条评论）
                         我们提供了为验证 NASA 浮游生物、气溶胶、云、海洋生态系统 (PACE) 和 JAXA/ESA 地球、云、气溶胶和辐射探测器 (EarthCARE) 任务生成的大气、海洋和陆地数据产品而收集的数据。我们的现场活动称为 PACE 发射后机载实验 (PACE-PAX)，于 2024 年 9 月使用两架仪表飞机、几艘海洋研究船等进行。数据是免费的并向公众开放。]]></description>
       <guid>https://doi.org/10.5194/essd-2026-541</guid>
-      <pubDate>Mon, 07 Sep 2026 10:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>稳定同位素示踪剂人工智能 (AISIT)：泛北极 δ18O 和辅助数据数据库</title>
-      <link>https://doi.org/10.5194/essd-2026-624</link>
-      <description><![CDATA[稳定同位素示踪剂人工智能 (AISIT)：泛北极 δ18O 和辅助数据数据库
-                    查尔斯·索普-摩根、艾米丽·罗兰兹、佩特拉·十·霍彭、瑞秋·桑德斯、迈克尔·P·梅雷迪思、凯瑟琳·R·亨德利、叶夫根尼·阿克谢诺夫、本·埃文斯、海伦·J·皮特、布莱恩·M·斯皮尔斯、阿德里安·P·马丁和杰兰特·A·塔林
-                        地球系统。科学。数据讨论，https://doi.org/10.5194/essd-2026-624,2026
-ESSD 预印本正在审核中（讨论：开放，0 条评论）
-                        稳定同位素示踪剂人工智能 (AISIT) 项目将不同的泛北极 δ18O 和辅助数据统一到一个人工智能数据库中，在统一的质量控制下进行协调，并遵循可查找、可访问、可互操作和可重复使用的原则。它从存储库、巡航、活动和私人通信中提取数据，拥有 1967 年至 2025 年 99 个数据集的 45,714 个 δ18O 和 5531 个钡测量值，为海洋学家和建模者提供了丰富、统一的资源。]]></description>
-      <guid>https://doi.org/10.5194/essd-2026-624</guid>
-      <pubDate>Mon, 07 Sep 2026 10:23:08 GMT</pubDate>
+      <pubDate>Sun, 06 Sep 2026 22:12:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

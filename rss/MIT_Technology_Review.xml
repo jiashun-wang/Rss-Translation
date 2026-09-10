@@ -4,7 +4,14 @@
     <title>MIT Technology Review</title>
     <link>https://www.technologyreview.com</link>
     <description></description>
-    <lastBuildDate>Wed, 09 Sep 2026 10:33:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:09:11 GMT</lastBuildDate>
+    <item>
+      <title>下载：OpenAI 的数学转折点和电池记录</title>
+      <link>https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/</link>
+      <description><![CDATA[这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 的最新争议告诉我们数学的未来 OpenAI 表示，其代理已经解决了数学中最重要的开放问题之一。在正常情况下，这将是……]]></description>
+      <guid>https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/</guid>
+      <pubDate>Wed, 09 Sep 2026 12:10:00 GMT</pubDate>
+    </item>
     <item>
       <title>电池刚刚在美国打破了另一项记录</title>
       <link>https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。地下还有多少氢气在等着我们？一系列勘探工作正在寻找氢气的地下储存库，这可以提供宝贵的零碳燃料来源。狩猎已经结束了。]]></description>
       <guid>https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/</guid>
       <pubDate>Mon, 07 Sep 2026 12:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建人工智能时代的内存和存储</title>
-      <link>https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/</link>
-      <description><![CDATA[AI推理时代已经到来。想象一下，一个医疗保健系统可以实时分析数百万个数据点，以加速挽救生命的医学研究，或者一个智能助理可以立即解决数千个复杂的客户需求。这些现实世界的突破依赖于先进的基础设施作为持续智能的引擎，为实时服务提供支持，同时……]]></description>
-      <guid>https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/</guid>
-      <pubDate>Fri, 04 Sep 2026 18:39:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

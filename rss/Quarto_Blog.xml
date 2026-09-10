@@ -4,7 +4,21 @@
     <title>Blog on Posit Open Source</title>
     <link>https://opensource.posit.co/blog/</link>
     <description>Recent content in Blog on Posit Open Source</description>
-    <lastBuildDate>Fri, 04 Sep 2026 23:49:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:13:51 GMT</lastBuildDate>
+    <item>
+      <title>轨道0.7.0</title>
+      <link>https://opensource.posit.co/blog/2026-09-09_orbital-0-7-0/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-09-09_orbital-0-7-0/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Positron 九月发布亮点</title>
+      <link>https://opensource.posit.co/blog/2026-09-09_positron-2026-09-release/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://opensource.posit.co/blog/2026-09-09_positron-2026-09-release/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AI 时事通讯：你可能不想进行微调</title>
       <link>https://opensource.posit.co/blog/2026-09-04_ai-newsletter/</link>
@@ -60,7 +74,7 @@ Python Polars：权威备忘单现已发布，并且免费。下载、打印、�
 层压 PDF 是一个很好的桌面参考，但它对于屏幕阅读器来说没有多大用处，而且您无法从中复制任何内容。因此备忘单也以 HTML 形式提供，带有标题、表格和可选代码。它与屏幕阅读器配合使用，文本在手机上重排，您可以将代码片段直接复制到编辑器中，而无需重新输入。
 与 Polars, Inc. 共同制作。
 
-备忘单实际上是一系列关于什么是最重要的争论。每条线都取代了其他东西。 Polars, Inc. 的参与意味着构建该库的人对两页参考应该涵盖的内容有发言权，而备忘单对此要好得多。
+备忘单实际上是一系列关于什么是最重要的争论。每条线都会取代其他东西。 Polars, Inc. 的参与意味着构建该库的人对两页参考应该涵盖的内容有发言权，而备忘单对此要好得多。
 Posit 和 Polars, Inc. 是不同的公司，但我们的工具有重叠。 Great Tables 和 Plotnine 是 Posit 项目，两者都直接与 Polars DataFrames 配合使用。这就是它们出现在表格上的原因，也是这次合作有意义的部分原因。
 我们希望您觉得它有用。如果您认为我们浪费了某种方法，或者我们应该包含某种方法，我们很想听听。
 获取备忘单]]></description>
@@ -115,20 +129,6 @@ Posit 和 Polars, Inc. 是不同的公司，但我们的工具有重叠。 Great
       <description><![CDATA[]]></description>
       <guid>https://opensource.posit.co/blog/2026-08-04_roxygen2-8-1-0/</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>闪亮更新：R 1.14、Python 1.7、bslib 0.12</title>
-      <link>https://opensource.posit.co/blog/2026-08-04_shiny-r-1-14-python-1-7/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://opensource.posit.co/blog/2026-08-04_shiny-r-1-14-python-1-7/</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>四开1.10</title>
-      <link>https://opensource.posit.co/blog/2026-08-03_quarto-1-10/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://opensource.posit.co/blog/2026-08-03_quarto-1-10/</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

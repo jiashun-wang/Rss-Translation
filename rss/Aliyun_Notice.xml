@@ -4,7 +4,14 @@
     <title>阿里云公告</title>
     <link>https://www.aliyun.com/notice/list</link>
     <description>阿里云公告</description>
-    <lastBuildDate>Wed, 09 Sep 2026 09:51:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:05:36 GMT</lastBuildDate>
+    <item>
+      <title>【网络优化】2026年9月16日变更通告</title>
+      <link>https://www.aliyun.com/notice/118644</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.aliyun.com/notice/118644</guid>
+      <pubDate>Thu, 10 Sep 2026 01:05:37 GMT</pubDate>
+    </item>
     <item>
       <title>【产品变更】QoderWork CN下线通知</title>
       <link>https://www.aliyun.com/notice/118632</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[影响时间2026-09-15 下线变更内容和影响 感谢您对阿里云的支持，为优化产品体验，阿里云百炼MCP广场灵汐快速图片识别 MCP 服务将于[2026年9月15日]正式下架。同时，我们建议您使用视觉理解模型或寻找其他相关能力，避免受到影响。  下线时间到达后，您将无法在控制台继续使用 灵汐快速图片识别 MCP服务，相关支持服务也将一同下线。 应对建议 如您有线上业务依赖该功能，建议您尽快使用视觉理解模型或寻找其他相关能力如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
       <guid>https://www.aliyun.com/notice/118626</guid>
       <pubDate>Fri, 04 Sep 2026 03:21:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>【产品变更】智能体构建和治理平台 AgentCore 开启收费通知</title>
-      <link>https://www.aliyun.com/notice/118625</link>
-      <description><![CDATA[影响时间2026-09-18, 开启收费变更内容和影响存量 AgentCore 用户收费前已使用 AgentCore 的用户需在变更生效后为账号完成服务开通。如有疑问，请联系您的销售及客户服务经理。 重要：未完成服务开通的存量用户，后续将无法继续使用 AgentCore 功能。调整过程不影响存量用户已有设置和数据。 存量 AgentTeams 用户为统一多智能体协作能力，AgentTeams 已升级为 AgentCore。存量 AgentTeams 实例请尽快完成迁移：迁移窗口期间 AgentTeams 存量实例可正常使用，不产生 AgentCore 计费。 请在 2026年9月20日 前通过官方迁移文档与迁移 Skill 自助迁移到 AgentCore（仅迁移配置数据，历史执行记录不迁移，请自行留存）。 迁移窗口截止后，未迁移的 AgentTeams 实例将被自动销毁，相关配置与数据不可恢复，请务必提前完成迁移。 新开通用户当您首次使用 AgentCore 时，系统将自动校验服务开通状态；若未开通，可按提示完成开通后即可使用。 应对建议如您不希望为AgentCore付费，请在收费开始日期前手动删除已开通的协作管控面或包含运行中Agent的workspace。 如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118625</guid>
-      <pubDate>Fri, 04 Sep 2026 01:57:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

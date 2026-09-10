@@ -4,7 +4,28 @@
     <title>Journal of Open Source Software</title>
     <link>https://joss.theoj.org</link>
     <description></description>
-    <lastBuildDate>Wed, 09 Sep 2026 10:27:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:45:10 GMT</lastBuildDate>
+    <item>
+      <title>GeoWombat：Python 中的可扩展地理空间和遥感分析</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10812</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10812</guid>
+      <pubDate>Wed, 09 Sep 2026 23:10:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESMBenchmarkViz：用于地球系统模型评估和基准测试的交互式可视化的 Python 工具包</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10644</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10644</guid>
+      <pubDate>Wed, 09 Sep 2026 22:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>pycopm：定制 OPM Flow 地质模型的开源工具</title>
+      <link>https://joss.theoj.org/papers/10.21105/joss.10124</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joss.theoj.org/papers/10.21105/joss.10124</guid>
+      <pubDate>Wed, 09 Sep 2026 20:40:43 GMT</pubDate>
+    </item>
     <item>
       <title>PolyComp：聚合物的开源场论</title>
       <link>https://joss.theoj.org/papers/10.21105/joss.10914</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joss.theoj.org/papers/10.21105/joss.10321</guid>
       <pubDate>Sun, 30 Aug 2026 01:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Molass 库：用于 SEC-SAXS 数据分析的 Python 包</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10403</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10403</guid>
-      <pubDate>Sun, 30 Aug 2026 01:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>fwb：用于分数加权引导程序的 R 包</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.08880</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.08880</guid>
-      <pubDate>Fri, 28 Aug 2026 16:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>EBRAINS 上的虚拟大脑推理 (VBI) 工具包</title>
-      <link>https://joss.theoj.org/papers/10.21105/joss.10612</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joss.theoj.org/papers/10.21105/joss.10612</guid>
-      <pubDate>Thu, 27 Aug 2026 21:07:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

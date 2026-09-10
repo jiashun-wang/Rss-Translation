@@ -4,7 +4,14 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Wed, 09 Sep 2026 10:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:13:01 GMT</lastBuildDate>
+    <item>
+      <title>[价格公布] DS V4 Pro将被自动路由到V4.1 Flash模型 性能/费用/速度均超过V4 Pro</title>
+      <link>https://www.landian.news/archives/126783.html</link>
+      <description><![CDATA[#人工智能 DS V4 Pro 将被自动路由到 DS V4.1 Flash 模型，性能 / 费用 / 速度均超过 V4 Pro。价格更便宜、性能提升：深度求索在 DS V4.1 Flash 正式发布后，将 API 平台调用的 DS V4 Pro 自动路由到 DS V4.1 Flash。当 DS 4.1 Pro 发布后，继续调用 DS V4 Pro 的用户将被路由到 DS V4.1 Pro，而不是继续路由到 DS V4.1 Flash。查看全文：https://ourl.co/126783]]></description>
+      <guid>https://www.landian.news/archives/126783.html</guid>
+      <pubDate>Wed, 09 Sep 2026 13:43:55 GMT</pubDate>
+    </item>
     <item>
       <title>[已完成修复] 微信爆出高危漏洞 只需要发起通话(无需接听)即可控制对方账号</title>
       <link>https://www.landian.news/archives/126782.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[#域名资讯 ICANN 批准威瑞信彻底终止并删除.NAME 三级域名，现有的.NAME 三级域名预计将在 2027 年 2 月被删除。如果你使用.NAME 三级域名则需要尽快迁移，此次调整并非停止新注册，而是所有现有域名都会被删除。 .NAME 三级域名指的是 lan.dian.name 这样的域名，本身.NAME 也已经支持 landian.name 这种顶级域名。查看全文：https://ourl.co/126698]]></description>
       <guid>https://www.landian.news/archives/126698.html</guid>
       <pubDate>Tue, 08 Sep 2026 05:20:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌收紧安卓17开发者模式信息访问 读取USB调试和开发者选项始终返回0</title>
-      <link>https://www.landian.news/archives/126697.html</link>
-      <description><![CDATA[#系统资讯 谷歌已经在 Android 17 中禁止普通应用读取开发者选项和 USB 调试状态，现在尝试读取将始终返回 0 (代表关闭)。此前有些应用会通过 API 读取状态作为设备环境检测条件，例如银行类应用检测到用户开启 USB 调试后会禁止登录。谷歌认为普通应用读取此类信息完全没必要，所以始终返回 0 阻止这些应用读取实际状态。查看全文：https://ourl.co/126697]]></description>
-      <guid>https://www.landian.news/archives/126697.html</guid>
-      <pubDate>Tue, 08 Sep 2026 05:02:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

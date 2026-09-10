@@ -4,7 +4,7 @@
     <title>GMD - recent papers</title>
     <link>https://gmd.copernicus.org/articles/</link>
     <description>Combined list of the recent articles of the journal Geoscientific Model Development and the recent discussion forum Geoscientific Model Development Discussions</description>
-    <lastBuildDate>Wed, 09 Sep 2026 10:29:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:53:58 GMT</lastBuildDate>
     <item>
       <title>一种新颖的高斯-埃尔米特高阶采样混合集成滤波器，用于地球科学中计算高效的数据同化 - 第 1 部分：在 PythonDA v1.2.2 中应用于 Lorenz-96</title>
       <link>https://doi.org/10.5194/gmd-19-8321-2026</link>
@@ -13,7 +13,27 @@
                         地理学。模型开发，19，8321–8347，https://doi.org/10.5194/gmd-19-8321-2026，2026
                         在地球科学中，数据同化 (DA) 结合了动力学建模和观测，以减少模拟的不确定性。集成 DA 方法可以动态、有效地估计不确定性。就当前技术而言，新颖的高斯-厄米特高阶采样混合滤波器 (GHOSH) 集成 DA 方案旨在通过达到更高的近似阶数来提高精度，而不增加计算成本，如理想化 Lorenz96 测试所示。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8321-2026</guid>
-      <pubDate>Wed, 09 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Wed, 09 Sep 2026 21:57:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用 JEDI 计算大气成分：评估观测和模型预测的统一框架</title>
+      <link>https://doi.org/10.5194/gmd-19-8367-2026</link>
+      <description><![CDATA[利用 JEDI 计算大气成分：评估观测和模型预测的统一框架
+                    Shih-Wei Wei、Jérôme Barré、Soyoung Ha、Maryam Abdi-Oskouei、Benjamin Ménétrier、Cheng Dang 和 Cheng-Hsuan Lu
+                        地理学。模型开发，19，8367–8384，https://doi.org/10.5194/gmd-19-8367-2026，2026
+                        本文提出了一种使用统一数据同化框架来评估大气成分模型的灵活工作流程。它可以将观测结果与不同模型的痕量气体和气溶胶的预测进行比较。该系统具有一致性和适应性，减少重复性工作，支持模型验证和观测评估，并使评估与研究和实际应用的操作数据同化保持一致。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-8367-2026</guid>
+      <pubDate>Wed, 09 Sep 2026 21:57:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用多普勒激光雷达观测对 ICON 模型 (icon-2026.04) 进行风和湍流评估</title>
+      <link>https://doi.org/10.5194/gmd-19-8385-2026</link>
+      <description><![CDATA[使用多普勒激光雷达观测对 ICON 模型 (icon-2026.04) 的风和湍流进行评估
+                    迈克·阿尔格林和艾琳·帕施克
+                        地理学。模型开发，19，8385–8406，https://doi.org/10.5194/gmd-19-8385-2026，2026
+                        这项研究使用一种新型的风和湍流观测来调查德国天气预报模型在大气层最低 600 米处预测这些变量的准确性。该模型在白天表现良好，但在夜间却难以应对风和湍流。这对于风能规划和了解风如何输送空气中的颗粒非常重要。该研究提出了进一步改进该模型的方法。]]></description>
+      <guid>https://doi.org/10.5194/gmd-19-8385-2026</guid>
+      <pubDate>Wed, 09 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
       <title>SeapoPym v0.1：使用灵活的优化框架在 Python 中实现 SEAPODYM 低营养级和中营养级</title>
@@ -23,17 +43,17 @@
                         地理学。模型开发，19，8349–8366，https://doi.org/10.5194/gmd-19-8349-2026，2026
                         海洋浮游动物将能量从微小藻类转移到鱼类和大型捕食者。了解它们的分布有助于预测海洋如何应对气候变化。我们开发了 SeapoPym，这是一个免费提供的模型，可利用海洋温度和植物生产力来模拟浮游动物。该工具可以让科学家测试生物学假设并根据观察估计参数。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8349-2026</guid>
-      <pubDate>Wed, 09 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Wed, 09 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
-      <title>Elmer 的半拉格朗日平流方案 (v26.1)：针对不连续伽辽金的基准测试及其在冰害传输中的应用</title>
+      <title>Elmer 的半拉格朗日平流方案 (v26.1)：针对不连续伽辽金的基准测试及其在冰损传输中的应用</title>
       <link>https://doi.org/10.5194/gmd-19-8269-2026</link>
       <description><![CDATA[埃尔默的半拉格朗日平流方案（v26.1）：针对不连续伽辽金的基准及其在冰害运输中的应用
                     Cyrille Mosbeux、Peter Råback、Adrien Gilbert、Julien Brondex、Fabien Gillet-Chaulet、Nicolas C. Jourdain、Mondher Chekki、Olivier Gagliardini 和 Gaël Durand
                         地理学。模型开发，19，8269–8288，https://doi.org/10.5194/gmd-19-8269-2026，2026
                         冰流携带的岩石等传输过程和损伤演化（裂缝的代表）是冰盖建模的关键，并且应该在不扩散的情况下发生。然而，标准数值方法常常模糊这些特征。我们探索了基于粒子的半拉格朗日方法，将其与不连续伽辽金方法进行比较，并表明它可以在足够高的分辨率下运行时准确地模拟这种传输。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8269-2026</guid>
-      <pubDate>Tue, 08 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Tue, 08 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
       <title>QUINCY 地表模型中草地叶片周转的一般生理驱动表示（修订版：974a6b7f）</title>
@@ -43,7 +63,7 @@
                         地理学。模型开发，19, 8289–8319, https://doi.org/10.5194/gmd-19-8289-2026, 2026
                         本研究在 QUINCY（陆地养分循环与气候系统之间的相互作用的量化）地表模型中提出了一种新的全球草地叶子周转模型。地表模型通常很难准确模拟草原碳动力学和物候学。通过允许环境条件直接控制叶子衰老，我们改善了其时间以及各种气候和草原生态系统的全季节碳动态的准确性。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8289-2026</guid>
-      <pubDate>Tue, 08 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Tue, 08 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
       <title>开发和测试 JEDI 内雷达数据的集合变分数据同化能力以及 FV3-LAM 模型</title>
@@ -53,7 +73,7 @@
                         地理学。模型开发，19，8213–8232，https://doi.org/10.5194/gmd-19-8213-2026，2026
                         这项研究开发并测试了新方法，通过在称为“数据同化集成联合努力”的现代数据同化系统中使用雷达观测来改进天气预报。该方法结合了雷达测量和计算机模型的信息，以更好地描述风暴。对美国一场大风暴的测试表明，对降雨和风暴结构的预测得到了改进。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8213-2026</guid>
-      <pubDate>Mon, 07 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
       <title>GWSWEX v1.0：分布式水文建模中大规模保守地下水补给和径流计算的双求解器一维非饱和区模型</title>
@@ -63,7 +83,7 @@
                         地理学。模型开发，19, 8233–8267, https://doi.org/10.5194/gmd-19-8233-2026, 2026
                         水在河流、土壤和含水层之间不断流动，但在数值模型中准确捕捉这一点很困难。详细模型对于区域使用来说太昂贵；较简单的方法缺乏正确跟踪地下水和土壤湿度的分辨率。我们使用两种可互换的数值方法建立了一个模型来弥补这一差距。对六种土壤类型的测试显示地下水精度接近厘米，使其适合集合模拟和区域气候影响研究。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8233-2026</guid>
-      <pubDate>Mon, 07 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
       <title>ICON 中云结构和降水对云微物理方案的敏感性及其对全球公里级模拟的影响</title>
@@ -73,7 +93,7 @@
                         地理学。模型开发，19，8191–8212，https://doi.org/10.5194/gmd-19-8191-2026，2026
                         云在地球气候中发挥着关键作用，但它们在模型中的表示仍然不确定。我们使用高分辨率模拟来研究云过程的两种统计表示如何影响云和降雨的形成，以及这些影响如何在全球模型中体现。我们发现模拟的云对所选的表示高度敏感，并且当移动到全球尺度时，雨、雾和冰等特征的行为变得更加可变。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8191-2026</guid>
-      <pubDate>Fri, 04 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
       <title>基于重心的次季节预报多模型集成方法</title>
@@ -83,7 +103,7 @@
                         地理学。模型开发，19, 8167–8189, https://doi.org/10.5194/gmd-19-8167-2026, 2026
                         我们通过将集成组合表述为重心问题来探索构建多模型集成的替代框架。我们将 L2 重心（相当于池化）与 Wasserstein 重心（更准确地说是高斯近似）进行比较。两者具有相同的整体均值，但在表示预测不确定性的方式上有所不同。就连续排名概率得分而言，Wasserstein 重心的表现更多，但平均表现相似。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8167-2026</guid>
-      <pubDate>Thu, 03 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
       <title>WRF 4.3.1 体型云微物理方案中雨滴尺寸分布的广义双矩标度归一化方法的实施：朝鲜半岛的案例研究</title>
@@ -93,7 +113,7 @@
                         地理学。模型开发，19，8149–8166，https://doi.org/10.5194/gmd-19-8149-2026，2026
                         本研究通过将广义双矩标度归一化 (GDMN) 方法应用于天气研究和预报双矩 6 级 (WDM6) 微物理方案中的雨滴尺寸分布 (DSD)，改进了降雨模拟。使用观测到的雨滴数据，GDMN 可以更好地表示雨滴大小的变化。改进后的 WDM6 改善了降水模式、雷达反射率和风暴运动，为期一个月的东亚模拟也证明了其优点。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8149-2026</guid>
-      <pubDate>Wed, 02 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
       <title>在 HARMONIE-AROME 中模拟风电场的影响（周期 43.2.2）– 第 2 部分：风力涡轮机数据库及其在欧洲的应用</title>
@@ -103,7 +123,7 @@
                         地理学。模型开发，19, 8115–8147, https://doi.org/10.5194/gmd-19-8115-2026, 2026
                         我们使用 HARMONIE-AROME 模型中的两个风电场参数化来评估运行中的风电场如何影响数值天气预报中的大气，该模型已被 10 多个欧洲气象服务机构应用。准确的产量预测需要包括陆上和海上涡轮机。风力涡轮机会稍微改变近地表温度（平均 &lt;1 K）。我们还提供了一个结合多个数据源的开放访问欧洲风力涡轮机数据集。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8115-2026</guid>
-      <pubDate>Wed, 02 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
       <title>AD-MERGE 2.0：对能源转型、气候影响和适应响应之间关系的综合评估</title>
@@ -113,7 +133,7 @@
                         地理学。模型开发，19，8081–8113，https://doi.org/10.5194/gmd-19-8081-2026，2026
                         本研究引入了 AD-MERGE 2.0，这是一种更新的模型，旨在评估减排政策以及近期和长期气候适应策略。新版本改进了区域细节、能源系统代表性以及气候损害和适应的校准。通过比较五种政策情景，该研究展示了缓解和适应如何在各地区相互作用，强调了关键的权衡和协同作用。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8081-2026</guid>
-      <pubDate>Wed, 02 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
       <title>在料仓微物理方案 DESCAM 3D 中实施预测雾凇质量：评估理想化飑线系统和 ICE-POP 2018 期间的大雪事件</title>
@@ -123,7 +143,7 @@
                         地理学。模型开发，19，8025–8051，https://doi.org/10.5194/gmd-19-8025-2026，2026
                         本研究评估了预测雾凇质量分布的仓微物理方案的实施情况。基于“填充”概念，该模型允许无边框冰颗粒和霰冰颗粒之间的平滑过渡。该实施针对朝鲜半岛地面仪器观测到的理想飑线系统和大雪事件进行了测试。新模型版本与降水量发生显着变化的观测结果更加吻合。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8025-2026</guid>
-      <pubDate>Tue, 01 Sep 2026 10:10:50 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     <item>
       <title>CMIP7 数据请求：共同创建 CMIP7 数据生成指南 [v1.2.2.5]</title>
@@ -133,27 +153,7 @@
                         地理学。模型开发，19，8053–8079，https://doi.org/10.5194/gmd-19-8053-2026，2026
                         本文介绍了为 CMIP7（一项国际气候模拟活动）即将进行的全球气候模型实验创建一组新的输出数据要求。来自社区的专家帮助共同创建了一个数据库，该数据库描述了应该生成哪些数据以及这些选择背后的科学依据。它通过将实验和变量与科学目标和现实应用联系起来，支持不断增长的气候研究和政策需求。]]></description>
       <guid>https://doi.org/10.5194/gmd-19-8053-2026</guid>
-      <pubDate>Tue, 01 Sep 2026 10:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 E3SM 中的弱耦合海洋数据同化改进地球系统变异性的模拟</title>
-      <link>https://doi.org/10.5194/gmd-19-8003-2026</link>
-      <description><![CDATA[通过 E3SM 中的弱耦合海洋数据同化改进地球系统变异性的模拟
-                    史鹏飞、L. Ruby Leung、浦朝霞、Samson Hagos 和 Karthik Balaguru
-                        地理学。模型开发，19，8003–8023，https://doi.org/10.5194/gmd-19-8003-2026，2026
-                        可靠的气候预测需要准确的海洋初始条件。我们开发了一个海洋数据同化系统，将海洋温度和盐度再分析纳入气候模型。该系统改进了对数年至数十年气候变化以及美国冬季气温和降水的模拟。其他后报显示没有明显的初始化冲击，并再现了物理相干的 ENSO 遥相关模式，支持更可靠的气候预测。]]></description>
-      <guid>https://doi.org/10.5194/gmd-19-8003-2026</guid>
-      <pubDate>Thu, 27 Aug 2026 10:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepMelt-GL v1：海洋模型中冰架空腔未代表区域的亚架融化速率神经网络模拟器</title>
-      <link>https://doi.org/10.5194/gmd-19-7979-2026</link>
-      <description><![CDATA[DeepMelt-GL v1：海洋模型中冰架空腔未代表区域的亚架融化速率神经网络模拟器
-                    海伦·奥肯登、克拉拉·布尔加德、皮埃尔·马修特、克里斯托夫·基特尔、阿奇尔·盖伦斯、塞西尔·阿戈斯塔和尼古拉斯·C·茹尔丹
-                        地理学。模型开发，19，7979–8002，https://doi.org/10.5194/gmd-19-7979-2026，2026
-                        由于数值计算成本高昂，气候模型必须在高空间分辨率和长时间运行之间做出选择。在这里，我们开发了一个简单的神经网络来模拟南极冰架下发生的小规模过程，这使得亚冰架融化和冰与海洋相互作用能够包含在可以运行多个世纪的全球海洋模型中。这个神经网络将帮助我们了解未来海洋环流可能如何变化。]]></description>
-      <guid>https://doi.org/10.5194/gmd-19-7979-2026</guid>
-      <pubDate>Thu, 27 Aug 2026 10:10:50 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 21:57:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -22,7 +22,7 @@
     <item>
       <title>面向DVL缺失工况的水下导航观测补偿方法</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyjs202603001</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[在水下自主航行器(Autonomous Underwater Vehicle,AUV)导航过程中,通常依赖惯性导航系统(Inertial Navigation System,INS)和多普勒测速计(Doppler Velocity Log,DVL)融合定位.受水声环境复杂性和设备工作状态影响,DVL易出现数据缺失.针对 DVL缺失条件下传统融合方法鲁棒性不足的问题,本文提出了一种数据驱动观测补偿与统一因子图融合的系统性思路,通过训练随机森林回归模型,学习航行器局部运动状态与 DVL速度观测之间的非线性映射关系,进而预测得到&quot;虚拟 DVL 观测&quot;,并将其作为速度先验输入统一的因子图优化(Factor Graph Optimization,FGO).在不改变因子图后端结构的前提下,通过提升软约束的观测质量改善导航系统在DVL缺失工况下的稳定性与精度.基于真实水下试验数据验证,在缺失后外部观测极为稀疏的最不利工况下,随机森林方法将终点误差从千米级缩小至百米量级,相较于不补偿方案,终点误差降低约 98%.同时,随机森林在终点误差、全程均方根误差(Root Mean Squared Error,RMSE)和航程归一漂移率上较线性插值分别进一步降低约 29%、14%和30%,表明其在抑制误差累积和保持全航程轨迹一致性方面具有更强的鲁棒性.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyjs202603001</guid>
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>海水二氧化碳分压传感器室内标定方法建立与关键影响因素探究</title>
       <link>https://d.wanfangdata.com.cn/periodical/hyjs202603005</link>
       <description><![CDATA[目前全球气候变化所引发的后果日益凸显,二氧化碳(CO2)等温室气体在其中扮演着重要角色,且海水酸化现象导致海洋生态系统产生不可逆的变化,因此全球海洋研究机构均开始重视海水中二氧化碳气体变化及海气通量等要素的监测.目前常用手段主要包括走航观测及原位现场连续监测,其中原位传感器由于可实现实时连续监测而得到广泛应用.本文针对海水二氧化碳分压原位传感器研究建立了一套室内标定方法.利用自行搭建的标定设备,首次针对水体温场性能、非色散红外(Non-Dispersive Infrared Spectroscopy,NDIR)检测器漂移、水中二氧化碳浓度稳定性/均匀性及浓度调节等因素在标定过程中产生的影响开展了系统研究.结果表明:本试验过程水温控制精度优于 0.002℃时对标定结果无影响,但若大于 0.02℃时由于温度变化所引起的本底 xCO2 波动或不均匀度可能超过 1 μmol/mol;同时,保持环境温度恒定有利于抑制 NDIR 检测器漂移影响;采用合适的二氧化碳含量调节手段(向试验水体内加入一定量酸/碱试剂)可温和构建不同梯度浓度的标定条件.以 3 台二氧化碳分压传感器作为标定对象验证该方法,结果显示经标定后误差降低一个数量级.本文所建立的方法可广泛应用于此类仪器的室内标定,修正因仪器自身性能下降等原因导致的测量误差,为海水二氧化碳分压传感器的计量检定/校准、性能评估和数据质量控制提供了可靠的室内解决方案.]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyjs202603005</guid>

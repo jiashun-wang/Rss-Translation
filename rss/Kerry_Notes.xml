@@ -4,7 +4,15 @@
     <title>Kerry的学习笔记</title>
     <link>https://kerrynotes.com</link>
     <description>好好学习，Day Day Up!</description>
-    <lastBuildDate>Wed, 09 Sep 2026 10:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:11:45 GMT</lastBuildDate>
+    <item>
+      <title>Codex 找不到 codex-code-mode-host.exe 的解决办法</title>
+      <link>https://kerrynotes.com/codex-code-mode-host-missing-windows/</link>
+      <description><![CDATA[遇到的问题 Windows 版 Codex 可以正常聊天，但无法执行本地命令，并提示： 我这次遇到的原因是：实 […]
+&lt;p&gt;The post Codex 找不到 codex-code-mode-host.exe 的解决办法 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
+      <guid>https://kerrynotes.com/codex-code-mode-host-missing-windows/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:12:35 GMT</pubDate>
+    </item>
     <item>
       <title>Codex 桌面版迟迟没有 GPT-6 Astra？我踩了两个 CLI 的坑</title>
       <link>https://kerrynotes.com/codex-desktop-cli-update-gpt-6-astra/</link>
@@ -76,14 +84,6 @@
 &lt;p&gt;The post 再聊机场客户端 – 多代理客户端会打架 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
       <guid>https://kerrynotes.com/jichang-client/</guid>
       <pubDate>Fri, 17 Jul 2026 02:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>闲聊下机场客户端和订阅阅后即焚</title>
-      <link>https://kerrynotes.com/airport-client-choice/</link>
-      <description><![CDATA[前两天有朋友留言，说龙猫云总是断线，但看我测出来的速度又很不错，觉得这两个结果对不上。 这两件事其实并不矛盾。 […]
-&lt;p&gt;The post 闲聊下机场客户端和订阅阅后即焚 first appeared on Kerry的学习笔记.&lt;/p&gt;]]></description>
-      <guid>https://kerrynotes.com/airport-client-choice/</guid>
-      <pubDate>Sat, 11 Jul 2026 14:48:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

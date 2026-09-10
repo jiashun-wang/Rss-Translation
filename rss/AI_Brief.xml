@@ -4,7 +4,28 @@
     <title>AI论文简报</title>
     <link>https://ai-brief.liziran.com</link>
     <description>每天3分钟，从源头论文把握AI前沿。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 01:09:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:15:31 GMT</lastBuildDate>
+    <item>
+      <title>Iris借链接图出题，删层省25%计算</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-09-10-iris-link-questions-layer-dropout.html</link>
+      <description><![CDATA[Iris把网页链接图变成训练题，用多跳实体链和难度筛选持续生成监督信号，再以「SFT-RL攀爬」迭代搜索Agent。 MaxKernel让编译反馈进入代码生成闭环：按开发阶段切换人工参与、全自动迭代和多Agent图搜索。 思维链操作在隐藏表示中可分。任务表述、目标分解与演绎在中间层差异最明显，但可分类不等于因果解释。 Layer dropout最多节省25%训练计算，同时培养模型的可删层能力，使部署时推理速度最高提升1.5倍。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-09-10-iris-link-questions-layer-dropout.html</guid>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>主动学习省49%重训时间，ICL提准15.9%</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-09-09-active-learning-icl-agent-image-editing.html</link>
+      <description><![CDATA[主动学习需要按阶段切换训练方式：早期从头训练、稳定后沿用检查点微调，HybridAL在守住效果的同时最多节省49%重训时间。 ICL的稀缺资源正变成示例选择预算，DearICL动态排序示例组合，较强线性老虎机基线取得8.08%—15.9%的准确率增益。 Agent的长期一致性依赖关系化世界状态。 MARBO通过显式维护角色、阵营及其关系，让行动和话术建立在可更新的信念之上。 多历史步反演瞄准大幅编辑中的区域保护：MIEdit结合预测—校正机制与自动语义角度掩码，尝试改善未编辑区域保真度、编辑稳定性与采样效率。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-09-09-active-learning-icl-agent-image-editing.html</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>教师策略达93.57，3000条样本挽回37.3%</title>
+      <link>https://ai-brief.liziran.com/zh/daily/2026-09-08-drivezero-moe-tool-provenance.html</link>
+      <description><![CDATA[DriveZero让训练信号突破人类日志覆盖，感知模型从大规模视觉数据学习，动作模型在交互环境中闭环试错，教师策略平均分达到93.57。 可靠工具调用依赖参数来源追踪：SAP显式记录参数的继承与变化，使合成数据能够覆盖跨轮次长链依赖。 MoE压缩检查点更适合作为待修复初始化。仅用3000条C4样本训练一轮，全参数调整平均找回37.3%的压缩损失。 提供全文不等于评测利用了全文；反事实混合文档几乎未改变评分和排名，暴露出篇章级指标对跨句一致性不敏感。]]></description>
+      <guid>https://ai-brief.liziran.com/zh/daily/2026-09-08-drivezero-moe-tool-provenance.html</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>神经函数准确率83.6%，随机KV提速43%</title>
       <link>https://ai-brief.liziran.com/zh/daily/2026-09-07-neural-functions-random-kv-eviction.html</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Agent能力开始以持续交付衡量：Apodex 1.1将状态保持、失败恢复、多Agent协作和结果验证纳入完整工作轨迹。 复杂检索会放大语音识别错误，实体图与多轮改写使F1跌幅扩大36%–67%，错误实体是主要退化来源。 环境侧正则化释放策略探索预算。 ERPO用Query-KL约束查询分布，让PPO、GRPO能分别调节训练稳定性与回答探索。 少量全局注意力头即可承担长期记忆：ReWorld以局部头维持实时控制，并用固定KV缓存和地标库保存长期空间状态。]]></description>
       <guid>https://ai-brief.liziran.com/zh/daily/2026-08-27-voice-rag-error-amplification.html</guid>
       <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>可执行rubric延迟最多降至1/320</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-26-executable-rubrics-runtime-routing.html</link>
-      <description><![CDATA[可执行rubric让长文本评测更快、更可审计：ExecRubrics将质量标准编译为Python评分函数，偏好判断准确率最高达92%，延迟最多降至原来的1/320。 LoRA组合成为逐输入决策，LiST按当前样本检索、融合适配器，并通过安全接受规则决定启用或回退。 复杂RAG开始训练检索轨迹。 GTA-RAG结合证据图与强化学习，让模型根据已有证据判断下一步去哪里找。 安全对齐成本需要按语言核算：全局效用指标可能掩盖保护强度与可用性损失的语言差异，上线前应进行分组审计。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-26-executable-rubrics-runtime-routing.html</guid>
-      <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>部署闭环加速6.98倍，改计划提13.3点</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-25-deployment-planning-visual-risk.html</link>
-      <description><![CDATA[Kernel必须回到真实推理链路验收，LLM4LLM用部署反馈筛选候选实现，在H100上实现6.98倍几何平均端到端加速。 组合图像生成的瓶颈更常出在规划阶段：解码器有94%的概率忠实执行空间计划，替换计划可将表现提升13.3个百分点。 多模态推理应删除未利用图像的token。 VIG以视觉信息增益作为奖励，在6个基准及Qwen3-VL-Thinking的2B、4B、8B模型上改善准确率与效率的权衡。 多Agent风险会沿消息依赖传播，PropUQ-MAS通过同时追踪本地与上游不确定性，将风险排序指标平均相对提升47.58%。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-25-deployment-planning-visual-risk.html</guid>
-      <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放流视频编辑，VLM压至2.7比特</title>
-      <link>https://ai-brief.liziran.com/zh/daily/2026-08-24-streaming-video-agent-graphs-vlm-quantization.html</link>
-      <description><![CDATA[InfinityEdit让视频编辑覆盖尚未抵达的未来帧，轻量适配器按需处理持续流，为直播重绘和互动视频提供新路径，但延迟与长期漂移仍待验证。 Graph Engineering把多Agent协作建模为动态图：它提供了组织任务、角色和状态的系统语言，实际性能收益尚缺少对照实验支持。 Llama-Mobile将11B视觉模型压缩至3.7GB。其量化流程由模型自行生成训练数据，无需原始训练环境，并以面向Arm CPU的2.7比特格式完成压缩；速度、功耗及跨架构复用能力仍需真机测试。]]></description>
-      <guid>https://ai-brief.liziran.com/zh/daily/2026-08-24-streaming-video-agent-graphs-vlm-quantization.html</guid>
-      <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,95 @@
     <title>发现频道 - 小众软件官方论坛</title>
     <link>https://meta.appinn.net/c/faxian/10</link>
     <description>'发现频道' 类别中的话题 感谢推荐，所有内容均由人工审核，请耐心等待。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 10:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:12:35 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】RE 停滞之后，我做了 Jentree</title>
+      <link>https://meta.appinn.net/t/topic/91534</link>
+      <description><![CDATA[应用名称
+Jentree
+应用平台
+Web（支持 PWA）
+应用类型
+双向链接笔记
+是否收费
+免费
+一句简介
+“块”与“链接”
+应用简介
+Jentree 是一款原生块级大纲双链笔记，用于记录想法、整理笔记、搭建个人知识体系。 
+
+
+以块作为最小编辑单元，支持无限层级。每一段内容都可以自由拖拽、拆分与嵌套
+
+
+可引用任意一段笔记内容，唤起独立弹窗视图，支持同时打开多处笔记对照阅读
+
+
+内容之间自动建立双向链接，随时回溯想法与知识点之间的深层联系
+
+
+支持页面嵌套，方便将分散的内容聚合在一起
+
+
+支持 Markdown 的导入导出，方便与其他笔记工具迁移数据
+
+
+Web 应用，支持 PWA，可直接在浏览器中安装使用
+
+
+应用截图
+
+官方地址
+https://jt.biji.org.cn/
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91534</guid>
+      <pubDate>Wed, 09 Sep 2026 23:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】Astra Games：40+ 游戏与互动作品画廊 [Web]</title>
+      <link>https://meta.appinn.net/t/topic/91518</link>
+      <description><![CDATA[软件名称
+Astra Games（Awesome GPT-6 Astra）
+应用平台
+Web，支持在电脑和手机浏览器中浏览画廊，提供简体中文和英文等语言。具体游戏的设备要求不同，部分 3D 作品需要支持 WebGL 的浏览器，部分更适合键盘和鼠标操作。 
+推荐类型
+开发者自荐
+一句话简介
+一个收录 40+ 游戏与互动作品的网页画廊，整理试玩入口、实机截图和作者来源，部分作品附源码、提示词及开发记录。 
+为什么做这个项目
+大家好，我是 Astra Games 的维护者。最近陆续看到许多用 AI 编程做出来的小游戏，试玩链接和开发过程散落在不同的帖子、仓库里，过后想再找就不太方便，于是做了这个画廊，把作品、作者和相关资料放到一起。 
+目前收录了 43 个游戏与互动作品，包含动作、解谜、策略模拟、冒险、竞速和粒子艺术等类型。感兴趣的作品可以先看截图和玩法介绍，再打开试玩；想了解实现方式，也可以继续查看作者公开的源码或制作过程。 
+可以找到什么
+
+按作品、作者或玩法搜索，查看作品详情和试玩入口。 
+实机截图、原作者署名，以及已有的设备、登录或运行要求说明。 
+部分作品的源码、原始提示词和迭代记录，方便参考具体实现。 
+持续接受新的作品投稿，也欢迎反馈失效链接或信息错误。 
+
+例如，瓜体实验室把西瓜合成做成了会挤压、变形的软体水果；雷霆战机提供战机、武器升级和多阶段首领战；轨道花园则可以操控粒子在花朵、引力环和星系之间变化，并导出画面。 
+关于 AI 与开发资料
+合集围绕 GPT-6 Astra 相关创作整理。模型参与情况依据作者或投稿者的公开说明记录，尚未确认的内容会在条目中标注。源码、提示词和开发记录按作者实际公开的资料提供，收录中也包含可玩的原型。 
+费用和账号
+画廊目前免费浏览，无需注册或扫码登录。点击试玩后会进入各作品的网站，具体游戏的登录、费用和浏览器要求以对应条目及原作者页面为准。 
+清单文字采用 CC0；第三方游戏及其代码、图片等遵循各自许可。项目由社区维护，与 OpenAI 无隶属关系。 
+官方网站
+
+中文画廊：Astra Games — GPT-6 Astra 作品精选
+GitHub：GitHub - MartinDelophy/awesome-gpt-6-astra: A curated collection of fun games built with GPT-6 Astra, with source code, demos, and prompts. | GPT-6 Astra 游戏精选 · GitHub
+
+截图
+瓜体实验室 / Melon Lab（作者：Ayi1337）
+
+雷霆战机 · 天穹远征 / THUNDERFALL（作者：jackroc）
+
+轨道花园 / ORBITAL GARDEN（作者：jackroc）
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/91518</guid>
+      <pubDate>Wed, 09 Sep 2026 10:47:48 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】周迹 WEEKTRACE：把长期目标落到每一周的 Windows 计划与复盘工具</title>
       <link>https://meta.appinn.net/t/topic/91507</link>
@@ -149,7 +237,7 @@ GitHub - skyjt/teahouse: 茶话间（teahouse）：纯内网、基于 IP 的局�
 
 截图预览：
 
-1 个帖子 - 1 位参与者
+2 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91504</guid>
       <pubDate>Wed, 09 Sep 2026 07:23:52 GMT</pubDate>
@@ -247,7 +335,7 @@ Windows
 
 项目地址
 https://gitee.com/huangdong12111/amarket-tool
-3 个帖子 - 3 位参与者
+4 个帖子 - 4 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91483</guid>
       <pubDate>Wed, 09 Sep 2026 03:06:47 GMT</pubDate>
@@ -514,7 +602,7 @@ NoLit：把文献整理、阅读、翻译、批注和 AI 追问放在同一个�
 
 
 
-5 个帖子 - 2 位参与者
+6 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91445</guid>
       <pubDate>Tue, 08 Sep 2026 08:46:17 GMT</pubDate>
@@ -625,170 +713,6 @@ GitHub - BarryBarrywu/workstation-fit: 就位：输入身高，获得桌椅与�
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/91441</guid>
       <pubDate>Tue, 08 Sep 2026 08:33:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>〖开发者自荐〗Keyphore：把 Codex 任务状态显示在 NuPhy 键盘灯光上</title>
-      <link>https://meta.appinn.net/t/topic/91431</link>
-      <description><![CDATA[
-软件名称
-Keyphore
-应用平台
-Apple Silicon Mac · macOS 13 或更高版本
-推荐类型
-〖开发者自荐〗
-是否收费
-免费、开源，采用 GPL v3 许可证。 
-是否需要注册
-不需要 Keyphore 账户。 
-一句简介
-用 NuPhy 键盘背光显示 Codex 当前是在执行任务、等待回应，还是已经完成。 
-为什么做它
-我经常让 Codex 在后台处理任务，然后切到其他窗口继续工作。问题是隔一会儿就要切回去看看：它还在运行，还是正在等我批准某个操作？ 
-Keyphore 把这几个状态放到了键盘灯光上。低头或用余光看一眼，就能知道现在是否需要回到 Codex。 
-当然，上面都是胡诌的，主要是图一乐。 
-四种状态
-
-蓝色：Codex 正在执行任务
-橙色：需要审批或输入
-绿色：任务刚刚完成
-熄灯：当前没有活动任务
-
-颜色、亮度、常亮或慢闪都可以分别设置。完成提示默认显示 5 秒，也可以调整为 1–60 秒。 
-多个 Codex 任务同时运行时，Keyphore 会汇总状态，优先显示“需要回应”，不会因为其中一个任务结束，就盖掉仍在运行的任务。 
-兼容性
-目前 App 支持 Apple Silicon Mac，通过 USB 连接 NuPhy Air65 V3 或 Air75 V3，理论上用同款驱动的键盘也都支持，型号也在项目里列出了。不过没有那么多键盘就无法测试了，如果你正好也在用，也欢迎反馈。 
-隐私与安装
-Keyphore 是原生 macOS 菜单栏 App，不读取提示词、对话正文或工具内容，也不会自动上传遥测和诊断。 
-首次打开时会通过引导连接 Codex、展示需要启用的 Hook，并说明所需的 macOS 权限。 App 和 DMG 已使用 Developer ID 签名并通过 Apple 公证。 
-当前版本为 0.1.2。 
-官网、下载与源码
-官网：
-
-
-keyphore.barrybarrywu.com
-
-
-Keyphore — 把 Codex 状态，显示在键盘上。 
-Keyphore 把 Codex 任务状态显示在 NuPhy 键盘上。免费的原生 Mac 菜单栏 App。 
-
-
-
-
-
-下载：
-https://github.com/BarryBarrywu/Keyphore/releases/latest
-源码：
-
-github.com
-
-
-
-
-GitHub - BarryBarrywu/Keyphore: Codex task status lights for the NuPhy Air65 V3 on...
-Codex task status lights for the NuPhy Air65 V3 on macOS
-
-
-
-
-
-
-5 个帖子 - 4 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91431</guid>
-      <pubDate>Tue, 08 Sep 2026 04:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>yunMusicPlayer：直连网盘的便携音乐播放器</title>
-      <link>https://meta.appinn.net/t/topic/91410</link>
-      <description><![CDATA[yunMusicPlayer：一个支持直连网盘播放的便携音乐播放器
-软件名
-yunMusicPlayer（网盘音乐播放器）
-一句话简介
-一个用 WPF + .NET 10 + BASS 写的 Windows 音乐播放器：解压即用、数据随身、能直接连坚果云 WebDAV 听歌、自带三层歌词与响度统一。 
-软件介绍（正文）
-市面上的播放器要么臃肿、要么不开源、要么不让你连自己的云盘。 yunMusicPlayer 想做一个「我自己的播放器」：不收集你的数据、不插广告、把你存在坚果云里的歌也能直接播。 
-它从第一天起就定位成个人非商业项目，代码完全公开，你可以审查、自己构建、甚至二次开发。 
-功能亮点
-
-
-真·便携：解压到任意可写目录就能跑，曲库 / 设置 / 播放列表全部写在 exe 同目录下。塞进 U 盘带着走，换一台电脑也不丢配置。 
-
-
-自包含，零安装：已随包打包 .NET 10 运行时，下载后无需安装任何运行库，双击即用。 
-
-
-直连坚果云听歌：内置 WebDAV 浏览，连上坚果云后进入文件夹、选中歌曲即可加入播放列表播放——歌在云上，不必先下到本地。 
-
-
-三层歌词：优先读本地 .lrc / 音频内嵌标签，其次云盘同目录 .lrc，最后联网 API 兜底；歌词还能自动写回，让歌词跟着歌走。 
-
-
-响度统一（ReplayGain）：读取曲目里的 ReplayGain 标签，让不同歌曲之间音量一致，不再被忽大忽小折磨。 
-
-
-格式广泛：基于 BASS 音频引擎，支持 mp3 / wav / flac / ape / alac / opus 等常见无损与有损格式。 
-
-
-开源可查：全部源码公开，更新透明。 
-
-
-获取方式
-
-
-开源地址（含更新日志）： GitHub - Post-85sFIRE/music-player: Cross-platform music player (Windows WPF + .NET 10 + BASS) · GitHub
-
-
-下载（v0.1.0，Windows x64 便携版，约 81MB）： https://github.com/Post-85sFIRE/music-player/releases/download/v0.1.0/MusicPlayer-Desktop-win-x64-v0.1.0.zip
-
-
-使用注意
-
-
-未代码签名：Windows 首次运行会​​被 SmartScreen 拦截，请点「更多信息 → 仍要运行」即可正常启动。这是免费个人项目的正常现象，不是病毒。 
-
-
-请解压到可写目录：不要直接放进 C:\Program Files，否则程序无法写入曲库数据。建议解压到「文档」或任意你有权限的文件夹。 
-
-
-坚果云用「应用专用密码」：连接云盘时填的密码不是网页登录密码，需在坚果云网页端「安全选项 → 应用密码」里生成。这是最常踩的坑。 
-
-
-合规与开源声明
-
-
-本项目为个人非商业项目，音频引擎使用 Un4seen BASS（非商业授权）。 
-
-
-软件仅用于播放你拥有合法权利的音乐，不包含任何搜索、分享、下载他人资源的功能。 
-
-
-欢迎在遵守许可的前提下使用与衍生。 
-
-
-
-附图
-
-
-【截图 1】主界面总览：菜单栏 / 播放控制 / 播放列表 / 歌词区
-
-
-
-
-
-【截图 2】云盘窗口：连接表单（名称 / URL / 用户名 / 应用密码）+ 浏览区
-
-
-
-
-
-
-
-
-
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/91410</guid>
-      <pubDate>Mon, 07 Sep 2026 15:12:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,9 +4,58 @@
     <title>Scientific American Content: Global</title>
     <link>https://www.scientificamerican.com</link>
     <description>Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives.</description>
-    <lastBuildDate>Wed, 09 Sep 2026 01:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:10:15 GMT</lastBuildDate>
     <item>
-      <title>这种宇宙粒子从来没有打算到达地球。现在科学家认为他们终于知道为什么会这样了</title>
+      <title>新地图揭示了史前超级大陆内隐藏的景观</title>
+      <link>https://www.scientificamerican.com/article/new-maps-reveal-hidden-landscapes-inside-a-prehistoric-supercontinent/</link>
+      <description><![CDATA[根据新的分析，冈瓦纳古大陆比我们想象的要大得多]]></description>
+      <guid>https://www.scientificamerican.com/article/new-maps-reveal-hidden-landscapes-inside-a-prehistoric-supercontinent/</guid>
+      <pubDate>Wed, 09 Sep 2026 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>天文学家揭示了一种几十年来一直隐藏在人们视线中的新型天体</title>
+      <link>https://www.scientificamerican.com/article/astronomers-reveal-a-new-type-of-celestial-object-that-has-been-hiding-in-plain-sight-for-decades/</link>
+      <description><![CDATA[目前还不清楚这些物体到底是什么，但美国宇航局的钱德拉太空望远镜多年来已经发现了它们的证据]]></description>
+      <guid>https://www.scientificamerican.com/article/astronomers-reveal-a-new-type-of-celestial-object-that-has-been-hiding-in-plain-sight-for-decades/</guid>
+      <pubDate>Wed, 09 Sep 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>科学家解开了神秘古人类祖先丹尼索瓦人长相的新线索</title>
+      <link>https://www.scientificamerican.com/article/scientists-unlock-new-clues-to-what-denisovans-a-mysterious-ancient-human-ancestor-looked-like/</link>
+      <description><![CDATA[对中国洞穴中发现的古代骨骼的分析让我们了解了 13 万多年前丹尼索瓦人的生活方式]]></description>
+      <guid>https://www.scientificamerican.com/article/scientists-unlock-new-clues-to-what-denisovans-a-mysterious-ancient-human-ancestor-looked-like/</guid>
+      <pubDate>Wed, 09 Sep 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>灰鲸在西海岸被冲上岸而死亡。原因令人震惊</title>
+      <link>https://www.scientificamerican.com/article/gray-whales-are-washing-up-dead-on-the-west-coast-the-reason-is-alarming/</link>
+      <description><![CDATA[在太平洋沿岸，死去的灰鲸神秘地被冲上岸——科学家认为他们知道原因]]></description>
+      <guid>https://www.scientificamerican.com/article/gray-whales-are-washing-up-dead-on-the-west-coast-the-reason-is-alarming/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>雾可能隐藏着秘密的生态系统</title>
+      <link>https://www.scientificamerican.com/article/fog-may-be-hiding-secret-ecosystems/</link>
+      <description><![CDATA[雾气并不像我们看到的那样]]></description>
+      <guid>https://www.scientificamerican.com/article/fog-may-be-hiding-secret-ecosystems/</guid>
+      <pubDate>Wed, 09 Sep 2026 10:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceXAI 的 Colossus 数据中心引发了强烈反对</title>
+      <link>https://www.scientificamerican.com/article/spacexais-colossus-data-center-is-fueling-a-massive-backlash/</link>
+      <description><![CDATA[数十台临时燃气轮机为 SpaceXAI 的扩张提供动力，并引发了许可证和污染问题]]></description>
+      <guid>https://www.scientificamerican.com/article/spacexais-colossus-data-center-is-fueling-a-massive-backlash/</guid>
+      <pubDate>Wed, 09 Sep 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>友谊与孤独的科学</title>
+      <link>https://www.scientificamerican.com/podcast/episode/the-science-of-friendship-and-loneliness/</link>
+      <description><![CDATA[心理学助理教授杰西卡·艾尔斯的新研究挑战了我们需要什么样的友谊的假设]]></description>
+      <guid>https://www.scientificamerican.com/podcast/episode/the-science-of-friendship-and-loneliness/</guid>
+      <pubDate>Wed, 09 Sep 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这种宇宙粒子从来没有打算到达地球。现在科学家认为他们终于知道为什么会这样</title>
       <link>https://www.scientificamerican.com/article/this-cosmic-particle-was-never-meant-to-reach-earth-now-scientists-think-they-finally-know-why-it-did/</link>
       <description><![CDATA[2022 年，研究人员在一次巨大的伽马射线爆发中检测到了一个非常奇怪的光子，该光子本应在到达地球的途中被摧毁]]></description>
       <guid>https://www.scientificamerican.com/article/this-cosmic-particle-was-never-meant-to-reach-earth-now-scientists-think-they-finally-know-why-it-did/</guid>
@@ -60,55 +109,6 @@
       <description><![CDATA[飞行会给加拉斯带来积极的情绪和乐观]]></description>
       <guid>https://www.scientificamerican.com/article/do-birds-enjoy-flying-scientists-asked-cockatoos/</guid>
       <pubDate>Tue, 08 Sep 2026 10:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么音乐是缓解大脑压力的有力工具</title>
-      <link>https://www.scientificamerican.com/article/why-music-is-a-powerful-tool-to-quiet-stress-in-the-brain/</link>
-      <description><![CDATA[音乐不仅能掩盖压力，还能缓解压力。它引导我们的大脑回到平静的状态]]></description>
-      <guid>https://www.scientificamerican.com/article/why-music-is-a-powerful-tool-to-quiet-stress-in-the-brain/</guid>
-      <pubDate>Mon, 07 Sep 2026 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国需要更多太空港吗？</title>
-      <link>https://www.scientificamerican.com/article/does-the-u-s-need-more-spaceports/</link>
-      <description><![CDATA[一项新的行政命令要求到本十年末美国每年发射 1,000 次以上火箭。重新思考国家的太空港将是关键]]></description>
-      <guid>https://www.scientificamerican.com/article/does-the-u-s-need-more-spaceports/</guid>
-      <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的内向或外向程度可能会影响您使用人工智能的方式</title>
-      <link>https://www.scientificamerican.com/article/how-introverted-or-extroverted-you-are-may-influence-how-you-use-ai/</link>
-      <description><![CDATA[人们如何与内心和外部世界互动可能会影响他们如何使用生成式人工智能]]></description>
-      <guid>https://www.scientificamerican.com/article/how-introverted-or-extroverted-you-are-may-influence-how-you-use-ai/</guid>
-      <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>大自然可能有自己偏好的节奏</title>
-      <link>https://www.scientificamerican.com/article/nature-may-have-a-preferred-tempo/</link>
-      <description><![CDATA[从闪烁的萤火虫到人类音乐，许多生物节律似乎都集中在同一节律范围内]]></description>
-      <guid>https://www.scientificamerican.com/article/nature-may-have-a-preferred-tempo/</guid>
-      <pubDate>Mon, 07 Sep 2026 10:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>考古学揭示了全能统治者的崛起</title>
-      <link>https://www.scientificamerican.com/article/what-archaeology-reveals-about-the-rise-of-all-powerful-rulers/</link>
-      <description><![CDATA[独裁统治在早期文明中并非不可避免。但当财富出现垄断时，强人和不平等就出现了]]></description>
-      <guid>https://www.scientificamerican.com/article/what-archaeology-reveals-about-the-rise-of-all-powerful-rulers/</guid>
-      <pubDate>Sun, 06 Sep 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些智能积木知道它们组成什么物体</title>
-      <link>https://www.scientificamerican.com/article/these-smart-bricks-know-what-object-they-make-up/</link>
-      <description><![CDATA[集体智慧的积木能够判断出它们是在船、椅子还是吉他上]]></description>
-      <guid>https://www.scientificamerican.com/article/these-smart-bricks-know-what-object-they-make-up/</guid>
-      <pubDate>Sun, 06 Sep 2026 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的脑部扫描工具可以帮助治疗亨廷顿舞蹈症，这是一种毁灭性的遗传病</title>
-      <link>https://www.scientificamerican.com/article/new-brain-scan-tool-could-help-treat-huntingtons-disease-a-devastating-genetic-condition/</link>
-      <description><![CDATA[亨廷顿氏病是一种遗传性疾病，会逐渐剥夺人们移动、说话甚至清晰思考的能力—无法治愈]]></description>
-      <guid>https://www.scientificamerican.com/article/new-brain-scan-tool-could-help-treat-huntingtons-disease-a-devastating-genetic-condition/</guid>
-      <pubDate>Sat, 05 Sep 2026 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

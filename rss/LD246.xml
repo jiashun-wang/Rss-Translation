@@ -4,7 +4,36 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 10:37:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:13:11 GMT</lastBuildDate>
+    <item>
+      <title>移动端只有我一个人滑动文档隐藏标题时卡顿吗？</title>
+      <link>https://ld246.com/article/1788990031123</link>
+      <description><![CDATA[能明显感觉到.在标题隐藏和显示的那一瞬间，会卡一下，好不舒服
+居然没看到反馈 难道就我手机是这样…
+
+ 浏览器不支持该媒体的播放
+]]></description>
+      <guid>https://ld246.com/article/1788990031123</guid>
+      <pubDate>Wed, 09 Sep 2026 21:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>好久不见，你还好吗</title>
+      <link>https://ld246.com/article/1788967366751</link>
+      <description><![CDATA[好久不见，上一次登录已是三年前了，距离最开始加入 ld 已经 8 年了，当时还没毕业，出来实习了，还在探索程序员之路，Java，前端，大数据，然后就是迷茫，自学换行搞了推荐算法，搞大模型，到离职创业，中间夹杂着结婚，生娃，现在娃已经两岁多了，年龄也跨过了 30 岁，近两年，出现了很大的变化，才发现自己修心不足。 
+这 8 年的时间，一句话总结，起高楼，宴宾客，楼塌了。 
+今天，再次回到这里，是找一个媒体，记录自己的修心之路，想来，这里比较合适，不知道曾经互动过的朋友还在这里吗]]></description>
+      <guid>https://ld246.com/article/1788967366751</guid>
+      <pubDate>Wed, 09 Sep 2026 15:22:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>升级最新 3.8.3 版本后出现网页剪藏的问题</title>
+      <link>https://ld246.com/article/1788967029081</link>
+      <description><![CDATA[升级到 3.8.3 版本后，网页剪藏就经常出现了如图的问题，不知道怎样解决：
+
+说明：我已打开了思源笔记，并且网络是连通的！ ]]></description>
+      <guid>https://ld246.com/article/1788967029081</guid>
+      <pubDate>Wed, 09 Sep 2026 15:17:08 GMT</pubDate>
+    </item>
     <item>
       <title>Python 中容易被忽略的原地操作：从 PyTorch Tensor 的 `-=` 说起</title>
       <link>https://ld246.com/article/1788949575488</link>
@@ -13,7 +42,7 @@
       <pubDate>Wed, 09 Sep 2026 10:26:14 GMT</pubDate>
     </item>
     <item>
-      <title>我在【人工智能】的 mcp 服务中是这么设置的，是否有问题？</title>
+      <title>我在人工智能的 mcp 服务中是这么设置的，是否有问题？</title>
       <link>https://ld246.com/article/1788949229901</link>
       <description><![CDATA[
 ]]></description>
@@ -151,142 +180,6 @@
 ]]></description>
       <guid>https://ld246.com/article/1788925679211</guid>
       <pubDate>Wed, 09 Sep 2026 03:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>超级块拖动报错</title>
-      <link>https://ld246.com/article/1788924424151</link>
-      <description><![CDATA[超级块的编辑 + 移动无法通过撤销退回之前的状态
-]]></description>
-      <guid>https://ld246.com/article/1788924424151</guid>
-      <pubDate>Wed, 09 Sep 2026 03:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>页面导出时报错</title>
-      <link>https://ld246.com/article/1788922355458</link>
-      <description><![CDATA[页面内容只有一个数据库，导出时报错。页面创建副本后，再导出正常。 
-]]></description>
-      <guid>https://ld246.com/article/1788922355458</guid>
-      <pubDate>Wed, 09 Sep 2026 02:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>v3.7.x 时期创建的属性视图行在升级后全部无法编辑；详情面板保存 select/mSelect/relation 字段报 `resolve attribute view carrier: block [...] not found</title>
-      <link>https://ld246.com/article/1788922059681</link>
-      <description><![CDATA[标题
-[v3.8.3 升级回归] v3.7.x 时期创建的属性视图行在升级后全部无法编辑；详情面板保存 select/mSelect/relation 字段报 resolve attribute view carrier: block [...] not found
-环境
-
-SiYuan：3.8.3
-升级前版本：v3.7.x
-操作系统：Windows（数据路径 E:\Siyuan\...）
-同步方式：云端同步
-
-问题描述
-从 v3.7.x 升级到 v3.8.3 后，所有在老版本创建的属性视图行（row）都无法在详情面板里保存 select / mSelect / relation 字段，桌面通知弹出 resolve attribute view carrier: block [...] not found 错误；嵌入式视图（嵌在文档里的 av 块）也无法正常渲染。 
-复现步骤
-
-在 v3.7.x 版本下创建一个属性视图（含 ≥ 1 行带 select / mSelect / relation 字段的数据，row 直接在数据库中新增即可，不需要手动建文档子 block）
-升级 SiYuan 到 v3.8.3
-打开该属性视图（&quot;在数据库中打开&quot;）
-点击任意一行右侧的&quot;展开详情&quot;
-尝试修改任意一个 select / mSelect / relation 字段
-点击保存
-
-期望行为
-
-select / mSelect 下拉菜单正常打开，选项齐全
-选择后保存，值正常写入
-嵌入式视图（嵌在文档中的 av 块）正常渲染
-
-实际行为
-
-select / mSelect / relation 字段保存时桌面通知弹出 resolve attribute view carrier: block [...] not found
-字段值无法保存
-嵌入式 av 块渲染异常（DOM 中只剩空容器，所有 cell 不显示）
-
-Kernel 日志（关键证据）
-W transaction.go:2137: not found block [&lt;row-block-id&gt;]
-W tree.go:338: searching tree on filesystem [id=&lt;row-block-id&gt;]
-I tree.go:342: tree not found on filesystem [id=&lt;row-block-id&gt;]
-
-（&lt;row-block-id&gt; 形如 20260903151937-hovw48o —— 这些是 av row 的 blockID）
-根因分析（API 实测确认）
-v3.7.x 模型：row 可以以 isDetached: true 状态存在 —— row 数据完整存在 av JSON 文件中（/data/storage/av/&lt;av-id&gt;.json），但 row blockID 在 blocks 表中不存在。 
-v3.8.3 行为变更：强制要求 row 必须有真实 block 载体。我用 database.item_add 实测：
-
-
-
-调用
-结果
-
-
-
-
-database.item_add（不传 blockID）
-❌ 报错：blockID is required for non-detached rows
-
-
-database.item_add（传 heading block ID）
-✅ 成功
-
-
-
-这意味着：
-
-老版本（v3.7.x）创建的 detached row 在 v3.8.3 下变成了&quot;非法状态&quot;
-升级时没有自动迁移（没给老 row 自动补 carrier block）
-新行也受影响 —— SiYuan 客户端前端代码可能未完全适配 v3.8.3 的强制约束，详情面板新建行经常失败或新建后立刻报&quot;找不到块&quot;
-
-受影响的操作路径
-
-
-
-操作
-走的路径
-v3.8.3 状态
-
-
-
-
-表格视图直接点 cell 编辑
-直接改 av JSON
-✅ 正常
-
-
-详情面板保存 select
-block.update 路径（更新 row block）
-❌ 报&quot;找不到块&quot;
-
-
-嵌入式视图渲染
-block tree 解析
-❌ 渲染失败
-
-
-
-影响范围
-
-我自己（升级用户）共 4 个属性视图、约 120 行受影响 
-  
-程序修改记录表：100 行
-项目情况：4 行
-实施任务：约 11 行
-补丁记录：3 行
-
-升级到 v3.8.3 的老用户大概率都受影响（如果有 v3.7.x 时期创建的 av）
-
-临时解决方案
-
-手动逐行修复：在 SiYuan 客户端里给每行创建一个对应 heading block，然后通过「在数据库中打开」进入详情，把行的 blockID 绑定到新 heading
-降级 + 云端恢复：备份数据 → 降级到 v3.7.x → 同步从云端拉回老数据
-
-建议官方修复（按优先级）
-
-【必须】升级时自动迁移 detached row：检测 av JSON 中所有 isDetached: true 的 row，自动为每行创建 carrier block 并重新绑定
-【推荐】保留 v3.7.x 的 detached 行为兼容老数据，或在保存时给清晰的错误提示
-【可选】统一 row 存储模型：要么全部 detached 要么全部 bound，避免混用导致前端渲染路径分叉
-]]></description>
-      <guid>https://ld246.com/article/1788922059681</guid>
-      <pubDate>Wed, 09 Sep 2026 02:47:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
