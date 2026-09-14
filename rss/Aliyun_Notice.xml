@@ -4,111 +4,111 @@
     <title>阿里云公告</title>
     <link>https://www.aliyun.com/notice/list</link>
     <description>阿里云公告</description>
-    <lastBuildDate>Thu, 10 Sep 2026 01:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:52:29 GMT</lastBuildDate>
     <item>
-      <title>【网络优化】2026年9月16日变更通告</title>
+      <title></title>
+      <link>https://www.aliyun.com/notice/118656</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.aliyun.com/notice/118656</guid>
+      <pubDate>Sat, 12 Sep 2026 02:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.aliyun.com/notice/118654</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.aliyun.com/notice/118654</guid>
+      <pubDate>Fri, 11 Sep 2026 08:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.aliyun.com/notice/118647</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.aliyun.com/notice/118647</guid>
+      <pubDate>Fri, 11 Sep 2026 08:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.aliyun.com/notice/118649</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.aliyun.com/notice/118649</guid>
+      <pubDate>Fri, 11 Sep 2026 05:49:29 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.aliyun.com/notice/118642</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.aliyun.com/notice/118642</guid>
+      <pubDate>Fri, 11 Sep 2026 01:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.aliyun.com/notice/118640</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.aliyun.com/notice/118640</guid>
+      <pubDate>Thu, 10 Sep 2026 08:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.aliyun.com/notice/118608</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.aliyun.com/notice/118608</guid>
+      <pubDate>Thu, 10 Sep 2026 06:59:18 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
       <link>https://www.aliyun.com/notice/118644</link>
       <description><![CDATA[]]></description>
       <guid>https://www.aliyun.com/notice/118644</guid>
       <pubDate>Thu, 10 Sep 2026 01:05:37 GMT</pubDate>
     </item>
     <item>
-      <title>【产品变更】QoderWork CN下线通知</title>
+      <title></title>
       <link>https://www.aliyun.com/notice/118632</link>
-      <description><![CDATA[影响时间2027-09-05 下线变更内容和影响感谢您一直以来对Qoder CN的支持。因产品升级调整，QoderWork CN将逐步停止运营，并于2027年9月5日正式关停。 Qoder CN家族其他产品不受影响，您的Qoder CN账号、积分余额及套餐权益仍可正常使用。同时，我们建议您迁移至Qoder CN桌面版或千问办公继续使用相关服务，Qoder CN桌面版或千问办公在功能、性能上可提供更优的服务。 应对建议如您有线上业务依赖该功能，我们提供两种迁移方案，客户可据使用场景选择迁移方案：研发、测试、设计、产品等泛编程场景：迁移至Qoder CN桌面版。您可使用原Qoder CN账号直接登录，无需重新注册或购买权益；支持导入任务记录、技能和记忆；企业版及Teams的组织成员、权限和配置可继续沿用。 产品：https://qoder.cn/new-qoder文档生成、数据分析、信息调研、网页制作等办公场景：迁移至千问办公。千问办公采用独立的账号及权益体系，需另行注册；桌面端支持导入聊天记录、技能和定时任务；积分不与Qoder CN账号互通，原权益需按流程退款，千问办公权益需另行购买。组织数据需单独迁移，请联系对应销售。 产品：https://qwenwork.cn/  如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.aliyun.com/notice/118632</guid>
       <pubDate>Wed, 09 Sep 2026 06:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>2026年9月17日DDoS防护产品联通节点网络升级通知</title>
+      <title></title>
       <link>https://www.aliyun.com/notice/118637</link>
-      <description><![CDATA[影响时间北京时间 2026-09-17 00:00:00 ~ 2026-09-17 08:00:00升级内容DDoS高防（中国内地）及DDoS原生防护（增强版）EIP产品联通节点网络升级升级影响维护窗口期间，DDoS高防（中国内地）及DDoS原生防护（增强版）EIP产品联通线路用户将会出现TCP会话2～3次重连或者少量丢包。请确保相关业务上的重连重试机制，以增强业务的容错能力。给您带来的不便敬请谅解。有任何相关问题，可提交工单联系我们进行咨询反馈。 ]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.aliyun.com/notice/118637</guid>
       <pubDate>Wed, 09 Sep 2026 05:30:23 GMT</pubDate>
     </item>
     <item>
-      <title>关于部分包年包月成本明细数据延迟产出的说明</title>
+      <title></title>
       <link>https://www.aliyun.com/notice/118636</link>
-      <description><![CDATA[影响时间北京时间 2026-09-04 00:00:00 ~ 2026-09-06 00:00:00尊敬的客户：因系统处理原因，2026年9月4日至9月5日期间，订阅（包年包月）类型的成本明细数据出现产出延迟。现将相关情况及数据处理方式说明如下，感谢您的理解与支持。 一、事件说明项目内容影响时间2026年9月4日 至 9月5日影响范围订阅（包年包月）类型的成本明细数据恢复情况相关数据已于 2026年9月6日 04:00 后陆续完成产出二、影响内容本次延迟仅影响成本明细数据，不影响费用（账单）数据。 成本明细是将包年包月订阅购买的费用，按照财务分摊的视角逐日摊销到每一天所形成的成本，用于帮助您按天核算成本、进行成本分析与分摊管理。 三、数据处理说明1. 控制台查看目前您可通过【费用与成本 &gt; 成本分摊 &gt; 成本明细】正常查看上述两天的成本明细数据。 2. 订阅推送对于通过 OSS 投递或MaxCompute方式获取成本明细的客户，9月4日及9月5日的成本明细数据将合并在 9月6日推送的文件中一并送达，请注意查收。 ]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.aliyun.com/notice/118636</guid>
       <pubDate>Wed, 09 Sep 2026 01:44:02 GMT</pubDate>
     </item>
     <item>
-      <title>《阿里云产品服务协议》-【电商经营助手Aidge】专用说明变更公告</title>
+      <title></title>
       <link>https://www.aliyun.com/notice/118639</link>
-      <description><![CDATA[尊敬的阿里云用户，我们将对《阿里云产品服务协议》【电商经营助手Aidge】的专用说明做出如下更新，本次更新将于2026年9月15日生效：1、第88.2条进行完善，拓展了服务能力；2、对88.10条进行修订；3、新增88.12，88.13，88.14条；具体见：https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud201802281451_77479.html?spm=a2c4g.11186623.0.0.80b27152R7m7j4，请您详细阅读。 感谢您对阿里云的支持和关注！如您有任何问题，可随时通过工单或者服务热线与我们联系。 ]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.aliyun.com/notice/118639</guid>
       <pubDate>Wed, 09 Sep 2026 01:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>《阿里云产品服务协议》—【认证服务】【睿译宝】【睿呼宝】专用说明变更公告</title>
+      <title></title>
       <link>https://www.aliyun.com/notice/118638</link>
-      <description><![CDATA[影响时间北京时间 2026-09-09 00:00:00变更内容尊敬的阿里云用户：《阿里云产品服务协议》专用说明将做出如下更新，本次更新将于2026年9月16日生效。 第57章【阿里云认证服务】：删除57.1条款，原条款描述的规则已体现在产品页面，请以产品页面规则为准。 第83章【服务数字员工】：产品名称由“服务数字员工”变更为“睿呼宝”。 第91章【睿译宝】：新增91.3数据合规条款。 此次更新给你带来了产品服务协议条款和结构变更的影响，请您详细阅读。 感谢您对阿里云的支持和关注！如您有任何问题，可随时通过工单或者服务热线与我们联系。 ]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.aliyun.com/notice/118638</guid>
       <pubDate>Tue, 08 Sep 2026 10:27:24 GMT</pubDate>
     </item>
     <item>
-      <title>【产品变更】百炼控制台变更/升级通知</title>
+      <title></title>
       <link>https://www.aliyun.com/notice/118635</link>
-      <description><![CDATA[影响时间2026-09-10（以实际变更时间为准）, 变更/升级变更内容和影响为进一步提升使用体验，百炼控制台将进行全新升级，新版将优化页面布局、导航结构及部分功能入口。 后续新增功能将仅在新版控制台中提供，旧版控制台将不再新增功能。建议您优先使用新版控制台，以获得更完整的功能体验。 补充说明：      限额提留：该功能暂仅在旧版控制台中保留，新版不再提供，后续旧版中的限额提留功能也将逐步下线。         模型体验：新旧版本在部分体验记录、功能展示及资产管理方面存在差异。部分新版文本模型体验记录在旧版中可能展示于「模型调试」；网页开发、深度研究等新版能力在旧版中可能无法完整展示；语音、视觉模型在资产名称、删除及同步展示等方面也可能存在差异。   以上差异不影响模型 API 调用及已有业务的正常运行。   应对建议 本次升级不会影响您的功能使用。如需在老版本试用，可以通过返回旧版功能返回旧版工作台如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.aliyun.com/notice/118635</guid>
       <pubDate>Tue, 08 Sep 2026 02:31:24 GMT</pubDate>
     </item>
     <item>
-      <title>【产品变更】云服务器 ECS 控制台和购买页下线地域化域名公告变更通知</title>
+      <title></title>
       <link>https://www.aliyun.com/notice/118575</link>
-      <description><![CDATA[影响时间2026-09-30, 变更变更内容和影响变更内容为了提升服务稳定性与安全性，阿里云计划对云服务器 ECS 控制台和购买页的地域化域名进行统一下线。即日起至地域化域名下线生效前，地域化域名的访问将被自动重定向至通用域名；地域化域名下线生效后，地域化域名将无法访问，请您切换至通用域名。  请您尽快保存并使用新的域名，避免对您的业务产生影响。 变更影响本次变更将下线 55 个地域化域名，主要分为以下两类。  1. ECS 控制台的地域化域名： ecs-{region}.console.aliyun.com 、 ecs4service-{region}.console.aliyun.com 2. ECS 购买页的地域化域名： ecs-buy-{region}.aliyun.com、 ecs-buy4service-{region}.aliyun.com 受影响的地域化域名详细列表可参考附录。 附录即将下线的地域化域名列表：1. ECS 控制台 地域化域名（27 个）：ecs-ap-northeast-1.console.aliyun.comecs-ap-south-1.console.aliyun.comecs-ap-southeast-3.console.aliyun.comecs-ap-southeast-5.console.aliyun.comecs-cn-chengdu.console.aliyun.comecs-cn-guangzhou.console.aliyun.comecs-cn-heyuan.console.aliyun.comecs-cn-huhehaote.console.aliyun.comecs-cn-shenzhen-cloudstone4service.console.aliyun.comecs-cn-wulanchabu.console.aliyun.comecs-cn-zhangjiakou.console.aliyun.comecs-eu-central-1.console.aliyun.comecs-eu-west-1.console.aliyun.comecs-rus-west-1.console.aliyun.comecs4service-ap-northeast-1.console.aliyun.comecs4service-ap-southeast-3.console.aliyun.comecs4service-ap-southeast-5.console.aliyun.comecs4service-cn-chengdu.console.aliyun.comecs4service-cn-guangzhou.console.aliyun.comecs4service-cn-heyuan.console.aliyun.comecs4service-cn-huhehaote.console.aliyun.comecs4service-cn-wulanchabu.console.aliyun.comecs4service-cn-zhangjiakou.console.aliyun.comecs4service-eu-central-1.console.aliyun.comecs4service-eu-west-1.console.aliyun.comecs4service-me-east-1.console.aliyun.comecs4service-rus-west-1.console.aliyun.com2. ECS 购买页 地域化域名（28 个）：ecs-buy-ap-northeast-1.aliyun.comecs-buy-ap-south-1.aliyun.comecs-buy-ap-southeast-3.aliyun.comecs-buy-ap-southeast-5.aliyun.comecs-buy-cn-chengdu.aliyun.comecs-buy-cn-guangzhou.aliyun.comecs-buy-cn-heyuan.aliyun.comecs-buy-cn-huhehaote.aliyun.comecs-buy-cn-wulanchabu.aliyun.comecs-buy-cn-zhangjiakou.aliyun.comecs-buy-eu-central-1.aliyun.comecs-buy-eu-west-1.aliyun.comecs-buy-me-east-1.aliyun.comecs-buy-rus-west-1.aliyun.comecs-buy4service-ap-northeast-1.aliyun.comecs-buy4service-ap-south-1.aliyun.comecs-buy4service-ap-southeast-3.aliyun.comecs-buy4service-ap-southeast-5.aliyun.comecs-buy4service-cn-chengdu.aliyun.comecs-buy4service-cn-guangzhou.aliyun.comecs-buy4service-cn-heyuan.aliyun.comecs-buy4service-cn-huhehaote.aliyun.comecs-buy4service-cn-wulanchabu.aliyun.comecs-buy4service-cn-zhangjiakou.aliyun.comecs-buy4service-eu-central-1.aliyun.comecs-buy4service-eu-west-1.aliyun.comecs-buy4service-me-east-1.aliyun.comecs-buy4service-rus-west-1.aliyun.com应对建议 使用 ECS 控制台或购买页的通用域名访问服务。    1. ECS 控制台的通用域名： 公共账号请访问https://ecs.console.aliyun.com 虚商账号请访问https://ecs4service.console.aliyun.com。    2. ECS 购买页的通用域名： 公共账号请访问https://ecs-buy.aliyun.com 虚商账号请访问 https://ecs-buy4service.aliyun.com。 如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.aliyun.com/notice/118575</guid>
       <pubDate>Tue, 08 Sep 2026 01:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>【产品变更】云安全中心服务端互联网IP变更通知</title>
-      <link>https://www.aliyun.com/notice/118613</link>
-      <description><![CDATA[影响时间2026-10-12 (UTC+8) 变更变更内容和影响感谢您对阿里云的支持，云安全中心将于2026-10-12日实施服务端互联网IP变更，变更后云安全中心服务端将使用新的公网IP。 如您配置了网络策略管控受防护主机至云安全中心服务端的网络路径，则需要调整策略放行新的公网IP，否则云安全中心主机安全能力将离线失效。 如未配置网络策略，则无需任何操作。 应对建议如您配置了网络策略管控受防护主机至云安全中心服务端的网络路径，则需要调整策略放行新的公网IP，否则云安全中心主机安全能力将离线失效。  如未配置网络策略，则无需任何操作。 中国内地区域需放行IP：47.117.157.2278.153.161.1168.153.86.12106.14.18.21106.14.97.1008.153.93.165139.196.179.1118.153.199.39非中国内地区域需放行IP：47.236.237.1247.236.52.22147.245.118.1647.237.189.17043.106.19.19647.84.136.231如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118613</guid>
-      <pubDate>Tue, 08 Sep 2026 01:28:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>【产品变更】ARMS Prometheus 云服务自监控（arms_cms_ 前缀指标）停止维护升级通知</title>
-      <link>https://www.aliyun.com/notice/118627</link>
-      <description><![CDATA[影响时间2026-10-09, 升级变更内容和影响自 2026 年 10月 09 日 00:00:00 起，因稳定性和体验问题，ARMS Prometheus 将停止维护旧版“云服务自监控”采集云服务指标链路，这类指标以arms_cms_开头，相关功能演进、稳定性治理和问题修复将停止。 应对建议如您的大盘、告警、巡检脚本或报表依赖上述指标稳定的采集和查询服务，建议前往云监控 2.0 接入中心接入对应云产品监控指标，并同步调整 PromQL 和告警规则。其他方式写入的指标不受影响。详细迁移说明可查看文档。 如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118627</guid>
-      <pubDate>Mon, 07 Sep 2026 09:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>【产品变更】实时计算 Flink 版全托管存储（公测）停止新购通知</title>
-      <link>https://www.aliyun.com/notice/118615</link>
-      <description><![CDATA[影响时间2026-09-14 停止新购变更内容和影响变更内容感谢您对阿里云的支持！由于产品策略调整，实时计算 Flink 版全托管存储（公测能力）将于 2026年09月14日 00:00:00 起停止新购。停止新购后，您通过控制台、OpenAPI 或 SDK 新购实时计算 Flink 版时，将无法再选择全托管存储作为存储方案，可以继续选择您自有的 OSS Bucket 作为替代。 变更影响增量影响：自 2026年09月14日 00:00:00 起，您通过控制台、OpenAPI 或 SDK 新购实时计算 Flink 版时，将无法再选择全托管存储，可以继续选择您自有的 OSS Bucket 作为存储方案。 存量影响：已开通并使用全托管存储的用户，当前可继续正常使用该功能，现有业务不受影响。 本次变更为停止新购，不涉及已有服务的下线，无需您进行额外操作。 影响范围本次变更影响的具体 API 如下：影响对象名称说明OpenAPICreateInstance新购实时计算 Flink 版实例时，将无法再选择全托管存储，可继续选择自有 OSS Bucket应对建议如您后续有新增的存储需求，建议您在新购实时计算 Flink 版时，选择使用自有的 OSS Bucket 作为替代方案，可通过控制台、OpenAPI 或 SDK 完成购买配置。 如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118615</guid>
-      <pubDate>Mon, 07 Sep 2026 01:56:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>【网络优化】2026年9月11日变更通告</title>
-      <link>https://www.aliyun.com/notice/118631</link>
-      <description><![CDATA[影响时间北京时间 2026-09-11 00:00:00 ~ 2026-09-11 08:00:00为了提升服务质量与系统稳定性，基础网络团队计划在2026-09-11（北京时间）进行网络设备升级和优化工作，本通告共计包含4次变更，详情如下。 1、变更时间：2026-09-11 00:00:00 - 2026-09-11 06:00:00（UTC+08）变更内容：软件维护/升级、冷补丁影响范围：张家口  可用区B新加坡云石中心  可用区A新加坡  可用区B/C张家口  可用区C上海  可用区N南通  可用区B/A上海  可用区B杭州  可用区K杭州独立建站预发环境 2  可用区A华东1 金融云  可用区K南通  可用区B影响说明：预计部分会导致2次短暂的网络抖动/延迟/丢包，每次大约3秒钟。请您在此期间尽量避免进行操作，若有业务操作，请避开变更窗口进行。给您带来的不便敬请谅解。 2、变更时间：2026-09-11 00:15:00 - 2026-09-11 06:15:00（UTC+08）变更内容：软件维护/升级、冷补丁影响范围：乌兰察布专属云HDG  可用区A乌兰察布云石中心POC  可用区A乌兰察布专属云 POC  可用区A乌兰察布  可用区A乌兰察布专属云CCC  可用区A北京  可用区I影响说明：预计部分会导致2次短暂的网络抖动/延迟/丢包，每次大约3秒钟。请您在此期间尽量避免进行操作，若有业务操作，请避开变更窗口进行。给您带来的不便敬请谅解。 3、变更时间：2026-09-11 00:30:00 - 2026-09-11 06:30:00（UTC+08）变更内容：软件维护/升级、冷补丁影响范围：北京  可用区L华北2 金融云（邀测） 可用区L广州  可用区A影响说明：预计部分会导致2次短暂的网络抖动/延迟/丢包，每次大约3秒钟。请您在此期间尽量避免进行操作，若有业务操作，请避开变更窗口进行。给您带来的不便敬请谅解。 4、变更时间：2026-09-11 02:00:00 - 2026-09-11 08:00:00（UTC+08）变更内容：软件维护/升级、冷补丁影响范围：香港  可用区D影响说明：预计部分会导致2次短暂的网络抖动/延迟/丢包，每次大约3秒钟。请您在此期间尽量避免进行操作，若有业务操作，请避开变更窗口进行。给您带来的不便敬请谅解。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118631</guid>
-      <pubDate>Sat, 05 Sep 2026 05:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>【产品变更】STAROps 数字员工值守服务正式计费通知</title>
-      <link>https://www.aliyun.com/notice/118623</link>
-      <description><![CDATA[影响时间2026-10-10, 正式计费变更内容和影响自 2026 年 10 月 10 日 00:00:00 起，全域智能运维平台 STAROps 将新增自定义数字员工值守服务计费项（Agent_Day）。自定义数字员工将按值守服务天数，以 19 元/个/自然日计费。 具体规则如下：计费标准：19 元/个/自然日，不足 1 日按 1 日计算；计费范围：自定义数字员工创建后即开始产生值守服务费，删除后不再产生费用；统计口径：每个自定义数字员工的值守服务天数分别统计，多个数字员工的值守服务天数累加计算；积分消耗：数字员工执行任务所产生的 AI 积分，仍按现有积分规则计费；免费范围：STAROps 官方提供的智能运维助手（Ops Agent）不收取数字员工值守服务费。 应对建议计费生效时，已创建且尚未删除的自定义数字员工也将开始产生值守服务费。如不再需要某个自定义数字员工，请在正式收费前及时删除。您可在阿里云费用中心查看数字员工值守服务天数及费用明细。 如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118623</guid>
-      <pubDate>Fri, 04 Sep 2026 06:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>【维护】南通地域的路由器维护通知</title>
-      <link>https://www.aliyun.com/notice/118628</link>
-      <description><![CDATA[影响时间北京时间 2026-09-11 00:00:00 ~ 2026-09-11 06:00:00变更内容阿里云南通网络设备维护，操作期间会对电信、联通、移动运营商互联网静态带宽出口流量进行整体迁移和恢复。  变更影响维护期间，路由收敛可能会导致南通地域的部分静态带宽互联网用户访问阿里云出现2次分钟级抖动。抖动对具备自动重连的长连接业务基本无影响。请确保您在业务上做好重连重试机制，以增强业务的容错能力。  给您带来的不便敬请谅解。有任何问题，可联系我们进行咨询反馈。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118628</guid>
-      <pubDate>Fri, 04 Sep 2026 05:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>【产品变更】灵汐快速图片识别下线通知</title>
-      <link>https://www.aliyun.com/notice/118626</link>
-      <description><![CDATA[影响时间2026-09-15 下线变更内容和影响 感谢您对阿里云的支持，为优化产品体验，阿里云百炼MCP广场灵汐快速图片识别 MCP 服务将于[2026年9月15日]正式下架。同时，我们建议您使用视觉理解模型或寻找其他相关能力，避免受到影响。  下线时间到达后，您将无法在控制台继续使用 灵汐快速图片识别 MCP服务，相关支持服务也将一同下线。 应对建议 如您有线上业务依赖该功能，建议您尽快使用视觉理解模型或寻找其他相关能力如您有任何问题，可随时通过工单 或者服务热线与我们联系。 ]]></description>
-      <guid>https://www.aliyun.com/notice/118626</guid>
-      <pubDate>Fri, 04 Sep 2026 03:21:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

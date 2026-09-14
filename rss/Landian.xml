@@ -4,111 +4,111 @@
     <title>蓝点网</title>
     <link>https://www.landian.news</link>
     <description>给你感兴趣的内容！</description>
-    <lastBuildDate>Thu, 10 Sep 2026 01:13:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 01:17:34 GMT</lastBuildDate>
     <item>
-      <title>[价格公布] DS V4 Pro将被自动路由到V4.1 Flash模型 性能/费用/速度均超过V4 Pro</title>
-      <link>https://www.landian.news/archives/126783.html</link>
-      <description><![CDATA[#人工智能 DS V4 Pro 将被自动路由到 DS V4.1 Flash 模型，性能 / 费用 / 速度均超过 V4 Pro。价格更便宜、性能提升：深度求索在 DS V4.1 Flash 正式发布后，将 API 平台调用的 DS V4 Pro 自动路由到 DS V4.1 Flash。当 DS 4.1 Pro 发布后，继续调用 DS V4 Pro 的用户将被路由到 DS V4.1 Pro，而不是继续路由到 DS V4.1 Flash。查看全文：https://ourl.co/126783]]></description>
-      <guid>https://www.landian.news/archives/126783.html</guid>
-      <pubDate>Wed, 09 Sep 2026 13:43:55 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126847.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126847.html</guid>
+      <pubDate>Fri, 11 Sep 2026 04:49:27 GMT</pubDate>
     </item>
     <item>
-      <title>[已完成修复] 微信爆出高危漏洞 只需要发起通话(无需接听)即可控制对方账号</title>
-      <link>https://www.landian.news/archives/126782.html</link>
-      <description><![CDATA[#安全资讯 [已修复] 微信被爆超高危安全漏洞，只需要向你发起视频通话，数秒后即可接管你的账号，不需要你接听。目前腾讯已经修复该漏洞，所以研究人员披露该漏洞的少量细节。漏洞位于 VoIP 通话组件中，研究人员开发了名为 WeWorm 的蠕虫病毒，可以攻击目标后接管受害者微信账号。接下来再读取受害者好友清单，继续发起攻击。该漏洞可以完全接管微信账号并读取和发送消息，但不能直接接管整个设备。如果要接管 Android 或 iOS 并获得系统级权限，那攻击者还需要配合使用其他安全漏洞。查看全文：https://ourl.co/126782]]></description>
-      <guid>https://www.landian.news/archives/126782.html</guid>
-      <pubDate>Wed, 09 Sep 2026 06:27:06 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126846.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126846.html</guid>
+      <pubDate>Fri, 11 Sep 2026 04:27:35 GMT</pubDate>
     </item>
     <item>
-      <title>微软在今天修复974个安全漏洞 再次刷新历史记录 微软提醒用户尽快更新</title>
-      <link>https://www.landian.news/archives/126781.html</link>
-      <description><![CDATA[#安全资讯 微软今天修复 974 个安全漏洞，再次刷新历史记录，微软提醒用户尽快更新。本次更新包含 2 个已经被黑客利用的安全漏洞，还有 20 个漏洞具备蠕虫化条件。对于使用 Windows Server 的用户来说必须立即安装更新，这类暴露在公网的服务器风险更高。查看全文：https://ourl.co/126781]]></description>
-      <guid>https://www.landian.news/archives/126781.html</guid>
-      <pubDate>Wed, 09 Sep 2026 05:43:30 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126845.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126845.html</guid>
+      <pubDate>Fri, 11 Sep 2026 04:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>深度求索宣布DS V4 Flash从10日中午调价 降幅60% 但与8月17日相比还是更贵</title>
-      <link>https://www.landian.news/archives/126780.html</link>
-      <description><![CDATA[#人工智能 先涨价再降价：深度求索宣布 DS V4 Flash 从明天中午 12 点调降价格，其中缓存命中降幅 60%。然而相比 8 月 17 日涨价前还是要贵，此次调整只有闲时缓存命中 / 未命中与 8 月 17 日持平，其他模式仍然贵 100%~300%。查看全文：https://ourl.co/126780]]></description>
-      <guid>https://www.landian.news/archives/126780.html</guid>
-      <pubDate>Wed, 09 Sep 2026 04:48:47 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126797.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126797.html</guid>
+      <pubDate>Fri, 11 Sep 2026 03:59:46 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI推出图像生成模型Images 2.5 生成速度提升50%/改进透明背景/支持多轮编辑</title>
-      <link>https://www.landian.news/archives/126779.html</link>
-      <description><![CDATA[#人工智能 OpenAI 推出 Images 2.5 图像生成模型，生成速度提升 50%、改进透明背景、支持多轮编辑等。其中透明背景方面得到专门的加强，现在模型可以处理更加复杂的版式和透明背景图片。生成的主体和背景分离更加可靠，适合制作 LOGO、商品素材、网站元素、插图等。查看全文：https://ourl.co/126779]]></description>
-      <guid>https://www.landian.news/archives/126779.html</guid>
-      <pubDate>Wed, 09 Sep 2026 04:09:17 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126796.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126796.html</guid>
+      <pubDate>Fri, 11 Sep 2026 03:38:26 GMT</pubDate>
     </item>
     <item>
-      <title>[下载] 英特尔发布24.70.0版WiFi/蓝牙驱动程序 修复安全问题和提升连接稳定性</title>
-      <link>https://www.landian.news/download/126803.html</link>
-      <description><![CDATA[#驱动程序 英特尔发布无线网络驱动程序 24.70.0 版，包含 WiFi 驱动程序和蓝牙驱动程序，修复安全漏洞、改善稳定性和提升性能等。该驱动程序适用于 WiFi 7 BE、WiFi 6E、WiFi 6、Intel AC 等无线网卡设备，使用英特尔无线网卡的用户记得下载更新。查看全文：https://ourl.co/126803]]></description>
-      <guid>https://www.landian.news/download/126803.html</guid>
-      <pubDate>Wed, 09 Sep 2026 03:34:15 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126795.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126795.html</guid>
+      <pubDate>Fri, 11 Sep 2026 03:22:24 GMT</pubDate>
     </item>
     <item>
-      <title>[下载] 微软发布Windows 11 24H2/25H2 KB5124008 修复鼠标样式丢失问题</title>
-      <link>https://www.landian.news/archives/126778.html</link>
-      <description><![CDATA[#系统资讯 微软发布 Windows 11 24H2/25H2 最新例行安全更新 KB5124008，修复桌面壁纸变黑和鼠标个性化设置全部丢失问题。以上问题是在 8 月可选更新中带来的，现在微软已经完成修复。遇到以上问题的用户安装最新更新即可重新设置个性化。下载地址：https://ourl.co/126778]]></description>
-      <guid>https://www.landian.news/archives/126778.html</guid>
-      <pubDate>Wed, 09 Sep 2026 03:17:54 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126794.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126794.html</guid>
+      <pubDate>Fri, 11 Sep 2026 03:00:40 GMT</pubDate>
     </item>
     <item>
-      <title>即日起谷歌浏览器改成每两周发布新版本 以快速提供安全更新修复漏洞</title>
-      <link>https://www.landian.news/archives/126777.html</link>
-      <description><![CDATA[#软件资讯 即日起谷歌浏览器改成每两周发布新版本，以快速提供安全更新修复漏洞。今天谷歌推出 Chrome 153 版，也是从今天开始后续每两周谷歌将发布新的正式版。这里的更新指的是大版本而非子版本更新，日常子版本更新谷歌会按照需要继续发布。其他版本例如企业扩展稳定版和测试版保持原有更迭节奏。查看全文：https://ourl.co/126777]]></description>
-      <guid>https://www.landian.news/archives/126777.html</guid>
-      <pubDate>Wed, 09 Sep 2026 03:03:56 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126793.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126793.html</guid>
+      <pubDate>Thu, 10 Sep 2026 07:10:44 GMT</pubDate>
     </item>
     <item>
-      <title>拖延症严重的微软终于准备为 Windows 11 开发深浅色自动切换功能</title>
-      <link>https://www.landian.news/archives/126776.html</link>
-      <description><![CDATA[#系统资讯 拖延症严重的微软终于准备为 Windows 11 开发深浅色自动切换，用户可以编排时间或根据用户所在地日出日落时间自动切换。主流操作系统都提供深浅色模式和自动切换，但 Windows 11 到现在还不能自动切换，用户要么手动切换要么靠第三方软件。现在微软终于准备提供系统级的自动切换功能。查看全文：https://ourl.co/126776]]></description>
-      <guid>https://www.landian.news/archives/126776.html</guid>
-      <pubDate>Wed, 09 Sep 2026 02:48:18 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126787.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126787.html</guid>
+      <pubDate>Thu, 10 Sep 2026 06:43:05 GMT</pubDate>
     </item>
     <item>
-      <title>苹果发布iOS 26.6.2版更新 修复无法通过蜂窝网络下载系统更新的问题</title>
-      <link>https://www.landian.news/archives/126775.html</link>
-      <description><![CDATA[#系统资讯 苹果发布 iOS 26.6.2 和 iPadOS 26.6.2 版更新，重点解决无法通过蜂窝网络下载系统更新的问题，为 iOS 27 发布做好准备。部分用户没有 WiFi 连接，所以主要靠蜂窝网络，如果无法通过蜂窝网络下载更新那系统就没法升级了。 iOS 27 正式版将在下周发布，苹果这也算是提前做好准备。查看全文：https://ourl.co/126775]]></description>
-      <guid>https://www.landian.news/archives/126775.html</guid>
-      <pubDate>Wed, 09 Sep 2026 02:33:50 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126792.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126792.html</guid>
+      <pubDate>Thu, 10 Sep 2026 06:25:30 GMT</pubDate>
     </item>
     <item>
-      <title>Asahi Linux正式支持苹果M3系列设备 多数硬件已经可以使用 但GPU和休眠还未完成</title>
-      <link>https://www.landian.news/archives/126774.html</link>
-      <description><![CDATA[#系统资讯 Asahi Linux 正式支持苹果 M3 系列设备，多数硬件已经可以正常使用，但 GPU 和休眠等功能还未完成。目前最大的问题就是 GPU 和完整的 DCP 显示控制器支持，由于完整的 DCP 支持尚未接入，目前搭载 M3 芯片的设备无法正常休眠。另外配备 HDMI 接口的 MacBook 暂时也无法使用该接口，这些还需要团队继续工作。查看全文：https://ourl.co/126774]]></description>
-      <guid>https://www.landian.news/archives/126774.html</guid>
-      <pubDate>Wed, 09 Sep 2026 02:05:54 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126791.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126791.html</guid>
+      <pubDate>Thu, 10 Sep 2026 06:18:55 GMT</pubDate>
     </item>
     <item>
-      <title>深度求索测试DS V4.1 Flash模型的中间版本 原生多模态支持/速度更快/成本更低</title>
-      <link>https://www.landian.news/archives/126773.html</link>
-      <description><![CDATA[#人工智能 深度求索测试 DS V4.1 Flash 模型的中间版本，原生多模态支持、能力更强、速度更快、成本也更低。目前这个中间版本仅限内测用户调用，有内测用户分享的信息称，该模型速度非常夸张，最低也有 300tok/s，最高能到 600tok/s。这应该是单独部署的版本所以速度才能如此快，正式上线应该不至于如此夸张。查看全文：https://ourl.co/126773]]></description>
-      <guid>https://www.landian.news/archives/126773.html</guid>
-      <pubDate>Tue, 08 Sep 2026 10:56:39 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126786.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126786.html</guid>
+      <pubDate>Thu, 10 Sep 2026 05:59:49 GMT</pubDate>
     </item>
     <item>
-      <title>微软透露Windows 11针对8GB内存进行优化并提升启动速度 改进版发布时间未知</title>
-      <link>https://www.landian.news/archives/126733.html</link>
-      <description><![CDATA[#系统资讯 微软透露 Windows 11 针对 8GB 内存进行优化并提升启动速度，不过改进后的版本什么时候发布还不清楚。在 IFA2026 期间，微软操作系统与设备部门副总裁马克林顿称 Windows 11 已经在启动速度和 Windows Hello 响应速度方面取得进展，而最终目标则是优化 Windows 11 的内存占用，让 8GB 设备也能获得流畅体验。查看全文：https://ourl.co/126733]]></description>
-      <guid>https://www.landian.news/archives/126733.html</guid>
-      <pubDate>Tue, 08 Sep 2026 10:14:06 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126789.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126789.html</guid>
+      <pubDate>Thu, 10 Sep 2026 04:09:03 GMT</pubDate>
     </item>
     <item>
-      <title>VMware生态系统变得更加封闭 博通下架VDDK开发工具包 客户迁移到其他平台更困难</title>
-      <link>https://www.landian.news/archives/126699.html</link>
-      <description><![CDATA[#软件资讯 VMware 生态系统变得更加封闭，博通撤下 VDDK 开发工具包下载，企业想要从 VMware 迁移到其他平台变得更困难。 VDDK 是很多备份迁移工具依赖的工具包，如果没有这个工具包那迁移工具就无法工作。微软和红帽都已经确认博通撤下 VDDK，由于该工具本身就是博通专有软件，所以红帽也无法提供 VDDK 下载。目前红帽正在研究其他变通方法帮助客户迁移，但现阶段变通方法暂时还没有，可能得学微软在虚拟机里安装客户端代理程序辅助读取磁盘内容。查看全文：https://ourl.co/126699]]></description>
-      <guid>https://www.landian.news/archives/126699.html</guid>
-      <pubDate>Tue, 08 Sep 2026 09:57:34 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126790.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126790.html</guid>
+      <pubDate>Thu, 10 Sep 2026 03:47:40 GMT</pubDate>
     </item>
     <item>
-      <title>ICANN批准威瑞信终止.NAME三级域名服务 约有2.2万个域名将被删除</title>
-      <link>https://www.landian.news/archives/126698.html</link>
-      <description><![CDATA[#域名资讯 ICANN 批准威瑞信彻底终止并删除.NAME 三级域名，现有的.NAME 三级域名预计将在 2027 年 2 月被删除。如果你使用.NAME 三级域名则需要尽快迁移，此次调整并非停止新注册，而是所有现有域名都会被删除。 .NAME 三级域名指的是 lan.dian.name 这样的域名，本身.NAME 也已经支持 landian.name 这种顶级域名。查看全文：https://ourl.co/126698]]></description>
-      <guid>https://www.landian.news/archives/126698.html</guid>
-      <pubDate>Tue, 08 Sep 2026 05:20:11 GMT</pubDate>
+      <title></title>
+      <link>https://www.landian.news/archives/126785.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.landian.news/archives/126785.html</guid>
+      <pubDate>Thu, 10 Sep 2026 03:26:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

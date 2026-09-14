@@ -4,111 +4,111 @@
     <title>Frontiers in Marine Science | New and Recent Articles</title>
     <link>https://www.frontiersin.org/journals/marine-science</link>
     <description>RSS Feed for Frontiers in Marine Science | New and Recent Articles</description>
-    <lastBuildDate>Thu, 10 Sep 2026 00:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 01:02:08 GMT</lastBuildDate>
     <item>
-      <title>中国海洋环境治理的政策工具：行政法视角下的结构配置、操作挑战和优化路径</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1933538</link>
-      <description><![CDATA[中国采用多种海洋环境治理手段来应对复杂的海洋环境风险。现有的研究主要通过公共政策类型来审视这些工具，或者侧重于特定的法律制度，而对其潜在的行政法逻辑的探索却不够充分。本研究利用红灯、绿灯和黄灯理论构建了一个基于行政法的框架，以检验中国海洋环境治理中政策工具的配置。本研究基于对现行有效的34个国家级政策文件的内容分析，并辅以规范性法律分析，识别出不同治理工具的相对突出性和内部结构。研究结果揭示了一种强烈的红光导向结构。红光仪器占编码参考的 83.4%，而绿光和黄光仪器分别占 7.3% 和 9.3%。在红灯类别中，事后监管占编码参考的52.6%，超过了事前预防和过程导向监管。开绿灯工具主要集中在财政支持上，而成本内部化、风险分担和专业环境服务机制仍然不太突出。黄灯类文书以信息公开为主，实质性公众参与和专家咨询关注相对有限。该研究认为，红灯工具的主导地位在制度上是合理的，因为与海洋环境风险相关的外部性、累积压力以及潜在的不可逆转的后果。核心挑战在于仪器组合的内部配置和功能协调。因此，中国海洋环境治理应加强预防为主、风险导向的红灯监管，发展有条件的财政支持和多元化的责任分担，将黄灯工具从以信息披露为中心的透明度转向实质性参与和行政问责。本研究将政策文本内容分析与规范性行政法分析相结合，为评估海洋环境治理的合法性和有效性提供了基于行政法的视角。它还为更广泛的政府监管研究提供了理论参考和实践意义。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1933538</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1922196</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1922196</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>受量子启发的 YOLOv8 视觉框架，使用增强型量子 ResNet50 特征编码进行高精度海洋碎片检测</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1895398</link>
-      <description><![CDATA[海洋垃圾继续对海洋生态系统、生物多样性和沿海经济构成严重威胁，迫切需要可靠和实时的检测机制。尽管最近取得了进展，但传统的深度学习方法在以低能见度、遮挡和照明不一致为特征的复杂海洋环境中往往表现出性能下降。在这项工作中，提出了一种混合量子启发的深度学习框架，通过将基于量子 ResNet 的特征编码策略与 YOLOv8 对象检测架构集成来应对这些挑战。所提出的模型通过将经典卷积特征与量子启发变换相结合来增强特征表示，并通过角度编码和参数化量子电路实现。该框架在一个数据集上进行了训练和评估，该数据集包含 3,000 张带注释的海洋垃圾图像，分为塑料、金属、玻璃和渔网。实验结果表明，该方法的精度为 93.7%，召回率为 89.2%，mAP@0.5 为 91.3%，检测性能始终优于基线 YOLOv8n 模型约 3%–4%。在高斯噪声、运动模糊和水下雾霾等具有挑战性的条件下进行的进一步分析揭示了鲁棒性的提高，表明量子启发特征转换的结合增强了模型的判别能力。总体而言，研究结果表明，将量子启发的表示与深度学习模型相结合，为提高海洋碎片检测的准确性和弹性提供了一条有前途的途径，从而支持开发更有效的智能环境监测系统。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1895398</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1922287</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1922287</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>电动船舶BMS可靠性评估的多状态动态框架：时间间隔顺序规则、多域CCF和封闭式CTMC解决方案</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1921264</link>
-      <description><![CDATA[引言针对海洋环境中电动船舶电池管理系统（BMS）的渐进性故障和多域耦合风险，现有的可靠性评估方法无法同时表征多状态退化演化、顺序故障传播和共因故障（CCF）耦合效应。本研究构建了船舶BMS的定量可靠性评估框架，支持故障风险控制和全生命周期运维决策。方法建立覆盖单元、模块、Pack和系统层的四级多状态故障树模型，定义完整、性能下降和完全故障三种运行状态，以匹配系统故障演化逻辑。采用扩展的多组β因子模型来量化四个耦合域的CCF风险：电源、通信总线、热环境和软件。提出了模块化动态故障树（DFT）框架，具有专用的二事件和三事件DFT模块，具有顺序判别能力；实施区间划分策略以消除顺序分析中的重复计算错误。基于包含-排除原理导出封闭式解析解，以避免数值积分中固有的截断误差。建立了多状态连续时间马尔可夫链（CTMC）模型进行分析动态可靠性评估，并采用蒙特卡洛模拟对计算结果进行对比验证。通过Birnbaum重要性和Spearman等级相关系数的交叉验证来区分固有参数风险和CCF放大的次要风险。结果验证结果表明，优化的顺序区间规则表消除了传统算法的重复计算缺陷，系统状态概率的所有解析表达式都满足概率归一化公理。多状态 CTMC 分析解与通过包含排除原理得出的封闭式解之间的绝对误差在整个时间范围内仍然可以忽略不计，相对误差始终接近于零，验证了两个解框架的数学一致性和准确性。与独立失效假设相比，CCF表现出明显的时间异质性：1000 h时整个系统失效的概率比独立条件下高10.1倍，而在100000 h时则下降10.0%，这是源于组件筛选机制的影响。 CCF重塑部件重要性排名：CCF条件下，母线相关基本事件总电压检测和总电流检测的Birnbaum重要性分别增加159.9%和168.8%，而继电器控制故障的Birnbaum重要性仅上升2.8%，成为整个服务周期的核心故障触发因素。参数不确定性分析表明，系统在100000 h时完全失效概率的95%置信区间为[0.3737, 0.3971]，比确定性点估计高13.0%。讨论所提出的框架解决了传统静态故障树在处理顺序和多状态故障方面的局限性，并实现了CCF建模和分层退化逻辑之间的兼容性。模块化DFT架构平衡了计算精度和效率，使其适用于复杂海洋电子设备的可靠性评估。多状态 CTMC 和封闭式方法之间的比较结果证实，所提出的模型不存在截断误差，从而在整个任务持续时间内产生无偏差的可靠性指标。对于工程应用，建议在服务初期进行全局CCF监测；中期应优先考虑总线相关基本事件的冗余优化和故障解耦；长期使用阶段必须加强中继单元的独立冗余设计。未来的研究应结合组件修复行为和跨域二次 CCF 传播机制，以进一步提高模型的适用性。该研究为电动船舶BMS的可靠性设计、风险评估以及运维策略制定提供了量化工具。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1921264</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1858874</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1858874</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>喀拉海的凯尔迪什洋流</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1901878</link>
-      <description><![CDATA[利用 1995 年至 2024 年间获得的横跨巴伦支海东北部和喀拉海北部的 25 条船上水文横断面，我们确定了存在将大西洋来源的水从新地岛北岸输送到喀拉海大陆坡的地表洋流。它被命名为凯尔迪什洋流，以 R/V“Akademik Mstislav Keldysh”号命名，该船在北冰洋进行了多次海洋学调查。凯尔迪什洋流是大西洋起源的表层洋流、中间洋流和海底洋流的局部复杂系统的一部分。它具有特定的形成过程和表面平流路径，这是之前数十篇关注该地区水团循环的论文中没有描述过的。凯尔迪什洋流源自巴伦支海支流水（BSBW），在巴伦支海东北部冷却并下沉。此前人们认为，BSBW 的整个体积都与该区域的大气失去了接触。在本文中，我们证明了由于与北极地表水混合而变得新鲜的 BSBW 北部外围，尽管有这种冷却，但它仍保留在海表层。这部分 BSBW 形成了地表平流凯尔迪什海流，与邻近的地表水相比，其温度和盐度明显更高。凯尔迪什洋流与 BSBW 的底部平流主流被海冰形成和盐喷射到弗朗茨·约瑟夫地附近的水柱形成的冷稠水所隔离。但由于动力夹带作用，凯尔迪什洋流跟随BSBW流向，即沿新地岛北岸向东北流，然后沿圣安娜海槽东侧向北流向大陆坡，再沿大陆坡向东流向拉普捷夫海。凯尔迪什洋流宽 50–100 公里，深 50–100 m，长超过 1000 公里，输送约 0.4 Sv。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1901878</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1934053</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1934053</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>双单向航道海港船舶交通组织与异构拖轮调度综合优化</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1939678</link>
-      <description><![CDATA[船舶交通组织与拖轮调度联合优化对于提高港口滨海作业效率具有关键作用。然而，大多数现有研究仅限于单通道环境或假设同质拖船队，而现实世界的港口通常以异构拖船资源为特征，在某些情况下还具有复杂的多通道结构。为了解决这一差距，本研究研究了一种在双单向通道配置的港口中将船舶交通组织与异构拖船调度相结合的综合优化问题。为了捕捉此类操作中固有的强时空耦合，开发了双目标混合整数线性规划模型，其目标是最小化总加权船舶等待时间和总拖船燃料消耗。提出了一种结合档案引导的自适应多邻域搜索机制的定制非支配排序遗传算法来有效地求解该模型。基于中国北方海港的计算实验表明，所提出的算法优于 CPLEX 求解器和几种基准启发式算法。由此产生的帕累托解决方案明确揭示了船舶服务效率和拖船能源消耗之间的权衡，从中得出管理意义以支持协调调度策略的制定。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1939678</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1833656</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1833656</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>非平行靠泊期间船与船水动力响应的条件克里格预测</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1961994</link>
-      <description><![CDATA[非平行并排船舶相互作用会产生强烈的不对称和非线性水动力响应。本研究研究了停泊角度、水深和侧向间距对 KVLCC2 和阿芙拉型油轮的纵荡力、摇摆力和偏航力矩的影响，并评估了三个条件参数组内的特定响应克里金模型：角度组 (CaseA)、角度深度组 (CaseH) 和角度间距组 (CaseY)。具有重叠网格的可用非稳态 RANS-VOF 响应数据库被组织为 40 个训练样本和 10 个保留评估样本。为每组构建了 6 个单输出克里金模型，总共 18 个模型，并使用留一交叉验证和保留预测指标进行评估。三个传统 CFD 活动使用不同的响应提取目标：CaseA 中的带符号峰值响应、CaseH 中 t=10 s 时的瞬时响应以及 CaseY 中 t=7 s 时的瞬时响应。因此，各组是独立评估的，跨组准确性比较被视为描述性的，而不是严格同类的。 CaseA 显示了最一致的预测性能（R² 约为 0.96–1.00），而在 CaseH 中，只有 Aframax 浪涌力是可靠的（R² 约为 1.00），而在 CaseY 中，KVLCC2 浪涌力显示出合理的一致性（R² 约为 0.89），其他几个响应产生负 R²。研究的深度范围对应于中到大的深度与吃水比，而不是经典的浅水，因此水深结果被解释为数值设置内的有限深度灵敏度。结果表明，克里金可靠性既特定于参数组又特定于响应，并且模型的使用应仅限于采样条件域内经过验证的响应。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1961994</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1922361</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1922361</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>超越碳：作为海洋燃料的氨的活性氮排放及其对海洋生态系统的影响</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1907733</link>
-      <description><![CDATA[海运业约占全球二氧化碳 (CO2) 排放量的 3%，必须迅速脱碳，以实现国际海事组织到 2050 年实现温室气体 (GHG) 净零排放的目标。可再生氨已成为领先的近零碳燃料候选者；然而，其活性氮（Nr）足迹的特征仍然很少。在整个氨船用燃料 (AMF) 价值链中，氮排放是由于燃烧产生的氮氧化物 (NOx) 和一氧化二氮 (N2O) 以及生产、储存、加注和船上使用过程中氨 (NH3) 向空气中的损失（即无组织泄漏和运营排放）而产生的，同时还因泄漏和含氮废水偶尔向水中排放。本综述综合了 AMF 价值链中 Nr 排放的现有证据，研究了其下游传输、沉积和归宿可能影响海洋生态系统和气候的合理途径，并强调了关键的知识差距。我们表明，由此产生的影响（包括海洋生产力和群落结构的改变、富营养化、生物多样性丧失和间接 N2O 形成）具有地理依赖性。相同的排放量可能会产生明显不同的结果，具体取决于沉积物和其他输入是否发生在贫营养环流、珊瑚礁、最低氧气区或已经受到压力的沿海和边缘海域。我们还强调了潜在的脆弱地区，这些地区的主要航运走廊与氮敏感的海洋生态系统重叠，氮输入可能会产生不成比例的生态或气候影响。最后，我们回顾整个 AMF 生命周期的缓解措施和治理差距。实现 AMF 的全部气候和环境效益将取决于综合生命周期核算、严格的排放控制以及解决氮循环影响和保护海洋生态系统以及碳减排的政策。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1907733</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1978359</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1978359</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>盐沼中潮汐小溪沿岸螃蟹的自上而下控制：植被抑制和可变沉积物沉积</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1875843</link>
-      <description><![CDATA[沉积物沉积通过推动沼泽增生并帮助沼泽平台跟上海平面上升的步伐来塑造沿海湿地的恢复力。植被被广泛认为是促进沉积物截留和基质稳定的生态系统工程师，但螃蟹作为自上而下的生物控制对盐沼地貌演化的作用仍然知之甚少。在这里，我们假设螃蟹活动通过抑制植被建立和削弱植被介导的沉积物滞留来改变溪边沉积过程。在长江口崇明东滩盐沼的无植被河岸和三棱属占主导地位的先锋沼泽之间的活跃定殖过渡区进行了田间排除实验，比较了生长季节期间螃蟹排除和螃蟹进入的情况。在这里，我们通过直接实地测量表明，排除螃蟹的地块中的植物丰度比螃蟹进入的地块高2.2倍，并且植被覆盖度也随着时间的推移而显着分化，这表明螃蟹食草对溪边植被的建立产生了强烈的抑制。对短期沉积物沉积和颗粒尺寸结构的直接处理效果在空间上是可变的，并且在不同实验组之间在统计上不一致。基于模型的分析表明，在考虑处理和空间协变量后，植被丰度与净沉积物沉积呈正相关，路径分析估计了统计支持的蟹草食性对沉积物的植被介导效应。植物生长季节的台风提供了机会性的水动力背景，波浪力的增加与螃蟹进入地块的植被生长最低相一致。这些发现表明，螃蟹活动强烈抑制了溪边植被的建立，并与植被介导的沉积物沉积减少有关。我们的研究强调螃蟹是对支持溪边沉积物沉积的植被结构的重要生物控制。在较长的时间尺度上，这种植被介导的途径应与潮滩和盐沼​​演化模型中的水动力、沉积物供应、海平面上升和植被生长一起纳入。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1875843</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1900667</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1900667</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>大黄、黄芩、鱼腥草泡腾片：控制水产养殖副溶血性弧菌爆发的绿色策略</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1895903</link>
-      <description><![CDATA[目的水产养殖中抗生素的广泛滥用导致严重的耐药性，威胁产业可持续发展和食品安全。随着对抗生素使用的限制越来越多，植物源性抗菌剂已成为环保的替代品。本研究旨在优化含有大黄、黄芩和鱼腥草提取物的中药泡腾片配方，并评估其对副溶血性弧菌（V. parahaemolyticus）的抗菌功效。方法采用 Box-Behnken 设计（BBD）优化片剂配方，并通过综合性能评分进行评估。通过监测副溶血弧菌生长（600 nm 处的光密度值，OD600）、测量最低抑菌浓度 (MIC)/最低杀菌浓度 (MBC) 值、使用高密度接种物（1010 菌落形成单位 (CFU)/mL）评估突变体预防浓度 (MPC)、分析突变体选择窗口 (MSW) 以及进行时间杀灭动力学研究来确定抗菌功效。优化的泡腾片（0.5克）含有16.20％大黄、9.75％黄芩和4.05％鱼腥草提取物，辅料确保快速崩解（30±1.2秒）、稳定的pH值（6.34±0.15）和无菌。抗菌测试显示对副溶血性弧菌具有很强的功效，MIC/MBC 为 32/64 mg/mL，MPC 为 38.4 mg/mL（MSW：32–38.4 mg/mL）。时间杀灭动力学证明了浓度依赖性杀菌作用（≥2×MIC 时 6 小时内 CFU 减少&gt;3-log CFU）。ConclusionBox-Behnken 设计有效优化了草药泡腾片，具有卓越的药用性能和对副溶血性弧菌的强效杀菌作用。狭窄的突变体选择窗口（MSW）表明潜在的低耐药风险，突出了它们作为潜在绿色策略的前景，值得进一步的体内研究。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1895903</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1946397</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1946397</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>评估加勒比地区受威胁的巨型海螺 (Aliger gigas) 成年阶段的非生物适宜性和气候驱动的分布变化</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1849739</link>
-      <description><![CDATA[女王海螺 (Aliger gigas) 是加勒比海的重要本土物种，也是成千上万渔民的主要收入来源。从历史上看，它对于巴哈马、特克斯和凯科斯、洪都拉斯和尼加拉瓜等国家的渔业部门来说一直是非常宝贵的资源。然而，由于其高经济价值和固有的捕捞敏感性，该物种在该地区被广泛过度捕捞。过度捕捞，加上幼体扩散有限、招募量低以及种群连通性差，导致该物种种群数量急剧下降，导致其目前被列为受威胁物种。尽管处于这种状态，但气候变化对其人口可能产生的影响仍然知之甚少，这给保护工作带来了重大挑战。为了解决这一差距，我们将成虫发生记录与底栖和地表水平、海洋温度、盐度和 pH 值数据相结合，开发生态位模型，评估西大西洋成虫阶段非生物适宜性以及共享社会经济路径（乐观、温和和极端）三种气候变化情景下的潜在分布变化。随后根据海草栖息地和该地区海洋保护区（MPA）的分布对适宜性进行了分析。我们的分析表明，在乐观的气候变化情景下，在所有时间范围内，底栖非生物适宜区域都具有高度的空间稳定性。相反，在中等和极端情景下，基于海底的模型在建模框架之间不太一致，并且它们的估计存在很大差异，妨碍了准确的解释。地表衍生模型估计了海螺的非生物适宜区域（即预计将过渡到不符合该物种记录的适宜条件的非生物条件的区域）的大量损失，并预测从 2020 年到 2040 年，所有气候变化情景中海螺的数量都会急剧下降。这项工作旨在增强有关西大西洋多个地区海螺非生物适宜性的现有知识，并提供有关未来几十年该物种地理分布潜在变化的相关见解。最终，预测未来栖息地的可用性将是指导这种经济和生态关键物种的保护和管理的关键。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1849739</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1913937</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1913937</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>海洋鱼类（Siganus canaliculatus）的组织学特征：来自极端环境鱼类的见解</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1890693</link>
-      <description><![CDATA[简介Safi（Siganus canaliculatus）是阿拉伯湾的重要物种，具有很高的生态和商业价值。萨菲能适应各种环境条件，对高盐度和高温具有良好的耐受性，现已成为阿拉伯湾水产养殖新兴品种。这项研究首次对阿拉伯湾的萨菲组织结构进行了深入的组织学表征。方法对皮肤和肌肉、鳃、肝脏、肠道、雄性和雌性性腺、心脏、肾脏和脾脏等九个器官进行了组织学分析。还进行组织形态计量学分析以量化次级板层长度和宽度、肝细胞直径、肠杯状细胞密度和肾小球直径。结果平均次级板层长度和宽度分别为153.00±29.91μm和10.99±3.06μm，而平均肝细胞直径为12.29±5.09μm。平均肠杯状细胞密度为0.000605±0.000312细胞/μm2，平均肾小球直径为36.08±5.99μm。讨论总体而言，检查的器官显示出与报道的其他海洋硬骨鱼物种相当的组织结构，同时还显示出与阿拉伯湾高盐环境的生理适应一致的结构特征，特别是与渗透调节相关的器官。这些包括鳃、肝肠和肾。这项研究为阿拉伯湾的S. canaliculatus提供了第一个全面的组织学基线，为未来鱼类生物学、保护、管理和水产养殖研究奠定了宝贵的参考。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1890693</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1938813</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1938813</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>奥斯陆峡湾和斯卡格拉克原生生物群落 15 年转变和异养甲藻减少</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1876109</link>
-      <description><![CDATA[气候变化引起的温带沿海水域变暖预计将影响浮游原生生物群落的生物多样性、群落结构、季节性和生产，并有利于异养类群。我们通过比较 15 年来的两个不同时期（2009-2011 年与 2023-2024 年），调查了外奥斯陆峡湾浮游生物原生生物群落的长期变化。每月 18S rRNA 基因元条形码（V4 区）显示甲藻和硅藻是主要分类群，甲藻与硅藻的比率下降了 5.6 倍，异养甲藻与光养甲藻的比率下降了 3.1 倍。这些变化主要是由于不同时间段内异养甲藻属 Gyrodinium 的相对读数丰度下降以及硅藻相对读数丰度的广泛增加（27 个 ASV 中的 24 个显着增加）造成的。我们的结果表明，异养原生生物从气候变化导致的海洋条件变化中获利的预计趋势，例如在温带沿海水域，可能并非所有沿海生态系统都是如此。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1876109</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1886714</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1886714</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>datamuseum：用于管理和精炼生物样本数据的 R 包</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1867174</link>
-      <description><![CDATA[datamuseum（R 包版本 0.1.0）是一个新发布的 R 包，它通过专用的分类和空间数据实用程序为各级编码和分类的研究人员提供生物样本数据的可访问管理和细化。 datamuseum 通过 GBIF（全球生物多样性信息设施）和 ITIS（综合分类信息系统）为用户提供强大的分类验证主干，以及一个旨在供各级分类和编码专业知识的研究人员访问的可访问框架。在数据博物馆中，存在三种主要功能类型：空间、分类和用于整体数据集管理的实用程序。将这些实用程序包含在单个 R 包中、高水平的用户可定制性以及逐步输出，使 datamuseum 成为这些关键领域新手的入门工具。该软件包还包含来自五个研究级存储库（BISMaL、GBIF、Invert-E-Base、NSMT 和 OBIS）编制的 1839 年 Octopodoidea d’Orbigny 总科标本的数据。此处，示例工作流程在日本周围的空间上细化了这些单独的数据集，将它们组合起来，并将所包含的分类信息更新为其有效的命名法。接下来是额外的数据清理，以易于分析和发布的格式。从最初收集的近 180,000 个标本数据点（其中包括 49 个表观属）中，通过数据博物馆原创的递归框架，在 5,118 个精制标本中成功验证了 21 个属。与类似软件包的比较突出了 datamuseum 作为 R 中生物标本元数据管理的独特新工具的独特应用。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1867174</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1948057</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1948057</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>从未知之地到海洋保护区：对克罗泽盆地和克罗泽高原海洋多样性的科学见解回顾</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1883696</link>
-      <description><![CDATA[克罗泽群岛及其邻近盆地位于西南印度洋的亚南极地区，以西南印度洋中脊为界，拥有世界上最大的海洋保护区 (MPA) 之一，使这个偏远地区成为中上层和海底生物保护的关键焦点。尽管处于受保护状态，但海洋研究仍然很少，基线生物学知识仍然不完整。这项研究提供了根据历史探险报告和克罗泽高原和盆地当代调查编制的海洋物种综合清单。我们的合成揭示了丰富的分类多样性，包括 75 个大型藻类类群和 755 个动物类群。值得注意的是，最初描述了该地区的 169 个物种，主要来自深海环境，强调了该地区作为分类学发现的重要场所的作用。至关重要的是，这个海洋保护区的巨大规模带来了严重的后勤限制，导致生物清单不完整。这些差距凸显了迫切需要持续、系统的生物多样性评估，以支持有效的保护管理和气候复原力战略。随着南大洋的人为压力和气候驱动的变化加剧，可靠的基线数据对于为保护政策提供信息并确保这些脆弱的高价值海洋生态系统的长期可持续性至关重要。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1883696</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1963723</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1963723</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>现代海军武装冲突中环境损害的规范冲突与协同治理：基于法律映射和复合安全的原创分析</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1932197</link>
-      <description><![CDATA[引言现代海上武装冲突频繁引发跨界海洋污染，对区域生态基线造成不可逆转的损害；方法 本研究采用理论法律分析和系统解释，解构并绘制了核心法律规范——包括《日内瓦公约第一附加议定书》第 35 条第(3)款和《联合国海洋法公约》(UNCLOS) 第 192 条——以及重要的司法判例，以考察国际人道主义法 (IHL) 与海洋法之间的规范互动。结果调查结果揭示了军事必要性的许可逻辑与普遍义务的保护性逻辑之间存在结构性错位。在严格的司法解释下，“广泛、长期、严重”的三重累积阈值构成了难以逾越的证据障碍，在以灰色地带行动和非国家行为者为特征的现代海战中造成了关键的问责空白。 讨论 为了弥合这些缺陷，本研究制定了一个以《维也纳条约法公约》（VCLT）第31条第（3）款（c）项为基础的协作治理框架。宏观层面，将特别敏感海域（PSSA）生态脆弱性评估标准纳入国际人道法框架，重构战时海洋生态特别保护区法律机制，同时借鉴《联合国海洋法公约》第一百条、第一百零七条，建立针对战时环境危害的合作性普遍访查机制。微观层面，以中国海洋维权国内法律一体化为例，为主权国家通过国内立法填补国际法律真空提供了一条可行路径。最终，这项研究强调，有效的战时海洋环境保护需要国际法范式的转变——从纯粹的“战争规制法”转向积极维护共同利益的框架。]]></description>
-      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1932197</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <title></title>
+      <link>https://www.frontiersin.org/articles/10.3389/fmars.2026.1924780</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.frontiersin.org/articles/10.3389/fmars.2026.1924780</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

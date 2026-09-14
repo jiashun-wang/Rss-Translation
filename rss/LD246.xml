@@ -4,182 +4,111 @@
     <title>链滴</title>
     <link>https://ld246.com</link>
     <description>记录生活，连接点滴。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 01:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 01:17:47 GMT</lastBuildDate>
     <item>
-      <title>移动端只有我一个人滑动文档隐藏标题时卡顿吗？</title>
-      <link>https://ld246.com/article/1788990031123</link>
-      <description><![CDATA[能明显感觉到.在标题隐藏和显示的那一瞬间，会卡一下，好不舒服
-居然没看到反馈 难道就我手机是这样…
-
- 浏览器不支持该媒体的播放
-]]></description>
-      <guid>https://ld246.com/article/1788990031123</guid>
-      <pubDate>Wed, 09 Sep 2026 21:41:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>好久不见，你还好吗</title>
-      <link>https://ld246.com/article/1788967366751</link>
-      <description><![CDATA[好久不见，上一次登录已是三年前了，距离最开始加入 ld 已经 8 年了，当时还没毕业，出来实习了，还在探索程序员之路，Java，前端，大数据，然后就是迷茫，自学换行搞了推荐算法，搞大模型，到离职创业，中间夹杂着结婚，生娃，现在娃已经两岁多了，年龄也跨过了 30 岁，近两年，出现了很大的变化，才发现自己修心不足。 
-这 8 年的时间，一句话总结，起高楼，宴宾客，楼塌了。 
-今天，再次回到这里，是找一个媒体，记录自己的修心之路，想来，这里比较合适，不知道曾经互动过的朋友还在这里吗]]></description>
-      <guid>https://ld246.com/article/1788967366751</guid>
-      <pubDate>Wed, 09 Sep 2026 15:22:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>升级最新 3.8.3 版本后出现网页剪藏的问题</title>
-      <link>https://ld246.com/article/1788967029081</link>
-      <description><![CDATA[升级到 3.8.3 版本后，网页剪藏就经常出现了如图的问题，不知道怎样解决：
-
-说明：我已打开了思源笔记，并且网络是连通的！ ]]></description>
-      <guid>https://ld246.com/article/1788967029081</guid>
-      <pubDate>Wed, 09 Sep 2026 15:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 中容易被忽略的原地操作：从 PyTorch Tensor 的 `-=` 说起</title>
-      <link>https://ld246.com/article/1788949575488</link>
+      <title></title>
+      <link>https://ld246.com/article/1789345430105</link>
       <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788949575488</guid>
-      <pubDate>Wed, 09 Sep 2026 10:26:14 GMT</pubDate>
+      <guid>https://ld246.com/article/1789345430105</guid>
+      <pubDate>Mon, 14 Sep 2026 00:23:49 GMT</pubDate>
     </item>
     <item>
-      <title>我在人工智能的 mcp 服务中是这么设置的，是否有问题？</title>
-      <link>https://ld246.com/article/1788949229901</link>
-      <description><![CDATA[
-]]></description>
-      <guid>https://ld246.com/article/1788949229901</guid>
-      <pubDate>Wed, 09 Sep 2026 10:20:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>让 AI Agent 直接读取并编辑某个思源文档，有什么好方法？</title>
-      <link>https://ld246.com/article/1788947733604</link>
-      <description><![CDATA[我使用 Codex 或 Reasonix，可以直接把思源笔记工作空间中的 *.sy 文件路径发给它。可以正常读取并编辑。但是每次编辑后，都需要重建索引，才能在思源笔记中正常显示（刷新或重启文档都不行），有点麻烦。 
-另外，我让 Agent 编辑前，会让它先备份一个 *.sy 文件，以免出问题。 
-有没有更方便、安全的方式，实现这些操作呢？ ]]></description>
-      <guid>https://ld246.com/article/1788947733604</guid>
-      <pubDate>Wed, 09 Sep 2026 09:55:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在索引数据仓库，遍历数据，持续一天了还没结束</title>
-      <link>https://ld246.com/article/1788946044128</link>
-      <description><![CDATA[占用大量 CPU 和内存，并且软件非常卡，用一会儿会卡死闪退。 
-中间软件有提示数据仓库太多，可以删除本地数据仓库，但删除了也没有用。 
-目录重建索引，也没有用。 
-
-
-
-]]></description>
-      <guid>https://ld246.com/article/1788946044128</guid>
-      <pubDate>Wed, 09 Sep 2026 09:27:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac 版左上角的红绿灯上边距和左边距不相等</title>
-      <link>https://ld246.com/article/1788937903424</link>
-      <description><![CDATA[红灯最好与圆角成同心圆，等边距。 
-]]></description>
-      <guid>https://ld246.com/article/1788937903424</guid>
-      <pubDate>Wed, 09 Sep 2026 07:11:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>飞牛 NAS 商店版多久能更新啊</title>
-      <link>https://ld246.com/article/1788936557679</link>
+      <title></title>
+      <link>https://ld246.com/article/1789317584218</link>
       <description><![CDATA[]]></description>
-      <guid>https://ld246.com/article/1788936557679</guid>
-      <pubDate>Wed, 09 Sep 2026 06:49:16 GMT</pubDate>
+      <guid>https://ld246.com/article/1789317584218</guid>
+      <pubDate>Sun, 13 Sep 2026 16:39:43 GMT</pubDate>
     </item>
     <item>
-      <title>思源笔记中人工智能或是插件中的自定智能中怎么上传附件？</title>
-      <link>https://ld246.com/article/1788935968547</link>
-      <description><![CDATA[我没有找到可以上传附件的地方。 ]]></description>
-      <guid>https://ld246.com/article/1788935968547</guid>
-      <pubDate>Wed, 09 Sep 2026 06:39:27 GMT</pubDate>
+      <title></title>
+      <link>https://ld246.com/article/1789307984119</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789307984119</guid>
+      <pubDate>Sun, 13 Sep 2026 14:16:57 GMT</pubDate>
     </item>
     <item>
-      <title>怎么测试人工智能中的 mcp 服务是否正常运行？</title>
-      <link>https://ld246.com/article/1788934893606</link>
-      <description><![CDATA[另外，思源中的 skill 放在哪个目录下才可以被调用？ ]]></description>
-      <guid>https://ld246.com/article/1788934893606</guid>
-      <pubDate>Wed, 09 Sep 2026 06:21:32 GMT</pubDate>
+      <title></title>
+      <link>https://ld246.com/article/1789304722703</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789304722703</guid>
+      <pubDate>Sun, 13 Sep 2026 13:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>手机端的反链面板和电脑端的反链面板列出的内容不一致，建议都统一成电脑内容</title>
-      <link>https://ld246.com/article/1788932877819</link>
-      <description><![CDATA[如下，手机端的反链面板列出的反链是包含了文档块的反链和正文内容的反链。 
-
-
-而下图中电脑端的反链面板列出的反链只包含了文档块的反链。 
-
-@88250
-@Vanessa]]></description>
-      <guid>https://ld246.com/article/1788932877819</guid>
-      <pubDate>Wed, 09 Sep 2026 05:49:47 GMT</pubDate>
+      <title></title>
+      <link>https://ld246.com/article/1789301923506</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789301923506</guid>
+      <pubDate>Sun, 13 Sep 2026 12:18:42 GMT</pubDate>
     </item>
     <item>
-      <title>建议手机端点击块右上角的反链计数小标时，从手机底部弹出窗口</title>
-      <link>https://ld246.com/article/1788931367517</link>
-      <description><![CDATA[
-如上图，当点击红色框里的数字时，能像下图那样，从手机底部弹出被引用内容窗口。 
-
-@88250
-@Vanessa]]></description>
-      <guid>https://ld246.com/article/1788931367517</guid>
-      <pubDate>Wed, 09 Sep 2026 05:24:42 GMT</pubDate>
+      <title></title>
+      <link>https://ld246.com/article/1789301867116</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789301867116</guid>
+      <pubDate>Sun, 13 Sep 2026 12:17:46 GMT</pubDate>
     </item>
     <item>
-      <title>移动端点击块链接能打开文档，但滚动不到目标块（长文档）</title>
-      <link>https://ld246.com/article/1788926741289</link>
-      <description><![CDATA[环境：SiYuan 3.8.3，Android 客户端
-现象
-  在 AI 对话（Agent）的回答里点击块链接（siyuan://blocks/... 形式），文档能正确打开，但视口停的位置不对，没有定位到链接指向的那个块。短文档基本没问题，长文档几乎必现。 
-复现（不需要特定文档）
-
-准备一篇内容较长的文档（数千个块以上），目标段落放在文档中部或靠后位置。 
-从另一处（例如 AI 对话）点击指向该段落的块链接。 
-文档被打开，但没有滚动到目标段落。 
-
-补充观察
-
-同一篇长文档里，如果目标是靠近文档顶部的标题块，定位是准的；只有位于文档较深处的段落会偏。 
-换成一两百个块的短文档，同样的操作定位完全准确。 
-内核日志里没有相关报错，看起来是前端行为。 
-
-猜测
-  可能和移动端编辑器的「动态加载」有关：目标块不在已加载范围内时，滚动定位就失效或偏移。 
-想请教
-
-有没有人遇到同样的情况？是已知问题吗？ 
-关掉设置里的「动态加载」是否能缓解？ （我还没确认这个开关的准确名称）
-有没有更好的临时办法，比如先用搜索定位？ 
-]]></description>
-      <guid>https://ld246.com/article/1788926741289</guid>
-      <pubDate>Wed, 09 Sep 2026 04:05:40 GMT</pubDate>
+      <title></title>
+      <link>https://ld246.com/article/1789279958103</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789279958103</guid>
+      <pubDate>Sun, 13 Sep 2026 08:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>原生实现直接以页签形式打开闪卡</title>
-      <link>https://ld246.com/article/1788925679211</link>
-      <description><![CDATA[背景信息：
-思源笔记的里程碑显示，其计划在 3.9.0 完成闪卡重构。借闪卡重构的契机，我提议思源笔记原生实现全局性的闪卡默认打开方式（见：打开闪卡，允许调整默认打开方式（无论是文档闪卡，还是全局闪卡） · Issue #19189 · siyuan-note/siyuan）。 
-依据社区反馈，D 大认为该 issue 需求量较小，暂定后续如果还有类似需求的话再考虑。 
-然而，在思源闪卡重构完成之前，原生闪卡功能较弱。 
-
-思源笔记的闪卡使用者往往会结合间隔重复系统插件、番茄工具箱插件等增强闪卡能力的插件来使用思源。 
-插件调用闪卡复习，则会给出使用 OpenTab（以新页签的形式打开）来打开闪卡界面。 
-
-所以我疑心思源笔记的闪卡实际使用者较少使用以弹窗的形式打开闪卡复习，或选择绕路通过插件的形式来打开闪卡复习，从而形成“这一 issue 需求量较小”的假象。 
-
-例证：
-   我本人就一直使用番茄工具箱的打开闪卡功能，因其在全局闪卡的打开上可以直接“以新页签的方式”打开闪卡复习界面。会有这一 issue，是因为打开文档闪卡，只能用思源原生的弹窗形式打开。否则我也一直默认当前的思源闪卡打开形式。 
-
-为打一个 issue 复活赛，在链滴里开一个投票统计。 
-[poll1788925636541]
-[poll1788924322265]
-[poll1788924667751]
-
-当前思源笔记原生的打开闪卡，只有一种默认选择：以弹窗（dialog）的形式打开，如下图。 
-
-思源内部本身具有其他的打开方式选择：
-]]></description>
-      <guid>https://ld246.com/article/1788925679211</guid>
-      <pubDate>Wed, 09 Sep 2026 03:48:54 GMT</pubDate>
+      <title></title>
+      <link>https://ld246.com/article/1789282050780</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789282050780</guid>
+      <pubDate>Sun, 13 Sep 2026 06:47:29 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ld246.com/article/1789271687376</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789271687376</guid>
+      <pubDate>Sun, 13 Sep 2026 03:57:16 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ld246.com/article/1789232912727</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789232912727</guid>
+      <pubDate>Sat, 12 Sep 2026 17:08:31 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ld246.com/article/1789231687227</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789231687227</guid>
+      <pubDate>Sat, 12 Sep 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ld246.com/article/1789220689668</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789220689668</guid>
+      <pubDate>Sat, 12 Sep 2026 13:44:48 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ld246.com/article/1789210976811</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789210976811</guid>
+      <pubDate>Sat, 12 Sep 2026 11:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ld246.com/article/1789206317513</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789206317513</guid>
+      <pubDate>Sat, 12 Sep 2026 09:45:16 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ld246.com/article/1789205840553</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ld246.com/article/1789205840553</guid>
+      <pubDate>Sat, 12 Sep 2026 09:37:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

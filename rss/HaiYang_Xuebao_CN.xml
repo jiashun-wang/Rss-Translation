@@ -4,109 +4,109 @@
     <title>海洋学报</title>
     <link>https://sns.wanfangdata.com.cn/perio/hyxb</link>
     <description>海洋学报</description>
-    <lastBuildDate>Thu, 10 Sep 2026 01:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 01:05:30 GMT</lastBuildDate>
     <item>
-      <title>台湾海峡海面风场对海温锋面响应的季节差异性研究</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-wanghong</link>
-      <description><![CDATA[台湾海峡海面风场精细结构对区域气候及海上风能开发具有重要意义。受观测资料限制，复杂地形影响下台湾海峡海温锋面强度与海面风场响应之间的季节差异仍有待进一步认识。本文利用2004−2022年高分辨率天气研究与预报（Weather Research and Forcasting, WRF）模式数值模拟结果与多源观测资料，分析海温锋面与海面风场的季节变化特征，并通过改变海温锋面强度的敏感性试验评估局地风速响应。奇异值分解（singular value decomposition, SVD）结果表明，夏季海表温度（sea surface temperature, SST）异常与风场异常的时间协同变化最为突出，第一模态平方协方差贡献率为82.09%，两者第一模态时间系数相关系数为0.69。海温锋面强度与风场异常时间系数在夏季表现为同相变化，在冬季表现为反相变化，说明台湾海峡海温锋面与海面风场异常耦合具有季节差异，夏季局地热力作用更明显，冬季背景动力调制更突出。敏感性试验表明，相较于仅削弱海温锋面强度，完全去除海温锋面引起的局地风速响应更明显。去除海温锋面后，冬、夏季风速响应中位数分别约为0.45 m/s和0.26 m/s，且夏季风速响应主要集中在海温锋面附近，集中度约为冬季的1.5倍。结果揭示了台湾海峡海温锋面对海面风场影响的季节依赖性，可为复杂海峡区域精细化风场模拟和海上风能资源评估提供参考。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-wanghong</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>南海西北部海洋热浪年代际强化特征及其时空演变机制</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-liujingui</link>
-      <description><![CDATA[基于1982–2024年OISSTV2逐日海表温度数据，本文系统刻画了南海西北部海洋热浪（marine heatwaves, MHWs）的年代际强化特征，并结合功率谱分析、经验正交函数（Empirical Orthogonal Function，EOF）分析等，探讨其时空模态与主要物理调控机制。结果表明：该时段南海西北部MHWs的发生频次、强度、持续时间及累积天数均呈现显着的年代际强化趋势，2014–2024年各项指标达历史峰值，其中2016年累积天数最多，2019年则强度最强；EOF分析揭示，全时段MHWs年累积天数第一模态均呈一致性增强格局，第一主成分（Principal Component 1, PC1）自2014年系统性抬升；峰值时段第一模态呈现“东高西低”，累积天数高值区集中于110°E以东外海，而强度高值中心则锁定于海南岛东部近岸及粤西沿岸；强厄尔尼诺事件对MHWs强度具有滞后约1～2 a的调控效应，但2003–2013年间ENSO信号的作用明显受抑，说明年代际背景场是2014年后MHWs峰值的不可或缺前提。本研究定量刻画了南海西北部 MHWs年代际强化的时空规律，所得结论可为该区域珊瑚礁生态系统风险评估、渔业资源管理及海洋极端事件预测提供科学支撑。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-liujingui</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>基于多源卫星遥感风场的全球平均海杂波近实时估算研究</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-linwenming</link>
-      <description><![CDATA[海杂波是雷达探测海面目标的重要背景干扰，其强度和统计特性受海况和雷达参数的共同制约。本文针对海杂波强度（即海面均值散射系数），将多源卫星遥感海面风场和微波散射计常用的地球物理模式函数相结合，提出一种全球平均海杂波近实时估计框架模型，旨在“近实时”和“全球尺度”上实现较高精度的平均海杂波估计。以Ku波段及中等入射角为例，利用 HY-2系列卫星与 CFOSAT 卫星散射计实测数据对估计结果进行检验，并系统分析了平均海杂波估计相对误差的时空分布特征及影响因素。结果表明，VV和HH极化的估计结果均与实测数据具有良好的一致性，相对误差分别为1.5～1.8 dB、2.1～2.4 dB。夏季相对误差较小，冬季相对误差偏大；低纬度海域相对误差较大，中高纬度海域相对误差则随季节变化。此外，风速与相对风向是调制平均海杂波估计相对误差的主要因素。本文提出的模型方法可拓展至其他微波波段和入射角，为全球平均海杂波近实时估计提供了一种可靠的实践参考。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-linwenming</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>基于U-Net模型重构热带不稳定波引发的海表风应力的响应</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-liuyi</link>
-      <description><![CDATA[热带不稳定波（tropical instability waves, TIWs）是出现在赤道中东太平洋冷舌区域的西传波动现象，反映在海表温度（sea surface temperature, SST）锋面活动及对大气的强迫作用。其对气候平均态和厄尔尼诺−南方涛动（El Niño-Southern Oscillation, ENSO）有调制作用，能否合理地表征与TIWs相关的大气海表风场对SST的响应及反馈过程，对于准确模拟和预测ENSO至关重要。以往统计大气模式中常采用奇异值分解（singular value decomposition, SVD）等线性方法描述风应力对TIWs引起的海温扰动的响应，但存在振幅低估问题。本研究基于U-Net深度学习模型，构建了热带东太平洋TIWs相关的海温扰动（SSTTIW）与风应力响应（τTIW）之间的非线性关系模型。研究表明，U-Net模型重构结果的相关系数普遍大于0.8，非线性决定系数（R2）比SVD方法平均提升0.45，这说明U-Net模型不仅能准确再现TIWs事件的时空分布特征，且重构的风应力振幅更接近于观测值。研究结果证实了U-Net模型能够表征由TIWs引发的大气海表风应力对海温响应的非线性耦合关系，在一定程度上解决了线性方法存在的振幅低估问题，从而更真实地模拟由TIWs引发的中小尺度海气相互作用强度。本研究提出的基于深度学习方法有效重构海表风应力对SSTTIW的响应模型，为表征热带东太平洋海区TIWs本身的海气相互作用过程及其与大尺度海气相互作用过程提供了一个模拟工具，对于更好地表征调制ENSO影响因子，进而提高对ENSO多样性和复杂性的模拟与预测具有重要的指导意义。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-liuyi</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:50 GMT</pubDate>
     </item>
     <item>
-      <title>20世纪末以来两次三重拉尼娜事件期间台风活动差异特征及其可能成因</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-xuyouran</link>
-      <description><![CDATA[1998−2000年与2020−2022年是近30年间两次典型的三重拉尼娜事件。两次事件期间，大气环流响应与海洋动力过程存在差异，进而对西北太平洋台风活动产生不同影响。基于中国气象局热带气旋最佳路径数据集及多源再分析资料，分析发现，相较于1998−2000年，2020−2022年台风生成频数更多且强台风及以上等级台风比例明显上升。诊断表明，海洋热力状况是主导两次典型三重拉尼娜事件期间台风强度差异的关键。 1998−2000年三重拉尼娜事件前期受强厄尔尼诺影响，赤道太平洋热量大量释放，但赤道东风异常衰减较早，西北太平洋海洋热量缺乏持续的动力维持，导致热带气旋热含量在后期快速衰减；而2020−2022年三重拉尼娜事件发生初期强度虽相对较弱，但持续的赤道东风异常通过纬向平流效应，配合下沉异常导致的增温，促进了西北太平洋热量的持续累积，为台风增强提供了更优越的海洋热力条件。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-xuyouran</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:50 GMT</pubDate>
     </item>
     <item>
-      <title>粤西近海海表温度对夏秋两季台风响应的对比分析</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-xuchenlin</link>
-      <description><![CDATA[基于1982−2023年中国气象局热带气旋最佳路径数据集和海表温度（SST）数据，通过统计与合成分析，系统探究了粤西近海夏秋两季台风特征及其引发的海表温度响应的时空差异，并结合热收支诊断揭示其物理机制。结果表明，夏季台风频次高（48个），以热带风暴（TS）为主；秋季台风频次低（18个），以强热带风暴（STS）为主。夏季台风平均移速18.5 km/h略高于秋季台风平均移速16.8 km/h。夏季台风路径以西北向为主，秋季以西北向和西向为主。台风过境后，夏季海表温度（SST）表现为剧烈降温后快速恢复，强降温中心位于雷州半岛东侧外海，并逐步向近岸扩展，琼东北部的升温速度高于周围海域；秋季SST表现为一次降温后持续冷却状态，进而发生大幅二次降温现象，强降温中心位于粤西近海。 SST响应差异由海表热量交换（\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}）、水平热量交换（\begin{document}$ {Q}_{{\mathrm{h}}} $\end{document}）和垂向热量交换（\begin{document}$ {Q}_{{\mathrm{v}}} $\end{document}）三者共同决定。夏季，\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}和\begin{document}$ {Q}_{{\mathrm{v}}} $\end{document}引起的热损失远大于\begin{document}$ {Q}_{{\mathrm{h}}} $\end{document}，造成台风过境期间的剧烈降温，之后在\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}增大与\begin{document}$ {Q}_{{\mathrm{v}}} $\end{document}减小下快速回升。 \begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}主导了琼东北部的快速升温现象。秋季，\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}和\begin{document}$ {Q}_{{\mathrm{v}}} $\end{document}共同主导了台风期间的一次降温，\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}主导了后续大幅二次降温现象。持续的海表热损失\begin{document}$ {Q}_{{\mathrm{s}}} $\end{document}、沿岸向西输运的冷平流\begin{document}$ {Q}_{{\mathrm{hadv}}} $\end{document}和季风背景下增强的风速与下降流导致的垂向热损失\begin{document}$ {Q}_{{\mathrm{v}}} $\end{document}，共同维持了近岸持久的海表冷却状态。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-xuchenlin</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:50 GMT</pubDate>
     </item>
     <item>
-      <title>台湾岛海域波高的半日潮调制与波−流相互作用</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_8-yanglei</link>
-      <description><![CDATA[近海有效波高在潮汐频率处存在显着调制，其强度取决于波−流相互作用的局地条件。本文利用台湾岛周边15个浮标站25 a（2000–2024年）逐时波浪数据和10个共址ADCP（Acoustic Doppler Current Profiler）海流数据，系统分析了有效波高（Hs）在半日潮和全日潮频率处的调制特征及其物理机制。功率谱分析表明，所有15站的Hs在M2、S2、K1和O1四个主要潮汐频率处均存在显着的谱能量峰，全部通过95%显着性检验。 M2调制幅度呈现显着的空间异质性：台湾海峡站和北部站的平均调制幅度（8.6%～9.0%）约为太平洋侧东部站（4.2%）的2倍。 10个共址海流站的数据表明，M2调制幅度与M2潮流振幅呈高度正相关（r = 0.84），而与水深无显着相关，确认波−流相互作用是主导调制机制。波作用量守恒理论的逐站预测与观测保持良好的线性关系，但多站观测调制幅度系统高于理论预测，残差可能与非线性波−流相互作用和局地流场结构有关。本研究基于多站浮标网络给出了波浪潮汐调制强度的空间分布，并通过调制振幅与潮流振幅的定量回归直接验证了波−流相互作用机制。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_8-yanglei</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>三种声速算法在北冰洋门捷列夫海岭海域的适用性比较——基于中国第九次北极科学考察原位数据</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-chenhongxia</link>
-      <description><![CDATA[声速是海洋声学探测与应用的核心物理参数，其精度直接决定水声通信、海底地形测绘及声层析成像等技术的可靠性。目前声速剖面主要通过温盐深（CTD）数据借助经验公式间接计算获得，其中Chen-Millero (1977)、Del Grosso (1974)和Wilson (1960)公式是全球最常用的3种声速算法。然而，这些公式多基于中低纬度海洋数据构建，在具有低温、强层化、淡水输入显着的北极海域的适用性尚未得到充分验证。本研究基于中国第九次北极科学考察（2018年）在门捷列夫海岭以东172°W经向断面获取的高精度CTD与声速剖面仪（SVP）同步观测数据，系统比较了上述3种算法在北极典型环境下的计算精度。结果表明，在这一断面上，Del Grosso经验公式综合性能最优，在整个断面和全水深范围内表现出最高的准确性（平均偏差0.62 m/s）与最佳稳定性（偏差标准差0.23 m/s），是区域声速计算的首选算法。 Wilson公式存在显着深度依赖性系统高估，500 m以深平均偏差达1.17 m/s，不适用于北极深层计算。 Chen-Millero公式表现居中，但对表层极端水文条件敏感，深层也存在系统性高估。算法误差具有明显的空间与垂向异质性，与水文环境复杂程度密切相关，北极特殊的水文过程显着加大了现有经验公式的计算不确定性。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-chenhongxia</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>近岸次重力波波高经验公式评估与改进研究</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb_6-guolidian</link>
-      <description><![CDATA[次重力波波高的快速估计在近岸工程设计及船舶运动评估中具有重要作用。然而，现有近岸次重力波波高的经验公式形式多样，且在复杂波况下的预测性能优劣未知。为提升次重力波波高经验公式在工程实际中的应用效果，本文基于北印度洋近岸两个测点的实测数据，系统评估了现有代表性经验公式的性能，并分析了公式中各关键参数的作用及其对拟合效果的影响。研究结果表明，现有公式在复杂波况下的预测精度差异显着。平均周期Tm0,−2相较于谱峰周期TP更稳定，且相较于其他周期参数与次重力波的相关性更强，因此更适合作为经验公式中的短波周期参数。基于研究结果，本文在现有经验公式框架基础上，通过优化短波周期参数提出了一种改进经验公式。该经验公式在北印度洋近岸环境中表现出良好的适用性，预测精度和稳定性显着提升，能够为近岸工程应用提供参考。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb_6-guolidian</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>闽江河口短叶茳芏盐沼CH4排放部分抵消生态系统净CO2吸收</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb202605003</link>
-      <description><![CDATA[滨海盐沼生态系统具有高效的固碳-储碳能力,但同时也是不可忽视的甲烷(CH4)排放源.全球变暖潜势(global warming potential,GWP)为衡量单位质量温室气体在一定时间尺度内,相对于CO2 的增温效应的指标,长时间尺度下 CH4 的 GWP明显高于二氧化碳(CO2).科学量化滨海盐沼CH4 排放对其生态系统净CO2 吸收的抵消强度以及精确测定其生态系统碳汇速率,对于区域尺度滨海蓝碳生态系统碳汇规模的评估至关重要.本研究运用&quot;透明箱+不同遮光率布罩+痕量气体红外分析仪+模型&quot;组合技术,高频观测和评估闽江河口短叶茳芏(Cyperus malaccensis)盐沼生态系统净CO2 交换(net ecosystem exchange of CO2,NEE)、生态系统呼吸(ecosystem respiration,ER),并同步观测 CH4 排放通量,以期量化短叶茳芏盐沼年尺度碳汇速率及 CH4 排放对生态系统净 CO2 吸收的抵消比例.短叶茳芏盐沼NEE具有显着的季节波动,各月份均大气CO2 净吸收汇,年尺度NEE为(-5 970.2±895.9)g/(m2·a)(CO2 通量),年 CH4 排放通量为(18.5±0.2)g/(m2·a).综合考虑 CH4 排放的 GWP20和 GWP100,短叶茳芏盐沼生态系统碳汇速率分别为 4 543.5和 5 486.8 g/(m2·a)(CO2 当量通量),CH4 排放对生态系统净 CO2 吸收的抵消比例分别为 25.7%和 8.7%.闽江河口短叶茳芏盐沼 CH4 排放虽然部分抵消其生态系统净 CO2 吸收,但是仍具有较强的碳汇功能,在减缓全球气候变暖过程中发挥着重要作用.]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605003</guid>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>海底地下水排放对泻湖的氮输入和水体氮循环过程的影响</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb202605001</link>
-      <description><![CDATA[本研究以葡萄牙南部法鲁市里亚福尔摩萨泻湖为研究对象,探究夏初时节该系统海底地下水排放(SGD)的氮输入特征及其对泻湖氮生物地球化学循环的影响.结果表明,尽管地下河口的生物地球化学过程已显着削减SGD携带的氮负荷,但其仍是泻湖氮营养盐的重要输入源.SGD向泻湖输入硝酸盐的速率高达(1.3±1.0)×103 kg/d,溶解有机氮(DON)输入速率为(220.3±163.3)kg/d,分别贡献了泻湖硝酸盐总输入的89%和DON总输入的37%.端元模型解析进一步揭示了约98%的硝酸盐与76%的DON源自陆源淡水地下水,凸显陆源淡水地下水氮污染对滨海生态系统的潜在压力.泻湖原位连续监测结果显示,SGD输入的外源硝酸盐在泻湖系统中被快速去除,去除速率达(69.9±68.5)μmol/(m2·h)(以N计).结合泻湖面积,估算泻湖每日硝酸盐净去除总量相当于 SGD输入硝酸盐总量的 8.9倍.这一结果表明,泻湖内部硝酸盐的生物地球化学清除过程极为活跃,其综合去除能力远超单一 SGD输入源,泻湖整体表现为一个高效的硝酸盐汇.同时,DON净生产速率高达(36.3±35.4)μmol/(m2·h),表明陆源硝酸盐的大量输入显着增强了泻湖生态系统的生物同化作用.基于此,未来政府需强化对SGD氮输入的长期监测与精准管控,以保障滨海泻湖生态系统的健康与可持续发展.]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605001</guid>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>基于NPP-VIIRS的伏季休渔结束后南海北部灯光渔船聚集特征与制度响应分析</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb202605009</link>
-      <description><![CDATA[伏季休渔制度是我国海洋渔业资源养护的重要制度之一.基于 2012-2024年的 NPP-VIIRS灯光渔船数据,分析休渔结束后 3个月灯光渔船的聚集性分布特征、作业重心的变动以及灯光强度随时间的变化特征,并评估休渔制度调整对灯光渔业的影响.研究结果:(1)首月,海南岛东部、粤西和珠江口近岸各有一处灯光渔船聚集区,面积分别为 1 281.71 km2、5 178.53 km2、2 609.70 km2;粤东近岸海域有两处,面积分别为 687.79 km2 和 2 596.00 km2.(2)首月,灯光渔船出现频数高频区(448～711)的网格有 7个,中频区(315～448)有 10个;次月,高频区消失,中频区仅 1个,低频区(181～315)和极低频区(61～181)网格增至 13和 36个(增幅 30%、24.14%);第三个月,频数在 61～181的网格减至 9个.(3)休渔结束后,海南岛东部、粤西、珠江口和粤东 4个海域的灯光渔业渔场重心变化范围分别为(18.59°～19.02°N,110.51°～110.81°E)、(20.94°～21.23°N,111.78°～112.09°E)、(21.​​55°～22.08°N,113.94°～114.07°E)和(22.58°～22.78°N,116.69°～117.01°E).4个海域灯光辐射值分别在休渔结束后的第 19、2、14和 35天达到峰值,高作业强度持续至 55 d、54 d、51 d和 47 d之后便逐渐降低.(4)BSTS模型显示,2017年后推迟开捕时间对提升珠江口海域灯光渔业的捕捞努力量有显着效应(p&lt;0.01),对于海南岛东部、粤西和粤东海域影响不显着(p&gt;0.05).本研究可为我国完善伏季休渔制度和灯光渔业管理提供参考资料.]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605009</guid>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>格栅麻袋播种法对鳗草种子萌发与实生苗建成的影响</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb202605006</link>
-      <description><![CDATA[海草床退化已成为全球沿海生态系统面临的严峻问题,传统的麻袋播种法是海草床修复的重要手段,但其存在抗冲刷能力弱、表面平整度差、植株固着困难等问题.本研究以鳗草(Zostera mar-ina)为对象,在传统的麻袋播种法基础上优化设计了一种格栅麻袋播种法,通过室内模拟冲刷实验和野外播种实验,系统评估了格栅麻袋播种法的抗冲刷能力和表面平整度及其对种子萌发和实生苗建成的影响.结果显示:格栅麻袋表层表现出更优的平整度,其点云高度标准差(SDE)相比传统麻袋下降 28%,冲刷后沉积物表层 SDE降低了 15%;格栅麻袋播种处理组的种子萌发率和种子活力分别达到 14.29%和 82.58%,是传统麻袋播种处理组的 1.3倍和 1.6倍;播种后 10个月,格栅麻袋播种处理组植株的茎枝密度和生物量分别为 121 shoot/m2 和 133.59 g/m2,是传统麻袋播种处理组的 1.4倍和2.5倍;主成分分析综合显示,格栅麻袋播种处理组与传统麻袋播种处理组的播种效果存在显着差异.研究结果表明,格栅麻袋播种法通过加装玄武岩格栅显着改善了基质平整度和抗冲刷能力,有效促进了鳗草种子萌发和实生苗建成,​​是一种具有推广应用潜力的海草床修复技术.]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605006</guid>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>线纹海马静态养殖模式水体微生态多样性与水质状况的阶段差异及其关联</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb202605007</link>
-      <description><![CDATA[线纹海马(Hippocampus erectus)是我国主要养殖海马种类之一,其转料期前后常因水体环境因子的变化引起高死亡率,但其养殖水体微生态多样性与水质状况尚未明确.本研究以转料期前后(幼苗期与成体期)两个阶段的线纹海马养殖水体为研究对象,采样测算海马生长性能指标和测定水体的水质参数;同时采用 16S rRNA和 18S rRNA高通量测序技术,分别对养殖水体的细菌和真核微生物的群落结构和多样性进行了比较研究;并结合多元统计方法,解析水质参数与微生态群落(以真核微生物群落、细菌群落为代表)之间的关联程度.水质参数分析发现线纹海马成体期养殖水体中氨氮和亚硝酸盐氮的含量显着高于幼苗期.养殖水体的微生态多样性分析可见幼苗期光合自养型藻类为优势类群(如真眼点藻目),寡营养环境适应型细菌为优势类群(如蓝细菌纲);转料后真核微生物结构转向耐胁迫类群(如尖尾藻属),细菌群落转变为耐氮/异养降解型(如红杆菌科、慢杆菌属等).本研究揭示了线纹海马转料期前后养殖水体微生态群落的变化特征及其与水质因子的关联,为构建线纹海马转料期的微生态调控技术提供了理论依据与实践路径,对推动海马养殖的绿色可持续发展具有重要科学价值.]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605007</guid>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>沿海土壤中铁和硫的地球化学对海平面上升的响应:模拟研究</title>
+      <title></title>
       <link>https://d.wanfangdata.com.cn/periodical/hyxb202605002</link>
-      <description><![CDATA[海平面上升引起的海水浸没可显着改变沿海土壤氧化还原环境,并影响铁、硫地球化学过程.为探明渐进式海水浸没过程中土壤中铁、硫的地球化学响应,本文以活性铁和有机碳含量不同的土壤开展 160 d的室内土柱培养实验,通过渐进式抬升海水水位模拟海平面上升,揭示孔隙水溶解铁(DFe)、溶解硫化物及固相活性铁、硫化物形态变化.结果表明,海水浸没后,各处理土壤孔隙水DFe浓度均明显升高,而溶解硫化物整体维持在较低水平;活性铁含量低的土壤仅在底部出现少量总还原无机硫(TRIS)积累,活性铁含量高的红壤中 DFe积累更快、更高,并表现出 TRIS更明显的积累;有机碳含量升高进一步促进铁异化还原和硫酸盐还原,并缩短硫酸盐还原响应的启动时间.不同深度间 DFe和 TRIS分布差异明显,其中,中层 DFe浓度普遍高于底层和上层,各处理中 TRIS均以单质硫(S0)和酸挥发性硫化物(AVS)为主,黄铁矿形成有限.铁异化还原和硫酸盐还原对海水浸没不同的响应时间、活性铁和有机碳含量共同影响土壤中铁、硫转化及其垂向分异.长期渐进式海水浸没不仅使硫化物积累垂直上移,还可能减弱活性铁对有机碳保护的&quot;锈汇&quot;效应,同时影响地下水和地表水化学.]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://d.wanfangdata.com.cn/periodical/hyxb202605002</guid>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
     </item>
